@@ -1,19 +1,15 @@
 import { CALLERS } from "@/lib/constants";
-import { fetchCalendarEvents, fetchConversations, fetchOpportunities, filterByDate } from "@/lib/ghl";
 import {
   buildOppsCreatedSeries,
   buildRevenueSeries,
   computeActivePipeline,
-  computeAppointmentMetrics,
-  computeConvSummary,
   computeCreatedMetrics,
   computeWonMetrics,
   emptyMetrics,
   finalizeRatios,
 } from "@/lib/metrics";
-import { dateBounds, isRange, rangeBounds, toIso, toIsoDate } from "@/lib/range";
+import { dateBounds, isRange, rangeBounds, toIsoDate } from "@/lib/range";
 import { readSnapshot, snapshotAgeMinutes } from "@/lib/snapshot";
-import { startOfDay, subDays } from "date-fns";
 import { AutoRefresh } from "@/components/AutoRefresh";
 import { CallerColumn } from "@/components/CallerColumn";
 import { CallsChart } from "@/components/CallsChart";
@@ -32,70 +28,57 @@ export default async function DashboardPage({
   const range = isRange(sp.range) ? sp.range : "today";
   const bounds = customDay ?? rangeBounds(range);
   const { start, end, label, isAllTime } = bounds;
-  const locationId = process.env.GHL_LOCATION_ID!;
-
-  const allOppsByCaller: Record<string, Awaited<ReturnType<typeof fetchOpportunities>>> = {};
-  const convsByCaller: Record<string, Awaited<ReturnType<typeof fetchConversations>>> = {};
-  const apptsByCaller: Record<string, Awaited<ReturnType<typeof fetchCalendarEvents>>> = {};
-
-  const convFloor = isAllTime ? new Date(Date.now() - 1000 * 60 * 60 * 24 * 90).getTime() : start.getTime();
-
-  await Promise.all(
-    CALLERS.flatMap((c) => [
-      fetchOpportunities({ locationId, assignedTo: c.id })
-        .then((d) => {
-          allOppsByCaller[c.id] = d;
-        })
-        .catch((e) => {
-          console.error(`opps ${c.display}`, e.message);
-          allOppsByCaller[c.id] = [];
-        }),
-      fetchConversations({ locationId, assignedTo: c.id, floor: convFloor })
-        .then((d) => {
-          convsByCaller[c.id] = d;
-        })
-        .catch((e) => {
-          console.error(`convs ${c.display}`, e.message);
-          convsByCaller[c.id] = [];
-        }),
-      fetchCalendarEvents({ locationId, startTime: toIso(start), endTime: toIso(end), userId: c.id })
-        .then((d) => {
-          apptsByCaller[c.id] = d;
-        })
-        .catch((e) => {
-          console.error(`appts ${c.display}`, e.message);
-          apptsByCaller[c.id] = [];
-        }),
-    ])
-  );
-
-  const createdByCaller: Record<string, Awaited<ReturnType<typeof fetchOpportunities>>> = {};
-  const updatedByCaller: Record<string, Awaited<ReturnType<typeof fetchOpportunities>>> = {};
-  for (const c of CALLERS) {
-    if (isAllTime) {
-      createdByCaller[c.id] = allOppsByCaller[c.id] ?? [];
-      updatedByCaller[c.id] = allOppsByCaller[c.id] ?? [];
-    } else {
-      createdByCaller[c.id] = filterByDate(allOppsByCaller[c.id] ?? [], "createdAt", start, end);
-      updatedByCaller[c.id] = filterByDate(allOppsByCaller[c.id] ?? [], "updatedAt", start, end);
-    }
-  }
+  const startMs = start.getTime();
+  const endMs = end.getTime();
 
   const snapshot = readSnapshot();
   const snapshotFresh = snapshot ? new Date(snapshot.syncedAt).getTime() > 0 : false;
 
+  type SnapOppArr = NonNullable<NonNullable<typeof snapshot>["callers"][string]["opportunities"]>;
+  const filteredCreated: Record<string, SnapOppArr> = {};
+  const filteredUpdated: Record<string, SnapOppArr> = {};
+
   const metrics = CALLERS.map((c) => {
     const m = emptyMetrics(c.id, c.display, c.color);
-    computeCreatedMetrics(createdByCaller[c.id] ?? [], m);
-    computeWonMetrics(updatedByCaller[c.id] ?? [], m);
-    computeActivePipeline(allOppsByCaller[c.id] ?? [], m);
-    computeConvSummary(convsByCaller[c.id] ?? [], isAllTime ? 0 : start.getTime(), m);
-    computeAppointmentMetrics(apptsByCaller[c.id] ?? [], m);
+    const snap = snapshot?.callers[c.id];
 
-    if (snapshotFresh && snapshot && snapshot.callers[c.id]) {
-      const snap = snapshot.callers[c.id];
-      const floor = isAllTime ? 0 : start.getTime();
-      const days = floor === 0 ? snap.byDay : snap.byDay.filter((d) => new Date(d.date).getTime() >= floor);
+    if (snapshotFresh && snap) {
+      const allOpps = snap.opportunities ?? [];
+      const created = isAllTime
+        ? allOpps
+        : allOpps.filter((o) => {
+            const t = o.createdAt ? new Date(o.createdAt).getTime() : 0;
+            return t >= startMs && t <= endMs;
+          });
+      const updated = isAllTime
+        ? allOpps
+        : allOpps.filter((o) => {
+            const t = o.updatedAt ? new Date(o.updatedAt).getTime() : 0;
+            return t >= startMs && t <= endMs;
+          });
+      filteredCreated[c.id] = created;
+      filteredUpdated[c.id] = updated;
+      computeCreatedMetrics(created, m);
+      computeWonMetrics(updated, m);
+      computeActivePipeline(allOpps, m);
+
+      const allAppts = snap.appointments ?? [];
+      m.appointments = isAllTime
+        ? allAppts.length
+        : allAppts.filter((a) => {
+            const t = a.startTime ? new Date(a.startTime).getTime() : 0;
+            return t >= startMs && t <= endMs;
+          }).length;
+
+      const allConvs = snap.conversationsAll ?? [];
+      m.conversations = isAllTime
+        ? allConvs.length
+        : allConvs.filter((cv) => cv.lastMessageDate >= startMs && cv.lastMessageDate <= endMs).length;
+
+      const days = isAllTime ? snap.byDay : snap.byDay.filter((d) => {
+        const t = new Date(d.date).getTime();
+        return t >= startMs && t <= endMs;
+      });
       m.outboundCalls = days.reduce((s, d) => s + d.calls, 0);
       m.manualSms = days.reduce((s, d) => s + d.manualSms, 0);
       m.autoSms = days.reduce((s, d) => s + d.autoSms, 0);
@@ -106,28 +89,38 @@ export default async function DashboardPage({
       m.outboundSms = m.manualSms + m.autoSms;
       m.outboundEmail = m.manualEmail + m.autoEmail;
       m.followUpsTotal = m.manualFollowUps;
-      const totalSecondsFraction = isAllTime ? 1 : days.length / Math.max(snap.byDay.length, 1);
-      m.talkTimeMinutes = Math.round(snap.talkTimeMinutes * totalSecondsFraction);
+      const fraction = isAllTime ? 1 : days.length / Math.max(snap.byDay.length, 1);
+      m.talkTimeMinutes = Math.round(snap.talkTimeMinutes * fraction);
       m.metricsSource = "synced";
     } else {
+      filteredCreated[c.id] = [];
+      filteredUpdated[c.id] = [];
       m.metricsSource = "approx";
-      m.followUpsTotal = m.outboundSms + m.outboundEmail;
     }
 
     finalizeRatios(m);
     return m;
   });
 
-  const chartStart = isAllTime ? startOfDay(subDays(new Date(), 29)) : start;
+  const chartStart = isAllTime ? new Date(Date.now() - 29 * 24 * 60 * 60 * 1000) : start;
   const chartEnd = end;
-  const chartCreatedByCaller: typeof createdByCaller = {};
-  const chartUpdatedByCaller: typeof updatedByCaller = {};
+  const chartStartMs = chartStart.getTime();
+  const chartEndMs = chartEnd.getTime();
+  const chartCreated: Record<string, SnapOppArr> = {};
+  const chartUpdated: Record<string, SnapOppArr> = {};
   for (const c of CALLERS) {
-    chartCreatedByCaller[c.id] = filterByDate(allOppsByCaller[c.id] ?? [], "createdAt", chartStart, chartEnd);
-    chartUpdatedByCaller[c.id] = filterByDate(allOppsByCaller[c.id] ?? [], "updatedAt", chartStart, chartEnd);
+    const all = snapshot?.callers[c.id]?.opportunities ?? [];
+    chartCreated[c.id] = all.filter((o) => {
+      const t = o.createdAt ? new Date(o.createdAt).getTime() : 0;
+      return t >= chartStartMs && t <= chartEndMs;
+    });
+    chartUpdated[c.id] = all.filter((o) => {
+      const t = o.updatedAt ? new Date(o.updatedAt).getTime() : 0;
+      return t >= chartStartMs && t <= chartEndMs;
+    });
   }
-  const oppsCreatedSeries = buildOppsCreatedSeries(chartCreatedByCaller, chartStart, chartEnd);
-  const revenueSeries = buildRevenueSeries(chartUpdatedByCaller, chartStart, chartEnd);
+  const oppsCreatedSeries = buildOppsCreatedSeries(chartCreated, chartStart, chartEnd);
+  const revenueSeries = buildRevenueSeries(chartUpdated, chartStart, chartEnd);
   const chartLabel = isAllTime ? " · 30-day trend" : "";
 
   const totalRevenue = metrics.reduce((s, m) => s + m.revenue, 0);

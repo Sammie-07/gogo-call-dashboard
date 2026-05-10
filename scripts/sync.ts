@@ -81,6 +81,21 @@ type Msg = {
   dateAdded?: string;
   meta?: { call?: { duration?: number } };
 };
+type Opp = {
+  id: string;
+  monetaryValue?: number;
+  pipelineStageId: string;
+  status: string;
+  assignedTo?: string;
+  createdAt?: string;
+  updatedAt?: string;
+};
+type Appt = {
+  id: string;
+  startTime: string;
+  appointmentStatus?: string;
+  assignedUserId?: string;
+};
 
 async function fetchConvs(callerId: string, floorMs: number): Promise<Conv[]> {
   const all: Conv[] = [];
@@ -113,6 +128,37 @@ async function fetchMsgs(convId: string): Promise<Msg[]> {
   return resp.messages?.messages ?? [];
 }
 
+async function fetchOppsForCaller(callerId: string): Promise<Opp[]> {
+  type Resp = { opportunities: Opp[]; meta?: { total?: number } };
+  const all: Opp[] = [];
+  let page = 1;
+  while (true) {
+    const resp = await ghGet<Resp>("/opportunities/search", {
+      location_id: LOC,
+      pipeline_id: PIPELINE_ID,
+      assigned_to: callerId,
+      limit: 100,
+      page,
+    });
+    const batch = resp.opportunities ?? [];
+    all.push(...batch);
+    if (batch.length < 100 || page >= 30) break;
+    page++;
+  }
+  return all;
+}
+
+async function fetchAppts(startMs: number, endMs: number, userId: string): Promise<Appt[]> {
+  type Resp = { events: Appt[] };
+  const resp = await ghGet<Resp>("/calendars/events", {
+    locationId: LOC,
+    startTime: startMs,
+    endTime: endMs,
+    userId,
+  });
+  return resp.events ?? [];
+}
+
 function dayKey(iso?: string): string {
   if (!iso) return "";
   return iso.slice(0, 10);
@@ -124,11 +170,23 @@ async function main() {
 
   type CallerOut = ReturnType<typeof emptyCaller> & {
     byDay: { date: string; calls: number; manualSms: number; autoSms: number; manualEmail: number; autoEmail: number }[];
+    opportunities: Opp[];
+    appointments: Appt[];
+    conversationsAll: { id: string; lastMessageDate: number; type?: string }[];
   };
   const result: Record<string, CallerOut> = {};
 
   for (const c of CALLERS) {
     console.log(`\n=== ${c.display} (${c.id}) ===`);
+
+    const opps = await fetchOppsForCaller(c.id);
+    console.log(`  ${opps.length} opportunities`);
+
+    const apptsWindowStart = Date.now() - 365 * 24 * 60 * 60 * 1000;
+    const apptsWindowEnd = Date.now() + 60 * 24 * 60 * 60 * 1000;
+    const appts = await fetchAppts(apptsWindowStart, apptsWindowEnd, c.id);
+    console.log(`  ${appts.length} appointments`);
+
     const convs = await fetchConvs(c.id, floor);
     console.log(`  ${convs.length} conversations in window`);
     const phone = convs.filter((x) => x.type === "TYPE_PHONE");
@@ -183,9 +241,21 @@ async function main() {
       .map(([date, v]) => ({ date, ...v }))
       .sort((a, b) => a.date.localeCompare(b.date));
 
-    result[c.id] = { ...stats, byDay: byDayArr };
+    const convsAll = convs.map((cv) => ({
+      id: cv.id,
+      lastMessageDate: cv.lastMessageDate ?? 0,
+      type: cv.type,
+    }));
+
+    result[c.id] = {
+      ...stats,
+      byDay: byDayArr,
+      opportunities: opps,
+      appointments: appts,
+      conversationsAll: convsAll,
+    };
     console.log(
-      `  -> calls=${stats.calls}, manualSMS=${stats.manualSms} (auto ${stats.autoSms}), manualEmail=${stats.manualEmail} (auto ${stats.autoEmail}), talk=${stats.talkTimeMinutes}min`
+      `  -> calls=${stats.calls}, manualSMS=${stats.manualSms} (auto ${stats.autoSms}), manualEmail=${stats.manualEmail} (auto ${stats.autoEmail}), talk=${stats.talkTimeMinutes}min, opps=${opps.length}, appts=${appts.length}`
     );
   }
 

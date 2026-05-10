@@ -1,6 +1,29 @@
 import { readFileSync, existsSync } from "fs";
 import { join } from "path";
 
+export type SnapOpp = {
+  id: string;
+  monetaryValue?: number;
+  pipelineStageId: string;
+  status: string;
+  assignedTo?: string;
+  createdAt?: string;
+  updatedAt?: string;
+};
+
+export type SnapAppt = {
+  id: string;
+  startTime: string;
+  appointmentStatus?: string;
+  assignedUserId?: string;
+};
+
+export type SnapConv = {
+  id: string;
+  lastMessageDate: number;
+  type?: string;
+};
+
 export type CallerSnapshot = {
   calls: number;
   talkTimeMinutes: number;
@@ -16,6 +39,9 @@ export type CallerSnapshot = {
     manualEmail: number;
     autoEmail: number;
   }[];
+  opportunities?: SnapOpp[];
+  appointments?: SnapAppt[];
+  conversationsAll?: SnapConv[];
 };
 
 export type Snapshot = {

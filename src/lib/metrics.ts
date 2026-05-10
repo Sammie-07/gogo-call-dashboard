@@ -1,6 +1,14 @@
 import { format, eachDayOfInterval } from "date-fns";
 import { CALLERS, WON_STAGE_CIRCLE, WON_STAGE_GGTC, WON_STAGE_IDS } from "./constants";
-import type { CalendarEvent, Conversation, Message, Opportunity } from "./ghl";
+
+type Opportunity = {
+  id: string;
+  monetaryValue?: number;
+  pipelineStageId: string;
+  status: string;
+  createdAt?: string;
+  updatedAt?: string;
+};
 
 export type CallerMetrics = {
   callerId: string;
@@ -100,54 +108,6 @@ export function finalizeRatios(m: CallerMetrics) {
   m.avgTalkSeconds = m.outboundCalls > 0 ? Math.round((m.talkTimeMinutes * 60) / m.outboundCalls) : 0;
 }
 
-export function computeConvCount(convs: Conversation[], windowStartMs: number): number {
-  if (windowStartMs <= 0) return convs.length;
-  return convs.filter((c) => (c.lastMessageDate ?? 0) >= windowStartMs).length;
-}
-
-export function computeConvSummary(convs: Conversation[], windowStartMs: number, m: CallerMetrics) {
-  const inWindow = windowStartMs <= 0 ? convs : convs.filter((c) => (c.lastMessageDate ?? 0) >= windowStartMs);
-  m.conversations += inWindow.length;
-  for (const c of inWindow) {
-    if (c.lastMessageDirection !== "outbound") continue;
-    switch (c.lastMessageType) {
-      case "TYPE_CALL":
-        m.outboundCalls += 1;
-        break;
-      case "TYPE_SMS":
-        m.outboundSms += 1;
-        break;
-      case "TYPE_EMAIL":
-        m.outboundEmail += 1;
-        break;
-    }
-  }
-  m.followUpsTotal = m.outboundSms + m.outboundEmail;
-}
-
-export function computeMessageMetrics(messages: Message[], floor: number, m: CallerMetrics) {
-  for (const msg of messages) {
-    if (msg.direction !== "outbound") continue;
-    if (msg.userId !== m.callerId) continue;
-    const ts = new Date(msg.dateAdded ?? 0).getTime();
-    if (floor > 0 && ts < floor) continue;
-    const mt = msg.messageType;
-    if (mt === "TYPE_CALL") {
-      m.outboundCalls += 1;
-      const dur = msg.meta?.call?.duration ?? 0;
-      m.talkTimeMinutes += dur / 60;
-    } else if (mt === "TYPE_SMS") {
-      m.outboundSms += 1;
-    } else if (mt === "TYPE_EMAIL") {
-      m.outboundEmail += 1;
-    }
-  }
-  m.followUpsTotal = m.outboundSms + m.outboundEmail;
-}
-
-export function computeAppointmentMetrics(events: CalendarEvent[], m: CallerMetrics) {
-  m.appointments += events.length;
-}
 
 export type DailyPoint = { date: string; Natalia: number; Ferny: number };
 
