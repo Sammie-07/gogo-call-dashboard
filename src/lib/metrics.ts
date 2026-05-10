@@ -19,6 +19,7 @@ export type CallerMetrics = {
   outboundEmail: number;
   talkTimeMinutes: number;
   followUpsTotal: number;
+  metricsSource: "synced" | "approx";
 };
 
 export function emptyMetrics(callerId: string, display: string, color: string): CallerMetrics {
@@ -39,6 +40,7 @@ export function emptyMetrics(callerId: string, display: string, color: string): 
     outboundEmail: 0,
     talkTimeMinutes: 0,
     followUpsTotal: 0,
+    metricsSource: "approx",
   };
 }
 

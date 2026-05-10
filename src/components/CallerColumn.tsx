@@ -21,8 +21,22 @@ export function CallerColumn({ m }: { m: CallerMetrics }) {
       </header>
 
       <div className="grid grid-cols-2 gap-3">
-        <KPI label="Calls" value={num(m.outboundCalls)} sub="approx · last-msg only" />
-        <KPI label="Follow-ups" value={num(m.followUpsTotal)} sub={`approx · ${num(m.outboundSms)} SMS · ${num(m.outboundEmail)} email`} />
+        <KPI
+          label="Calls"
+          value={num(m.outboundCalls)}
+          sub={
+            m.metricsSource === "synced"
+              ? m.talkTimeMinutes > 0
+                ? `${num(m.talkTimeMinutes)} min talk`
+                : undefined
+              : "approx · last-msg only"
+          }
+        />
+        <KPI
+          label="Follow-ups"
+          value={num(m.followUpsTotal)}
+          sub={`${m.metricsSource === "approx" ? "approx · " : ""}${num(m.outboundSms)} SMS · ${num(m.outboundEmail)} email`}
+        />
         <KPI label="Appointments" value={num(m.appointments)} />
         <KPI label="Conversations" value={num(m.conversations)} />
         <KPI label="Opps created" value={num(m.oppsCreated)} />

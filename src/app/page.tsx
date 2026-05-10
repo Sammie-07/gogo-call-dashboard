@@ -11,6 +11,7 @@ import {
   finalizeRatios,
 } from "@/lib/metrics";
 import { isRange, rangeBounds, toIso } from "@/lib/range";
+import { readSnapshot, snapshotAgeMinutes } from "@/lib/snapshot";
 import { startOfDay, subDays } from "date-fns";
 import { AutoRefresh } from "@/components/AutoRefresh";
 import { CallerColumn } from "@/components/CallerColumn";
@@ -72,12 +73,31 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
     }
   }
 
+  const snapshot = readSnapshot();
+  const snapshotFresh = snapshot ? new Date(snapshot.syncedAt).getTime() > 0 : false;
+
   const metrics = CALLERS.map((c) => {
     const m = emptyMetrics(c.id, c.display, c.color);
     computeCreatedMetrics(createdByCaller[c.id] ?? [], m);
     computeWonMetrics(updatedByCaller[c.id] ?? [], m);
     computeConvSummary(convsByCaller[c.id] ?? [], isAllTime ? 0 : start.getTime(), m);
     computeAppointmentMetrics(apptsByCaller[c.id] ?? [], m);
+
+    if (snapshotFresh && snapshot && snapshot.callers[c.id]) {
+      const snap = snapshot.callers[c.id];
+      const floor = isAllTime ? 0 : start.getTime();
+      const days = floor === 0 ? snap.byDay : snap.byDay.filter((d) => new Date(d.date).getTime() >= floor);
+      m.outboundCalls = days.reduce((s, d) => s + d.calls, 0);
+      m.outboundSms = days.reduce((s, d) => s + d.sms, 0);
+      m.outboundEmail = days.reduce((s, d) => s + d.email, 0);
+      m.followUpsTotal = m.outboundSms + m.outboundEmail;
+      const totalSecondsFraction = isAllTime ? 1 : days.length / Math.max(snap.byDay.length, 1);
+      m.talkTimeMinutes = Math.round(snap.talkTimeMinutes * totalSecondsFraction);
+      m.metricsSource = "synced";
+    } else {
+      m.metricsSource = "approx";
+    }
+
     finalizeRatios(m);
     return m;
   });
@@ -106,7 +126,10 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
       <header className="flex flex-wrap items-end justify-between gap-4">
         <div>
           <h1 className="text-2xl font-semibold">Call Dashboard</h1>
-          <p className="text-sm text-zinc-500">{label} · auto-refresh 30s</p>
+          <p className="text-sm text-zinc-500">
+            {label} · auto-refresh 30s
+            {snapshotFresh && snapshot ? ` · calls synced ${snapshotAgeMinutes(snapshot)}m ago` : " · calls approximate (run npm run sync)"}
+          </p>
         </div>
         <RangeToggle active={range} />
       </header>
