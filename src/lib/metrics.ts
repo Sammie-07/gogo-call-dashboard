@@ -61,7 +61,7 @@ export function computeWonMetrics(updated: Opportunity[], m: CallerMetrics) {
 
 export function finalizeRatios(m: CallerMetrics) {
   m.avgDealSize = m.oppsWon > 0 ? m.revenue / m.oppsWon : 0;
-  m.conversionRate = m.oppsCreated > 0 ? m.oppsWon / m.oppsCreated : 0;
+  m.conversionRate = m.outboundCalls > 0 ? m.oppsWon / m.outboundCalls : 0;
 }
 
 export function computeConvCount(convs: Conversation[], windowStartMs: number): number {

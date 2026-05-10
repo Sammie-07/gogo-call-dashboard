@@ -137,7 +137,7 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
       <section className="grid grid-cols-2 sm:grid-cols-4 gap-3">
         <SummaryStat label="Revenue" value={fmtUsd(totalRevenue)} />
         <SummaryStat label="Deals won" value={String(totalWon)} />
-        <SummaryStat label="Opps created" value={String(totalCreated)} />
+        <SummaryStat label="New leads" value={String(totalCreated)} />
         <SummaryStat label="Calls" value={String(totalCalls)} />
       </section>
 
@@ -148,7 +148,7 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
       </section>
 
       <section className="grid grid-cols-1 lg:grid-cols-2 gap-6">
-        <CallsChart data={oppsCreatedSeries} title={`Opportunities created${chartLabel}`} />
+        <CallsChart data={oppsCreatedSeries} title={`New leads${chartLabel}`} />
         <CallsChart data={revenueSeries} title={`Revenue (won deals)${chartLabel}`} />
       </section>
 

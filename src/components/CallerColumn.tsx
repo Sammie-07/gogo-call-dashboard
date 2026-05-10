@@ -39,10 +39,10 @@ export function CallerColumn({ m }: { m: CallerMetrics }) {
         />
         <KPI label="Appointments" value={num(m.appointments)} />
         <KPI label="Conversations" value={num(m.conversations)} />
-        <KPI label="Opps created" value={num(m.oppsCreated)} />
-        <KPI label="Opps won" value={num(m.oppsWon)} sub={m.oppsLost > 0 ? `${m.oppsLost} lost` : undefined} />
+        <KPI label="New leads" value={num(m.oppsCreated)} />
+        <KPI label="Deals won" value={num(m.oppsWon)} sub={m.oppsLost > 0 ? `${m.oppsLost} lost` : undefined} />
         <KPI label="Avg deal" value={m.avgDealSize > 0 ? usd(m.avgDealSize) : "—"} />
-        <KPI label="Conversion" value={pct(m.conversionRate)} />
+        <KPI label="Conversion" value={pct(m.conversionRate)} sub="deals won per call" />
       </div>
     </section>
   );
