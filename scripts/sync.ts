@@ -77,6 +77,7 @@ type Msg = {
   messageType?: string;
   direction?: string;
   userId?: string;
+  source?: string;
   dateAdded?: string;
   meta?: { call?: { duration?: number } };
 };
@@ -134,7 +135,8 @@ async function main() {
     console.log(`  ${phone.length} TYPE_PHONE`);
 
     const stats = emptyCaller();
-    const byDay: Record<string, { calls: number; sms: number; email: number }> = {};
+    type DayStats = { calls: number; manualSms: number; autoSms: number; manualEmail: number; autoEmail: number };
+    const byDay: Record<string, DayStats> = {};
 
     let done = 0;
     for (const conv of phone) {
@@ -144,17 +146,28 @@ async function main() {
           if (m.direction !== "outbound") continue;
           if (m.userId !== c.id) continue;
           const day = dayKey(m.dateAdded);
-          const dayStats = (byDay[day] ??= { calls: 0, sms: 0, email: 0 });
+          const ds = (byDay[day] ??= { calls: 0, manualSms: 0, autoSms: 0, manualEmail: 0, autoEmail: 0 });
+          const isManual = m.source === "app";
           if (m.messageType === "TYPE_CALL") {
             stats.calls++;
-            dayStats.calls++;
+            ds.calls++;
             stats.talkTimeMinutes += (m.meta?.call?.duration ?? 0) / 60;
           } else if (m.messageType === "TYPE_SMS") {
-            stats.sms++;
-            dayStats.sms++;
+            if (isManual) {
+              stats.manualSms++;
+              ds.manualSms++;
+            } else {
+              stats.autoSms++;
+              ds.autoSms++;
+            }
           } else if (m.messageType === "TYPE_EMAIL") {
-            stats.email++;
-            dayStats.email++;
+            if (isManual) {
+              stats.manualEmail++;
+              ds.manualEmail++;
+            } else {
+              stats.autoEmail++;
+              ds.autoEmail++;
+            }
           }
         }
       } catch (e) {
@@ -171,7 +184,9 @@ async function main() {
       .sort((a, b) => a.date.localeCompare(b.date));
 
     result[c.id] = { ...stats, byDay: byDayArr };
-    console.log(`  -> calls=${stats.calls}, sms=${stats.sms}, email=${stats.email}, talk=${stats.talkTimeMinutes}min`);
+    console.log(
+      `  -> calls=${stats.calls}, manualSMS=${stats.manualSms} (auto ${stats.autoSms}), manualEmail=${stats.manualEmail} (auto ${stats.autoEmail}), talk=${stats.talkTimeMinutes}min`
+    );
   }
 
   const snapshot = {
@@ -187,7 +202,14 @@ async function main() {
 }
 
 function emptyCaller() {
-  return { calls: 0, talkTimeMinutes: 0, sms: 0, email: 0 };
+  return {
+    calls: 0,
+    talkTimeMinutes: 0,
+    manualSms: 0,
+    autoSms: 0,
+    manualEmail: 0,
+    autoEmail: 0,
+  };
 }
 
 main().catch((e) => {

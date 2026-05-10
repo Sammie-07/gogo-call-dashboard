@@ -88,14 +88,21 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
       const floor = isAllTime ? 0 : start.getTime();
       const days = floor === 0 ? snap.byDay : snap.byDay.filter((d) => new Date(d.date).getTime() >= floor);
       m.outboundCalls = days.reduce((s, d) => s + d.calls, 0);
-      m.outboundSms = days.reduce((s, d) => s + d.sms, 0);
-      m.outboundEmail = days.reduce((s, d) => s + d.email, 0);
-      m.followUpsTotal = m.outboundSms + m.outboundEmail;
+      m.manualSms = days.reduce((s, d) => s + d.manualSms, 0);
+      m.autoSms = days.reduce((s, d) => s + d.autoSms, 0);
+      m.manualEmail = days.reduce((s, d) => s + d.manualEmail, 0);
+      m.autoEmail = days.reduce((s, d) => s + d.autoEmail, 0);
+      m.manualFollowUps = m.manualSms + m.manualEmail;
+      m.autoFollowUps = m.autoSms + m.autoEmail;
+      m.outboundSms = m.manualSms + m.autoSms;
+      m.outboundEmail = m.manualEmail + m.autoEmail;
+      m.followUpsTotal = m.manualFollowUps;
       const totalSecondsFraction = isAllTime ? 1 : days.length / Math.max(snap.byDay.length, 1);
       m.talkTimeMinutes = Math.round(snap.talkTimeMinutes * totalSecondsFraction);
       m.metricsSource = "synced";
     } else {
       m.metricsSource = "approx";
+      m.followUpsTotal = m.outboundSms + m.outboundEmail;
     }
 
     finalizeRatios(m);

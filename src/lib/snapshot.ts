@@ -4,9 +4,18 @@ import { join } from "path";
 export type CallerSnapshot = {
   calls: number;
   talkTimeMinutes: number;
-  sms: number;
-  email: number;
-  byDay: { date: string; calls: number; sms: number; email: number }[];
+  manualSms: number;
+  autoSms: number;
+  manualEmail: number;
+  autoEmail: number;
+  byDay: {
+    date: string;
+    calls: number;
+    manualSms: number;
+    autoSms: number;
+    manualEmail: number;
+    autoEmail: number;
+  }[];
 };
 
 export type Snapshot = {
@@ -42,10 +51,12 @@ export function aggregateByDay(byDay: CallerSnapshot["byDay"]) {
   return byDay.reduce(
     (acc, d) => {
       acc.calls += d.calls;
-      acc.sms += d.sms;
-      acc.email += d.email;
+      acc.manualSms += d.manualSms;
+      acc.autoSms += d.autoSms;
+      acc.manualEmail += d.manualEmail;
+      acc.autoEmail += d.autoEmail;
       return acc;
     },
-    { calls: 0, sms: 0, email: 0 }
+    { calls: 0, manualSms: 0, autoSms: 0, manualEmail: 0, autoEmail: 0 }
   );
 }

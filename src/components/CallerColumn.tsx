@@ -33,9 +33,13 @@ export function CallerColumn({ m }: { m: CallerMetrics }) {
           }
         />
         <KPI
-          label="Follow-ups"
-          value={num(m.followUpsTotal)}
-          sub={`${m.metricsSource === "approx" ? "approx · " : ""}${num(m.outboundSms)} SMS · ${num(m.outboundEmail)} email`}
+          label="Manual follow-ups"
+          value={num(m.metricsSource === "synced" ? m.manualFollowUps : m.followUpsTotal)}
+          sub={
+            m.metricsSource === "synced"
+              ? `${num(m.manualSms)} SMS · ${num(m.manualEmail)} email · +${num(m.autoFollowUps)} auto`
+              : `approx · ${num(m.outboundSms)} SMS · ${num(m.outboundEmail)} email`
+          }
         />
         <KPI label="Appointments" value={num(m.appointments)} />
         <KPI label="Conversations" value={num(m.conversations)} />
