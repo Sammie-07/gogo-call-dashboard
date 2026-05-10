@@ -5,6 +5,13 @@ const usd = (n: number) =>
   new Intl.NumberFormat("en-US", { style: "currency", currency: "USD", maximumFractionDigits: 0 }).format(n);
 const num = (n: number) => new Intl.NumberFormat("en-US").format(Math.round(n));
 const pct = (n: number) => `${(n * 100).toFixed(0)}%`;
+const dur = (sec: number) => {
+  if (sec <= 0) return "—";
+  if (sec < 60) return `${sec}s`;
+  const m = Math.floor(sec / 60);
+  const s = sec % 60;
+  return s ? `${m}m ${s}s` : `${m}m`;
+};
 
 export function CallerColumn({ m }: { m: CallerMetrics }) {
   return (
@@ -27,11 +34,12 @@ export function CallerColumn({ m }: { m: CallerMetrics }) {
           sub={
             m.metricsSource === "synced"
               ? m.talkTimeMinutes > 0
-                ? `${num(m.talkTimeMinutes)} min talk`
+                ? `${num(m.talkTimeMinutes)} min total`
                 : undefined
               : "approx · last-msg only"
           }
         />
+        <KPI label="Avg talk / call" value={dur(m.avgTalkSeconds)} />
         <KPI
           label="Manual follow-ups"
           value={num(m.metricsSource === "synced" ? m.manualFollowUps : m.followUpsTotal)}
@@ -45,8 +53,13 @@ export function CallerColumn({ m }: { m: CallerMetrics }) {
         <KPI label="Conversations" value={num(m.conversations)} />
         <KPI label="New leads" value={num(m.oppsCreated)} />
         <KPI label="Deals won" value={num(m.oppsWon)} sub={m.oppsLost > 0 ? `${m.oppsLost} lost` : undefined} />
-        <KPI label="Avg deal" value={m.avgDealSize > 0 ? usd(m.avgDealSize) : "—"} />
         <KPI label="Conversion" value={pct(m.conversionRate)} sub="deals won per call" />
+        <KPI label="Avg deal" value={m.avgDealSize > 0 ? usd(m.avgDealSize) : "—"} />
+        <KPI
+          label="Active pipeline"
+          value={usd(m.activePipelineValue)}
+          sub={`${m.activePipelineCount} open`}
+        />
       </div>
     </section>
   );

@@ -3,13 +3,12 @@ export const GHL_VERSION = "2021-07-28";
 export const TZ = "America/Detroit";
 
 export const PIPELINE_ID = "4ODbBsC9MIjSBtnIOETl";
-export const WON_STAGE_IDS = [
-  "4e0dc282-03f6-480e-b4f1-9e966ec0a179",
-  "a2a187de-d33d-40c3-bdc5-554306761ed1",
-];
+export const WON_STAGE_GGTC = "4e0dc282-03f6-480e-b4f1-9e966ec0a179";
+export const WON_STAGE_CIRCLE = "a2a187de-d33d-40c3-bdc5-554306761ed1";
+export const WON_STAGE_IDS = [WON_STAGE_GGTC, WON_STAGE_CIRCLE];
 export const WON_STAGE_NAMES: Record<string, string> = {
-  "4e0dc282-03f6-480e-b4f1-9e966ec0a179": "Closed - GGTC",
-  "a2a187de-d33d-40c3-bdc5-554306761ed1": "Closed - Circle",
+  [WON_STAGE_GGTC]: "Closed - GGTC",
+  [WON_STAGE_CIRCLE]: "Closed - Circle",
 };
 
 export type Caller = {

@@ -8,7 +8,7 @@ const OPTS: { v: Range; label: string }[] = [
   { v: "alltime", label: "All time" },
 ];
 
-export function RangeToggle({ active }: { active: Range }) {
+export function RangeToggle({ active }: { active: Range | null }) {
   return (
     <div className="inline-flex rounded-md border border-[#262626] bg-[#141414] p-1">
       {OPTS.map((o) => (

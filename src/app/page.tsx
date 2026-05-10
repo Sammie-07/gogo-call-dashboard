@@ -3,6 +3,7 @@ import { fetchCalendarEvents, fetchConversations, fetchOpportunities, filterByDa
 import {
   buildOppsCreatedSeries,
   buildRevenueSeries,
+  computeActivePipeline,
   computeAppointmentMetrics,
   computeConvSummary,
   computeCreatedMetrics,
@@ -10,20 +11,27 @@ import {
   emptyMetrics,
   finalizeRatios,
 } from "@/lib/metrics";
-import { isRange, rangeBounds, toIso } from "@/lib/range";
+import { dateBounds, isRange, rangeBounds, toIso, toIsoDate } from "@/lib/range";
 import { readSnapshot, snapshotAgeMinutes } from "@/lib/snapshot";
 import { startOfDay, subDays } from "date-fns";
 import { AutoRefresh } from "@/components/AutoRefresh";
 import { CallerColumn } from "@/components/CallerColumn";
 import { CallsChart } from "@/components/CallsChart";
+import { DatePicker } from "@/components/DatePicker";
 import { RangeToggle } from "@/components/RangeToggle";
 
 export const dynamic = "force-dynamic";
 
-export default async function DashboardPage({ searchParams }: { searchParams: Promise<{ range?: string }> }) {
+export default async function DashboardPage({
+  searchParams,
+}: {
+  searchParams: Promise<{ range?: string; date?: string }>;
+}) {
   const sp = await searchParams;
+  const customDay = sp.date ? dateBounds(sp.date) : null;
   const range = isRange(sp.range) ? sp.range : "today";
-  const { start, end, label, isAllTime } = rangeBounds(range);
+  const bounds = customDay ?? rangeBounds(range);
+  const { start, end, label, isAllTime } = bounds;
   const locationId = process.env.GHL_LOCATION_ID!;
 
   const allOppsByCaller: Record<string, Awaited<ReturnType<typeof fetchOpportunities>>> = {};
@@ -80,6 +88,7 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
     const m = emptyMetrics(c.id, c.display, c.color);
     computeCreatedMetrics(createdByCaller[c.id] ?? [], m);
     computeWonMetrics(updatedByCaller[c.id] ?? [], m);
+    computeActivePipeline(allOppsByCaller[c.id] ?? [], m);
     computeConvSummary(convsByCaller[c.id] ?? [], isAllTime ? 0 : start.getTime(), m);
     computeAppointmentMetrics(apptsByCaller[c.id] ?? [], m);
 
@@ -138,7 +147,10 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
             {snapshotFresh && snapshot ? ` · calls synced ${snapshotAgeMinutes(snapshot)}m ago` : " · calls approximate (run npm run sync)"}
           </p>
         </div>
-        <RangeToggle active={range} />
+        <div className="flex flex-wrap items-center gap-2">
+          <RangeToggle active={customDay ? null : range} />
+          <DatePicker initial={sp.date} todayIso={toIsoDate(new Date())} />
+        </div>
       </header>
 
       <section className="grid grid-cols-2 sm:grid-cols-4 gap-3">

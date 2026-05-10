@@ -1,5 +1,5 @@
 import { format, eachDayOfInterval } from "date-fns";
-import { CALLERS, WON_STAGE_IDS } from "./constants";
+import { CALLERS, WON_STAGE_CIRCLE, WON_STAGE_GGTC, WON_STAGE_IDS } from "./constants";
 import type { CalendarEvent, Conversation, Message, Opportunity } from "./ghl";
 
 export type CallerMetrics = {
@@ -10,8 +10,13 @@ export type CallerMetrics = {
   oppsWon: number;
   oppsLost: number;
   revenue: number;
+  revenueGGTC: number;
+  revenueCircle: number;
+  activePipelineValue: number;
+  activePipelineCount: number;
   avgDealSize: number;
   conversionRate: number;
+  avgTalkSeconds: number;
   appointments: number;
   conversations: number;
   outboundCalls: number;
@@ -37,8 +42,13 @@ export function emptyMetrics(callerId: string, display: string, color: string): 
     oppsWon: 0,
     oppsLost: 0,
     revenue: 0,
+    revenueGGTC: 0,
+    revenueCircle: 0,
+    activePipelineValue: 0,
+    activePipelineCount: 0,
     avgDealSize: 0,
     conversionRate: 0,
+    avgTalkSeconds: 0,
     appointments: 0,
     conversations: 0,
     outboundCalls: 0,
@@ -64,16 +74,30 @@ export function computeWonMetrics(updated: Opportunity[], m: CallerMetrics) {
   for (const o of updated) {
     if (WON_STAGE_IDS.includes(o.pipelineStageId)) {
       m.oppsWon += 1;
-      m.revenue += o.monetaryValue ?? 0;
+      const v = o.monetaryValue ?? 0;
+      m.revenue += v;
+      if (o.pipelineStageId === WON_STAGE_GGTC) m.revenueGGTC += v;
+      else if (o.pipelineStageId === WON_STAGE_CIRCLE) m.revenueCircle += v;
     } else if (o.status === "lost") {
       m.oppsLost += 1;
     }
   }
 }
 
+export function computeActivePipeline(allOpps: Opportunity[], m: CallerMetrics) {
+  for (const o of allOpps) {
+    const isWon = WON_STAGE_IDS.includes(o.pipelineStageId);
+    const isLost = o.status === "lost" || o.status === "abandoned";
+    if (isWon || isLost) continue;
+    m.activePipelineCount += 1;
+    m.activePipelineValue += o.monetaryValue ?? 0;
+  }
+}
+
 export function finalizeRatios(m: CallerMetrics) {
   m.avgDealSize = m.oppsWon > 0 ? m.revenue / m.oppsWon : 0;
   m.conversionRate = m.outboundCalls > 0 ? m.oppsWon / m.outboundCalls : 0;
+  m.avgTalkSeconds = m.outboundCalls > 0 ? Math.round((m.talkTimeMinutes * 60) / m.outboundCalls) : 0;
 }
 
 export function computeConvCount(convs: Conversation[], windowStartMs: number): number {
