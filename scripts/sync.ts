@@ -123,7 +123,7 @@ async function main() {
   console.log(`Syncing last ${WINDOW_DAYS} days (since ${new Date(floor).toISOString().slice(0, 10)})`);
 
   type CallerOut = ReturnType<typeof emptyCaller> & {
-    byDay: { date: string; calls: number; sms: number; email: number }[];
+    byDay: { date: string; calls: number; manualSms: number; autoSms: number; manualEmail: number; autoEmail: number }[];
   };
   const result: Record<string, CallerOut> = {};
 
