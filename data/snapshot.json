@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-05-11T07:45:09.651Z",
+  "syncedAt": "2026-05-11T11:26:13.903Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 106,
       "talkTimeMinutes": 83,
       "manualSms": 52,
-      "autoSms": 234,
+      "autoSms": 236,
       "manualEmail": 4,
-      "autoEmail": 1060,
+      "autoEmail": 1056,
       "byDay": [
         {
           "date": "2025-12-19",
@@ -208,7 +208,7 @@
           "manualSms": 2,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 148
+          "autoEmail": 146
         },
         {
           "date": "2026-04-25",
@@ -232,7 +232,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 170
+          "autoEmail": 168
         },
         {
           "date": "2026-04-28",
@@ -272,7 +272,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 154
+          "autoEmail": 152
         },
         {
           "date": "2026-05-03",
@@ -296,7 +296,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 154
+          "autoEmail": 152
         },
         {
           "date": "2026-05-06",
@@ -318,7 +318,7 @@
           "date": "2026-05-10",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 90,
+          "autoSms": 92,
           "manualEmail": 0,
           "autoEmail": 214
         },
@@ -328,7 +328,7 @@
           "manualSms": 0,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 4
+          "autoEmail": 8
         }
       ],
       "opportunities": [
@@ -37688,6 +37688,7 @@
       "appointments": [
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://us02web.zoom.us/j/86737515122",
           "calendarId": "P63yugFTNQw7BeSCtjKL",
@@ -37709,6 +37710,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://us02web.zoom.us/j/86737515122",
           "calendarId": "zbG86VGfQk5VYP8cibec",
@@ -37730,6 +37732,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://us02web.zoom.us/j/86737515122",
           "calendarId": "zbG86VGfQk5VYP8cibec",
@@ -37753,6 +37756,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://us02web.zoom.us/j/86737515122",
           "calendarId": "zbG86VGfQk5VYP8cibec",
@@ -37774,6 +37778,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -37795,6 +37800,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -37818,6 +37824,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -37841,6 +37848,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -37862,6 +37870,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -37883,6 +37892,7 @@
         },
         {
           "appointmentStatus": "showed",
+          "appoinmentStatus": "showed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -37904,6 +37914,7 @@
         },
         {
           "appointmentStatus": "showed",
+          "appoinmentStatus": "showed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -37927,6 +37938,7 @@
         },
         {
           "appointmentStatus": "showed",
+          "appoinmentStatus": "showed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -37948,6 +37960,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -37969,6 +37982,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -37990,6 +38004,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38011,6 +38026,7 @@
         },
         {
           "appointmentStatus": "showed",
+          "appoinmentStatus": "showed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38032,6 +38048,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38053,6 +38070,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38076,6 +38094,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38097,6 +38116,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38118,6 +38138,7 @@
         },
         {
           "appointmentStatus": "showed",
+          "appoinmentStatus": "showed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38139,6 +38160,7 @@
         },
         {
           "appointmentStatus": "showed",
+          "appoinmentStatus": "showed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38160,6 +38182,7 @@
         },
         {
           "appointmentStatus": "showed",
+          "appoinmentStatus": "showed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38181,6 +38204,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38202,6 +38226,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38223,6 +38248,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38244,6 +38270,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38265,6 +38292,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38286,6 +38314,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38309,6 +38338,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38330,6 +38360,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38351,6 +38382,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38372,6 +38404,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38393,6 +38426,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38414,6 +38448,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38435,6 +38470,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38456,6 +38492,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38477,6 +38514,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38500,6 +38538,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38521,6 +38560,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38542,6 +38582,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38563,6 +38604,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38586,6 +38628,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38609,6 +38652,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38630,6 +38674,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38651,6 +38696,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38672,6 +38718,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38693,6 +38740,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38714,6 +38762,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38735,6 +38784,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38756,6 +38806,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38777,6 +38828,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38798,6 +38850,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38819,6 +38872,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38840,6 +38894,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38861,6 +38916,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38882,6 +38938,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38903,6 +38960,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38924,6 +38982,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38945,6 +39004,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38966,6 +39026,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -38987,6 +39048,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39008,6 +39070,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39029,6 +39092,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39050,6 +39114,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39071,6 +39136,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39092,6 +39158,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39115,6 +39182,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39136,6 +39204,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39157,6 +39226,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39178,6 +39248,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39199,6 +39270,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39220,6 +39292,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39241,6 +39314,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39262,6 +39336,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39285,6 +39360,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39306,6 +39382,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39327,6 +39404,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39348,6 +39426,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39369,6 +39448,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39390,6 +39470,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39411,6 +39492,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39432,6 +39514,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39453,6 +39536,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39476,6 +39560,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39497,6 +39582,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39518,6 +39604,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39539,6 +39626,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39560,6 +39648,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39581,6 +39670,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39602,6 +39692,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39623,6 +39714,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39644,6 +39736,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39665,6 +39758,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39686,6 +39780,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39707,6 +39802,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39728,6 +39824,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39749,6 +39846,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39770,6 +39868,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39791,6 +39890,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39812,6 +39912,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39833,6 +39934,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/6684356793",
           "calendarId": "vEq9SEudnxMCXs4c7bJk",
@@ -39856,6 +39958,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39877,6 +39980,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39898,6 +40002,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39919,6 +40024,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39942,6 +40048,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39963,6 +40070,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -39984,6 +40092,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40007,6 +40116,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40030,6 +40140,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40051,6 +40162,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40072,6 +40184,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40093,6 +40206,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40116,6 +40230,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40137,6 +40252,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40160,6 +40276,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40181,6 +40298,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40202,6 +40320,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40225,6 +40344,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40248,6 +40368,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40269,6 +40390,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40290,6 +40412,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40311,6 +40434,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/6684356793",
           "calendarId": "vEq9SEudnxMCXs4c7bJk",
@@ -40332,6 +40456,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40353,6 +40478,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40376,6 +40502,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40397,6 +40524,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40418,6 +40546,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40439,6 +40568,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40462,6 +40592,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40483,6 +40614,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40504,6 +40636,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40525,6 +40658,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40546,6 +40680,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40569,6 +40704,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40590,6 +40726,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40611,6 +40748,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40632,6 +40770,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40653,6 +40792,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40674,6 +40814,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40695,6 +40836,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40716,6 +40858,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40737,6 +40880,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "",
           "calendarId": "vEq9SEudnxMCXs4c7bJk",
@@ -40758,6 +40902,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "",
           "calendarId": "vEq9SEudnxMCXs4c7bJk",
@@ -40779,6 +40924,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40800,6 +40946,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40821,6 +40968,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40842,6 +40990,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40863,6 +41012,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40884,6 +41034,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40907,6 +41058,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40928,6 +41080,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40949,6 +41102,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -40972,6 +41126,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/6684356793",
           "calendarId": "vn5ozDQQe0DQUJYuEw9b",
@@ -40993,6 +41148,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/6684356793",
           "calendarId": "vn5ozDQQe0DQUJYuEw9b",
@@ -41014,6 +41170,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/6684356793",
           "calendarId": "vEq9SEudnxMCXs4c7bJk",
@@ -41035,6 +41192,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -41058,6 +41216,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -41079,6 +41238,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -41100,6 +41260,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -41121,6 +41282,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -41142,6 +41304,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/6684356793",
           "calendarId": "vn5ozDQQe0DQUJYuEw9b",
@@ -41163,6 +41326,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/6684356793",
           "calendarId": "vn5ozDQQe0DQUJYuEw9b",
@@ -41184,6 +41348,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -41205,6 +41370,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -41226,6 +41392,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -41247,6 +41414,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/6684356793",
           "calendarId": "vn5ozDQQe0DQUJYuEw9b",
@@ -41268,6 +41436,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/6684356793",
           "calendarId": "vn5ozDQQe0DQUJYuEw9b",
@@ -41289,6 +41458,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -41310,6 +41480,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -41331,6 +41502,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -41352,6 +41524,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/6684356793",
           "calendarId": "vn5ozDQQe0DQUJYuEw9b",
@@ -41373,6 +41546,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/6684356793",
           "calendarId": "vn5ozDQQe0DQUJYuEw9b",
@@ -41394,6 +41568,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "",
           "calendarId": "vn5ozDQQe0DQUJYuEw9b",
@@ -41417,6 +41592,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -41438,6 +41614,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -41461,6 +41638,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -41484,6 +41662,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/6684356793",
           "calendarId": "vn5ozDQQe0DQUJYuEw9b",
@@ -41505,6 +41684,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/6684356793",
           "calendarId": "vn5ozDQQe0DQUJYuEw9b",
@@ -41526,6 +41706,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/6684356793",
           "calendarId": "vEq9SEudnxMCXs4c7bJk",
@@ -41547,6 +41728,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -41568,6 +41750,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -41589,6 +41772,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/6684356793",
           "calendarId": "vEq9SEudnxMCXs4c7bJk",
@@ -41610,6 +41794,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/6684356793",
           "calendarId": "vEq9SEudnxMCXs4c7bJk",
@@ -41633,6 +41818,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/6684356793",
           "calendarId": "vn5ozDQQe0DQUJYuEw9b",
@@ -41654,6 +41840,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -41675,6 +41862,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -41696,6 +41884,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -41717,6 +41906,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -41738,6 +41928,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/6684356793",
           "calendarId": "vEq9SEudnxMCXs4c7bJk",
@@ -41761,6 +41952,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/6684356793",
           "calendarId": "vn5ozDQQe0DQUJYuEw9b",
@@ -41782,6 +41974,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -41803,6 +41996,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -41824,6 +42018,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/6684356793",
           "calendarId": "vn5ozDQQe0DQUJYuEw9b",
@@ -41845,6 +42040,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -41866,6 +42062,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -41889,6 +42086,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -41910,6 +42108,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/6684356793",
           "calendarId": "vn5ozDQQe0DQUJYuEw9b",
@@ -41931,6 +42130,7 @@
         },
         {
           "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -41954,6 +42154,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -41975,6 +42176,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -41996,6 +42198,7 @@
         },
         {
           "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
@@ -42018,6 +42221,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "bYkcx6Py7mP6mHuV1U1a",
+          "lastMessageDate": 1778496583096,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "KHRW5tErGPbvBL8tDZwv",
           "lastMessageDate": 1778472021720,
           "type": "TYPE_PHONE"
@@ -42513,8 +42721,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "aeVyFoXngBsaguKzyYLz",
-          "lastMessageDate": 1778416331366,
+          "id": "bYkcx6Py7mP6mHuV1U1a",
+          "lastMessageDate": 1778496583096,
           "type": "TYPE_PHONE"
         },
         {
@@ -43010,11 +43218,6 @@
         {
           "id": "ncX0NZXCGV5oF2BJLPeT",
           "lastMessageDate": 1778416331421,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "aeVyFoXngBsaguKzyYLz",
-          "lastMessageDate": 1778416331366,
           "type": "TYPE_PHONE"
         }
       ]
@@ -64109,12 +64312,12 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "xdDpvNLrkdOVi07TO4Jr",
+          "id": "wBgKKBNRxBn4mYKj2QVS",
           "lastMessageDate": 1778416329770,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "wBgKKBNRxBn4mYKj2QVS",
+          "id": "xdDpvNLrkdOVi07TO4Jr",
           "lastMessageDate": 1778416329770,
           "type": "TYPE_PHONE"
         },
@@ -64609,12 +64812,12 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "wBgKKBNRxBn4mYKj2QVS",
+          "id": "xdDpvNLrkdOVi07TO4Jr",
           "lastMessageDate": 1778416329770,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "xdDpvNLrkdOVi07TO4Jr",
+          "id": "wBgKKBNRxBn4mYKj2QVS",
           "lastMessageDate": 1778416329770,
           "type": "TYPE_PHONE"
         },
