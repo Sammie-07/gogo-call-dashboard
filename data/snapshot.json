@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-05-12T00:02:59.658Z",
+  "syncedAt": "2026-05-12T04:38:52.053Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 246,
       "talkTimeMinutes": 217,
       "manualSms": 160,
-      "autoSms": 454,
+      "autoSms": 456,
       "manualEmail": 40,
-      "autoEmail": 1256,
+      "autoEmail": 1258,
       "byDay": [
         {
           "date": "2025-12-11",
@@ -441,6 +441,14 @@
           "autoSms": 34,
           "manualEmail": 0,
           "autoEmail": 132
+        },
+        {
+          "date": "2026-05-12",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 2,
+          "manualEmail": 0,
+          "autoEmail": 2
         }
       ],
       "opportunities": [
@@ -42383,6 +42391,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "KHRW5tErGPbvBL8tDZwv",
+          "lastMessageDate": 1778558494426,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "qDKbcRwB2fZTY7P9hQNo",
           "lastMessageDate": 1778542661754,
           "type": "TYPE_PHONE"
@@ -42655,11 +42668,6 @@
         {
           "id": "bopP173VItyebg1W5uep",
           "lastMessageDate": 1778508011565,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "KHRW5tErGPbvBL8tDZwv",
-          "lastMessageDate": 1778508010885,
           "type": "TYPE_PHONE"
         },
         {
@@ -42883,6 +42891,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "KHRW5tErGPbvBL8tDZwv",
+          "lastMessageDate": 1778558494426,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "qDKbcRwB2fZTY7P9hQNo",
           "lastMessageDate": 1778542661754,
           "type": "TYPE_PHONE"
@@ -43155,11 +43168,6 @@
         {
           "id": "bopP173VItyebg1W5uep",
           "lastMessageDate": 1778508011565,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "KHRW5tErGPbvBL8tDZwv",
-          "lastMessageDate": 1778508010885,
           "type": "TYPE_PHONE"
         },
         {
@@ -64464,12 +64472,12 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "xdDpvNLrkdOVi07TO4Jr",
+          "id": "wBgKKBNRxBn4mYKj2QVS",
           "lastMessageDate": 1778416329770,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "wBgKKBNRxBn4mYKj2QVS",
+          "id": "xdDpvNLrkdOVi07TO4Jr",
           "lastMessageDate": 1778416329770,
           "type": "TYPE_PHONE"
         },
