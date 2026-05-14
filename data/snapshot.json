@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-05-14T21:13:46.507Z",
+  "syncedAt": "2026-05-14T23:00:28.569Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -8,7 +8,7 @@
       "manualSms": 154,
       "autoSms": 460,
       "manualEmail": 16,
-      "autoEmail": 1442,
+      "autoEmail": 1446,
       "byDay": [
         {
           "date": "2025-12-12",
@@ -432,7 +432,7 @@
           "manualSms": 22,
           "autoSms": 88,
           "manualEmail": 4,
-          "autoEmail": 210
+          "autoEmail": 214
         }
       ],
       "opportunities": [
@@ -42642,6 +42642,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "bopP173VItyebg1W5uep",
+          "lastMessageDate": 1778795162173,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "xJBmuq6cAoiW3j2IZgld",
           "lastMessageDate": 1778791971761,
           "type": "TYPE_PHONE"
@@ -42769,11 +42774,6 @@
         {
           "id": "Q5ZRbR5GG8tDhKr0mmqt",
           "lastMessageDate": 1778788366474,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "bopP173VItyebg1W5uep",
-          "lastMessageDate": 1778788280189,
           "type": "TYPE_PHONE"
         },
         {
@@ -43142,6 +43142,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "bopP173VItyebg1W5uep",
+          "lastMessageDate": 1778795162173,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "xJBmuq6cAoiW3j2IZgld",
           "lastMessageDate": 1778791971761,
           "type": "TYPE_PHONE"
@@ -43269,11 +43274,6 @@
         {
           "id": "Q5ZRbR5GG8tDhKr0mmqt",
           "lastMessageDate": 1778788366474,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "bopP173VItyebg1W5uep",
-          "lastMessageDate": 1778788280189,
           "type": "TYPE_PHONE"
         },
         {
@@ -43649,7 +43649,7 @@
       "manualSms": 40,
       "autoSms": 142,
       "manualEmail": 0,
-      "autoEmail": 828,
+      "autoEmail": 820,
       "byDay": [
         {
           "date": "2026-04-21",
@@ -43673,7 +43673,7 @@
           "manualSms": 0,
           "autoSms": 10,
           "manualEmail": 0,
-          "autoEmail": 88
+          "autoEmail": 86
         },
         {
           "date": "2026-04-28",
@@ -43713,7 +43713,7 @@
           "manualSms": 0,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 168
+          "autoEmail": 166
         },
         {
           "date": "2026-05-04",
@@ -43729,7 +43729,7 @@
           "manualSms": 8,
           "autoSms": 18,
           "manualEmail": 0,
-          "autoEmail": 202
+          "autoEmail": 200
         },
         {
           "date": "2026-05-06",
@@ -43769,7 +43769,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 146
+          "autoEmail": 144
         },
         {
           "date": "2026-05-11",
@@ -43805,6 +43805,81 @@
         }
       ],
       "opportunities": [
+        {
+          "id": "6H4oM5eM2o4AAoOLwGtP",
+          "name": "Laura Dee",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "80949724-7894-4a42-8028-746a06208f9e",
+          "pipelineStageUId": "80949724-7894-4a42-8028-746a06208f9e",
+          "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
+          "status": "open",
+          "source": "order form-prebuilt goget'em",
+          "lastStatusChangeAt": "2026-05-14T21:44:46.703Z",
+          "lastStageChangeAt": "2026-05-14T21:46:01.898Z",
+          "createdAt": "2026-05-14T21:44:46.703Z",
+          "updatedAt": "2026-05-14T21:46:02.115Z",
+          "forecastProbability": null,
+          "effectiveProbability": 25,
+          "contactId": "aZeXhfDCp88s1ch2eMJq",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "6H4oM5eM2o4AAoOLwGtP",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "aZeXhfDCp88s1ch2eMJq",
+              "fullName": "Laura Dee",
+              "contactName": "Laura Dee",
+              "companyName": null,
+              "email": "laurankurz@gmail.com",
+              "phone": "+16317937555",
+              "tags": [
+                "gogetem affiliate",
+                "goget'em canceled",
+                "smc",
+                "new lead",
+                "assigned to ferny"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "aZeXhfDCp88s1ch2eMJq",
+            "name": "Laura Dee",
+            "companyName": null,
+            "email": "laurankurz@gmail.com",
+            "phone": "+16317937555",
+            "tags": [
+              "gogetem affiliate",
+              "goget'em canceled",
+              "smc",
+              "new lead",
+              "assigned to ferny"
+            ],
+            "score": []
+          },
+          "sort": [
+            1778795086703,
+            "aZeXhfDCp88s1ch2eMJq"
+          ],
+          "attributions": [
+            {
+              "pageUrl": "https://gogetemcommunity.com/",
+              "utmSessionSource": "Direct traffic",
+              "isLast": true,
+              "ip": "2600:100d:b184:60b:81db:2d17:1a22:de9a",
+              "medium": "form",
+              "mediumId": "rtTNrLeOuDNq53WY7xwd",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Mobile/15E148 Safari/604.1",
+              "url": "https://gogetemcommunity.com/"
+            }
+          ]
+        },
         {
           "id": "VSjyKCfxnsWlFs2ztHJo",
           "name": "Amy Torres",
@@ -44240,7 +44315,7 @@
               "fullName": "Brooke Curtis",
               "contactName": "Brooke Curtis",
               "companyName": null,
-              "email": "brooke@my813realtor.com",
+              "email": "bcurtis0216@gmail.com",
               "phone": "+18134548523",
               "tags": [
                 "smc",
@@ -44255,7 +44330,7 @@
             "id": "T1y4kyPq14PFnyydA6tX",
             "name": "Brooke Curtis",
             "companyName": null,
-            "email": "brooke@my813realtor.com",
+            "email": "bcurtis0216@gmail.com",
             "phone": "+18134548523",
             "tags": [
               "smc",
@@ -64433,6 +64508,16 @@
       "appointments": [],
       "conversationsAll": [
         {
+          "id": "SKrS5R4VQtp86Jlp9KnF",
+          "lastMessageDate": 1778794473268,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "Xrm2S7LPbyVysADk8lKK",
+          "lastMessageDate": 1778794085696,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "sLmWnRXhvhXvU0LlmY20",
           "lastMessageDate": 1778788887085,
           "type": "TYPE_PHONE"
@@ -64455,11 +64540,6 @@
         {
           "id": "W4djDN1LNSgA9nGBuBKE",
           "lastMessageDate": 1778786362219,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "SKrS5R4VQtp86Jlp9KnF",
-          "lastMessageDate": 1778786247204,
           "type": "TYPE_PHONE"
         },
         {
@@ -64928,8 +65008,13 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "lFuAqX0B8dYiG9yXvMdp",
-          "lastMessageDate": 1778416331292,
+          "id": "SKrS5R4VQtp86Jlp9KnF",
+          "lastMessageDate": 1778794473268,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "Xrm2S7LPbyVysADk8lKK",
+          "lastMessageDate": 1778794085696,
           "type": "TYPE_PHONE"
         },
         {
@@ -64955,11 +65040,6 @@
         {
           "id": "W4djDN1LNSgA9nGBuBKE",
           "lastMessageDate": 1778786362219,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "SKrS5R4VQtp86Jlp9KnF",
-          "lastMessageDate": 1778786247204,
           "type": "TYPE_PHONE"
         },
         {
@@ -65425,11 +65505,6 @@
         {
           "id": "rWefIm0io4fsFQTm6rsw",
           "lastMessageDate": 1778416331439,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "lFuAqX0B8dYiG9yXvMdp",
-          "lastMessageDate": 1778416331292,
           "type": "TYPE_PHONE"
         }
       ]
