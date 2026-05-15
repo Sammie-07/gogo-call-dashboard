@@ -1,13 +1,13 @@
 {
-  "syncedAt": "2026-05-15T00:06:40.252Z",
+  "syncedAt": "2026-05-15T04:53:47.709Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 256,
       "talkTimeMinutes": 258,
       "manualSms": 154,
-      "autoSms": 460,
-      "manualEmail": 16,
+      "autoSms": 462,
+      "manualEmail": 18,
       "autoEmail": 1446,
       "byDay": [
         {
@@ -304,7 +304,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 16
+          "autoEmail": 14
         },
         {
           "date": "2026-04-29",
@@ -433,6 +433,14 @@
           "autoSms": 88,
           "manualEmail": 4,
           "autoEmail": 214
+        },
+        {
+          "date": "2026-05-15",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 2,
+          "manualEmail": 2,
+          "autoEmail": 2
         }
       ],
       "opportunities": [
@@ -22365,8 +22373,8 @@
               "primary": true,
               "objectKey": "contact",
               "recordId": "HbuJ6jZy5yfwxjyBu6lS",
-              "fullName": "Trishia Todd",
-              "contactName": "Trishia Todd",
+              "fullName": "Trish Todd",
+              "contactName": "Trish Todd",
               "companyName": null,
               "email": "trish@trishtodd.com",
               "phone": "+17053414573",
@@ -22384,7 +22392,7 @@
           ],
           "contact": {
             "id": "HbuJ6jZy5yfwxjyBu6lS",
-            "name": "Trishia Todd",
+            "name": "Trish Todd",
             "companyName": null,
             "email": "trish@trishtodd.com",
             "phone": "+17053414573",
@@ -42638,9 +42646,41 @@
             "userId": null
           },
           "deleted": false
+        },
+        {
+          "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
+          "assignedUserId": "C7PplofCN88pv8MTTiZT",
+          "address": "https://zoom.us/j/6684356793",
+          "calendarId": "vn5ozDQQe0DQUJYuEw9b",
+          "contactId": "HbuJ6jZy5yfwxjyBu6lS",
+          "dateAdded": "2026-05-15T01:47:57.303Z",
+          "dateUpdated": "2026-05-15T01:47:57.303Z",
+          "endTime": "2026-05-22T09:30:00-04:00",
+          "id": "7M6RBM84QfrkdUhT0dbb",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "startTime": "2026-05-22T09:00:00-04:00",
+          "title": "GoGet'Em Community Intro Call - Trish Todd & Natalia",
+          "assignedResources": [],
+          "isRecurring": false,
+          "createdBy": {
+            "source": "booking_widget",
+            "userId": null
+          },
+          "deleted": false
         }
       ],
       "conversationsAll": [
+        {
+          "id": "KHRW5tErGPbvBL8tDZwv",
+          "lastMessageDate": 1778817861672,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "52NhSVeJes9c0XygMGMp",
+          "lastMessageDate": 1778809680406,
+          "type": "TYPE_PHONE"
+        },
         {
           "id": "bopP173VItyebg1W5uep",
           "lastMessageDate": 1778795162173,
@@ -42759,11 +42799,6 @@
         {
           "id": "igFsirsUqRFuYQSTVAJX",
           "lastMessageDate": 1778788896159,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "KHRW5tErGPbvBL8tDZwv",
-          "lastMessageDate": 1778788883077,
           "type": "TYPE_PHONE"
         },
         {
@@ -43054,11 +43089,6 @@
         {
           "id": "6fyuUH6hmrdoFw31nj4k",
           "lastMessageDate": 1778774474075,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "52NhSVeJes9c0XygMGMp",
-          "lastMessageDate": 1778774382121,
           "type": "TYPE_PHONE"
         },
         {
@@ -43142,6 +43172,16 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "KHRW5tErGPbvBL8tDZwv",
+          "lastMessageDate": 1778817861672,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "52NhSVeJes9c0XygMGMp",
+          "lastMessageDate": 1778809680406,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "bopP173VItyebg1W5uep",
           "lastMessageDate": 1778795162173,
           "type": "TYPE_PHONE"
@@ -43259,11 +43299,6 @@
         {
           "id": "igFsirsUqRFuYQSTVAJX",
           "lastMessageDate": 1778788896159,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "KHRW5tErGPbvBL8tDZwv",
-          "lastMessageDate": 1778788883077,
           "type": "TYPE_PHONE"
         },
         {
@@ -43554,11 +43589,6 @@
         {
           "id": "6fyuUH6hmrdoFw31nj4k",
           "lastMessageDate": 1778774474075,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "52NhSVeJes9c0XygMGMp",
-          "lastMessageDate": 1778774382121,
           "type": "TYPE_PHONE"
         },
         {
