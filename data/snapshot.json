@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-05-17T06:48:32.569Z",
+  "syncedAt": "2026-05-17T09:08:53.777Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 130,
       "talkTimeMinutes": 146,
-      "manualSms": 120,
+      "manualSms": 118,
       "autoSms": 378,
       "manualEmail": 16,
-      "autoEmail": 1410,
+      "autoEmail": 1398,
       "byDay": [
         {
           "date": "2024-02-19",
@@ -100,14 +100,6 @@
         },
         {
           "date": "2026-01-01",
-          "calls": 0,
-          "manualSms": 2,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 0
-        },
-        {
-          "date": "2026-01-02",
           "calls": 0,
           "manualSms": 2,
           "autoSms": 0,
@@ -296,7 +288,7 @@
           "manualSms": 0,
           "autoSms": 10,
           "manualEmail": 0,
-          "autoEmail": 148
+          "autoEmail": 146
         },
         {
           "date": "2026-04-25",
@@ -312,7 +304,7 @@
           "manualSms": 0,
           "autoSms": 10,
           "manualEmail": 0,
-          "autoEmail": 176
+          "autoEmail": 174
         },
         {
           "date": "2026-04-28",
@@ -352,7 +344,7 @@
           "manualSms": 0,
           "autoSms": 42,
           "manualEmail": 0,
-          "autoEmail": 176
+          "autoEmail": 174
         },
         {
           "date": "2026-05-03",
@@ -376,7 +368,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 124
+          "autoEmail": 122
         },
         {
           "date": "2026-05-06",
@@ -416,7 +408,7 @@
           "manualSms": 0,
           "autoSms": 24,
           "manualEmail": 0,
-          "autoEmail": 124
+          "autoEmail": 122
         },
         {
           "date": "2026-05-11",
@@ -456,7 +448,7 @@
           "manualSms": 16,
           "autoSms": 14,
           "manualEmail": 2,
-          "autoEmail": 122
+          "autoEmail": 120
         },
         {
           "date": "2026-05-16",
@@ -468,6 +460,77 @@
         }
       ],
       "opportunities": [
+        {
+          "id": "k41jjSFOJbJLJ3nAP6oR",
+          "name": "Levi8 Da Gr8",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "assignedTo": "C7PplofCN88pv8MTTiZT",
+          "status": "open",
+          "source": null,
+          "lastStatusChangeAt": "2026-05-17T08:28:05.978Z",
+          "lastStageChangeAt": "2026-05-17T08:28:05.979Z",
+          "createdAt": "2026-05-17T08:28:05.978Z",
+          "updatedAt": "2026-05-17T08:28:05.978Z",
+          "forecastProbability": null,
+          "effectiveProbability": 31.25,
+          "contactId": "SOHzrmuiXXrA9aptkgaJ",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "k41jjSFOJbJLJ3nAP6oR",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "SOHzrmuiXXrA9aptkgaJ",
+              "fullName": "Levi8 Da Gr8",
+              "contactName": "Levi8 Da Gr8",
+              "companyName": null,
+              "email": "tdon0330@gmail.com",
+              "phone": null,
+              "tags": [
+                "keyword:community",
+                "new lead"
+              ],
+              "attributed": null
+            }
+          ],
+          "contact": {
+            "id": "SOHzrmuiXXrA9aptkgaJ",
+            "name": "Levi8 Da Gr8",
+            "companyName": null,
+            "email": "tdon0330@gmail.com",
+            "phone": null,
+            "tags": [
+              "keyword:community",
+              "new lead"
+            ],
+            "score": []
+          },
+          "sort": [
+            1779006485978,
+            "SOHzrmuiXXrA9aptkgaJ"
+          ],
+          "attributions": [
+            {
+              "utmSessionSource": "Social media",
+              "medium": "instagram",
+              "mediumId": "1377650170938734",
+              "isFirst": true
+            },
+            {
+              "utmSessionSource": "Social media",
+              "medium": "instagram",
+              "mediumId": "1377650170938734",
+              "isLast": true
+            }
+          ]
+        },
         {
           "id": "Zcs64z3Ovj4rQL7UT7Zw",
           "name": "Kathy Cordova",
@@ -42837,6 +42900,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "L0J4JlhCXGJrqbN9Bxj5",
+          "lastMessageDate": 1779004603979,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "ZLws3Ac9Er99UqmMzCBB",
           "lastMessageDate": 1778963586204,
           "type": "TYPE_PHONE"
@@ -43332,8 +43400,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "5qIUWSVcOJYWtXFol5Ky",
-          "lastMessageDate": 1778848683670,
+          "id": "L0J4JlhCXGJrqbN9Bxj5",
+          "lastMessageDate": 1779004603979,
           "type": "TYPE_PHONE"
         },
         {
@@ -43829,11 +43897,6 @@
         {
           "id": "FnSzTCp0SSMHr0BRt2w3",
           "lastMessageDate": 1778848685024,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "5qIUWSVcOJYWtXFol5Ky",
-          "lastMessageDate": 1778848683670,
           "type": "TYPE_PHONE"
         }
       ]
