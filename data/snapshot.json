@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-05-17T20:56:54.468Z",
+  "syncedAt": "2026-05-17T21:59:19.151Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -43928,7 +43928,7 @@
       "talkTimeMinutes": 67,
       "manualSms": 38,
       "autoSms": 162,
-      "manualEmail": 0,
+      "manualEmail": 2,
       "autoEmail": 998,
       "byDay": [
         {
@@ -44104,7 +44104,7 @@
           "calls": 0,
           "manualSms": 0,
           "autoSms": 18,
-          "manualEmail": 0,
+          "manualEmail": 2,
           "autoEmail": 20
         }
       ],
@@ -48988,8 +48988,8 @@
               "primary": true,
               "objectKey": "contact",
               "recordId": "Q6dSCebFqB4aOWKleHcc",
-              "fullName": "Marian Alim Bangura- Realtor",
-              "contactName": "Marian Alim Bangura- Realtor",
+              "fullName": "Marian Alim Bangura",
+              "contactName": "Marian Alim Bangura",
               "companyName": null,
               "email": "mariamalim98@gmail.com",
               "phone": "+16177928505",
@@ -49004,7 +49004,7 @@
           ],
           "contact": {
             "id": "Q6dSCebFqB4aOWKleHcc",
-            "name": "Marian Alim Bangura- Realtor",
+            "name": "Marian Alim Bangura",
             "companyName": null,
             "email": "mariamalim98@gmail.com",
             "phone": "+16177928505",
@@ -64813,16 +64813,39 @@
           ]
         }
       ],
-      "appointments": [],
+      "appointments": [
+        {
+          "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
+          "assignedUserId": "Z6C8jEN8ccsSWv70qBr1",
+          "address": "...",
+          "calendarId": "HEuTX7pjjT4GtFFBFZV5",
+          "contactId": "Q6dSCebFqB4aOWKleHcc",
+          "dateAdded": "2026-05-17T20:56:56.938Z",
+          "dateUpdated": "2026-05-17T20:56:56.938Z",
+          "endTime": "2026-05-20T12:30:00-04:00",
+          "id": "Xle9SaBIUywewzDjJ6ID",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "startTime": "2026-05-20T12:00:00-04:00",
+          "title": "GoGet'Em Community Intro Call - Marian Alim Bangura & Ferny",
+          "assignedResources": [],
+          "isRecurring": false,
+          "createdBy": {
+            "source": "booking_widget",
+            "userId": null
+          },
+          "deleted": false
+        }
+      ],
       "conversationsAll": [
         {
-          "id": "yNLPpTNySUTLslZUI9J9",
-          "lastMessageDate": 1779046559036,
+          "id": "1koaTjJyRntfzkrDCvgg",
+          "lastMessageDate": 1779051419457,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "1koaTjJyRntfzkrDCvgg",
-          "lastMessageDate": 1779044631506,
+          "id": "yNLPpTNySUTLslZUI9J9",
+          "lastMessageDate": 1779046559036,
           "type": "TYPE_PHONE"
         },
         {
@@ -65316,13 +65339,13 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "yNLPpTNySUTLslZUI9J9",
-          "lastMessageDate": 1779046559036,
+          "id": "1koaTjJyRntfzkrDCvgg",
+          "lastMessageDate": 1779051419457,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "1koaTjJyRntfzkrDCvgg",
-          "lastMessageDate": 1779044631506,
+          "id": "yNLPpTNySUTLslZUI9J9",
+          "lastMessageDate": 1779046559036,
           "type": "TYPE_PHONE"
         },
         {
