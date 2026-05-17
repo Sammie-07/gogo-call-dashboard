@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-05-17T19:24:04.784Z",
+  "syncedAt": "2026-05-17T20:56:54.468Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -42896,6 +42896,28 @@
             "userId": null
           },
           "deleted": false
+        },
+        {
+          "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
+          "assignedUserId": "C7PplofCN88pv8MTTiZT",
+          "address": "https://zoom.us/j/98827914664",
+          "calendarId": "8kLbo3OukoeNXebq8B4b",
+          "contactId": "KLqDGuYTMT0pXavYbJu1",
+          "dateAdded": "2026-05-17T20:37:20.816Z",
+          "dateUpdated": "2026-05-17T20:37:20.816Z",
+          "endTime": "2026-05-28T16:00:00-04:00",
+          "id": "i2wjEWrUeHIl6cSJWB0m",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "startTime": "2026-05-28T15:00:00-04:00",
+          "title": "GGTC Onboarding Call - Tammy Crawford",
+          "assignedResources": [],
+          "isRecurring": false,
+          "createdBy": {
+            "source": "booking_widget",
+            "userId": null
+          },
+          "deleted": false
         }
       ],
       "conversationsAll": [
@@ -43902,10 +43924,10 @@
       ]
     },
     "Z6C8jEN8ccsSWv70qBr1": {
-      "calls": 66,
-      "talkTimeMinutes": 65,
-      "manualSms": 36,
-      "autoSms": 158,
+      "calls": 68,
+      "talkTimeMinutes": 67,
+      "manualSms": 38,
+      "autoSms": 162,
       "manualEmail": 0,
       "autoEmail": 998,
       "byDay": [
@@ -43931,7 +43953,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 88
+          "autoEmail": 86
         },
         {
           "date": "2026-04-28",
@@ -44055,11 +44077,11 @@
         },
         {
           "date": "2026-05-14",
-          "calls": 18,
-          "manualSms": 22,
-          "autoSms": 18,
+          "calls": 20,
+          "manualSms": 24,
+          "autoSms": 20,
           "manualEmail": 0,
-          "autoEmail": 20
+          "autoEmail": 22
         },
         {
           "date": "2026-05-15",
@@ -44067,7 +44089,7 @@
           "manualSms": 6,
           "autoSms": 24,
           "manualEmail": 0,
-          "autoEmail": 176
+          "autoEmail": 174
         },
         {
           "date": "2026-05-16",
@@ -44081,9 +44103,9 @@
           "date": "2026-05-17",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 16,
+          "autoSms": 18,
           "manualEmail": 0,
-          "autoEmail": 18
+          "autoEmail": 20
         }
       ],
       "opportunities": [
@@ -64794,6 +64816,11 @@
       "appointments": [],
       "conversationsAll": [
         {
+          "id": "yNLPpTNySUTLslZUI9J9",
+          "lastMessageDate": 1779046559036,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "1koaTjJyRntfzkrDCvgg",
           "lastMessageDate": 1779044631506,
           "type": "TYPE_PHONE"
@@ -65289,8 +65316,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "9GnVx4mP8NWTv0Srs1XA",
-          "lastMessageDate": 1778848333872,
+          "id": "yNLPpTNySUTLslZUI9J9",
+          "lastMessageDate": 1779046559036,
           "type": "TYPE_PHONE"
         },
         {
@@ -65786,11 +65813,6 @@
         {
           "id": "9KMKkP5I9yk6OQf4HPEl",
           "lastMessageDate": 1778848334751,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "9GnVx4mP8NWTv0Srs1XA",
-          "lastMessageDate": 1778848333872,
           "type": "TYPE_PHONE"
         }
       ]
