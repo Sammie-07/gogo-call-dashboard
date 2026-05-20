@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-05-20T00:10:10.452Z",
+  "syncedAt": "2026-05-20T05:08:12.213Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -8,7 +8,7 @@
       "manualSms": 168,
       "autoSms": 362,
       "manualEmail": 40,
-      "autoEmail": 1662,
+      "autoEmail": 1664,
       "byDay": [
         {
           "date": "2025-12-11",
@@ -481,6 +481,14 @@
           "autoSms": 10,
           "manualEmail": 0,
           "autoEmail": 28
+        },
+        {
+          "date": "2026-05-20",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 0,
+          "manualEmail": 0,
+          "autoEmail": 2
         }
       ],
       "opportunities": [
@@ -43123,6 +43131,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "bopP173VItyebg1W5uep",
+          "lastMessageDate": 1779252613290,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "mdF9Nhi3GPxvrG3MMwZC",
           "lastMessageDate": 1779225903752,
           "type": "TYPE_PHONE"
@@ -43155,11 +43168,6 @@
         {
           "id": "igFsirsUqRFuYQSTVAJX",
           "lastMessageDate": 1779206661338,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "bopP173VItyebg1W5uep",
-          "lastMessageDate": 1779206619357,
           "type": "TYPE_PHONE"
         },
         {
@@ -43623,6 +43631,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "bopP173VItyebg1W5uep",
+          "lastMessageDate": 1779252613290,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "mdF9Nhi3GPxvrG3MMwZC",
           "lastMessageDate": 1779225903752,
           "type": "TYPE_PHONE"
@@ -43655,11 +43668,6 @@
         {
           "id": "igFsirsUqRFuYQSTVAJX",
           "lastMessageDate": 1779206661338,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "bopP173VItyebg1W5uep",
-          "lastMessageDate": 1779206619357,
           "type": "TYPE_PHONE"
         },
         {
@@ -44130,7 +44138,7 @@
       "manualSms": 24,
       "autoSms": 112,
       "manualEmail": 0,
-      "autoEmail": 1162,
+      "autoEmail": 1152,
       "byDay": [
         {
           "date": "2026-04-24",
@@ -44178,7 +44186,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 176
+          "autoEmail": 174
         },
         {
           "date": "2026-05-04",
@@ -44194,7 +44202,7 @@
           "manualSms": 8,
           "autoSms": 18,
           "manualEmail": 0,
-          "autoEmail": 202
+          "autoEmail": 200
         },
         {
           "date": "2026-05-07",
@@ -44218,7 +44226,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 156
+          "autoEmail": 154
         },
         {
           "date": "2026-05-11",
@@ -44250,7 +44258,7 @@
           "manualSms": 6,
           "autoSms": 14,
           "manualEmail": 0,
-          "autoEmail": 184
+          "autoEmail": 182
         },
         {
           "date": "2026-05-18",
@@ -44258,7 +44266,7 @@
           "manualSms": 2,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 168
+          "autoEmail": 166
         },
         {
           "date": "2026-05-19",
@@ -44270,6 +44278,89 @@
         }
       ],
       "opportunities": [
+        {
+          "id": "frukQUY8Hp1j4djyZ7Hz",
+          "name": "Tasha Clark",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "80949724-7894-4a42-8028-746a06208f9e",
+          "pipelineStageUId": "80949724-7894-4a42-8028-746a06208f9e",
+          "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
+          "status": "open",
+          "source": "Tuesday Template (19-05-2026)",
+          "lastStatusChangeAt": "2026-05-20T04:49:07.358Z",
+          "lastStageChangeAt": "2026-05-20T04:50:12.502Z",
+          "createdAt": "2026-05-20T04:49:07.358Z",
+          "updatedAt": "2026-05-20T04:50:12.748Z",
+          "forecastProbability": null,
+          "effectiveProbability": 25,
+          "contactId": "suHDiNUA7Ui8nBoygtDT",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "frukQUY8Hp1j4djyZ7Hz",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "suHDiNUA7Ui8nBoygtDT",
+              "fullName": "Tasha Clark",
+              "contactName": "Tasha Clark",
+              "companyName": null,
+              "email": "tashaclark.realtor@gmail.com",
+              "phone": "+12252413181",
+              "tags": [
+                "stimulus package",
+                "re stimulus pkg",
+                "smc",
+                "new lead",
+                "assigned to ferny"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "suHDiNUA7Ui8nBoygtDT",
+            "name": "Tasha Clark",
+            "companyName": null,
+            "email": "tashaclark.realtor@gmail.com",
+            "phone": "+12252413181",
+            "tags": [
+              "stimulus package",
+              "re stimulus pkg",
+              "smc",
+              "new lead",
+              "assigned to ferny"
+            ],
+            "score": []
+          },
+          "sort": [
+            1779252547358,
+            "suHDiNUA7Ui8nBoygtDT"
+          ],
+          "attributions": [
+            {
+              "utmSessionSource": "CRM UI",
+              "isFirst": true,
+              "medium": "csv_import"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/socialmedia/?utm_source=email&utm_medium=email marketing&utm_campaign=Tuesday Template (19-05-2026)",
+              "utmSessionSource": "Email Marketing",
+              "isLast": true,
+              "utmCampaign": "Tuesday Template (19-05-2026)",
+              "utmMedium": "email marketing",
+              "ip": "2600:1702:6fb0:f060:3d69:75d0:aa93:2fee",
+              "medium": "form",
+              "mediumId": "rtTNrLeOuDNq53WY7xwd",
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15",
+              "url": "https://gogetemcommunity.com/socialmedia/",
+              "utmSource": "email"
+            }
+          ]
+        },
         {
           "id": "NJNMbQi1i0KgXRKgOwvY",
           "name": "Daphne Hanrahan-Bruce",
@@ -65093,6 +65184,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "3yR6Y2EBfRpn2XfUagw4",
+          "lastMessageDate": 1779251944674,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "Xrm2S7LPbyVysADk8lKK",
           "lastMessageDate": 1779224497835,
           "type": "TYPE_PHONE"
@@ -65588,8 +65684,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "C9Rk24S98OXTrlueSEyM",
-          "lastMessageDate": 1779107544542,
+          "id": "3yR6Y2EBfRpn2XfUagw4",
+          "lastMessageDate": 1779251944674,
           "type": "TYPE_PHONE"
         },
         {
@@ -66085,11 +66181,6 @@
         {
           "id": "GFkyh1RAjBTqLmX9gfqG",
           "lastMessageDate": 1779107544597,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "C9Rk24S98OXTrlueSEyM",
-          "lastMessageDate": 1779107544542,
           "type": "TYPE_PHONE"
         }
       ]
