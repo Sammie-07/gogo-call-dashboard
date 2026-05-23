@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-05-23T11:15:03.869Z",
+  "syncedAt": "2026-05-23T13:30:30.665Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -8,7 +8,7 @@
       "manualSms": 160,
       "autoSms": 530,
       "manualEmail": 50,
-      "autoEmail": 1922,
+      "autoEmail": 1924,
       "byDay": [
         {
           "date": "2025-12-12",
@@ -473,6 +473,14 @@
           "autoSms": 6,
           "manualEmail": 8,
           "autoEmail": 24
+        },
+        {
+          "date": "2026-05-23",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 0,
+          "manualEmail": 0,
+          "autoEmail": 2
         }
       ],
       "opportunities": [
@@ -43169,6 +43177,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "qDKbcRwB2fZTY7P9hQNo",
+          "lastMessageDate": 1779542068645,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "0sLB4mP9Siw9LUHGNOaq",
           "lastMessageDate": 1779488860613,
           "type": "TYPE_PHONE"
@@ -43191,11 +43204,6 @@
         {
           "id": "KHRW5tErGPbvBL8tDZwv",
           "lastMessageDate": 1779474702370,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "qDKbcRwB2fZTY7P9hQNo",
-          "lastMessageDate": 1779473505319,
           "type": "TYPE_PHONE"
         },
         {
@@ -43669,6 +43677,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "qDKbcRwB2fZTY7P9hQNo",
+          "lastMessageDate": 1779542068645,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "0sLB4mP9Siw9LUHGNOaq",
           "lastMessageDate": 1779488860613,
           "type": "TYPE_PHONE"
@@ -43691,11 +43704,6 @@
         {
           "id": "KHRW5tErGPbvBL8tDZwv",
           "lastMessageDate": 1779474702370,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "qDKbcRwB2fZTY7P9hQNo",
-          "lastMessageDate": 1779473505319,
           "type": "TYPE_PHONE"
         },
         {
