@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-05-24T12:03:25.893Z",
+  "syncedAt": "2026-05-24T14:27:17.044Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
-      "calls": 222,
-      "talkTimeMinutes": 230,
-      "manualSms": 172,
-      "autoSms": 590,
+      "calls": 220,
+      "talkTimeMinutes": 228,
+      "manualSms": 170,
+      "autoSms": 586,
       "manualEmail": 46,
-      "autoEmail": 2026,
+      "autoEmail": 2008,
       "byDay": [
         {
           "date": "2024-02-19",
@@ -140,14 +140,6 @@
         },
         {
           "date": "2026-01-29",
-          "calls": 0,
-          "manualSms": 2,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 0
-        },
-        {
-          "date": "2026-02-05",
           "calls": 0,
           "manualSms": 2,
           "autoSms": 0,
@@ -312,7 +304,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 2,
-          "autoEmail": 126
+          "autoEmail": 124
         },
         {
           "date": "2026-04-27",
@@ -320,7 +312,7 @@
           "manualSms": 0,
           "autoSms": 22,
           "manualEmail": 0,
-          "autoEmail": 220
+          "autoEmail": 218
         },
         {
           "date": "2026-04-28",
@@ -340,11 +332,11 @@
         },
         {
           "date": "2026-04-30",
-          "calls": 12,
+          "calls": 10,
           "manualSms": 0,
-          "autoSms": 28,
+          "autoSms": 26,
           "manualEmail": 4,
-          "autoEmail": 48
+          "autoEmail": 46
         },
         {
           "date": "2026-05-01",
@@ -366,9 +358,9 @@
           "date": "2026-05-03",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 10,
+          "autoSms": 8,
           "manualEmail": 0,
-          "autoEmail": 10
+          "autoEmail": 8
         },
         {
           "date": "2026-05-04",
@@ -400,7 +392,7 @@
           "manualSms": 6,
           "autoSms": 50,
           "manualEmail": 0,
-          "autoEmail": 80
+          "autoEmail": 78
         },
         {
           "date": "2026-05-08",
@@ -422,9 +414,9 @@
           "date": "2026-05-10",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 48,
+          "autoSms": 46,
           "manualEmail": 0,
-          "autoEmail": 104
+          "autoEmail": 102
         },
         {
           "date": "2026-05-11",
@@ -456,7 +448,7 @@
           "manualSms": 2,
           "autoSms": 54,
           "manualEmail": 0,
-          "autoEmail": 142
+          "autoEmail": 140
         },
         {
           "date": "2026-05-15",
@@ -480,7 +472,7 @@
           "manualSms": 0,
           "autoSms": 14,
           "manualEmail": 0,
-          "autoEmail": 26
+          "autoEmail": 24
         },
         {
           "date": "2026-05-18",
@@ -512,7 +504,7 @@
           "manualSms": 2,
           "autoSms": 54,
           "manualEmail": 0,
-          "autoEmail": 144
+          "autoEmail": 142
         },
         {
           "date": "2026-05-22",
@@ -529,9 +521,100 @@
           "autoSms": 28,
           "manualEmail": 0,
           "autoEmail": 60
+        },
+        {
+          "date": "2026-05-24",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 2,
+          "manualEmail": 0,
+          "autoEmail": 0
         }
       ],
       "opportunities": [
+        {
+          "id": "vP8MhCbqMFvKWr2icOCQ",
+          "name": "Hans Ulrich Reitzel",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "assignedTo": "C7PplofCN88pv8MTTiZT",
+          "status": "open",
+          "source": "GoGet'Em Sign Up Form w/@IG handle",
+          "lastStatusChangeAt": "2026-05-24T14:04:15.716Z",
+          "lastStageChangeAt": "2026-05-24T14:05:20.901Z",
+          "createdAt": "2026-05-24T14:04:15.716Z",
+          "updatedAt": "2026-05-24T14:05:20.998Z",
+          "forecastProbability": null,
+          "effectiveProbability": 31.25,
+          "contactId": "SHhY9Y4Fxi5G6PfO6KOK",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "vP8MhCbqMFvKWr2icOCQ",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "SHhY9Y4Fxi5G6PfO6KOK",
+              "fullName": "Hans Ulrich Reitzel",
+              "contactName": "Hans Ulrich Reitzel",
+              "companyName": null,
+              "email": "reitzelhans@hmail.com",
+              "phone": "+4917634132178",
+              "tags": [
+                "smc",
+                "new lead",
+                "assigned to natalia"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "SHhY9Y4Fxi5G6PfO6KOK",
+            "name": "Hans Ulrich Reitzel",
+            "companyName": null,
+            "email": "reitzelhans@hmail.com",
+            "phone": "+4917634132178",
+            "tags": [
+              "smc",
+              "new lead",
+              "assigned to natalia"
+            ],
+            "score": []
+          },
+          "sort": [
+            1779631455716,
+            "SHhY9Y4Fxi5G6PfO6KOK"
+          ],
+          "attributions": [
+            {
+              "pageUrl": "https://gogetemcommunity.com/socialmedia/?mcp_token=eyJwaWQiOjMyODA5MDcsInNpZCI6MTAyNjkwMjA0MCwiYXgiOiJjNjY2NDk1NWE3MWYyN2YyM2VmOGFhMTFmODlmZWQ2YyIsInRzIjoxNzc5NjMwNTg1LCJleHAiOjE3ODIwNDk3ODV9.MM8CkZqoecze-5dpBh_SG4KDzupp3cJT78dKkSwUYwc",
+              "referrer": "http://instagram.com",
+              "utmSessionSource": "Social media",
+              "ip": "2a11:fb80:150:4201:31d4:963d:868d:e2da",
+              "isFirst": true,
+              "medium": "form",
+              "mediumId": "rtTNrLeOuDNq53WY7xwd",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23E261 Instagram 430.0.0.32.70 (iPhone13,1; iOS 26_4_2; de_DE; de; scale=3.00; 1125x2436; IABMV/1; 972915403) Safari/604.1",
+              "url": "https://gogetemcommunity.com/socialmedia/"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/socialmedia/?mcp_token=eyJwaWQiOjMyODA5MDcsInNpZCI6MTAyNjkwMjA0MCwiYXgiOiJjNjY2NDk1NWE3MWYyN2YyM2VmOGFhMTFmODlmZWQ2YyIsInRzIjoxNzc5NjMwNTg1LCJleHAiOjE3ODIwNDk3ODV9.MM8CkZqoecze-5dpBh_SG4KDzupp3cJT78dKkSwUYwc",
+              "referrer": "http://instagram.com",
+              "utmSessionSource": "Social media",
+              "isLast": true,
+              "ip": "2a11:fb80:150:4201:31d4:963d:868d:e2da",
+              "medium": "form",
+              "mediumId": "rtTNrLeOuDNq53WY7xwd",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23E261 Instagram 430.0.0.32.70 (iPhone13,1; iOS 26_4_2; de_DE; de; scale=3.00; 1125x2436; IABMV/1; 972915403) Safari/604.1",
+              "url": "https://gogetemcommunity.com/socialmedia/"
+            }
+          ]
+        },
         {
           "id": "uMUUN520nWFVZ0Ai32FE",
           "name": "Maxine Stover",
@@ -43225,6 +43308,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "SF1SZ4Uypi1FOAYhwmIj",
+          "lastMessageDate": 1779632060356,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "HhGeIYz8ssz94DoocBxP",
           "lastMessageDate": 1779566657856,
           "type": "TYPE_PHONE"
@@ -43720,8 +43808,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "27vtDdPIrUKg2IvSej5t",
-          "lastMessageDate": 1779384888543,
+          "id": "SF1SZ4Uypi1FOAYhwmIj",
+          "lastMessageDate": 1779632060356,
           "type": "TYPE_PHONE"
         },
         {
@@ -44217,11 +44305,6 @@
         {
           "id": "YnItGqu9s2kvHZL9AW9B",
           "lastMessageDate": 1779384958857,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "27vtDdPIrUKg2IvSej5t",
-          "lastMessageDate": 1779384888543,
           "type": "TYPE_PHONE"
         }
       ]
@@ -44230,7 +44313,7 @@
       "calls": 58,
       "talkTimeMinutes": 58,
       "manualSms": 42,
-      "autoSms": 166,
+      "autoSms": 168,
       "manualEmail": 8,
       "autoEmail": 1338,
       "byDay": [
@@ -44449,6 +44532,14 @@
           "autoSms": 2,
           "manualEmail": 0,
           "autoEmail": 2
+        },
+        {
+          "date": "2026-05-24",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 2,
+          "manualEmail": 0,
+          "autoEmail": 0
         }
       ],
       "opportunities": [
@@ -65382,6 +65473,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "Xrm2S7LPbyVysADk8lKK",
+          "lastMessageDate": 1779632451790,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "K82LLmc3oZD941GVckCG",
           "lastMessageDate": 1779555025439,
           "type": "TYPE_PHONE"
@@ -65469,11 +65565,6 @@
         {
           "id": "OMVsMBiJcQVHrN83P5Hz",
           "lastMessageDate": 1779424022916,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "Xrm2S7LPbyVysADk8lKK",
-          "lastMessageDate": 1779402881880,
           "type": "TYPE_PHONE"
         },
         {
@@ -65882,6 +65973,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "Xrm2S7LPbyVysADk8lKK",
+          "lastMessageDate": 1779632451790,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "K82LLmc3oZD941GVckCG",
           "lastMessageDate": 1779555025439,
           "type": "TYPE_PHONE"
@@ -65969,11 +66065,6 @@
         {
           "id": "OMVsMBiJcQVHrN83P5Hz",
           "lastMessageDate": 1779424022916,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "Xrm2S7LPbyVysADk8lKK",
-          "lastMessageDate": 1779402881880,
           "type": "TYPE_PHONE"
         },
         {
