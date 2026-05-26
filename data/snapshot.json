@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-05-25T23:07:18.720Z",
+  "syncedAt": "2026-05-26T03:43:32.104Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
-      "calls": 248,
-      "talkTimeMinutes": 241,
+      "calls": 246,
+      "talkTimeMinutes": 234,
       "manualSms": 236,
-      "autoSms": 548,
+      "autoSms": 550,
       "manualEmail": 54,
-      "autoEmail": 1974,
+      "autoEmail": 1958,
       "byDay": [
         {
           "date": "2025-07-03",
@@ -296,7 +296,7 @@
           "manualSms": 2,
           "autoSms": 6,
           "manualEmail": 2,
-          "autoEmail": 146
+          "autoEmail": 144
         },
         {
           "date": "2026-04-25",
@@ -312,7 +312,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 180
+          "autoEmail": 178
         },
         {
           "date": "2026-04-28",
@@ -352,7 +352,7 @@
           "manualSms": 0,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 140
+          "autoEmail": 138
         },
         {
           "date": "2026-05-03",
@@ -376,7 +376,7 @@
           "manualSms": 2,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 134
+          "autoEmail": 132
         },
         {
           "date": "2026-05-06",
@@ -416,7 +416,7 @@
           "manualSms": 0,
           "autoSms": 72,
           "manualEmail": 0,
-          "autoEmail": 156
+          "autoEmail": 154
         },
         {
           "date": "2026-05-11",
@@ -444,11 +444,11 @@
         },
         {
           "date": "2026-05-14",
-          "calls": 26,
+          "calls": 24,
           "manualSms": 18,
           "autoSms": 74,
           "manualEmail": 4,
-          "autoEmail": 168
+          "autoEmail": 166
         },
         {
           "date": "2026-05-15",
@@ -472,7 +472,7 @@
           "manualSms": 0,
           "autoSms": 42,
           "manualEmail": 0,
-          "autoEmail": 66
+          "autoEmail": 64
         },
         {
           "date": "2026-05-18",
@@ -504,7 +504,7 @@
           "manualSms": 4,
           "autoSms": 52,
           "manualEmail": 0,
-          "autoEmail": 182
+          "autoEmail": 180
         },
         {
           "date": "2026-05-22",
@@ -528,7 +528,7 @@
           "manualSms": 0,
           "autoSms": 60,
           "manualEmail": 0,
-          "autoEmail": 92
+          "autoEmail": 90
         },
         {
           "date": "2026-05-25",
@@ -537,9 +537,100 @@
           "autoSms": 2,
           "manualEmail": 0,
           "autoEmail": 92
+        },
+        {
+          "date": "2026-05-26",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 2,
+          "manualEmail": 0,
+          "autoEmail": 2
         }
       ],
       "opportunities": [
+        {
+          "id": "WMBRG92gYJbB4l7gLtFe",
+          "name": "Jose Jarquín",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "assignedTo": "C7PplofCN88pv8MTTiZT",
+          "status": "open",
+          "source": "GoGet'Em Sign Up Form w/@IG handle",
+          "lastStatusChangeAt": "2026-05-25T23:56:15.937Z",
+          "lastStageChangeAt": "2026-05-25T23:57:21.987Z",
+          "createdAt": "2026-05-25T23:56:15.937Z",
+          "updatedAt": "2026-05-25T23:57:22.105Z",
+          "forecastProbability": null,
+          "effectiveProbability": 31.25,
+          "contactId": "06P436YZ91ICYxeWWqJt",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "WMBRG92gYJbB4l7gLtFe",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "06P436YZ91ICYxeWWqJt",
+              "fullName": "Jose Jarquín",
+              "contactName": "Jose Jarquín",
+              "companyName": null,
+              "email": "jose.jarquin@kwcostarica.com",
+              "phone": "+50688439735",
+              "tags": [
+                "smc",
+                "new lead",
+                "assigned to natalia"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "06P436YZ91ICYxeWWqJt",
+            "name": "Jose Jarquín",
+            "companyName": null,
+            "email": "jose.jarquin@kwcostarica.com",
+            "phone": "+50688439735",
+            "tags": [
+              "smc",
+              "new lead",
+              "assigned to natalia"
+            ],
+            "score": []
+          },
+          "sort": [
+            1779753375937,
+            "06P436YZ91ICYxeWWqJt"
+          ],
+          "attributions": [
+            {
+              "pageUrl": "https://gogetemcommunity.com/socialmedia/?mcp_token=eyJwaWQiOjE2OTQ4NTIzNjQ0NTU3Nywic2lkIjoxOTY1NzAzMDc2LCJheCI6IjRlOTA4NDE0OWFlYTMxMmMzNThlYTgzOWZkNmI4MWUyIiwidHMiOjE3Nzk3NTI1OTcsImV4cCI6MTc4MjE3MTc5N30.ETMfwyv5k0iPUPzYDwJ40heN952UhDJxwC34Gep5WJI",
+              "referrer": "http://instagram.com",
+              "utmSessionSource": "Social media",
+              "ip": "190.171.113.245",
+              "isFirst": true,
+              "medium": "form",
+              "mediumId": "rtTNrLeOuDNq53WY7xwd",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23F77 Instagram 430.0.0.32.70 (iPhone18,1; iOS 26_5; es_LA; es; scale=3.00; 1206x2622; IABMV/1; 972915403) Safari/604.1",
+              "url": "https://gogetemcommunity.com/socialmedia/"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/socialmedia/?mcp_token=eyJwaWQiOjE2OTQ4NTIzNjQ0NTU3Nywic2lkIjoxOTY1NzAzMDc2LCJheCI6IjRlOTA4NDE0OWFlYTMxMmMzNThlYTgzOWZkNmI4MWUyIiwidHMiOjE3Nzk3NTI1OTcsImV4cCI6MTc4MjE3MTc5N30.ETMfwyv5k0iPUPzYDwJ40heN952UhDJxwC34Gep5WJI",
+              "referrer": "http://instagram.com",
+              "utmSessionSource": "Social media",
+              "isLast": true,
+              "ip": "190.171.113.245",
+              "medium": "form",
+              "mediumId": "rtTNrLeOuDNq53WY7xwd",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23F77 Instagram 430.0.0.32.70 (iPhone18,1; iOS 26_5; es_LA; es; scale=3.00; 1206x2622; IABMV/1; 972915403) Safari/604.1",
+              "url": "https://gogetemcommunity.com/socialmedia/"
+            }
+          ]
+        },
         {
           "id": "vP8MhCbqMFvKWr2icOCQ",
           "name": "Hans Ulrich Reitzel",
@@ -43318,6 +43409,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "sP0WLR00RBFxCQAb7AhG",
+          "lastMessageDate": 1779753982591,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "X9XSuPtZ5RLBWxTWMGL5",
           "lastMessageDate": 1779741859829,
           "type": "TYPE_PHONE"
@@ -43813,8 +43909,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "q1IEipsmJeXHNJGC8Ufu",
-          "lastMessageDate": 1779637360436,
+          "id": "sP0WLR00RBFxCQAb7AhG",
+          "lastMessageDate": 1779753982591,
           "type": "TYPE_PHONE"
         },
         {
@@ -44310,11 +44406,6 @@
         {
           "id": "puvYwNFZRhWUBI6ac839",
           "lastMessageDate": 1779637591556,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "q1IEipsmJeXHNJGC8Ufu",
-          "lastMessageDate": 1779637360436,
           "type": "TYPE_PHONE"
         }
       ]
