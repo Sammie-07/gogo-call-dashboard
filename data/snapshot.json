@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-05-26T20:56:57.017Z",
+  "syncedAt": "2026-05-26T22:23:00.499Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 32,
       "talkTimeMinutes": 32,
-      "manualSms": 140,
+      "manualSms": 142,
       "autoSms": 132,
       "manualEmail": 54,
-      "autoEmail": 2004,
+      "autoEmail": 1986,
       "byDay": [
         {
           "date": "2024-09-05",
@@ -147,6 +147,14 @@
           "autoEmail": 0
         },
         {
+          "date": "2026-03-20",
+          "calls": 0,
+          "manualSms": 2,
+          "autoSms": 0,
+          "manualEmail": 0,
+          "autoEmail": 0
+        },
+        {
           "date": "2026-03-23",
           "calls": 0,
           "manualSms": 0,
@@ -272,7 +280,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 2,
-          "autoEmail": 164
+          "autoEmail": 162
         },
         {
           "date": "2026-04-27",
@@ -280,7 +288,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 200
+          "autoEmail": 198
         },
         {
           "date": "2026-04-28",
@@ -320,7 +328,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 178
+          "autoEmail": 176
         },
         {
           "date": "2026-05-04",
@@ -336,7 +344,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 198
+          "autoEmail": 196
         },
         {
           "date": "2026-05-06",
@@ -368,7 +376,7 @@
           "manualSms": 0,
           "autoSms": 14,
           "manualEmail": 0,
-          "autoEmail": 192
+          "autoEmail": 190
         },
         {
           "date": "2026-05-11",
@@ -408,7 +416,7 @@
           "manualSms": 8,
           "autoSms": 8,
           "manualEmail": 2,
-          "autoEmail": 182
+          "autoEmail": 180
         },
         {
           "date": "2026-05-16",
@@ -424,7 +432,7 @@
           "manualSms": 4,
           "autoSms": 0,
           "manualEmail": 2,
-          "autoEmail": 204
+          "autoEmail": 202
         },
         {
           "date": "2026-05-19",
@@ -448,7 +456,7 @@
           "manualSms": 2,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 178
+          "autoEmail": 176
         },
         {
           "date": "2026-05-22",
@@ -488,7 +496,7 @@
           "manualSms": 10,
           "autoSms": 6,
           "manualEmail": 4,
-          "autoEmail": 194
+          "autoEmail": 192
         }
       ],
       "opportunities": [
@@ -14096,6 +14104,84 @@
               "mediumId": "rtTNrLeOuDNq53WY7xwd",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21G93 [FBAN/FBIOS;FBAV/543.0.0.47.72;FBBV/845843444;FBDV/iPhone12,1;FBMD/iPhone;FBSN/iOS;FBSV/17.6.1;FBSS/2;FBID/phone;FBLC/en_US;FBOP/5;FBRV/0;IABMV/1]",
               "url": "https://gogetemcommunity.com/"
+            }
+          ]
+        },
+        {
+          "id": "2WRL0fRfaSzRGGF8N7qZ",
+          "name": "Oakland County, MI Realtor | YVONNE ZIELINSKI",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "9af4ce40-5d59-4bbc-bb7a-a035ad6c0a46",
+          "pipelineStageUId": "9af4ce40-5d59-4bbc-bb7a-a035ad6c0a46",
+          "assignedTo": "C7PplofCN88pv8MTTiZT",
+          "status": "open",
+          "source": "RETARGETING | SMC Website Variants Testing",
+          "lastStatusChangeAt": "2026-02-27T20:03:43.390Z",
+          "lastStageChangeAt": "2026-04-13T19:53:08.204Z",
+          "createdAt": "2026-02-27T20:03:43.389Z",
+          "updatedAt": "2026-05-26T21:33:23.370Z",
+          "forecastProbability": null,
+          "effectiveProbability": 43.75,
+          "indexVersion": 1,
+          "contactId": "KcLRWDotEehegutKGiJa",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "2WRL0fRfaSzRGGF8N7qZ",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "KcLRWDotEehegutKGiJa",
+              "fullName": "Oakland County, MI Realtor | YVONNE ZIELINSKI",
+              "contactName": "Oakland County, MI Realtor | YVONNE ZIELINSKI",
+              "companyName": null,
+              "email": "yzielinski72@gmail.com",
+              "phone": "+15867385543",
+              "tags": [
+                "smc",
+                "keyword:social",
+                "new lead",
+                "assigned to laura",
+                "keyword:community"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "KcLRWDotEehegutKGiJa",
+            "name": "Oakland County, MI Realtor | YVONNE ZIELINSKI",
+            "companyName": null,
+            "email": "yzielinski72@gmail.com",
+            "phone": "+15867385543",
+            "tags": [
+              "smc",
+              "keyword:social",
+              "new lead",
+              "assigned to laura",
+              "keyword:community"
+            ],
+            "score": []
+          },
+          "sort": [
+            1772222623389,
+            "KcLRWDotEehegutKGiJa"
+          ],
+          "attributions": [
+            {
+              "utmSessionSource": "Social media",
+              "isFirst": true,
+              "medium": "facebook",
+              "mediumId": "26362418173361281"
+            },
+            {
+              "utmSessionSource": "Social media",
+              "isLast": true,
+              "medium": "instagram",
+              "mediumId": "450589464605371"
             }
           ]
         },
@@ -43359,6 +43445,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "adJrho06sRHzqsjH2MHh",
+          "lastMessageDate": 1779829325873,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "Pro52HaJWFXqQ4x3RNGH",
           "lastMessageDate": 1779826876442,
           "type": "TYPE_PHONE"
@@ -43854,8 +43945,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "DNECc9Vl4jTUBQsXCWRo",
-          "lastMessageDate": 1779798739090,
+          "id": "adJrho06sRHzqsjH2MHh",
+          "lastMessageDate": 1779829325873,
           "type": "TYPE_PHONE"
         },
         {
@@ -44351,11 +44442,6 @@
         {
           "id": "ZgOUGdypkKSJtQuHK8b4",
           "lastMessageDate": 1779798739104,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "DNECc9Vl4jTUBQsXCWRo",
-          "lastMessageDate": 1779798739090,
           "type": "TYPE_PHONE"
         }
       ]
