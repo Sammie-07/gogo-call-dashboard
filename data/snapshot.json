@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-05-26T22:23:00.499Z",
+  "syncedAt": "2026-05-27T00:08:56.071Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 32,
       "talkTimeMinutes": 32,
       "manualSms": 142,
-      "autoSms": 132,
+      "autoSms": 134,
       "manualEmail": 54,
-      "autoEmail": 1986,
+      "autoEmail": 1988,
       "byDay": [
         {
           "date": "2024-09-05",
@@ -497,6 +497,14 @@
           "autoSms": 6,
           "manualEmail": 4,
           "autoEmail": 192
+        },
+        {
+          "date": "2026-05-27",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 2,
+          "manualEmail": 0,
+          "autoEmail": 2
         }
       ],
       "opportunities": [
@@ -43445,6 +43453,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "sP0WLR00RBFxCQAb7AhG",
+          "lastMessageDate": 1779840388036,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "adJrho06sRHzqsjH2MHh",
           "lastMessageDate": 1779829325873,
           "type": "TYPE_PHONE"
@@ -43522,11 +43535,6 @@
         {
           "id": "SF1SZ4Uypi1FOAYhwmIj",
           "lastMessageDate": 1779805339356,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "sP0WLR00RBFxCQAb7AhG",
-          "lastMessageDate": 1779805268628,
           "type": "TYPE_PHONE"
         },
         {
@@ -43945,6 +43953,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "sP0WLR00RBFxCQAb7AhG",
+          "lastMessageDate": 1779840388036,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "adJrho06sRHzqsjH2MHh",
           "lastMessageDate": 1779829325873,
           "type": "TYPE_PHONE"
@@ -44022,11 +44035,6 @@
         {
           "id": "SF1SZ4Uypi1FOAYhwmIj",
           "lastMessageDate": 1779805339356,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "sP0WLR00RBFxCQAb7AhG",
-          "lastMessageDate": 1779805268628,
           "type": "TYPE_PHONE"
         },
         {
