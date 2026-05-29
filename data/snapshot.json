@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-05-28T23:22:15.318Z",
+  "syncedAt": "2026-05-29T03:47:38.639Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -8,7 +8,7 @@
       "manualSms": 156,
       "autoSms": 526,
       "manualEmail": 58,
-      "autoEmail": 2220,
+      "autoEmail": 2222,
       "byDay": [
         {
           "date": "2025-05-26",
@@ -561,6 +561,14 @@
           "autoSms": 24,
           "manualEmail": 0,
           "autoEmail": 156
+        },
+        {
+          "date": "2026-05-29",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 0,
+          "manualEmail": 0,
+          "autoEmail": 2
         }
       ],
       "opportunities": [
@@ -43703,6 +43711,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "bopP173VItyebg1W5uep",
+          "lastMessageDate": 1780019287760,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "5xUzfuF86bxoAXDaJ6UV",
           "lastMessageDate": 1780008973142,
           "type": "TYPE_PHONE"
@@ -44065,11 +44078,6 @@
         {
           "id": "xaxyar06LcaIQUHUYM0r",
           "lastMessageDate": 1779981934046,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "bopP173VItyebg1W5uep",
-          "lastMessageDate": 1779980766135,
           "type": "TYPE_PHONE"
         },
         {
@@ -44203,6 +44211,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "bopP173VItyebg1W5uep",
+          "lastMessageDate": 1780019287760,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "5xUzfuF86bxoAXDaJ6UV",
           "lastMessageDate": 1780008973142,
           "type": "TYPE_PHONE"
@@ -44565,11 +44578,6 @@
         {
           "id": "xaxyar06LcaIQUHUYM0r",
           "lastMessageDate": 1779981934046,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "bopP173VItyebg1W5uep",
-          "lastMessageDate": 1779980766135,
           "type": "TYPE_PHONE"
         },
         {
@@ -44710,7 +44718,7 @@
       "manualSms": 34,
       "autoSms": 112,
       "manualEmail": 8,
-      "autoEmail": 1510,
+      "autoEmail": 1494,
       "byDay": [
         {
           "date": "2026-04-24",
@@ -44726,7 +44734,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 88
+          "autoEmail": 86
         },
         {
           "date": "2026-05-02",
@@ -44734,7 +44742,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 186
+          "autoEmail": 184
         },
         {
           "date": "2026-05-04",
@@ -44750,7 +44758,7 @@
           "manualSms": 8,
           "autoSms": 18,
           "manualEmail": 0,
-          "autoEmail": 206
+          "autoEmail": 204
         },
         {
           "date": "2026-05-07",
@@ -44774,7 +44782,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 166
+          "autoEmail": 164
         },
         {
           "date": "2026-05-12",
@@ -44798,7 +44806,7 @@
           "manualSms": 0,
           "autoSms": 14,
           "manualEmail": 0,
-          "autoEmail": 172
+          "autoEmail": 170
         },
         {
           "date": "2026-05-17",
@@ -44814,7 +44822,7 @@
           "manualSms": 2,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 154
+          "autoEmail": 152
         },
         {
           "date": "2026-05-19",
@@ -44838,7 +44846,7 @@
           "manualSms": 0,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 172
+          "autoEmail": 170
         },
         {
           "date": "2026-05-22",
@@ -44870,7 +44878,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 174
+          "autoEmail": 172
         },
         {
           "date": "2026-05-28",
@@ -44882,6 +44890,98 @@
         }
       ],
       "opportunities": [
+        {
+          "id": "93F6GZXfaTNfiYLkfTlY",
+          "name": "Jodi Brabson",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "80949724-7894-4a42-8028-746a06208f9e",
+          "pipelineStageUId": "80949724-7894-4a42-8028-746a06208f9e",
+          "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
+          "status": "open",
+          "source": "GoGet'Em Sign Up Form w/@IG handle",
+          "lastStatusChangeAt": "2026-05-29T01:47:02.874Z",
+          "lastStageChangeAt": "2026-05-29T01:48:07.400Z",
+          "createdAt": "2026-05-29T01:47:02.874Z",
+          "updatedAt": "2026-05-29T01:48:07.548Z",
+          "forecastProbability": null,
+          "effectiveProbability": 25,
+          "contactId": "mwRpda13AscuSEkJvqUE",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "93F6GZXfaTNfiYLkfTlY",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "mwRpda13AscuSEkJvqUE",
+              "fullName": "Jodi Brabson",
+              "contactName": "Jodi Brabson",
+              "companyName": null,
+              "email": "jodi.b@initiarealestate.com",
+              "phone": "+18106622881",
+              "tags": [
+                "smc",
+                "new lead",
+                "assigned to ferny"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "mwRpda13AscuSEkJvqUE",
+            "name": "Jodi Brabson",
+            "companyName": null,
+            "email": "jodi.b@initiarealestate.com",
+            "phone": "+18106622881",
+            "tags": [
+              "smc",
+              "new lead",
+              "assigned to ferny"
+            ],
+            "score": []
+          },
+          "sort": [
+            1780019222874,
+            "mwRpda13AscuSEkJvqUE"
+          ],
+          "attributions": [
+            {
+              "pageUrl": "https://gogetemcommunity.com/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPMTI0MDI0NTc0Mjg3NDE0AAGnEh4rt9WQZdeVzVhp_5LitLLp8Vxme7dEeJXL8M9pljDFHv3s1RYhgc6mUd8_aem_e5Hp1nGlOmAZGzShZ9oLrQ&utm_id=97760_v0_s00_e0_tv3",
+              "utmSessionSource": "Social media",
+              "utmMedium": "social",
+              "ip": "2601:408:c603:d70:18b6:d7fa:642f:c419",
+              "isFirst": true,
+              "medium": "form",
+              "utmKeyword": "Link_in_bio",
+              "url": "https://gogetemcommunity.com/",
+              "referrer": "https://l.instagram.com",
+              "utmFbclid": "PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPMTI0MDI0NTc0Mjg3NDE0AAGnEh4rt9WQZdeVzVhp_5LitLLp8Vxme7dEeJXL8M9pljDFHv3s1RYhgc6mUd8_aem_e5Hp1nGlOmAZGzShZ9oLrQ",
+              "mediumId": "rtTNrLeOuDNq53WY7xwd",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23F77 Instagram 431.0.0.23.68 (iPhone14,7; iOS 26_5; en_US; en; scale=3.00; 1170x2532; IABMV/1; 978209931) NW/3 Safari/604.1",
+              "utmSource": "ig",
+              "utmContent": "link_in_bio"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPMTI0MDI0NTc0Mjg3NDE0AAGnEh4rt9WQZdeVzVhp_5LitLLp8Vxme7dEeJXL8M9pljDFHv3s1RYhgc6mUd8_aem_e5Hp1nGlOmAZGzShZ9oLrQ&utm_id=97760_v0_s00_e0_tv3",
+              "utmSessionSource": "Social media",
+              "utmMedium": "social",
+              "ip": "2601:408:c603:d70:18b6:d7fa:642f:c419",
+              "medium": "form",
+              "url": "https://gogetemcommunity.com/",
+              "referrer": "https://l.instagram.com",
+              "isLast": true,
+              "utmFbclid": "PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPMTI0MDI0NTc0Mjg3NDE0AAGnEh4rt9WQZdeVzVhp_5LitLLp8Vxme7dEeJXL8M9pljDFHv3s1RYhgc6mUd8_aem_e5Hp1nGlOmAZGzShZ9oLrQ",
+              "mediumId": "rtTNrLeOuDNq53WY7xwd",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23F77 Instagram 431.0.0.23.68 (iPhone14,7; iOS 26_5; en_US; en; scale=3.00; 1170x2532; IABMV/1; 978209931) NW/3 Safari/604.1",
+              "utmSource": "ig",
+              "utmContent": "link_in_bio"
+            }
+          ]
+        },
         {
           "id": "iTQ1LZdlBWJ2Dc4aOo22",
           "name": "Nicole Anderson",
@@ -66067,6 +66167,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "kl3XAqaIfEHo3TXrB3NN",
+          "lastMessageDate": 1780018620859,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "sLmWnRXhvhXvU0LlmY20",
           "lastMessageDate": 1779998499178,
           "type": "TYPE_PHONE"
@@ -66562,8 +66667,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "kGYpGur416jA5p5SGC9L",
-          "lastMessageDate": 1779798748954,
+          "id": "kl3XAqaIfEHo3TXrB3NN",
+          "lastMessageDate": 1780018620859,
           "type": "TYPE_PHONE"
         },
         {
@@ -67059,11 +67164,6 @@
         {
           "id": "OMVsMBiJcQVHrN83P5Hz",
           "lastMessageDate": 1779798749092,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "kGYpGur416jA5p5SGC9L",
-          "lastMessageDate": 1779798748954,
           "type": "TYPE_PHONE"
         }
       ]
