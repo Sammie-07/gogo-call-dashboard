@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-05-29T08:00:42.828Z",
+  "syncedAt": "2026-05-29T11:39:22.406Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
-      "calls": 244,
+      "calls": 242,
       "talkTimeMinutes": 217,
       "manualSms": 156,
       "autoSms": 526,
       "manualEmail": 58,
-      "autoEmail": 2222,
+      "autoEmail": 2204,
       "byDay": [
         {
           "date": "2025-05-26",
@@ -296,7 +296,7 @@
           "manualSms": 2,
           "autoSms": 8,
           "manualEmail": 2,
-          "autoEmail": 144
+          "autoEmail": 142
         },
         {
           "date": "2026-04-25",
@@ -312,7 +312,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 182
+          "autoEmail": 180
         },
         {
           "date": "2026-04-28",
@@ -352,7 +352,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 160
+          "autoEmail": 158
         },
         {
           "date": "2026-05-03",
@@ -376,7 +376,7 @@
           "manualSms": 2,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 156
+          "autoEmail": 154
         },
         {
           "date": "2026-05-06",
@@ -416,7 +416,7 @@
           "manualSms": 0,
           "autoSms": 30,
           "manualEmail": 0,
-          "autoEmail": 114
+          "autoEmail": 112
         },
         {
           "date": "2026-05-11",
@@ -456,7 +456,7 @@
           "manualSms": 8,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 42
+          "autoEmail": 40
         },
         {
           "date": "2026-05-16",
@@ -480,7 +480,7 @@
           "manualSms": 2,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 116
+          "autoEmail": 114
         },
         {
           "date": "2026-05-19",
@@ -504,7 +504,7 @@
           "manualSms": 0,
           "autoSms": 42,
           "manualEmail": 0,
-          "autoEmail": 170
+          "autoEmail": 168
         },
         {
           "date": "2026-05-22",
@@ -544,15 +544,15 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 26
+          "autoEmail": 24
         },
         {
           "date": "2026-05-27",
-          "calls": 14,
+          "calls": 12,
           "manualSms": 2,
-          "autoSms": 10,
+          "autoSms": 8,
           "manualEmail": 16,
-          "autoEmail": 52
+          "autoEmail": 50
         },
         {
           "date": "2026-05-28",
@@ -566,12 +566,171 @@
           "date": "2026-05-29",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 0,
+          "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 2
+          "autoEmail": 4
         }
       ],
       "opportunities": [
+        {
+          "id": "wGIvWZqsPvpysiemnJwG",
+          "name": "Debbie McClain",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "assignedTo": "C7PplofCN88pv8MTTiZT",
+          "status": "open",
+          "source": "Friday Template (29-05-2026)",
+          "lastStatusChangeAt": "2026-05-29T11:19:45.291Z",
+          "lastStageChangeAt": "2026-05-29T11:20:50.907Z",
+          "createdAt": "2026-05-29T11:19:45.291Z",
+          "updatedAt": "2026-05-29T11:20:51.021Z",
+          "forecastProbability": null,
+          "effectiveProbability": 31.25,
+          "contactId": "vmm0OdQix3fef3nNY0aH",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "wGIvWZqsPvpysiemnJwG",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "vmm0OdQix3fef3nNY0aH",
+              "fullName": "Debbie McClain",
+              "contactName": "Debbie McClain",
+              "companyName": null,
+              "email": "debbieniecemcclain@gmail.com",
+              "phone": "+18172960040",
+              "tags": [
+                "smc",
+                "new lead",
+                "assigned to natalia"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "vmm0OdQix3fef3nNY0aH",
+            "name": "Debbie McClain",
+            "companyName": null,
+            "email": "debbieniecemcclain@gmail.com",
+            "phone": "+18172960040",
+            "tags": [
+              "smc",
+              "new lead",
+              "assigned to natalia"
+            ],
+            "score": []
+          },
+          "sort": [
+            1780053585291,
+            "vmm0OdQix3fef3nNY0aH"
+          ],
+          "attributions": [
+            {
+              "utmSessionSource": "Other",
+              "isFirst": true,
+              "medium": "facebook",
+              "mediumId": "5727971297229102"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/?utm_source=email&utm_medium=email marketing&utm_campaign=Friday Template (29-05-2026)",
+              "utmSessionSource": "Email Marketing",
+              "isLast": true,
+              "utmCampaign": "Friday Template (29-05-2026)",
+              "fbp": "fb.1.1774656817834.48587564131059625",
+              "utmMedium": "email marketing",
+              "ip": "2600:1700:7f80:5980:1d1d:ae26:b258:d03a",
+              "medium": "form",
+              "mediumId": "rtTNrLeOuDNq53WY7xwd",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_5_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.166 Mobile/15E148 Safari/604.1",
+              "url": "https://gogetemcommunity.com/",
+              "utmSource": "email"
+            }
+          ]
+        },
+        {
+          "id": "2CjRmAYI0ts4RYfm6B1J",
+          "name": "Libby Johnson",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "assignedTo": "C7PplofCN88pv8MTTiZT",
+          "status": "open",
+          "source": null,
+          "lastStatusChangeAt": "2026-05-29T10:39:29.339Z",
+          "lastStageChangeAt": "2026-05-29T10:39:29.339Z",
+          "createdAt": "2026-05-29T10:39:29.339Z",
+          "updatedAt": "2026-05-29T10:39:33.250Z",
+          "forecastProbability": null,
+          "effectiveProbability": 31.25,
+          "contactId": "04HfWXuBeALxgRSwmbOd",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "2CjRmAYI0ts4RYfm6B1J",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "04HfWXuBeALxgRSwmbOd",
+              "fullName": "Libby Johnson",
+              "contactName": "Libby Johnson",
+              "companyName": null,
+              "email": "libbyjohnson13@gmail.com",
+              "phone": "+16307741319",
+              "tags": [
+                "stimulus package",
+                "aa apply",
+                "aa call booked",
+                "re stimulus pkg",
+                "keyword:social",
+                "new lead"
+              ],
+              "attributed": null
+            }
+          ],
+          "contact": {
+            "id": "04HfWXuBeALxgRSwmbOd",
+            "name": "Libby Johnson",
+            "companyName": null,
+            "email": "libbyjohnson13@gmail.com",
+            "phone": "+16307741319",
+            "tags": [
+              "stimulus package",
+              "aa apply",
+              "aa call booked",
+              "re stimulus pkg",
+              "keyword:social",
+              "new lead"
+            ],
+            "score": []
+          },
+          "sort": [
+            1780051169339,
+            "04HfWXuBeALxgRSwmbOd"
+          ],
+          "attributions": [
+            {
+              "utmSessionSource": "CRM UI",
+              "isFirst": true,
+              "medium": "csv_import"
+            },
+            {
+              "utmSessionSource": "Social media",
+              "isLast": true,
+              "medium": "instagram",
+              "mediumId": "1265256014790525"
+            }
+          ]
+        },
         {
           "id": "d8uxkDO1J78lBTkLbNiW",
           "name": "Mika Coleman",
@@ -43711,6 +43870,16 @@
       ],
       "conversationsAll": [
         {
+          "id": "6voUyjIwFGdCnDkAA9tH",
+          "lastMessageDate": 1780054193162,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "Aj5ite896Wp7Z2WCbdB1",
+          "lastMessageDate": 1780049299676,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "bopP173VItyebg1W5uep",
           "lastMessageDate": 1780019287760,
           "type": "TYPE_PHONE"
@@ -44201,13 +44370,13 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "4QMLGdoRefNORolniSs1",
-          "lastMessageDate": 1779899831476,
+          "id": "6voUyjIwFGdCnDkAA9tH",
+          "lastMessageDate": 1780054193162,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "5CNlVk67UJ0t1piux9Os",
-          "lastMessageDate": 1779896512201,
+          "id": "Aj5ite896Wp7Z2WCbdB1",
+          "lastMessageDate": 1780049299676,
           "type": "TYPE_PHONE"
         },
         {
@@ -44698,16 +44867,6 @@
         {
           "id": "46D8MY2xEYxNM6d04B9t",
           "lastMessageDate": 1779899967661,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "4QMLGdoRefNORolniSs1",
-          "lastMessageDate": 1779899831476,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "5CNlVk67UJ0t1piux9Os",
-          "lastMessageDate": 1779896512201,
           "type": "TYPE_PHONE"
         }
       ]
