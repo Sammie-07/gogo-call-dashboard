@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-05-30T11:24:07.581Z",
+  "syncedAt": "2026-05-30T13:44:09.290Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 42,
       "talkTimeMinutes": 33,
       "manualSms": 42,
-      "autoSms": 54,
+      "autoSms": 56,
       "manualEmail": 2,
-      "autoEmail": 1940,
+      "autoEmail": 1942,
       "byDay": [
         {
           "date": "2024-09-05",
@@ -409,6 +409,14 @@
           "autoSms": 18,
           "manualEmail": 0,
           "autoEmail": 202
+        },
+        {
+          "date": "2026-05-30",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 2,
+          "manualEmail": 0,
+          "autoEmail": 2
         }
       ],
       "opportunities": [
@@ -43986,6 +43994,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "6voUyjIwFGdCnDkAA9tH",
+          "lastMessageDate": 1780140597839,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "Aj5ite896Wp7Z2WCbdB1",
           "lastMessageDate": 1780132100652,
           "type": "TYPE_PHONE"
@@ -44048,11 +44061,6 @@
         {
           "id": "ggnzM9TLDxFAspgLfiOC",
           "lastMessageDate": 1780085524645,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "6voUyjIwFGdCnDkAA9tH",
-          "lastMessageDate": 1780085339433,
           "type": "TYPE_PHONE"
         },
         {
@@ -44486,6 +44494,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "6voUyjIwFGdCnDkAA9tH",
+          "lastMessageDate": 1780140597839,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "Aj5ite896Wp7Z2WCbdB1",
           "lastMessageDate": 1780132100652,
           "type": "TYPE_PHONE"
@@ -44548,11 +44561,6 @@
         {
           "id": "ggnzM9TLDxFAspgLfiOC",
           "lastMessageDate": 1780085524645,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "6voUyjIwFGdCnDkAA9tH",
-          "lastMessageDate": 1780085339433,
           "type": "TYPE_PHONE"
         },
         {
