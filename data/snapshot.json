@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-01T06:06:36.909Z",
+  "syncedAt": "2026-06-01T12:40:46.583Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -8,7 +8,7 @@
       "manualSms": 44,
       "autoSms": 428,
       "manualEmail": 2,
-      "autoEmail": 1960,
+      "autoEmail": 1942,
       "byDay": [
         {
           "date": "2025-05-26",
@@ -136,7 +136,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 160
+          "autoEmail": 158
         },
         {
           "date": "2026-04-28",
@@ -176,7 +176,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 156
+          "autoEmail": 154
         },
         {
           "date": "2026-05-03",
@@ -200,7 +200,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 176
+          "autoEmail": 174
         },
         {
           "date": "2026-05-06",
@@ -232,7 +232,7 @@
           "manualSms": 0,
           "autoSms": 30,
           "manualEmail": 0,
-          "autoEmail": 134
+          "autoEmail": 132
         },
         {
           "date": "2026-05-11",
@@ -272,7 +272,7 @@
           "manualSms": 0,
           "autoSms": 6,
           "manualEmail": 0,
-          "autoEmail": 80
+          "autoEmail": 78
         },
         {
           "date": "2026-05-16",
@@ -296,7 +296,7 @@
           "manualSms": 2,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 80
+          "autoEmail": 78
         },
         {
           "date": "2026-05-19",
@@ -320,7 +320,7 @@
           "manualSms": 0,
           "autoSms": 24,
           "manualEmail": 0,
-          "autoEmail": 156
+          "autoEmail": 154
         },
         {
           "date": "2026-05-22",
@@ -360,7 +360,7 @@
           "manualSms": 0,
           "autoSms": 6,
           "manualEmail": 0,
-          "autoEmail": 66
+          "autoEmail": 64
         },
         {
           "date": "2026-05-27",
@@ -384,7 +384,7 @@
           "manualSms": 8,
           "autoSms": 18,
           "manualEmail": 0,
-          "autoEmail": 76
+          "autoEmail": 74
         },
         {
           "date": "2026-05-30",
@@ -404,6 +404,77 @@
         }
       ],
       "opportunities": [
+        {
+          "id": "gIvlkF4uPdfzCpGYvSZa",
+          "name": "Glydel Castillo",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "assignedTo": "C7PplofCN88pv8MTTiZT",
+          "status": "open",
+          "source": null,
+          "lastStatusChangeAt": "2026-06-01T12:09:28.348Z",
+          "lastStageChangeAt": "2026-06-01T12:09:28.348Z",
+          "createdAt": "2026-06-01T12:09:28.347Z",
+          "updatedAt": "2026-06-01T12:09:31.816Z",
+          "forecastProbability": null,
+          "effectiveProbability": 31.25,
+          "contactId": "qTO9K5CUk6B9Sb89t3Ez",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "gIvlkF4uPdfzCpGYvSZa",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "qTO9K5CUk6B9Sb89t3Ez",
+              "fullName": "Glydel Castillo",
+              "contactName": "Glydel Castillo",
+              "companyName": null,
+              "email": "alarconglydel3@gmail.com",
+              "phone": null,
+              "tags": [
+                "keyword:social",
+                "new lead"
+              ],
+              "attributed": null
+            }
+          ],
+          "contact": {
+            "id": "qTO9K5CUk6B9Sb89t3Ez",
+            "name": "Glydel Castillo",
+            "companyName": null,
+            "email": "alarconglydel3@gmail.com",
+            "phone": null,
+            "tags": [
+              "keyword:social",
+              "new lead"
+            ],
+            "score": []
+          },
+          "sort": [
+            1780315768347,
+            "qTO9K5CUk6B9Sb89t3Ez"
+          ],
+          "attributions": [
+            {
+              "utmSessionSource": "Social media",
+              "isFirst": true,
+              "medium": "instagram",
+              "mediumId": "992724173724380"
+            },
+            {
+              "utmSessionSource": "Social media",
+              "isLast": true,
+              "medium": "instagram",
+              "mediumId": "992724173724380"
+            }
+          ]
+        },
         {
           "id": "wGIvWZqsPvpysiemnJwG",
           "name": "Debbie McClain",
@@ -43978,6 +44049,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "s1l7tbSd7l3JSF1fYav6",
+          "lastMessageDate": 1780313805478,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "5xUzfuF86bxoAXDaJ6UV",
           "lastMessageDate": 1780267641054,
           "type": "TYPE_PHONE"
@@ -44473,8 +44549,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "0WRp3WTa87aOXeRelhS7",
-          "lastMessageDate": 1780058307474,
+          "id": "s1l7tbSd7l3JSF1fYav6",
+          "lastMessageDate": 1780313805478,
           "type": "TYPE_PHONE"
         },
         {
@@ -44970,11 +45046,6 @@
         {
           "id": "XPLvsVpCP14CqT7Xopwb",
           "lastMessageDate": 1780058308132,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "0WRp3WTa87aOXeRelhS7",
-          "lastMessageDate": 1780058307474,
           "type": "TYPE_PHONE"
         }
       ]
@@ -44985,7 +45056,7 @@
       "manualSms": 32,
       "autoSms": 118,
       "manualEmail": 8,
-      "autoEmail": 1728,
+      "autoEmail": 1720,
       "byDay": [
         {
           "date": "2026-04-24",
@@ -45009,7 +45080,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 192
+          "autoEmail": 191
         },
         {
           "date": "2026-05-05",
@@ -45017,7 +45088,7 @@
           "manualSms": 8,
           "autoSms": 18,
           "manualEmail": 0,
-          "autoEmail": 212
+          "autoEmail": 211
         },
         {
           "date": "2026-05-08",
@@ -45033,7 +45104,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 172
+          "autoEmail": 171
         },
         {
           "date": "2026-05-12",
@@ -45057,7 +45128,7 @@
           "manualSms": 0,
           "autoSms": 14,
           "manualEmail": 0,
-          "autoEmail": 178
+          "autoEmail": 177
         },
         {
           "date": "2026-05-17",
@@ -45073,7 +45144,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 158
+          "autoEmail": 157
         },
         {
           "date": "2026-05-19",
@@ -45097,7 +45168,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 174
+          "autoEmail": 173
         },
         {
           "date": "2026-05-22",
@@ -45121,7 +45192,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 180
+          "autoEmail": 179
         },
         {
           "date": "2026-05-28",
@@ -45137,7 +45208,7 @@
           "manualSms": 0,
           "autoSms": 16,
           "manualEmail": 0,
-          "autoEmail": 180
+          "autoEmail": 179
         },
         {
           "date": "2026-05-31",
