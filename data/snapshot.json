@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-06-03T18:47:14.480Z",
+  "syncedAt": "2026-06-03T21:52:42.993Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
-      "calls": 218,
+      "calls": 216,
       "talkTimeMinutes": 193,
-      "manualSms": 148,
-      "autoSms": 582,
-      "manualEmail": 64,
-      "autoEmail": 2202,
+      "manualSms": 156,
+      "autoSms": 586,
+      "manualEmail": 68,
+      "autoEmail": 2186,
       "byDay": [
         {
           "date": "2025-05-26",
@@ -216,7 +216,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 162
+          "autoEmail": 160
         },
         {
           "date": "2026-04-28",
@@ -256,7 +256,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 138
+          "autoEmail": 136
         },
         {
           "date": "2026-05-03",
@@ -280,7 +280,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 158
+          "autoEmail": 156
         },
         {
           "date": "2026-05-06",
@@ -312,7 +312,7 @@
           "manualSms": 0,
           "autoSms": 30,
           "manualEmail": 0,
-          "autoEmail": 116
+          "autoEmail": 114
         },
         {
           "date": "2026-05-11",
@@ -352,7 +352,7 @@
           "manualSms": 2,
           "autoSms": 8,
           "manualEmail": 0,
-          "autoEmail": 48
+          "autoEmail": 46
         },
         {
           "date": "2026-05-16",
@@ -376,7 +376,7 @@
           "manualSms": 2,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 92
+          "autoEmail": 90
         },
         {
           "date": "2026-05-19",
@@ -400,7 +400,7 @@
           "manualSms": 0,
           "autoSms": 44,
           "manualEmail": 0,
-          "autoEmail": 146
+          "autoEmail": 144
         },
         {
           "date": "2026-05-22",
@@ -440,7 +440,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 40
+          "autoEmail": 38
         },
         {
           "date": "2026-05-27",
@@ -460,11 +460,11 @@
         },
         {
           "date": "2026-05-29",
-          "calls": 22,
+          "calls": 20,
           "manualSms": 8,
           "autoSms": 16,
           "manualEmail": 0,
-          "autoEmail": 36
+          "autoEmail": 34
         },
         {
           "date": "2026-05-30",
@@ -501,13 +501,105 @@
         {
           "date": "2026-06-03",
           "calls": 0,
-          "manualSms": 22,
-          "autoSms": 10,
-          "manualEmail": 4,
-          "autoEmail": 10
+          "manualSms": 30,
+          "autoSms": 14,
+          "manualEmail": 8,
+          "autoEmail": 12
         }
       ],
       "opportunities": [
+        {
+          "id": "cA5RJZrJHFY45rNjyyyT",
+          "name": "Alexis Carrera",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "assignedTo": "C7PplofCN88pv8MTTiZT",
+          "status": "open",
+          "source": "GoGet'Em Sign Up Form w/@IG handle",
+          "lastStatusChangeAt": "2026-06-03T21:23:05.457Z",
+          "lastStageChangeAt": "2026-06-03T21:24:10.514Z",
+          "createdAt": "2026-06-03T21:23:05.457Z",
+          "updatedAt": "2026-06-03T21:24:10.628Z",
+          "forecastProbability": null,
+          "effectiveProbability": 31.25,
+          "contactId": "WJPFGKCgmqO9XLhxYTr3",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "cA5RJZrJHFY45rNjyyyT",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "WJPFGKCgmqO9XLhxYTr3",
+              "fullName": "Alexis Carrera",
+              "contactName": "Alexis Carrera",
+              "companyName": null,
+              "email": "alexiscarrerarealestate@gmail.com",
+              "phone": "+12488601992",
+              "tags": [
+                "first crm import",
+                "susan metrics contacts",
+                "#teamgogo leaders",
+                "#teamgogo",
+                "smc",
+                "gogetem affiliate",
+                "goget'em member; new",
+                "new lead",
+                "assigned to natalia"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "WJPFGKCgmqO9XLhxYTr3",
+            "name": "Alexis Carrera",
+            "companyName": null,
+            "email": "alexiscarrerarealestate@gmail.com",
+            "phone": "+12488601992",
+            "tags": [
+              "first crm import",
+              "susan metrics contacts",
+              "#teamgogo leaders",
+              "#teamgogo",
+              "smc",
+              "gogetem affiliate",
+              "goget'em member; new",
+              "new lead",
+              "assigned to natalia"
+            ],
+            "score": []
+          },
+          "sort": [
+            1780521785457,
+            "WJPFGKCgmqO9XLhxYTr3"
+          ],
+          "attributions": [
+            {
+              "utmSessionSource": "CRM UI",
+              "isFirst": true,
+              "medium": "csv_import"
+            },
+            {
+              "pageUrl": "https://checkout.gogetemcommunity.com/thank_you",
+              "referrer": "https://api.leadconnectorhq.com",
+              "utmSessionSource": "Referral",
+              "isLast": true,
+              "fbp": "fb.1.1780331267066.7025599593",
+              "fbc": "fb.1.1780511182481.IwVERFWASNURpleHRuA2FlbQIxMABzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEe-K1ONLE6WL-n_YSRagbXDBrFWNoI67oIpih5EAr0wlW8DdUXHqIYGOG0PTk_aem_7Xmttq8lp_1X3YgUExo3RA",
+              "ip": "2601:40d:8580:3d80:ed79:6414:c9b3:5698",
+              "medium": "form",
+              "mediumId": "WVyxnPbLN9HCAjivkACX",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5 Mobile/15E148 Safari/604.1",
+              "gaClientId": "GA1.1.658283854.1780331267",
+              "url": "https://checkout.gogetemcommunity.com/thank_you"
+            }
+          ]
+        },
         {
           "id": "F3Hh7kXtW5s08Ku0bwEk",
           "name": "Sheel Patel",
@@ -10352,17 +10444,17 @@
           "name": "Michelle Seymour | Buckeye Arizona Realtor®",
           "monetaryValue": 0,
           "pipelineId": "4ODbBsC9MIjSBtnIOETl",
-          "pipelineStageId": "9af4ce40-5d59-4bbc-bb7a-a035ad6c0a46",
-          "pipelineStageUId": "9af4ce40-5d59-4bbc-bb7a-a035ad6c0a46",
+          "pipelineStageId": "5ab71bd0-0254-44b8-9a73-c92ca538e7fb",
+          "pipelineStageUId": "5ab71bd0-0254-44b8-9a73-c92ca538e7fb",
           "assignedTo": "C7PplofCN88pv8MTTiZT",
           "status": "open",
           "source": null,
           "lastStatusChangeAt": "2026-02-27T20:03:52.946Z",
-          "lastStageChangeAt": "2026-05-29T20:15:41.102Z",
+          "lastStageChangeAt": "2026-06-03T18:56:51.572Z",
           "createdAt": "2026-02-27T20:03:52.946Z",
-          "updatedAt": "2026-05-29T20:15:41.278Z",
+          "updatedAt": "2026-06-03T18:56:51.585Z",
           "forecastProbability": null,
-          "effectiveProbability": 43.75,
+          "effectiveProbability": 93.75,
           "indexVersion": 3,
           "contactId": "olKdY9UPNgXbX6QjnsFF",
           "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
@@ -10424,10 +10516,14 @@
           ],
           "attributions": [
             {
-              "utmSessionSource": "Social media",
+              "pageUrl": "https://api.leadconnectorhq.com/widget/bookings/ggtc-intro-call-natalia",
+              "utmSessionSource": "Direct traffic",
               "isLast": true,
-              "medium": "instagram",
-              "mediumId": "4191226774312179"
+              "ip": "2a04:4e41:5d85:9e8::de85:9e8",
+              "medium": "calendar",
+              "mediumId": "vn5ozDQQe0DQUJYuEw9b",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5 Mobile/15E148 Safari/604.1",
+              "url": "https://api.leadconnectorhq.com/widget/bookings/ggtc-intro-call-natalia"
             }
           ]
         },
@@ -44275,17 +44371,19 @@
           "deleted": false
         },
         {
-          "appointmentStatus": "confirmed",
-          "appoinmentStatus": "confirmed",
+          "appointmentStatus": "cancelled",
+          "appoinmentStatus": "cancelled",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
-          "address": "https://zoom.us/j/6684356793",
+          "address": "",
           "calendarId": "vn5ozDQQe0DQUJYuEw9b",
           "contactId": "olKdY9UPNgXbX6QjnsFF",
           "dateAdded": "2026-06-01T19:39:36.534Z",
-          "dateUpdated": "2026-06-01T19:39:36.535Z",
+          "dateUpdated": "2026-06-03T18:46:31.700Z",
           "endTime": "2026-06-03T17:00:00-04:00",
           "id": "T1KrLsy2XqY9f4VAjRkC",
           "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "notes": "",
+          "description": "",
           "startTime": "2026-06-03T16:30:00-04:00",
           "title": "GoGet'Em Community Intro Call - Michelle Seymour & Natalia",
           "assignedResources": [],
@@ -44317,10 +44415,52 @@
             "userId": null
           },
           "deleted": false
+        },
+        {
+          "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
+          "assignedUserId": "C7PplofCN88pv8MTTiZT",
+          "address": "https://zoom.us/j/6684356793",
+          "calendarId": "vn5ozDQQe0DQUJYuEw9b",
+          "contactId": "WJPFGKCgmqO9XLhxYTr3",
+          "dateAdded": "2026-06-03T21:35:50.310Z",
+          "dateUpdated": "2026-06-03T21:35:50.310Z",
+          "endTime": "2026-06-05T15:00:00-04:00",
+          "id": "T0mkvEsNLKlr1gNT33Kq",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "startTime": "2026-06-05T14:30:00-04:00",
+          "title": "GoGet'Em Community Intro Call - Alexis Carrera & Natalia",
+          "assignedResources": [],
+          "isRecurring": false,
+          "createdBy": {
+            "source": "booking_widget",
+            "userId": null
+          },
+          "deleted": false
         }
       ],
       "conversationsAll": [
         {
+          "id": "gdH7zEuaXLk30YSsKBa1",
+          "lastMessageDate": 1780522555594,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "jkU93bNach7ZHahfxbaH",
+          "lastMessageDate": 1780520246948,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "qDKbcRwB2fZTY7P9hQNo",
+          "lastMessageDate": 1780519585328,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "uvW4XLUWCvcsn0WP9l4c",
+          "lastMessageDate": 1780512907410,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "adJrho06sRHzqsjH2MHh",
           "lastMessageDate": 1780511511228,
           "type": "TYPE_PHONE"
@@ -44343,16 +44483,6 @@
         {
           "id": "4QMLGdoRefNORolniSs1",
           "lastMessageDate": 1780504634827,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "qDKbcRwB2fZTY7P9hQNo",
-          "lastMessageDate": 1780500284309,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "jkU93bNach7ZHahfxbaH",
-          "lastMessageDate": 1780498564419,
           "type": "TYPE_PHONE"
         },
         {
@@ -44393,11 +44523,6 @@
         {
           "id": "s1l7tbSd7l3JSF1fYav6",
           "lastMessageDate": 1780396595708,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "uvW4XLUWCvcsn0WP9l4c",
-          "lastMessageDate": 1780348557519,
           "type": "TYPE_PHONE"
         },
         {
@@ -44816,8 +44941,23 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "7LceNJfhPqA3zgrWeBdf",
-          "lastMessageDate": 1780086537600,
+          "id": "gdH7zEuaXLk30YSsKBa1",
+          "lastMessageDate": 1780522555594,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "jkU93bNach7ZHahfxbaH",
+          "lastMessageDate": 1780520246948,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "qDKbcRwB2fZTY7P9hQNo",
+          "lastMessageDate": 1780519585328,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "uvW4XLUWCvcsn0WP9l4c",
+          "lastMessageDate": 1780512907410,
           "type": "TYPE_PHONE"
         },
         {
@@ -44843,16 +44983,6 @@
         {
           "id": "4QMLGdoRefNORolniSs1",
           "lastMessageDate": 1780504634827,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "qDKbcRwB2fZTY7P9hQNo",
-          "lastMessageDate": 1780500284309,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "jkU93bNach7ZHahfxbaH",
-          "lastMessageDate": 1780498564419,
           "type": "TYPE_PHONE"
         },
         {
@@ -44893,11 +45023,6 @@
         {
           "id": "s1l7tbSd7l3JSF1fYav6",
           "lastMessageDate": 1780396595708,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "uvW4XLUWCvcsn0WP9l4c",
-          "lastMessageDate": 1780348557519,
           "type": "TYPE_PHONE"
         },
         {
@@ -45313,22 +45438,17 @@
         {
           "id": "8dGVng7QAnD74mr4Zrhj",
           "lastMessageDate": 1780086616847,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "7LceNJfhPqA3zgrWeBdf",
-          "lastMessageDate": 1780086537600,
           "type": "TYPE_PHONE"
         }
       ]
     },
     "Z6C8jEN8ccsSWv70qBr1": {
-      "calls": 41,
-      "talkTimeMinutes": 40,
-      "manualSms": 45,
-      "autoSms": 125,
+      "calls": 42,
+      "talkTimeMinutes": 41,
+      "manualSms": 46,
+      "autoSms": 128,
       "manualEmail": 14,
-      "autoEmail": 1665,
+      "autoEmail": 1670,
       "byDay": [
         {
           "date": "2026-04-24",
@@ -45428,11 +45548,11 @@
         },
         {
           "date": "2026-05-18",
-          "calls": 1,
-          "manualSms": 1,
-          "autoSms": 1,
+          "calls": 2,
+          "manualSms": 2,
+          "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 149
+          "autoEmail": 150
         },
         {
           "date": "2026-05-19",
@@ -45454,9 +45574,9 @@
           "date": "2026-05-21",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 1,
+          "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 167
+          "autoEmail": 168
         },
         {
           "date": "2026-05-22",
@@ -45480,7 +45600,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 1
+          "autoEmail": 2
         },
         {
           "date": "2026-05-26",
@@ -45494,9 +45614,9 @@
           "date": "2026-05-28",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 1,
+          "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 21
+          "autoEmail": 22
         },
         {
           "date": "2026-05-29",
@@ -45520,7 +45640,7 @@
           "manualSms": 2,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 1
+          "autoEmail": 2
         },
         {
           "date": "2026-06-02",
@@ -66887,6 +67007,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "Q9LfdjdnEzhv2S8lPK4a",
+          "lastMessageDate": 1780521182045,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "wla2Bl9ZRyIceNjqJ5IH",
           "lastMessageDate": 1780432376615,
           "type": "TYPE_PHONE"
@@ -66974,11 +67099,6 @@
         {
           "id": "JlNgLuzHdzYiZ2fdSOir",
           "lastMessageDate": 1780252138387,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "Q9LfdjdnEzhv2S8lPK4a",
-          "lastMessageDate": 1780070989796,
           "type": "TYPE_PHONE"
         },
         {
@@ -67387,6 +67507,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "Q9LfdjdnEzhv2S8lPK4a",
+          "lastMessageDate": 1780521182045,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "wla2Bl9ZRyIceNjqJ5IH",
           "lastMessageDate": 1780432376615,
           "type": "TYPE_PHONE"
@@ -67474,11 +67599,6 @@
         {
           "id": "JlNgLuzHdzYiZ2fdSOir",
           "lastMessageDate": 1780252138387,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "Q9LfdjdnEzhv2S8lPK4a",
-          "lastMessageDate": 1780070989796,
           "type": "TYPE_PHONE"
         },
         {
