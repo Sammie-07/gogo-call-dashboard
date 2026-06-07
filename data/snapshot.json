@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-07T19:26:50.353Z",
+  "syncedAt": "2026-06-07T21:17:11.499Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -8,7 +8,7 @@
       "manualSms": 198,
       "autoSms": 530,
       "manualEmail": 80,
-      "autoEmail": 2290,
+      "autoEmail": 2292,
       "byDay": [
         {
           "date": "2024-09-05",
@@ -592,7 +592,7 @@
           "manualSms": 0,
           "autoSms": 36,
           "manualEmail": 0,
-          "autoEmail": 68
+          "autoEmail": 70
         }
       ],
       "opportunities": [
@@ -44589,6 +44589,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "QAdRp5jK9shLcomPoAln",
+          "lastMessageDate": 1780861701469,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "OqSrVrQrVCYJWsvpGWn7",
           "lastMessageDate": 1780858533153,
           "type": "TYPE_PHONE"
@@ -44896,11 +44901,6 @@
         {
           "id": "Q5ZRbR5GG8tDhKr0mmqt",
           "lastMessageDate": 1780602777620,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "QAdRp5jK9shLcomPoAln",
-          "lastMessageDate": 1780602500166,
           "type": "TYPE_PHONE"
         },
         {
@@ -45089,6 +45089,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "QAdRp5jK9shLcomPoAln",
+          "lastMessageDate": 1780861701469,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "OqSrVrQrVCYJWsvpGWn7",
           "lastMessageDate": 1780858533153,
           "type": "TYPE_PHONE"
@@ -45396,11 +45401,6 @@
         {
           "id": "Q5ZRbR5GG8tDhKr0mmqt",
           "lastMessageDate": 1780602777620,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "QAdRp5jK9shLcomPoAln",
-          "lastMessageDate": 1780602500166,
           "type": "TYPE_PHONE"
         },
         {
@@ -45594,9 +45594,9 @@
       "calls": 42,
       "talkTimeMinutes": 41,
       "manualSms": 46,
-      "autoSms": 142,
-      "manualEmail": 14,
-      "autoEmail": 1710,
+      "autoSms": 144,
+      "manualEmail": 16,
+      "autoEmail": 1712,
       "byDay": [
         {
           "date": "2026-04-24",
@@ -45818,9 +45818,9 @@
           "date": "2026-06-07",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 14,
-          "manualEmail": 0,
-          "autoEmail": 16
+          "autoSms": 16,
+          "manualEmail": 2,
+          "autoEmail": 18
         }
       ],
       "opportunities": [
@@ -67175,12 +67175,39 @@
             "userId": null
           },
           "deleted": false
+        },
+        {
+          "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
+          "assignedUserId": "Z6C8jEN8ccsSWv70qBr1",
+          "address": "...",
+          "calendarId": "HEuTX7pjjT4GtFFBFZV5",
+          "contactId": "Q6dSCebFqB4aOWKleHcc",
+          "dateAdded": "2026-06-07T20:25:29.825Z",
+          "dateUpdated": "2026-06-07T20:25:29.825Z",
+          "endTime": "2026-06-10T12:30:00-04:00",
+          "id": "DVPN0GPTMuiLOWA1JOk2",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "startTime": "2026-06-10T12:00:00-04:00",
+          "title": "GoGet'Em Community Intro Call - Marian Alim Bangura & Ferny",
+          "assignedResources": [],
+          "isRecurring": false,
+          "createdBy": {
+            "source": "booking_widget",
+            "userId": null
+          },
+          "deleted": false
         }
       ],
       "conversationsAll": [
         {
           "id": "1koaTjJyRntfzkrDCvgg",
-          "lastMessageDate": 1780859046179,
+          "lastMessageDate": 1780863933734,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "yNLPpTNySUTLslZUI9J9",
+          "lastMessageDate": 1780860973152,
           "type": "TYPE_PHONE"
         },
         {
@@ -67226,11 +67253,6 @@
         {
           "id": "sLmWnRXhvhXvU0LlmY20",
           "lastMessageDate": 1780603308863,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "yNLPpTNySUTLslZUI9J9",
-          "lastMessageDate": 1780601770827,
           "type": "TYPE_PHONE"
         },
         {
@@ -67680,7 +67702,12 @@
         },
         {
           "id": "1koaTjJyRntfzkrDCvgg",
-          "lastMessageDate": 1780859046179,
+          "lastMessageDate": 1780863933734,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "yNLPpTNySUTLslZUI9J9",
+          "lastMessageDate": 1780860973152,
           "type": "TYPE_PHONE"
         },
         {
@@ -67726,11 +67753,6 @@
         {
           "id": "sLmWnRXhvhXvU0LlmY20",
           "lastMessageDate": 1780603308863,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "yNLPpTNySUTLslZUI9J9",
-          "lastMessageDate": 1780601770827,
           "type": "TYPE_PHONE"
         },
         {
