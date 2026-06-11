@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-06-11T10:30:07.270Z",
+  "syncedAt": "2026-06-11T14:40:35.694Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
-      "calls": 226,
-      "talkTimeMinutes": 188,
+      "calls": 224,
+      "talkTimeMinutes": 190,
       "manualSms": 212,
       "autoSms": 518,
       "manualEmail": 94,
-      "autoEmail": 2304,
+      "autoEmail": 2298,
       "byDay": [
         {
           "date": "2024-09-05",
@@ -248,7 +248,7 @@
           "manualSms": 2,
           "autoSms": 8,
           "manualEmail": 2,
-          "autoEmail": 130
+          "autoEmail": 128
         },
         {
           "date": "2026-04-25",
@@ -284,11 +284,11 @@
         },
         {
           "date": "2026-04-30",
-          "calls": 0,
+          "calls": 2,
           "manualSms": 2,
-          "autoSms": 0,
+          "autoSms": 2,
           "manualEmail": 4,
-          "autoEmail": 18
+          "autoEmail": 20
         },
         {
           "date": "2026-05-01",
@@ -304,15 +304,15 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 126
+          "autoEmail": 124
         },
         {
           "date": "2026-05-03",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 2,
+          "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 4
+          "autoEmail": 6
         },
         {
           "date": "2026-05-04",
@@ -328,7 +328,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 146
+          "autoEmail": 144
         },
         {
           "date": "2026-05-06",
@@ -340,9 +340,9 @@
         },
         {
           "date": "2026-05-07",
-          "calls": 12,
+          "calls": 8,
           "manualSms": 4,
-          "autoSms": 12,
+          "autoSms": 10,
           "manualEmail": 0,
           "autoEmail": 20
         },
@@ -422,7 +422,7 @@
           "date": "2026-05-17",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 30,
+          "autoSms": 28,
           "manualEmail": 0,
           "autoEmail": 34
         },
@@ -478,7 +478,7 @@
           "date": "2026-05-24",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 44,
+          "autoSms": 46,
           "manualEmail": 0,
           "autoEmail": 58
         },
@@ -512,7 +512,7 @@
           "manualSms": 4,
           "autoSms": 6,
           "manualEmail": 0,
-          "autoEmail": 98
+          "autoEmail": 96
         },
         {
           "date": "2026-05-29",
@@ -534,9 +534,9 @@
           "date": "2026-05-31",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 32,
+          "autoSms": 30,
           "manualEmail": 0,
-          "autoEmail": 60
+          "autoEmail": 58
         },
         {
           "date": "2026-06-01",
@@ -22182,10 +22182,10 @@
               "primary": true,
               "objectKey": "contact",
               "recordId": "N4PPJgeLA7aa4zMLAPNm",
-              "fullName": "Kristina Irvine",
-              "contactName": "Kristina Irvine",
+              "fullName": "Kristina Irvine-Dooley",
+              "contactName": "Kristina Irvine-Dooley",
               "companyName": null,
-              "email": "kristinairvinerealtor@gmail.com",
+              "email": "irvinekristina@gmail.com",
               "phone": "+16309454962",
               "tags": [
                 "smc",
@@ -22197,9 +22197,9 @@
           ],
           "contact": {
             "id": "N4PPJgeLA7aa4zMLAPNm",
-            "name": "Kristina Irvine",
+            "name": "Kristina Irvine-Dooley",
             "companyName": null,
-            "email": "kristinairvinerealtor@gmail.com",
+            "email": "irvinekristina@gmail.com",
             "phone": "+16309454962",
             "tags": [
               "smc",
@@ -44617,6 +44617,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "1cHC8zNCWqDVhsYnhj0k",
+          "lastMessageDate": 1781188277936,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "gdH7zEuaXLk30YSsKBa1",
           "lastMessageDate": 1781124824082,
           "type": "TYPE_PHONE"
@@ -45112,8 +45117,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "3UvITaDlJYtf0caLK4Wd",
-          "lastMessageDate": 1780249226651,
+          "id": "1cHC8zNCWqDVhsYnhj0k",
+          "lastMessageDate": 1781188277936,
           "type": "TYPE_PHONE"
         },
         {
@@ -45609,11 +45614,6 @@
         {
           "id": "F2UNUqHiS3rnJH8C3zEw",
           "lastMessageDate": 1780249649129,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "3UvITaDlJYtf0caLK4Wd",
-          "lastMessageDate": 1780249226651,
           "type": "TYPE_PHONE"
         }
       ]
