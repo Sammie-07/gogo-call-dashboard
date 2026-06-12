@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-06-12T09:00:39.568Z",
+  "syncedAt": "2026-06-12T12:28:34.573Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 226,
       "talkTimeMinutes": 194,
-      "manualSms": 214,
-      "autoSms": 504,
-      "manualEmail": 94,
-      "autoEmail": 2324,
+      "manualSms": 222,
+      "autoSms": 502,
+      "manualEmail": 100,
+      "autoEmail": 2316,
       "byDay": [
         {
           "date": "2024-09-05",
@@ -340,11 +340,11 @@
         },
         {
           "date": "2026-05-07",
-          "calls": 4,
+          "calls": 2,
           "manualSms": 4,
-          "autoSms": 6,
+          "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 16
+          "autoEmail": 14
         },
         {
           "date": "2026-05-08",
@@ -366,7 +366,7 @@
           "date": "2026-05-10",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 6,
+          "autoSms": 4,
           "manualEmail": 0,
           "autoEmail": 126
         },
@@ -396,18 +396,18 @@
         },
         {
           "date": "2026-05-14",
-          "calls": 30,
-          "manualSms": 4,
-          "autoSms": 58,
+          "calls": 32,
+          "manualSms": 6,
+          "autoSms": 60,
           "manualEmail": 4,
           "autoEmail": 104
         },
         {
           "date": "2026-05-15",
           "calls": 2,
-          "manualSms": 4,
+          "manualSms": 6,
           "autoSms": 10,
-          "manualEmail": 0,
+          "manualEmail": 2,
           "autoEmail": 84
         },
         {
@@ -422,9 +422,9 @@
           "date": "2026-05-17",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 24,
+          "autoSms": 22,
           "manualEmail": 0,
-          "autoEmail": 30
+          "autoEmail": 28
         },
         {
           "date": "2026-05-18",
@@ -456,14 +456,14 @@
           "manualSms": 0,
           "autoSms": 42,
           "manualEmail": 0,
-          "autoEmail": 160
+          "autoEmail": 158
         },
         {
           "date": "2026-05-22",
           "calls": 0,
-          "manualSms": 2,
+          "manualSms": 4,
           "autoSms": 6,
-          "manualEmail": 6,
+          "manualEmail": 8,
           "autoEmail": 24
         },
         {
@@ -480,12 +480,12 @@
           "manualSms": 0,
           "autoSms": 46,
           "manualEmail": 0,
-          "autoEmail": 54
+          "autoEmail": 52
         },
         {
           "date": "2026-05-25",
           "calls": 0,
-          "manualSms": 2,
+          "manualSms": 4,
           "autoSms": 2,
           "manualEmail": 0,
           "autoEmail": 58
@@ -495,7 +495,7 @@
           "calls": 8,
           "manualSms": 0,
           "autoSms": 6,
-          "manualEmail": 0,
+          "manualEmail": 2,
           "autoEmail": 70
         },
         {
@@ -512,7 +512,7 @@
           "manualSms": 4,
           "autoSms": 6,
           "manualEmail": 0,
-          "autoEmail": 92
+          "autoEmail": 90
         },
         {
           "date": "2026-05-29",
@@ -534,9 +534,9 @@
           "date": "2026-05-31",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 26,
+          "autoSms": 24,
           "manualEmail": 0,
-          "autoEmail": 54
+          "autoEmail": 52
         },
         {
           "date": "2026-06-01",
@@ -625,6 +625,14 @@
           "autoSms": 2,
           "manualEmail": 0,
           "autoEmail": 60
+        },
+        {
+          "date": "2026-06-12",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 4,
+          "manualEmail": 0,
+          "autoEmail": 4
         }
       ],
       "opportunities": [
@@ -24094,13 +24102,14 @@
               "phone": "+17053414573",
               "tags": [
                 "bootcamp+",
-                "goget'em canceled",
                 "aa - kajabi",
                 "smc",
                 "assigned to natalia",
                 "lead called",
                 "sales: follow up",
-                "sales: booked appointment"
+                "sales: booked appointment",
+                "gogetem affiliate",
+                "goget'em member; new"
               ],
               "attributed": true
             }
@@ -24113,13 +24122,14 @@
             "phone": "+17053414573",
             "tags": [
               "bootcamp+",
-              "goget'em canceled",
               "aa - kajabi",
               "smc",
               "assigned to natalia",
               "lead called",
               "sales: follow up",
-              "sales: booked appointment"
+              "sales: booked appointment",
+              "gogetem affiliate",
+              "goget'em member; new"
             ],
             "score": []
           },
@@ -44627,6 +44637,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "52NhSVeJes9c0XygMGMp",
+          "lastMessageDate": 1781260152102,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "KHRW5tErGPbvBL8tDZwv",
           "lastMessageDate": 1781208139787,
           "type": "TYPE_PHONE"
@@ -45122,8 +45137,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "0VjWqgRUZhdwu3IWkAMH",
-          "lastMessageDate": 1780249782917,
+          "id": "52NhSVeJes9c0XygMGMp",
+          "lastMessageDate": 1781260152102,
           "type": "TYPE_PHONE"
         },
         {
@@ -45619,11 +45634,6 @@
         {
           "id": "LJDLAxO3zwEsBOEuMlKz",
           "lastMessageDate": 1780249972796,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "0VjWqgRUZhdwu3IWkAMH",
-          "lastMessageDate": 1780249782917,
           "type": "TYPE_PHONE"
         }
       ]
