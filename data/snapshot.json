@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-12T12:28:34.573Z",
+  "syncedAt": "2026-06-12T16:22:06.054Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -8,7 +8,7 @@
       "manualSms": 222,
       "autoSms": 502,
       "manualEmail": 100,
-      "autoEmail": 2316,
+      "autoEmail": 2320,
       "byDay": [
         {
           "date": "2024-09-05",
@@ -632,7 +632,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 4
+          "autoEmail": 8
         }
       ],
       "opportunities": [
@@ -15126,92 +15126,6 @@
               "mediumId": "rtTNrLeOuDNq53WY7xwd",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21G93 [FBAN/FBIOS;FBAV/543.0.0.47.72;FBBV/845843444;FBDV/iPhone12,1;FBMD/iPhone;FBSN/iOS;FBSV/17.6.1;FBSS/2;FBID/phone;FBLC/en_US;FBOP/5;FBRV/0;IABMV/1]",
               "url": "https://gogetemcommunity.com/"
-            }
-          ]
-        },
-        {
-          "id": "2WRL0fRfaSzRGGF8N7qZ",
-          "name": "Oakland County, MI Realtor | YVONNE ZIELINSKI",
-          "monetaryValue": 0,
-          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
-          "pipelineStageId": "9af4ce40-5d59-4bbc-bb7a-a035ad6c0a46",
-          "pipelineStageUId": "9af4ce40-5d59-4bbc-bb7a-a035ad6c0a46",
-          "assignedTo": "C7PplofCN88pv8MTTiZT",
-          "status": "open",
-          "source": "RETARGETING | SMC Website Variants Testing",
-          "lastStatusChangeAt": "2026-02-27T20:03:43.390Z",
-          "lastStageChangeAt": "2026-04-13T19:53:08.204Z",
-          "createdAt": "2026-02-27T20:03:43.389Z",
-          "updatedAt": "2026-05-26T21:33:23.370Z",
-          "forecastProbability": null,
-          "effectiveProbability": 43.75,
-          "indexVersion": 1,
-          "contactId": "KcLRWDotEehegutKGiJa",
-          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
-          "customFields": [],
-          "lostReasonId": null,
-          "followers": [],
-          "relations": [
-            {
-              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
-              "relationId": "2WRL0fRfaSzRGGF8N7qZ",
-              "primary": true,
-              "objectKey": "contact",
-              "recordId": "KcLRWDotEehegutKGiJa",
-              "fullName": "Yvonne Zielinski",
-              "contactName": "Yvonne Zielinski",
-              "companyName": null,
-              "email": "yzielinski72@gmail.com",
-              "phone": "+15867385543",
-              "tags": [
-                "smc",
-                "keyword:social",
-                "new lead",
-                "assigned to laura",
-                "keyword:community",
-                "circle_waitlist",
-                "clarity_call_approved",
-                "circle_member_approved",
-                "circle_contract_signed"
-              ],
-              "attributed": true
-            }
-          ],
-          "contact": {
-            "id": "KcLRWDotEehegutKGiJa",
-            "name": "Yvonne Zielinski",
-            "companyName": null,
-            "email": "yzielinski72@gmail.com",
-            "phone": "+15867385543",
-            "tags": [
-              "smc",
-              "keyword:social",
-              "new lead",
-              "assigned to laura",
-              "keyword:community",
-              "circle_waitlist",
-              "clarity_call_approved",
-              "circle_member_approved",
-              "circle_contract_signed"
-            ],
-            "score": []
-          },
-          "sort": [
-            1772222623389,
-            "KcLRWDotEehegutKGiJa"
-          ],
-          "attributions": [
-            {
-              "utmSessionSource": "Social media",
-              "isFirst": true,
-              "medium": "facebook",
-              "mediumId": "26362418173361281"
-            },
-            {
-              "utmSessionSource": "Social media",
-              "isLast": true,
-              "medium": "instagram",
-              "mediumId": "450589464605371"
             }
           ]
         },
@@ -44637,6 +44551,16 @@
       ],
       "conversationsAll": [
         {
+          "id": "sP0WLR00RBFxCQAb7AhG",
+          "lastMessageDate": 1781274080155,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "qDKbcRwB2fZTY7P9hQNo",
+          "lastMessageDate": 1781272182895,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "52NhSVeJes9c0XygMGMp",
           "lastMessageDate": 1781260152102,
           "type": "TYPE_PHONE"
@@ -44644,11 +44568,6 @@
         {
           "id": "KHRW5tErGPbvBL8tDZwv",
           "lastMessageDate": 1781208139787,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "qDKbcRwB2fZTY7P9hQNo",
-          "lastMessageDate": 1781208127523,
           "type": "TYPE_PHONE"
         },
         {
@@ -44829,11 +44748,6 @@
         {
           "id": "hF6Gu9snbhx9dEKpCqck",
           "lastMessageDate": 1781043285432,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "sP0WLR00RBFxCQAb7AhG",
-          "lastMessageDate": 1781014878611,
           "type": "TYPE_PHONE"
         },
         {
@@ -45137,6 +45051,16 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "sP0WLR00RBFxCQAb7AhG",
+          "lastMessageDate": 1781274080155,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "qDKbcRwB2fZTY7P9hQNo",
+          "lastMessageDate": 1781272182895,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "52NhSVeJes9c0XygMGMp",
           "lastMessageDate": 1781260152102,
           "type": "TYPE_PHONE"
@@ -45144,11 +45068,6 @@
         {
           "id": "KHRW5tErGPbvBL8tDZwv",
           "lastMessageDate": 1781208139787,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "qDKbcRwB2fZTY7P9hQNo",
-          "lastMessageDate": 1781208127523,
           "type": "TYPE_PHONE"
         },
         {
@@ -45329,11 +45248,6 @@
         {
           "id": "hF6Gu9snbhx9dEKpCqck",
           "lastMessageDate": 1781043285432,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "sP0WLR00RBFxCQAb7AhG",
-          "lastMessageDate": 1781014878611,
           "type": "TYPE_PHONE"
         },
         {
@@ -45642,9 +45556,9 @@
       "calls": 42,
       "talkTimeMinutes": 41,
       "manualSms": 46,
-      "autoSms": 146,
+      "autoSms": 148,
       "manualEmail": 18,
-      "autoEmail": 1702,
+      "autoEmail": 1704,
       "byDay": [
         {
           "date": "2026-04-24",
@@ -45901,6 +45815,14 @@
           "autoSms": 2,
           "manualEmail": 0,
           "autoEmail": 4
+        },
+        {
+          "date": "2026-06-12",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 2,
+          "manualEmail": 0,
+          "autoEmail": 2
         }
       ],
       "opportunities": [
@@ -67361,6 +67283,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "FKzNbvmEyuSPr3iNDD0S",
+          "lastMessageDate": 1781275786721,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "sLmWnRXhvhXvU0LlmY20",
           "lastMessageDate": 1781208124477,
           "type": "TYPE_PHONE"
@@ -67383,11 +67310,6 @@
         {
           "id": "mWrZHPzfSx1o9lrl1paz",
           "lastMessageDate": 1781059321003,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "FKzNbvmEyuSPr3iNDD0S",
-          "lastMessageDate": 1781016583443,
           "type": "TYPE_PHONE"
         },
         {
@@ -67861,6 +67783,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "FKzNbvmEyuSPr3iNDD0S",
+          "lastMessageDate": 1781275786721,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "sLmWnRXhvhXvU0LlmY20",
           "lastMessageDate": 1781208124477,
           "type": "TYPE_PHONE"
@@ -67883,11 +67810,6 @@
         {
           "id": "mWrZHPzfSx1o9lrl1paz",
           "lastMessageDate": 1781059321003,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "FKzNbvmEyuSPr3iNDD0S",
-          "lastMessageDate": 1781016583443,
           "type": "TYPE_PHONE"
         },
         {
