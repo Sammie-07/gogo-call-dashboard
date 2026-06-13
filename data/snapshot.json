@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-06-13T17:26:33.370Z",
+  "syncedAt": "2026-06-13T19:29:57.114Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
-      "calls": 226,
-      "talkTimeMinutes": 194,
-      "manualSms": 222,
-      "autoSms": 502,
+      "calls": 224,
+      "talkTimeMinutes": 191,
+      "manualSms": 220,
+      "autoSms": 496,
       "manualEmail": 100,
-      "autoEmail": 2332,
+      "autoEmail": 2308,
       "byDay": [
         {
           "date": "2024-09-05",
@@ -248,7 +248,7 @@
           "manualSms": 2,
           "autoSms": 8,
           "manualEmail": 2,
-          "autoEmail": 126
+          "autoEmail": 124
         },
         {
           "date": "2026-04-25",
@@ -264,7 +264,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 156
+          "autoEmail": 154
         },
         {
           "date": "2026-04-28",
@@ -304,7 +304,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 120
+          "autoEmail": 118
         },
         {
           "date": "2026-05-03",
@@ -328,7 +328,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 140
+          "autoEmail": 138
         },
         {
           "date": "2026-05-06",
@@ -340,11 +340,11 @@
         },
         {
           "date": "2026-05-07",
-          "calls": 2,
+          "calls": 0,
           "manualSms": 4,
-          "autoSms": 4,
+          "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 14
+          "autoEmail": 12
         },
         {
           "date": "2026-05-08",
@@ -366,9 +366,9 @@
           "date": "2026-05-10",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 4,
+          "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 126
+          "autoEmail": 124
         },
         {
           "date": "2026-05-11",
@@ -400,7 +400,7 @@
           "manualSms": 6,
           "autoSms": 60,
           "manualEmail": 4,
-          "autoEmail": 104
+          "autoEmail": 102
         },
         {
           "date": "2026-05-15",
@@ -422,14 +422,14 @@
           "date": "2026-05-17",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 22,
+          "autoSms": 20,
           "manualEmail": 0,
-          "autoEmail": 28
+          "autoEmail": 26
         },
         {
           "date": "2026-05-18",
           "calls": 0,
-          "manualSms": 2,
+          "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
           "autoEmail": 128
@@ -456,7 +456,7 @@
           "manualSms": 0,
           "autoSms": 42,
           "manualEmail": 0,
-          "autoEmail": 158
+          "autoEmail": 156
         },
         {
           "date": "2026-05-22",
@@ -480,7 +480,7 @@
           "manualSms": 0,
           "autoSms": 46,
           "manualEmail": 0,
-          "autoEmail": 52
+          "autoEmail": 50
         },
         {
           "date": "2026-05-25",
@@ -512,7 +512,7 @@
           "manualSms": 4,
           "autoSms": 6,
           "manualEmail": 0,
-          "autoEmail": 90
+          "autoEmail": 88
         },
         {
           "date": "2026-05-29",
@@ -534,9 +534,9 @@
           "date": "2026-05-31",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 24,
+          "autoSms": 22,
           "manualEmail": 0,
-          "autoEmail": 52
+          "autoEmail": 50
         },
         {
           "date": "2026-06-01",
@@ -638,12 +638,95 @@
           "date": "2026-06-13",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 0,
+          "autoSms": 2,
           "manualEmail": 0,
           "autoEmail": 6
         }
       ],
       "opportunities": [
+        {
+          "id": "dz2nMuDt1lWpClRiIWky",
+          "name": "Jeni Lemon",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "assignedTo": "C7PplofCN88pv8MTTiZT",
+          "status": "open",
+          "source": "GoGet'Em Sign Up Form w/@IG handle",
+          "lastStatusChangeAt": "2026-06-13T17:49:09.764Z",
+          "lastStageChangeAt": "2026-06-13T17:50:14.260Z",
+          "createdAt": "2026-06-13T17:49:09.764Z",
+          "updatedAt": "2026-06-13T17:50:14.387Z",
+          "forecastProbability": null,
+          "effectiveProbability": 31.25,
+          "contactId": "1gBgZxwkUFWLxZ9fP8O1",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "dz2nMuDt1lWpClRiIWky",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "1gBgZxwkUFWLxZ9fP8O1",
+              "fullName": "Jeni Lemon",
+              "contactName": "Jeni Lemon",
+              "companyName": null,
+              "email": "jenella.lemon@gmail.com",
+              "phone": "+16058010626",
+              "tags": [
+                "smc",
+                "new lead",
+                "assigned to natalia"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "1gBgZxwkUFWLxZ9fP8O1",
+            "name": "Jeni Lemon",
+            "companyName": null,
+            "email": "jenella.lemon@gmail.com",
+            "phone": "+16058010626",
+            "tags": [
+              "smc",
+              "new lead",
+              "assigned to natalia"
+            ],
+            "score": []
+          },
+          "sort": [
+            1781372949764,
+            "1gBgZxwkUFWLxZ9fP8O1"
+          ],
+          "attributions": [
+            {
+              "pageUrl": "https://gogetemcommunity.com/?utm_id=97760_v0_s00_e0_tv3",
+              "referrer": "https://l.instagram.com",
+              "utmSessionSource": "Social media",
+              "ip": "2600:1014:b31f:5127:1841:ac23:63ed:6a38",
+              "isFirst": true,
+              "medium": "form",
+              "mediumId": "rtTNrLeOuDNq53WY7xwd",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23F81 Instagram 433.0.0.33.57 (iPhone18,2; iOS 26_5_1; en_US; en; scale=3.00; 1320x2868; IABMV/1; 989803374) Safari/604.1",
+              "url": "https://gogetemcommunity.com/"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/?utm_id=97760_v0_s00_e0_tv3",
+              "referrer": "https://l.instagram.com",
+              "utmSessionSource": "Social media",
+              "isLast": true,
+              "ip": "2600:1014:b31f:5127:1841:ac23:63ed:6a38",
+              "medium": "form",
+              "mediumId": "rtTNrLeOuDNq53WY7xwd",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23F81 Instagram 433.0.0.33.57 (iPhone18,2; iOS 26_5_1; en_US; en; scale=3.00; 1320x2868; IABMV/1; 989803374) Safari/604.1",
+              "url": "https://gogetemcommunity.com/"
+            }
+          ]
+        },
         {
           "id": "cA5RJZrJHFY45rNjyyyT",
           "name": "Alexis Carrera",
@@ -44559,6 +44642,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "Egp02vUwsemXg5jDd2ho",
+          "lastMessageDate": 1781375002439,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "8k1OnzmIReqtpGcif2J5",
           "lastMessageDate": 1781369138114,
           "type": "TYPE_PHONE"
@@ -45054,8 +45142,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "LJDLAxO3zwEsBOEuMlKz",
-          "lastMessageDate": 1780249972796,
+          "id": "Egp02vUwsemXg5jDd2ho",
+          "lastMessageDate": 1781375002439,
           "type": "TYPE_PHONE"
         },
         {
@@ -45551,11 +45639,6 @@
         {
           "id": "QQUzCTJHKX8yXelTWmGx",
           "lastMessageDate": 1780259492803,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "LJDLAxO3zwEsBOEuMlKz",
-          "lastMessageDate": 1780249972796,
           "type": "TYPE_PHONE"
         }
       ]
