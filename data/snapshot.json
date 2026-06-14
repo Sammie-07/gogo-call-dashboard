@@ -1,11 +1,11 @@
 {
-  "syncedAt": "2026-06-13T23:08:37.231Z",
+  "syncedAt": "2026-06-14T04:15:43.297Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 224,
       "talkTimeMinutes": 191,
-      "manualSms": 220,
+      "manualSms": 214,
       "autoSms": 496,
       "manualEmail": 100,
       "autoEmail": 2310,
@@ -101,7 +101,7 @@
         {
           "date": "2026-02-17",
           "calls": 0,
-          "manualSms": 8,
+          "manualSms": 2,
           "autoSms": 0,
           "manualEmail": 0,
           "autoEmail": 0
@@ -44642,6 +44642,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "igFsirsUqRFuYQSTVAJX",
+          "lastMessageDate": 1781404092044,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "5xUzfuF86bxoAXDaJ6UV",
           "lastMessageDate": 1781390846936,
           "type": "TYPE_PHONE"
@@ -44704,11 +44709,6 @@
         {
           "id": "KHRW5tErGPbvBL8tDZwv",
           "lastMessageDate": 1781208139787,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "igFsirsUqRFuYQSTVAJX",
-          "lastMessageDate": 1781208124307,
           "type": "TYPE_PHONE"
         },
         {
@@ -45142,6 +45142,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "igFsirsUqRFuYQSTVAJX",
+          "lastMessageDate": 1781404092044,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "5xUzfuF86bxoAXDaJ6UV",
           "lastMessageDate": 1781390846936,
           "type": "TYPE_PHONE"
@@ -45204,11 +45209,6 @@
         {
           "id": "KHRW5tErGPbvBL8tDZwv",
           "lastMessageDate": 1781208139787,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "igFsirsUqRFuYQSTVAJX",
-          "lastMessageDate": 1781208124307,
           "type": "TYPE_PHONE"
         },
         {
