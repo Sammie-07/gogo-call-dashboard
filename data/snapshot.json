@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-15T06:27:56.821Z",
+  "syncedAt": "2026-06-15T13:18:21.281Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -44639,6 +44639,28 @@
           "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
           "startTime": "2026-06-18T15:00:00-04:00",
           "title": "GGTC Onboarding Call - Hollie Garvey",
+          "assignedResources": [],
+          "isRecurring": false,
+          "createdBy": {
+            "source": "booking_widget",
+            "userId": null
+          },
+          "deleted": false
+        },
+        {
+          "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
+          "assignedUserId": "C7PplofCN88pv8MTTiZT",
+          "address": "https://zoom.us/j/98827914664",
+          "calendarId": "8kLbo3OukoeNXebq8B4b",
+          "contactId": "KcLRWDotEehegutKGiJa",
+          "dateAdded": "2026-06-15T11:45:40.108Z",
+          "dateUpdated": "2026-06-15T11:45:40.108Z",
+          "endTime": "2026-06-18T16:00:00-04:00",
+          "id": "TDPDUALqMkWqLf2RfKxw",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "startTime": "2026-06-18T15:00:00-04:00",
+          "title": "GGTC Onboarding Call - Yvonne Zielinski",
           "assignedResources": [],
           "isRecurring": false,
           "createdBy": {
