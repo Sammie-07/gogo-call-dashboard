@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-06-17T00:20:13.901Z",
+  "syncedAt": "2026-06-17T06:15:36.295Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 232,
       "talkTimeMinutes": 192,
-      "manualSms": 192,
+      "manualSms": 190,
       "autoSms": 530,
       "manualEmail": 110,
-      "autoEmail": 2370,
+      "autoEmail": 2372,
       "byDay": [
         {
           "date": "2024-09-05",
@@ -92,14 +92,6 @@
         },
         {
           "date": "2026-01-13",
-          "calls": 0,
-          "manualSms": 2,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 0
-        },
-        {
-          "date": "2026-02-17",
           "calls": 0,
           "manualSms": 2,
           "autoSms": 0,
@@ -665,6 +657,14 @@
           "autoSms": 4,
           "manualEmail": 8,
           "autoEmail": 28
+        },
+        {
+          "date": "2026-06-17",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 0,
+          "manualEmail": 0,
+          "autoEmail": 2
         }
       ],
       "opportunities": [
@@ -44726,6 +44726,16 @@
       ],
       "conversationsAll": [
         {
+          "id": "bopP173VItyebg1W5uep",
+          "lastMessageDate": 1781662814240,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "igFsirsUqRFuYQSTVAJX",
+          "lastMessageDate": 1781661118583,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "HVEJoBKIp069R8Ecxml3",
           "lastMessageDate": 1781638086082,
           "type": "TYPE_PHONE"
@@ -44773,16 +44783,6 @@
         {
           "id": "lqvtaPljoxBBCe3G1j4k",
           "lastMessageDate": 1781625752845,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "bopP173VItyebg1W5uep",
-          "lastMessageDate": 1781625745160,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "igFsirsUqRFuYQSTVAJX",
-          "lastMessageDate": 1781625734245,
           "type": "TYPE_PHONE"
         },
         {
@@ -45226,6 +45226,16 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "bopP173VItyebg1W5uep",
+          "lastMessageDate": 1781662814240,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "igFsirsUqRFuYQSTVAJX",
+          "lastMessageDate": 1781661118583,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "HVEJoBKIp069R8Ecxml3",
           "lastMessageDate": 1781638086082,
           "type": "TYPE_PHONE"
@@ -45273,16 +45283,6 @@
         {
           "id": "lqvtaPljoxBBCe3G1j4k",
           "lastMessageDate": 1781625752845,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "bopP173VItyebg1W5uep",
-          "lastMessageDate": 1781625745160,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "igFsirsUqRFuYQSTVAJX",
-          "lastMessageDate": 1781625734245,
           "type": "TYPE_PHONE"
         },
         {
@@ -45733,7 +45733,7 @@
       "manualSms": 52,
       "autoSms": 158,
       "manualEmail": 18,
-      "autoEmail": 1708,
+      "autoEmail": 1690,
       "byDay": [
         {
           "date": "2026-04-24",
@@ -45749,7 +45749,7 @@
           "manualSms": 0,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 88
+          "autoEmail": 86
         },
         {
           "date": "2026-04-30",
@@ -45765,7 +45765,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 178
+          "autoEmail": 176
         },
         {
           "date": "2026-05-04",
@@ -45781,7 +45781,7 @@
           "manualSms": 8,
           "autoSms": 18,
           "manualEmail": 0,
-          "autoEmail": 198
+          "autoEmail": 196
         },
         {
           "date": "2026-05-07",
@@ -45805,7 +45805,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 158
+          "autoEmail": 156
         },
         {
           "date": "2026-05-11",
@@ -45837,7 +45837,7 @@
           "manualSms": 6,
           "autoSms": 14,
           "manualEmail": 0,
-          "autoEmail": 164
+          "autoEmail": 162
         },
         {
           "date": "2026-05-17",
@@ -45853,7 +45853,7 @@
           "manualSms": 2,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 146
+          "autoEmail": 144
         },
         {
           "date": "2026-05-19",
@@ -45877,7 +45877,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 166
+          "autoEmail": 164
         },
         {
           "date": "2026-05-22",
@@ -45909,7 +45909,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 166
+          "autoEmail": 164
         },
         {
           "date": "2026-05-28",
@@ -45925,7 +45925,7 @@
           "manualSms": 0,
           "autoSms": 16,
           "manualEmail": 0,
-          "autoEmail": 166
+          "autoEmail": 164
         },
         {
           "date": "2026-05-31",
@@ -47436,6 +47436,100 @@
               "mediumId": "rtTNrLeOuDNq53WY7xwd",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Mobile/15E148 Safari/604.1",
               "url": "https://gogetemcommunity.com/"
+            }
+          ]
+        },
+        {
+          "id": "cF78DemNyOMKL3pQnRfl",
+          "name": "Gena Schaublin",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "9af4ce40-5d59-4bbc-bb7a-a035ad6c0a46",
+          "pipelineStageUId": "9af4ce40-5d59-4bbc-bb7a-a035ad6c0a46",
+          "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
+          "status": "open",
+          "source": "RETARGETING | SMC Website Variants Testing",
+          "lastStatusChangeAt": "2026-04-07T15:18:32.301Z",
+          "lastStageChangeAt": "2026-04-13T14:47:05.045Z",
+          "createdAt": "2026-04-07T15:18:32.301Z",
+          "updatedAt": "2026-06-17T02:20:17.620Z",
+          "forecastProbability": null,
+          "effectiveProbability": 43.75,
+          "indexVersion": 1,
+          "contactId": "BFEkav2QqchoO3NbPa5e",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "cF78DemNyOMKL3pQnRfl",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "BFEkav2QqchoO3NbPa5e",
+              "fullName": "Gena Schaublin",
+              "contactName": "Gena Schaublin",
+              "companyName": null,
+              "email": "gena@genaschaublin.com",
+              "phone": "+16023177610",
+              "tags": [
+                "smc",
+                "new lead",
+                "assigned to laura",
+                "assigned to ferny"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "BFEkav2QqchoO3NbPa5e",
+            "name": "Gena Schaublin",
+            "companyName": null,
+            "email": "gena@genaschaublin.com",
+            "phone": "+16023177610",
+            "tags": [
+              "smc",
+              "new lead",
+              "assigned to laura",
+              "assigned to ferny"
+            ],
+            "score": []
+          },
+          "sort": [
+            1775575112301,
+            "BFEkav2QqchoO3NbPa5e"
+          ],
+          "attributions": [
+            {
+              "pageUrl": "https://gogetemcommunity.com/socialmedia/?utm_source=Meta+ads&utm_medium=Weekly+Training+Image+Ads+%7C+With+Popup&utm_campaign=RETARGETING+%7C+SMC+Website+Variants+Testing&utm_content=Week+2+Image+-+With+Popup&fbclid=IwZXh0bgNhZW0BMABhZGlkAassnlTgIzpzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEeuV1rTAY7cAvOi1KKl8xnCa4dk5u588TupQWPG9Z2OWj9rV9yhxao2t74djU_aem_oYUz2DHdCqseryI-DKU22g&audience=new_audience&utm_id=120238873507440250_v2_s04&utm_term=120238873507440250",
+              "utmSessionSource": "Social media",
+              "utmCampaign": "Retargeting | Smc Website Variants Testing",
+              "utmMedium": "Weekly Training Image Ads | With Popup",
+              "ip": "71.223.144.59",
+              "isFirst": true,
+              "medium": "form",
+              "utmKeyword": "120238873507440250",
+              "url": "https://gogetemcommunity.com/socialmedia/",
+              "utmTerm": "120238873507440250",
+              "referrer": "http://m.facebook.com",
+              "utmFbclid": "IwZXh0bgNhZW0BMABhZGlkAassnlTgIzpzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEeuV1rTAY7cAvOi1KKl8xnCa4dk5u588TupQWPG9Z2OWj9rV9yhxao2t74djU_aem_oYUz2DHdCqseryI-DKU22g",
+              "mediumId": "rtTNrLeOuDNq53WY7xwd",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23D8133 Safari/604.1 [FBAN/FBIOS;FBAV/555.0.0.36.63;FBBV/923840166;FBDV/iPhone17,2;FBMD/iPhone;FBSN/iOS;FBSV/26.3.1;FBSS/3;FBID/phone;FBLC/en_US;FBOP/5;FBRV/930770960;IABMV/1]",
+              "utmSource": "Meta ads",
+              "utmContent": "Week 2 Image - With Popup"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/socialmedia/?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPMTI0MDI0NTc0Mjg3NDE0AAGnWI1f4CLNf2Y23TWjl7J9i2R2V7NovezE92zsAPx7SHVYMLkq7zk39ohdcd4_aem_yEaKufLAgEtI5_dhNNFd_Q&utm_id=97760_v0_s00_e0_tv6_a1dennhawxbhge",
+              "referrer": "https://l.instagram.com",
+              "utmSessionSource": "Social media",
+              "isLast": true,
+              "utmFbclid": "PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPMTI0MDI0NTc0Mjg3NDE0AAGnWI1f4CLNf2Y23TWjl7J9i2R2V7NovezE92zsAPx7SHVYMLkq7zk39ohdcd4_aem_yEaKufLAgEtI5_dhNNFd_Q",
+              "ip": "97.124.240.8",
+              "medium": "form",
+              "mediumId": "rtTNrLeOuDNq53WY7xwd",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23F77 Instagram 433.0.0.33.57 (iPhone17,2; iOS 26_5; en_US; en; scale=3.00; 1320x2868; IABMV/1; 989803374) Safari/604.1",
+              "url": "https://gogetemcommunity.com/socialmedia/"
             }
           ]
         },
@@ -67484,6 +67578,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "FF7TCufs2qh2knvUB0UI",
+          "lastMessageDate": 1781662147037,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "sLmWnRXhvhXvU0LlmY20",
           "lastMessageDate": 1781625687468,
           "type": "TYPE_PHONE"
@@ -67979,8 +68078,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "jrdxD1qScEe4gqO2wHn9",
-          "lastMessageDate": 1780057951442,
+          "id": "FF7TCufs2qh2knvUB0UI",
+          "lastMessageDate": 1781662147037,
           "type": "TYPE_PHONE"
         },
         {
@@ -68476,11 +68575,6 @@
         {
           "id": "9GnVx4mP8NWTv0Srs1XA",
           "lastMessageDate": 1780057951564,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "jrdxD1qScEe4gqO2wHn9",
-          "lastMessageDate": 1780057951442,
           "type": "TYPE_PHONE"
         }
       ]
