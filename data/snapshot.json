@@ -1,13 +1,13 @@
 {
-  "syncedAt": "2026-06-20T09:19:17.244Z",
+  "syncedAt": "2026-06-20T11:59:00.628Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 232,
       "talkTimeMinutes": 200,
-      "manualSms": 202,
+      "manualSms": 204,
       "autoSms": 532,
-      "manualEmail": 122,
+      "manualEmail": 124,
       "autoEmail": 2464,
       "byDay": [
         {
@@ -681,6 +681,14 @@
           "autoSms": 4,
           "manualEmail": 6,
           "autoEmail": 12
+        },
+        {
+          "date": "2026-06-20",
+          "calls": 0,
+          "manualSms": 2,
+          "autoSms": 0,
+          "manualEmail": 2,
+          "autoEmail": 0
         }
       ],
       "opportunities": [
@@ -24159,7 +24167,8 @@
                 "assigned to natalia",
                 "lead called",
                 "gogetem affiliate",
-                "goget'em member; new"
+                "goget'em member; new",
+                "ggtc onboarding call scheduled"
               ],
               "attributed": true
             }
@@ -24177,7 +24186,8 @@
               "assigned to natalia",
               "lead called",
               "gogetem affiliate",
-              "goget'em member; new"
+              "goget'em member; new",
+              "ggtc onboarding call scheduled"
             ],
             "score": []
           },
@@ -44752,9 +44762,36 @@
             "userId": null
           },
           "deleted": false
+        },
+        {
+          "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
+          "assignedUserId": "C7PplofCN88pv8MTTiZT",
+          "address": "https://zoom.us/j/98827914664",
+          "calendarId": "8kLbo3OukoeNXebq8B4b",
+          "contactId": "HbuJ6jZy5yfwxjyBu6lS",
+          "dateAdded": "2026-06-20T11:43:13.482Z",
+          "dateUpdated": "2026-06-20T11:43:13.482Z",
+          "endTime": "2026-07-02T16:00:00-04:00",
+          "id": "YbqSnwHP3EFeA85RVuqc",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "startTime": "2026-07-02T15:00:00-04:00",
+          "title": "GGTC Onboarding Call - Trish Todd",
+          "assignedResources": [],
+          "isRecurring": false,
+          "createdBy": {
+            "source": "booking_widget",
+            "userId": null
+          },
+          "deleted": false
         }
       ],
       "conversationsAll": [
+        {
+          "id": "52NhSVeJes9c0XygMGMp",
+          "lastMessageDate": 1781955796261,
+          "type": "TYPE_PHONE"
+        },
         {
           "id": "n64cQDq7aYDekR8EeHEn",
           "lastMessageDate": 1781901496699,
@@ -44808,11 +44845,6 @@
         {
           "id": "dZXzcXJsSCRorokV6ZHt",
           "lastMessageDate": 1781814647238,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "52NhSVeJes9c0XygMGMp",
-          "lastMessageDate": 1781812882545,
           "type": "TYPE_PHONE"
         },
         {
@@ -45256,6 +45288,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "52NhSVeJes9c0XygMGMp",
+          "lastMessageDate": 1781955796261,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "n64cQDq7aYDekR8EeHEn",
           "lastMessageDate": 1781901496699,
           "type": "TYPE_PHONE"
@@ -45308,11 +45345,6 @@
         {
           "id": "dZXzcXJsSCRorokV6ZHt",
           "lastMessageDate": 1781814647238,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "52NhSVeJes9c0XygMGMp",
-          "lastMessageDate": 1781812882545,
           "type": "TYPE_PHONE"
         },
         {
