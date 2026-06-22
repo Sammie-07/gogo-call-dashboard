@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-06-22T04:25:10.652Z",
+  "syncedAt": "2026-06-22T10:41:38.511Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
-      "calls": 232,
-      "talkTimeMinutes": 198,
+      "calls": 230,
+      "talkTimeMinutes": 197,
       "manualSms": 206,
-      "autoSms": 516,
+      "autoSms": 510,
       "manualEmail": 124,
-      "autoEmail": 2454,
+      "autoEmail": 2430,
       "byDay": [
         {
           "date": "2024-09-05",
@@ -248,7 +248,7 @@
           "manualSms": 2,
           "autoSms": 8,
           "manualEmail": 2,
-          "autoEmail": 122
+          "autoEmail": 120
         },
         {
           "date": "2026-04-25",
@@ -264,7 +264,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 146
+          "autoEmail": 144
         },
         {
           "date": "2026-04-28",
@@ -304,7 +304,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 116
+          "autoEmail": 114
         },
         {
           "date": "2026-05-03",
@@ -328,7 +328,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 132
+          "autoEmail": 130
         },
         {
           "date": "2026-05-06",
@@ -368,15 +368,15 @@
           "manualSms": 0,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 114
+          "autoEmail": 112
         },
         {
           "date": "2026-05-11",
-          "calls": 20,
+          "calls": 18,
           "manualSms": 2,
-          "autoSms": 20,
+          "autoSms": 18,
           "manualEmail": 0,
-          "autoEmail": 36
+          "autoEmail": 34
         },
         {
           "date": "2026-05-12",
@@ -398,9 +398,9 @@
           "date": "2026-05-14",
           "calls": 32,
           "manualSms": 6,
-          "autoSms": 48,
+          "autoSms": 46,
           "manualEmail": 4,
-          "autoEmail": 90
+          "autoEmail": 88
         },
         {
           "date": "2026-05-15",
@@ -432,7 +432,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 116
+          "autoEmail": 114
         },
         {
           "date": "2026-05-19",
@@ -454,9 +454,9 @@
           "date": "2026-05-21",
           "calls": 26,
           "manualSms": 0,
-          "autoSms": 36,
+          "autoSms": 34,
           "manualEmail": 0,
-          "autoEmail": 144
+          "autoEmail": 142
         },
         {
           "date": "2026-05-22",
@@ -488,7 +488,7 @@
           "manualSms": 4,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 46
+          "autoEmail": 44
         },
         {
           "date": "2026-05-26",
@@ -512,7 +512,7 @@
           "manualSms": 4,
           "autoSms": 6,
           "manualEmail": 0,
-          "autoEmail": 78
+          "autoEmail": 76
         },
         {
           "date": "2026-05-29",
@@ -544,7 +544,7 @@
           "manualSms": 8,
           "autoSms": 6,
           "manualEmail": 2,
-          "autoEmail": 36
+          "autoEmail": 34
         },
         {
           "date": "2026-06-02",
@@ -566,9 +566,9 @@
           "date": "2026-06-04",
           "calls": 36,
           "manualSms": 20,
-          "autoSms": 28,
+          "autoSms": 26,
           "manualEmail": 2,
-          "autoEmail": 122
+          "autoEmail": 120
         },
         {
           "date": "2026-06-05",
@@ -705,9 +705,109 @@
           "autoSms": 0,
           "manualEmail": 0,
           "autoEmail": 22
+        },
+        {
+          "date": "2026-06-22",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 2,
+          "manualEmail": 0,
+          "autoEmail": 2
         }
       ],
       "opportunities": [
+        {
+          "id": "30AnrplPszJ3qBxlZi4m",
+          "name": "Kelvin KAMAU",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "assignedTo": "C7PplofCN88pv8MTTiZT",
+          "status": "open",
+          "source": "GoGet'Em Sign Up Form w/@IG handle",
+          "lastStatusChangeAt": "2026-06-22T10:17:55.102Z",
+          "lastStageChangeAt": "2026-06-22T10:19:00.156Z",
+          "createdAt": "2026-06-22T10:17:55.102Z",
+          "updatedAt": "2026-06-22T10:19:00.285Z",
+          "forecastProbability": null,
+          "effectiveProbability": 31.25,
+          "contactId": "DRVTOqpyzxoWvhUiSvx2",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "30AnrplPszJ3qBxlZi4m",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "DRVTOqpyzxoWvhUiSvx2",
+              "fullName": "Kelvin KAMAU",
+              "contactName": "Kelvin KAMAU",
+              "companyName": null,
+              "email": "kamauk56471@gmail.com",
+              "phone": "+254725853700",
+              "tags": [
+                "smc",
+                "new lead",
+                "assigned to natalia"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "DRVTOqpyzxoWvhUiSvx2",
+            "name": "Kelvin KAMAU",
+            "companyName": null,
+            "email": "kamauk56471@gmail.com",
+            "phone": "+254725853700",
+            "tags": [
+              "smc",
+              "new lead",
+              "assigned to natalia"
+            ],
+            "score": []
+          },
+          "sort": [
+            1782123475102,
+            "DRVTOqpyzxoWvhUiSvx2"
+          ],
+          "attributions": [
+            {
+              "pageUrl": "https://gogetemcommunity.com/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3AAGnqjjCYsEHUNYBO8L33baR-Av3M4-400kEgKdME_xAtMM6fdhjGLslhz9MN-g_aem_NV4rzZFAIQtE7J4nIc6D_Q&utm_id=97760_v0_s00_e0_tv3",
+              "utmSessionSource": "Social media",
+              "utmMedium": "social",
+              "ip": "41.90.136.199",
+              "isFirst": true,
+              "medium": "form",
+              "utmKeyword": "Link_in_bio",
+              "url": "https://gogetemcommunity.com/",
+              "referrer": "https://l.instagram.com",
+              "utmFbclid": "PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3AAGnqjjCYsEHUNYBO8L33baR-Av3M4-400kEgKdME_xAtMM6fdhjGLslhz9MN-g_aem_NV4rzZFAIQtE7J4nIc6D_Q",
+              "mediumId": "rtTNrLeOuDNq53WY7xwd",
+              "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-A155F Build/BP2A.250605.031.A3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/149.0.7827.91 Mobile Safari/537.36 Instagram 434.0.0.44.74 Android (36/16; 450dpi; 1080x2340; samsung; SM-A155F; a15; mt6789; en_GB; 996255481; IABMV/1)",
+              "utmSource": "ig",
+              "utmContent": "link_in_bio"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3AAGnqjjCYsEHUNYBO8L33baR-Av3M4-400kEgKdME_xAtMM6fdhjGLslhz9MN-g_aem_NV4rzZFAIQtE7J4nIc6D_Q&utm_id=97760_v0_s00_e0_tv3",
+              "utmSessionSource": "Social media",
+              "utmMedium": "social",
+              "ip": "41.90.136.199",
+              "medium": "form",
+              "url": "https://gogetemcommunity.com/",
+              "referrer": "https://l.instagram.com",
+              "isLast": true,
+              "utmFbclid": "PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3AAGnqjjCYsEHUNYBO8L33baR-Av3M4-400kEgKdME_xAtMM6fdhjGLslhz9MN-g_aem_NV4rzZFAIQtE7J4nIc6D_Q",
+              "mediumId": "rtTNrLeOuDNq53WY7xwd",
+              "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-A155F Build/BP2A.250605.031.A3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/149.0.7827.91 Mobile Safari/537.36 Instagram 434.0.0.44.74 Android (36/16; 450dpi; 1080x2340; samsung; SM-A155F; a15; mt6789; en_GB; 996255481; IABMV/1)",
+              "utmSource": "ig",
+              "utmContent": "link_in_bio"
+            }
+          ]
+        },
         {
           "id": "4gmpIveEr9fIfUpD1rgz",
           "name": "Pam Tapp",
@@ -44804,6 +44904,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "PqlvNWjxwAZnoKW6fHww",
+          "lastMessageDate": 1782124082818,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "5xUzfuF86bxoAXDaJ6UV",
           "lastMessageDate": 1782082050666,
           "type": "TYPE_PHONE"
@@ -45299,8 +45404,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "yRgAwu4jRsocnZJ7DUn4",
-          "lastMessageDate": 1780600289709,
+          "id": "PqlvNWjxwAZnoKW6fHww",
+          "lastMessageDate": 1782124082818,
           "type": "TYPE_PHONE"
         },
         {
@@ -45796,11 +45901,6 @@
         {
           "id": "xNn7m8fapsvzsYEOVg73",
           "lastMessageDate": 1780600476747,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "yRgAwu4jRsocnZJ7DUn4",
-          "lastMessageDate": 1780600289709,
           "type": "TYPE_PHONE"
         }
       ]
