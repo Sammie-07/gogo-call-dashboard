@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-24T08:24:58.457Z",
+  "syncedAt": "2026-06-24T11:47:54.042Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -45929,7 +45929,7 @@
       "manualSms": 68,
       "autoSms": 162,
       "manualEmail": 24,
-      "autoEmail": 1682,
+      "autoEmail": 1684,
       "byDay": [
         {
           "date": "2026-04-21",
@@ -46255,6 +46255,14 @@
           "date": "2026-06-23",
           "calls": 0,
           "manualSms": 2,
+          "autoSms": 0,
+          "manualEmail": 0,
+          "autoEmail": 2
+        },
+        {
+          "date": "2026-06-24",
+          "calls": 0,
+          "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
           "autoEmail": 2
@@ -67836,6 +67844,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "m8eCy5pSMdar9PcmT2Ls",
+          "lastMessageDate": 1782301565108,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "sLmWnRXhvhXvU0LlmY20",
           "lastMessageDate": 1782230546820,
           "type": "TYPE_PHONE"
@@ -67843,11 +67856,6 @@
         {
           "id": "FaR0AkRvAGkg6kQ3o6GW",
           "lastMessageDate": 1782229027139,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "m8eCy5pSMdar9PcmT2Ls",
-          "lastMessageDate": 1782215161621,
           "type": "TYPE_PHONE"
         },
         {
@@ -68336,6 +68344,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "m8eCy5pSMdar9PcmT2Ls",
+          "lastMessageDate": 1782301565108,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "sLmWnRXhvhXvU0LlmY20",
           "lastMessageDate": 1782230546820,
           "type": "TYPE_PHONE"
@@ -68343,11 +68356,6 @@
         {
           "id": "FaR0AkRvAGkg6kQ3o6GW",
           "lastMessageDate": 1782229027139,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "m8eCy5pSMdar9PcmT2Ls",
-          "lastMessageDate": 1782215161621,
           "type": "TYPE_PHONE"
         },
         {
