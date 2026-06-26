@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-26T13:15:09.713Z",
+  "syncedAt": "2026-06-26T16:20:46.760Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -8,7 +8,7 @@
       "manualSms": 236,
       "autoSms": 426,
       "manualEmail": 126,
-      "autoEmail": 2476,
+      "autoEmail": 2478,
       "byDay": [
         {
           "date": "2024-09-05",
@@ -728,7 +728,7 @@
           "manualSms": 0,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 2
+          "autoEmail": 4
         }
       ],
       "opportunities": [
@@ -737,17 +737,17 @@
           "name": "Katlinn Verrett",
           "monetaryValue": 0,
           "pipelineId": "4ODbBsC9MIjSBtnIOETl",
-          "pipelineStageId": "9af4ce40-5d59-4bbc-bb7a-a035ad6c0a46",
-          "pipelineStageUId": "9af4ce40-5d59-4bbc-bb7a-a035ad6c0a46",
+          "pipelineStageId": "71028263-9714-45b3-91aa-dda01d4bb4a6",
+          "pipelineStageUId": "71028263-9714-45b3-91aa-dda01d4bb4a6",
           "assignedTo": "C7PplofCN88pv8MTTiZT",
           "status": "open",
           "source": "GoGet'Em Sign Up Form w/@IG handle",
           "lastStatusChangeAt": "2026-06-25T05:55:20.266Z",
-          "lastStageChangeAt": "2026-06-25T17:31:01.463Z",
+          "lastStageChangeAt": "2026-06-26T13:18:27.355Z",
           "createdAt": "2026-06-25T05:55:20.266Z",
-          "updatedAt": "2026-06-25T17:31:01.596Z",
+          "updatedAt": "2026-06-26T13:18:27.396Z",
           "forecastProbability": null,
-          "effectiveProbability": 43.75,
+          "effectiveProbability": 62.5,
           "contactId": "yF1mRZhkGQsvUBlVmzDt",
           "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
           "customFields": [],
@@ -769,7 +769,8 @@
                 "smc",
                 "new lead",
                 "assigned to natalia",
-                "lead called"
+                "lead called",
+                "sales: not interested"
               ],
               "attributed": true
             }
@@ -784,7 +785,8 @@
               "smc",
               "new lead",
               "assigned to natalia",
-              "lead called"
+              "lead called",
+              "sales: not interested"
             ],
             "score": []
           },
@@ -44941,6 +44943,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "bopP173VItyebg1W5uep",
+          "lastMessageDate": 1782482943360,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "7tVwLUq6J7iQ00uuJBKL",
           "lastMessageDate": 1782454244197,
           "type": "TYPE_PHONE"
@@ -45163,11 +45170,6 @@
         {
           "id": "A7qDXcJELAJNysPHix7H",
           "lastMessageDate": 1782325695072,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "bopP173VItyebg1W5uep",
-          "lastMessageDate": 1782324598383,
           "type": "TYPE_PHONE"
         },
         {
@@ -45441,6 +45443,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "bopP173VItyebg1W5uep",
+          "lastMessageDate": 1782482943360,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "7tVwLUq6J7iQ00uuJBKL",
           "lastMessageDate": 1782454244197,
           "type": "TYPE_PHONE"
@@ -45663,11 +45670,6 @@
         {
           "id": "A7qDXcJELAJNysPHix7H",
           "lastMessageDate": 1782325695072,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "bopP173VItyebg1W5uep",
-          "lastMessageDate": 1782324598383,
           "type": "TYPE_PHONE"
         },
         {
@@ -45948,7 +45950,7 @@
       "manualSms": 70,
       "autoSms": 164,
       "manualEmail": 24,
-      "autoEmail": 1670,
+      "autoEmail": 1652,
       "byDay": [
         {
           "date": "2026-04-21",
@@ -45972,7 +45974,7 @@
           "manualSms": 0,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 82
+          "autoEmail": 80
         },
         {
           "date": "2026-04-30",
@@ -45988,7 +45990,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 172
+          "autoEmail": 170
         },
         {
           "date": "2026-05-04",
@@ -46004,7 +46006,7 @@
           "manualSms": 8,
           "autoSms": 18,
           "manualEmail": 0,
-          "autoEmail": 192
+          "autoEmail": 190
         },
         {
           "date": "2026-05-07",
@@ -46028,7 +46030,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 152
+          "autoEmail": 150
         },
         {
           "date": "2026-05-11",
@@ -46060,7 +46062,7 @@
           "manualSms": 6,
           "autoSms": 14,
           "manualEmail": 0,
-          "autoEmail": 158
+          "autoEmail": 156
         },
         {
           "date": "2026-05-17",
@@ -46076,7 +46078,7 @@
           "manualSms": 2,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 140
+          "autoEmail": 138
         },
         {
           "date": "2026-05-19",
@@ -46100,7 +46102,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 160
+          "autoEmail": 158
         },
         {
           "date": "2026-05-22",
@@ -46132,7 +46134,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 160
+          "autoEmail": 158
         },
         {
           "date": "2026-05-28",
@@ -46148,7 +46150,7 @@
           "manualSms": 0,
           "autoSms": 16,
           "manualEmail": 0,
-          "autoEmail": 160
+          "autoEmail": 158
         },
         {
           "date": "2026-05-31",
@@ -46304,6 +46306,98 @@
         }
       ],
       "opportunities": [
+        {
+          "id": "3P5Mc6lYLwoizNA2EFRz",
+          "name": "Nicole Perry",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "80949724-7894-4a42-8028-746a06208f9e",
+          "pipelineStageUId": "80949724-7894-4a42-8028-746a06208f9e",
+          "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
+          "status": "open",
+          "source": "GoGet'Em Sign Up Form w/@IG handle",
+          "lastStatusChangeAt": "2026-06-26T14:07:57.545Z",
+          "lastStageChangeAt": "2026-06-26T14:09:02.822Z",
+          "createdAt": "2026-06-26T14:07:57.545Z",
+          "updatedAt": "2026-06-26T14:09:03.498Z",
+          "forecastProbability": null,
+          "effectiveProbability": 25,
+          "contactId": "mwfSkMTHVLAmji5Sf7q4",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "3P5Mc6lYLwoizNA2EFRz",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "mwfSkMTHVLAmji5Sf7q4",
+              "fullName": "Nicole Perry",
+              "contactName": "Nicole Perry",
+              "companyName": null,
+              "email": "nicoleperryatx@gmail.com",
+              "phone": "+15127310217",
+              "tags": [
+                "smc",
+                "new lead",
+                "assigned to ferny"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "mwfSkMTHVLAmji5Sf7q4",
+            "name": "Nicole Perry",
+            "companyName": null,
+            "email": "nicoleperryatx@gmail.com",
+            "phone": "+15127310217",
+            "tags": [
+              "smc",
+              "new lead",
+              "assigned to ferny"
+            ],
+            "score": []
+          },
+          "sort": [
+            1782482877545,
+            "mwfSkMTHVLAmji5Sf7q4"
+          ],
+          "attributions": [
+            {
+              "pageUrl": "https://gogetemcommunity.com/socialmedia/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3AAGnCgPFSdyYAFD-8Vt80eOZb4914QgssXJ7OgS1-NA3tzTiAv7z7QirDghwd38_aem_y5exoCWe7y3tMXMJYfe90g&utm_id=97760_v0_s00_e0_tv3",
+              "utmSessionSource": "Social media",
+              "utmMedium": "social",
+              "ip": "2603:8081:90f0:7ed0:15d6:e1d9:5ea6:ac58",
+              "isFirst": true,
+              "medium": "form",
+              "utmKeyword": "Link_in_bio",
+              "url": "https://gogetemcommunity.com/socialmedia/",
+              "referrer": "https://l.instagram.com",
+              "utmFbclid": "PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3AAGnCgPFSdyYAFD-8Vt80eOZb4914QgssXJ7OgS1-NA3tzTiAv7z7QirDghwd38_aem_y5exoCWe7y3tMXMJYfe90g",
+              "mediumId": "rtTNrLeOuDNq53WY7xwd",
+              "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S938U Build/BP4A.251205.006; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/149.0.7827.147 Mobile Safari/537.36 Instagram 434.0.0.44.74 Android (36/16; 480dpi; 1080x2340; samsung; SM-S938U; pa3q; qcom; en_US; 996255481; IABMV/1)",
+              "utmSource": "ig",
+              "utmContent": "link_in_bio"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/socialmedia/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3AAGnCgPFSdyYAFD-8Vt80eOZb4914QgssXJ7OgS1-NA3tzTiAv7z7QirDghwd38_aem_y5exoCWe7y3tMXMJYfe90g&utm_id=97760_v0_s00_e0_tv3",
+              "utmSessionSource": "Social media",
+              "utmMedium": "social",
+              "ip": "2603:8081:90f0:7ed0:15d6:e1d9:5ea6:ac58",
+              "medium": "form",
+              "url": "https://gogetemcommunity.com/socialmedia/",
+              "referrer": "https://l.instagram.com",
+              "isLast": true,
+              "utmFbclid": "PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3AAGnCgPFSdyYAFD-8Vt80eOZb4914QgssXJ7OgS1-NA3tzTiAv7z7QirDghwd38_aem_y5exoCWe7y3tMXMJYfe90g",
+              "mediumId": "rtTNrLeOuDNq53WY7xwd",
+              "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S938U Build/BP4A.251205.006; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/149.0.7827.147 Mobile Safari/537.36 Instagram 434.0.0.44.74 Android (36/16; 480dpi; 1080x2340; samsung; SM-S938U; pa3q; qcom; en_US; 996255481; IABMV/1)",
+              "utmSource": "ig",
+              "utmContent": "link_in_bio"
+            }
+          ]
+        },
         {
           "id": "9ZUi7dpeLEu0DrXvnlrC",
           "name": "Robert Adams",
@@ -67962,6 +68056,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "9fRpEFAjNWWjLbh8Y8e1",
+          "lastMessageDate": 1782482234657,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "m8eCy5pSMdar9PcmT2Ls",
           "lastMessageDate": 1782474371802,
           "type": "TYPE_PHONE"
@@ -68457,8 +68556,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "kS4NQ9fs00ZE3R1NHUyB",
-          "lastMessageDate": 1780057951946,
+          "id": "9fRpEFAjNWWjLbh8Y8e1",
+          "lastMessageDate": 1782482234657,
           "type": "TYPE_PHONE"
         },
         {
@@ -68954,11 +69053,6 @@
         {
           "id": "SQsi0xEsFVkgYWAmvlZR",
           "lastMessageDate": 1780057952290,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "kS4NQ9fs00ZE3R1NHUyB",
-          "lastMessageDate": 1780057951946,
           "type": "TYPE_PHONE"
         }
       ]
