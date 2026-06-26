@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-06-26T20:49:48.352Z",
+  "syncedAt": "2026-06-26T22:16:53.892Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
-      "calls": 248,
-      "talkTimeMinutes": 163,
-      "manualSms": 236,
-      "autoSms": 426,
+      "calls": 245,
+      "talkTimeMinutes": 161,
+      "manualSms": 231,
+      "autoSms": 428,
       "manualEmail": 126,
-      "autoEmail": 2480,
+      "autoEmail": 2476,
       "byDay": [
         {
           "date": "2024-09-05",
@@ -35,17 +35,9 @@
           "autoEmail": 0
         },
         {
-          "date": "2025-12-22",
-          "calls": 0,
-          "manualSms": 2,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 0
-        },
-        {
           "date": "2025-12-31",
           "calls": 0,
-          "manualSms": 2,
+          "manualSms": 1,
           "autoSms": 0,
           "manualEmail": 0,
           "autoEmail": 0
@@ -53,7 +45,7 @@
         {
           "date": "2026-01-01",
           "calls": 0,
-          "manualSms": 10,
+          "manualSms": 8,
           "autoSms": 0,
           "manualEmail": 0,
           "autoEmail": 0
@@ -131,16 +123,8 @@
           "autoEmail": 0
         },
         {
-          "date": "2026-03-24",
-          "calls": 2,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 0
-        },
-        {
           "date": "2026-03-26",
-          "calls": 2,
+          "calls": 1,
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
@@ -336,7 +320,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 4
+          "autoEmail": 2
         },
         {
           "date": "2026-05-09",
@@ -352,7 +336,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 118
+          "autoEmail": 117
         },
         {
           "date": "2026-05-11",
@@ -576,7 +560,7 @@
           "manualSms": 0,
           "autoSms": 22,
           "manualEmail": 0,
-          "autoEmail": 52
+          "autoEmail": 50
         },
         {
           "date": "2026-06-08",
@@ -592,7 +576,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 4
+          "autoEmail": 3
         },
         {
           "date": "2026-06-10",
@@ -726,12 +710,107 @@
           "date": "2026-06-26",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 2,
+          "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 6
+          "autoEmail": 8
         }
       ],
       "opportunities": [
+        {
+          "id": "23h7umBJvxyKwiAwicmJ",
+          "name": "Myrna Gonzalez",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "assignedTo": "C7PplofCN88pv8MTTiZT",
+          "status": "open",
+          "source": "GoGet'Em Comunity Check Out",
+          "lastStatusChangeAt": "2026-06-26T22:05:10.295Z",
+          "lastStageChangeAt": "2026-06-26T22:06:14.893Z",
+          "createdAt": "2026-06-26T22:05:10.295Z",
+          "updatedAt": "2026-06-26T22:06:15.029Z",
+          "forecastProbability": null,
+          "effectiveProbability": 31.25,
+          "contactId": "cXUDxLDQ4qudgaFCHEfp",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "23h7umBJvxyKwiAwicmJ",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "cXUDxLDQ4qudgaFCHEfp",
+              "fullName": "Myrna Gonzalez",
+              "contactName": "Myrna Gonzalez",
+              "companyName": null,
+              "email": "myrnagon902@gmail.com",
+              "phone": "+15128013448",
+              "tags": [
+                "freemium community",
+                "re stimulus pkg",
+                "goget'em canceled",
+                "smc",
+                "new lead",
+                "assigned to natalia"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "cXUDxLDQ4qudgaFCHEfp",
+            "name": "Myrna Gonzalez",
+            "companyName": null,
+            "email": "myrnagon902@gmail.com",
+            "phone": "+15128013448",
+            "tags": [
+              "freemium community",
+              "re stimulus pkg",
+              "goget'em canceled",
+              "smc",
+              "new lead",
+              "assigned to natalia"
+            ],
+            "score": []
+          },
+          "sort": [
+            1782511510295,
+            "cXUDxLDQ4qudgaFCHEfp"
+          ],
+          "attributions": [
+            {
+              "pageUrl": "https://checkout.gogetemcommunity.com/join?_gl=1*193yz74*_ga_C26RW61R3S*czE3NDc2Nzc1MTEkbzEkZzAkdDE3NDc2Nzc1NjUkajYkbDAkaDIwNzk1NTk2MjIkZEJiQkcydWRQY1hYUWtHaUxQa1NKTjNBZDhpSklsSmFpMlE.*_ga_2S7MBM331W*czE3NDc2Nzc1MTEkbzEkZzAkdDE3NDc2Nzc1NjUkajYkbDAkaDIwNjkyMjcyOTIkZHpKWGZSV1B0R2RsNE1Dc3FMby1JdFo3UEltOWJ0aVFFSnc.&fbclid=PAQ0xDSwKYUOxleHRuA2FlbQIxMAABp-8FlWZR79DhJ_5U6_V2RrmZujkV9k-UygXlNSxCCGmFFStPjQlOIAARwBWO_aem_dJfrB8Qk-_emW9Rq7RDynQ",
+              "utmSessionSource": "Social media",
+              "utmFbclid": "PAQ0xDSwKYUOxleHRuA2FlbQIxMAABp-8FlWZR79DhJ_5U6_V2RrmZujkV9k-UygXlNSxCCGmFFStPjQlOIAARwBWO_aem_dJfrB8Qk-_emW9Rq7RDynQ",
+              "fbp": "fb.1.1747677599895.634147878652285673",
+              "fbc": "fb.1.1747677599894.PAQ0xDSwKYUOxleHRuA2FlbQIxMAABp-8FlWZR79DhJ_5U6_V2RrmZujkV9k-UygXlNSxCCGmFFStPjQlOIAARwBWO_aem_dJfrB8Qk-_emW9Rq7RDynQ",
+              "ip": "2a09:bac2:bf36:1c64::2d4:af",
+              "isFirst": true,
+              "medium": "order_form",
+              "mediumId": "7b5f2f21-769a-47c1-94f8-f3602cf498f7",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1",
+              "url": "https://checkout.gogetemcommunity.com/join"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPMTI0MDI0NTc0Mjg3NDE0AAGnh2qCGWuZVZX56lAb7LLP03dq43Cq44SIj-wGBSik2k1THsHwP7fNS5FUbgI_aem_no6kbNAqqry2T1bppB38WA&utm_id=97760_v0_s00_e0_tv3",
+              "utmSessionSource": "Social media",
+              "utmMedium": "social",
+              "ip": "107.116.185.9",
+              "medium": "form",
+              "url": "https://gogetemcommunity.com/",
+              "referrer": "https://l.instagram.com",
+              "isLast": true,
+              "utmFbclid": "PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPMTI0MDI0NTc0Mjg3NDE0AAGnh2qCGWuZVZX56lAb7LLP03dq43Cq44SIj-wGBSik2k1THsHwP7fNS5FUbgI_aem_no6kbNAqqry2T1bppB38WA",
+              "mediumId": "rtTNrLeOuDNq53WY7xwd",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23F77 Instagram 434.0.0.28.78 (iPhone15,3; iOS 26_5; en_US; en; scale=3.00; 1290x2796; IABMV/1; 994860828) Safari/604.1",
+              "utmSource": "ig",
+              "utmContent": "link_in_bio"
+            }
+          ]
+        },
         {
           "id": "ncFDkK3LEnLrsUddmkRp",
           "name": "Katlinn Verrett",
@@ -44943,6 +45022,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "uwiIcMS5zC51rw5UINQs",
+          "lastMessageDate": 1782511748165,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "zIxdSucRN7fh3vE8lE7l",
           "lastMessageDate": 1782497365342,
           "type": "TYPE_PHONE"
@@ -45438,8 +45522,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "ixqNc2EjrTNgVAvgNdDb",
-          "lastMessageDate": 1780849146201,
+          "id": "uwiIcMS5zC51rw5UINQs",
+          "lastMessageDate": 1782511748165,
           "type": "TYPE_PHONE"
         },
         {
@@ -45935,11 +46019,6 @@
         {
           "id": "tZ5tpuwuClnDa50EiqjU",
           "lastMessageDate": 1780849409479,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "ixqNc2EjrTNgVAvgNdDb",
-          "lastMessageDate": 1780849146201,
           "type": "TYPE_PHONE"
         }
       ]
