@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-06-27T16:07:59.924Z",
+  "syncedAt": "2026-06-27T18:07:17.818Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 246,
       "talkTimeMinutes": 161,
       "manualSms": 234,
-      "autoSms": 428,
+      "autoSms": 430,
       "manualEmail": 126,
-      "autoEmail": 2478,
+      "autoEmail": 2480,
       "byDay": [
         {
           "date": "2024-09-05",
@@ -713,6 +713,14 @@
           "autoSms": 4,
           "manualEmail": 0,
           "autoEmail": 8
+        },
+        {
+          "date": "2026-06-27",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 2,
+          "manualEmail": 0,
+          "autoEmail": 2
         }
       ],
       "opportunities": [
@@ -45022,6 +45030,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "A99oYJMFVhG33KH0gwkJ",
+          "lastMessageDate": 1782579332955,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "uvW4XLUWCvcsn0WP9l4c",
           "lastMessageDate": 1782521417018,
           "type": "TYPE_PHONE"
@@ -45259,11 +45272,6 @@
         {
           "id": "A7qDXcJELAJNysPHix7H",
           "lastMessageDate": 1782325695072,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "A99oYJMFVhG33KH0gwkJ",
-          "lastMessageDate": 1782320130334,
           "type": "TYPE_PHONE"
         },
         {
@@ -45522,6 +45530,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "A99oYJMFVhG33KH0gwkJ",
+          "lastMessageDate": 1782579332955,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "uvW4XLUWCvcsn0WP9l4c",
           "lastMessageDate": 1782521417018,
           "type": "TYPE_PHONE"
@@ -45759,11 +45772,6 @@
         {
           "id": "A7qDXcJELAJNysPHix7H",
           "lastMessageDate": 1782325695072,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "A99oYJMFVhG33KH0gwkJ",
-          "lastMessageDate": 1782320130334,
           "type": "TYPE_PHONE"
         },
         {
