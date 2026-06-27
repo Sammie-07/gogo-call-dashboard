@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-06-27T18:07:17.818Z",
+  "syncedAt": "2026-06-27T20:11:04.524Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 246,
       "talkTimeMinutes": 161,
       "manualSms": 234,
-      "autoSms": 430,
+      "autoSms": 438,
       "manualEmail": 126,
-      "autoEmail": 2480,
+      "autoEmail": 2488,
       "byDay": [
         {
           "date": "2024-09-05",
@@ -718,9 +718,9 @@
           "date": "2026-06-27",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 2,
+          "autoSms": 10,
           "manualEmail": 0,
-          "autoEmail": 2
+          "autoEmail": 10
         }
       ],
       "opportunities": [
@@ -45030,6 +45030,26 @@
       ],
       "conversationsAll": [
         {
+          "id": "9WuCTCw9S9KhCF7GaqGb",
+          "lastMessageDate": 1782589517288,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "KKbp62vnmFYq2ufyzbz6",
+          "lastMessageDate": 1782589366756,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "aP14SiYEceynUltayStD",
+          "lastMessageDate": 1782589276582,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "FnSzTCp0SSMHr0BRt2w3",
+          "lastMessageDate": 1782589180379,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "A99oYJMFVhG33KH0gwkJ",
           "lastMessageDate": 1782579332955,
           "type": "TYPE_PHONE"
@@ -45237,26 +45257,6 @@
         {
           "id": "5xUzfuF86bxoAXDaJ6UV",
           "lastMessageDate": 1782341252746,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "9WuCTCw9S9KhCF7GaqGb",
-          "lastMessageDate": 1782330311193,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "KKbp62vnmFYq2ufyzbz6",
-          "lastMessageDate": 1782330164313,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "aP14SiYEceynUltayStD",
-          "lastMessageDate": 1782330073230,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "FnSzTCp0SSMHr0BRt2w3",
-          "lastMessageDate": 1782329977509,
           "type": "TYPE_PHONE"
         },
         {
@@ -45530,6 +45530,26 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "9WuCTCw9S9KhCF7GaqGb",
+          "lastMessageDate": 1782589517288,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "KKbp62vnmFYq2ufyzbz6",
+          "lastMessageDate": 1782589366756,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "aP14SiYEceynUltayStD",
+          "lastMessageDate": 1782589276582,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "FnSzTCp0SSMHr0BRt2w3",
+          "lastMessageDate": 1782589180379,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "A99oYJMFVhG33KH0gwkJ",
           "lastMessageDate": 1782579332955,
           "type": "TYPE_PHONE"
@@ -45737,26 +45757,6 @@
         {
           "id": "5xUzfuF86bxoAXDaJ6UV",
           "lastMessageDate": 1782341252746,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "9WuCTCw9S9KhCF7GaqGb",
-          "lastMessageDate": 1782330311193,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "KKbp62vnmFYq2ufyzbz6",
-          "lastMessageDate": 1782330164313,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "aP14SiYEceynUltayStD",
-          "lastMessageDate": 1782330073230,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "FnSzTCp0SSMHr0BRt2w3",
-          "lastMessageDate": 1782329977509,
           "type": "TYPE_PHONE"
         },
         {
@@ -57139,7 +57139,8 @@
                 "smc",
                 "keyword:social",
                 "assigned to ferny",
-                "niche-finder-paid"
+                "niche-finder-paid",
+                "niche-finder"
               ],
               "attributed": true
             }
@@ -57155,7 +57156,8 @@
               "smc",
               "keyword:social",
               "assigned to ferny",
-              "niche-finder-paid"
+              "niche-finder-paid",
+              "niche-finder"
             ],
             "score": []
           },
