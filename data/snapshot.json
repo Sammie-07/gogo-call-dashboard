@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-06-30T12:12:17.521Z",
+  "syncedAt": "2026-06-30T15:31:18.554Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
-      "calls": 244,
+      "calls": 246,
       "talkTimeMinutes": 158,
       "manualSms": 230,
-      "autoSms": 446,
+      "autoSms": 448,
       "manualEmail": 126,
-      "autoEmail": 2498,
+      "autoEmail": 2468,
       "byDay": [
         {
           "date": "2024-09-05",
@@ -208,7 +208,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 12,
-          "autoEmail": 10
+          "autoEmail": 6
         },
         {
           "date": "2026-04-24",
@@ -216,7 +216,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 2,
-          "autoEmail": 110
+          "autoEmail": 108
         },
         {
           "date": "2026-04-25",
@@ -232,7 +232,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 148
+          "autoEmail": 144
         },
         {
           "date": "2026-04-28",
@@ -240,7 +240,7 @@
           "manualSms": 10,
           "autoSms": 4,
           "manualEmail": 8,
-          "autoEmail": 16
+          "autoEmail": 10
         },
         {
           "date": "2026-04-29",
@@ -248,7 +248,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 12
+          "autoEmail": 8
         },
         {
           "date": "2026-04-30",
@@ -256,7 +256,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 4,
-          "autoEmail": 18
+          "autoEmail": 16
         },
         {
           "date": "2026-05-01",
@@ -264,7 +264,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 12
+          "autoEmail": 10
         },
         {
           "date": "2026-05-02",
@@ -288,7 +288,7 @@
           "manualSms": 2,
           "autoSms": 12,
           "manualEmail": 4,
-          "autoEmail": 30
+          "autoEmail": 22
         },
         {
           "date": "2026-05-05",
@@ -729,6 +729,14 @@
           "autoSms": 0,
           "manualEmail": 0,
           "autoEmail": 30
+        },
+        {
+          "date": "2026-06-30",
+          "calls": 2,
+          "manualSms": 0,
+          "autoSms": 2,
+          "manualEmail": 0,
+          "autoEmail": 2
         }
       ],
       "opportunities": [
@@ -737,17 +745,17 @@
           "name": "Myrna Gonzalez",
           "monetaryValue": 0,
           "pipelineId": "4ODbBsC9MIjSBtnIOETl",
-          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
-          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "pipelineStageId": "9af4ce40-5d59-4bbc-bb7a-a035ad6c0a46",
+          "pipelineStageUId": "9af4ce40-5d59-4bbc-bb7a-a035ad6c0a46",
           "assignedTo": "C7PplofCN88pv8MTTiZT",
           "status": "open",
-          "source": "GoGet'Em Comunity Check Out",
+          "source": "ig",
           "lastStatusChangeAt": "2026-06-26T22:05:10.295Z",
-          "lastStageChangeAt": "2026-06-26T22:06:14.893Z",
+          "lastStageChangeAt": "2026-06-30T14:18:12.249Z",
           "createdAt": "2026-06-26T22:05:10.295Z",
-          "updatedAt": "2026-06-26T22:06:15.029Z",
+          "updatedAt": "2026-06-30T14:18:12.384Z",
           "forecastProbability": null,
-          "effectiveProbability": 31.25,
+          "effectiveProbability": 43.75,
           "contactId": "cXUDxLDQ4qudgaFCHEfp",
           "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
           "customFields": [],
@@ -771,7 +779,8 @@
                 "goget'em canceled",
                 "smc",
                 "new lead",
-                "assigned to natalia"
+                "assigned to natalia",
+                "lead called"
               ],
               "attributed": true
             }
@@ -788,7 +797,8 @@
               "goget'em canceled",
               "smc",
               "new lead",
-              "assigned to natalia"
+              "assigned to natalia",
+              "lead called"
             ],
             "score": []
           },
@@ -45038,6 +45048,16 @@
       ],
       "conversationsAll": [
         {
+          "id": "bopP173VItyebg1W5uep",
+          "lastMessageDate": 1782831352287,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "uwiIcMS5zC51rw5UINQs",
+          "lastMessageDate": 1782829097797,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "l8FHkbp2Xv35x08aedju",
           "lastMessageDate": 1782817398867,
           "type": "TYPE_PHONE"
@@ -45100,11 +45120,6 @@
         {
           "id": "Gd4TUBn6VoUw324nGQ2p",
           "lastMessageDate": 1782741665668,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "bopP173VItyebg1W5uep",
-          "lastMessageDate": 1782741664125,
           "type": "TYPE_PHONE"
         },
         {
@@ -45240,11 +45255,6 @@
         {
           "id": "G5MEuhMFjqa9hwQy1Tjq",
           "lastMessageDate": 1782657647806,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "uwiIcMS5zC51rw5UINQs",
-          "lastMessageDate": 1782598148480,
           "type": "TYPE_PHONE"
         },
         {
@@ -45538,6 +45548,16 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "bopP173VItyebg1W5uep",
+          "lastMessageDate": 1782831352287,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "uwiIcMS5zC51rw5UINQs",
+          "lastMessageDate": 1782829097797,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "l8FHkbp2Xv35x08aedju",
           "lastMessageDate": 1782817398867,
           "type": "TYPE_PHONE"
@@ -45600,11 +45620,6 @@
         {
           "id": "Gd4TUBn6VoUw324nGQ2p",
           "lastMessageDate": 1782741665668,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "bopP173VItyebg1W5uep",
-          "lastMessageDate": 1782741664125,
           "type": "TYPE_PHONE"
         },
         {
@@ -45740,11 +45755,6 @@
         {
           "id": "G5MEuhMFjqa9hwQy1Tjq",
           "lastMessageDate": 1782657647806,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "uwiIcMS5zC51rw5UINQs",
-          "lastMessageDate": 1782598148480,
           "type": "TYPE_PHONE"
         },
         {
