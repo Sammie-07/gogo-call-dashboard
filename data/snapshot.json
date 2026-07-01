@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-07-01T00:07:50.892Z",
+  "syncedAt": "2026-07-01T05:24:05.550Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
-      "calls": 246,
-      "talkTimeMinutes": 156,
+      "calls": 244,
+      "talkTimeMinutes": 153,
       "manualSms": 230,
-      "autoSms": 446,
+      "autoSms": 434,
       "manualEmail": 126,
-      "autoEmail": 2458,
+      "autoEmail": 2434,
       "byDay": [
         {
           "date": "2024-09-05",
@@ -304,7 +304,7 @@
           "manualSms": 2,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 132
+          "autoEmail": 130
         },
         {
           "date": "2026-05-06",
@@ -406,25 +406,25 @@
           "date": "2026-05-19",
           "calls": 2,
           "manualSms": 2,
-          "autoSms": 10,
+          "autoSms": 8,
           "manualEmail": 0,
-          "autoEmail": 20
+          "autoEmail": 18
         },
         {
           "date": "2026-05-20",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 4,
+          "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 28
+          "autoEmail": 24
         },
         {
           "date": "2026-05-21",
-          "calls": 24,
+          "calls": 22,
           "manualSms": 0,
-          "autoSms": 24,
+          "autoSms": 22,
           "manualEmail": 0,
-          "autoEmail": 130
+          "autoEmail": 128
         },
         {
           "date": "2026-05-22",
@@ -446,9 +446,9 @@
           "date": "2026-05-24",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 24,
+          "autoSms": 22,
           "manualEmail": 0,
-          "autoEmail": 22
+          "autoEmail": 20
         },
         {
           "date": "2026-05-25",
@@ -480,7 +480,7 @@
           "manualSms": 4,
           "autoSms": 8,
           "manualEmail": 0,
-          "autoEmail": 52
+          "autoEmail": 50
         },
         {
           "date": "2026-05-29",
@@ -502,9 +502,9 @@
           "date": "2026-05-31",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 22,
+          "autoSms": 20,
           "manualEmail": 0,
-          "autoEmail": 26
+          "autoEmail": 24
         },
         {
           "date": "2026-06-01",
@@ -536,7 +536,7 @@
           "manualSms": 20,
           "autoSms": 16,
           "manualEmail": 2,
-          "autoEmail": 80
+          "autoEmail": 78
         },
         {
           "date": "2026-06-05",
@@ -560,7 +560,7 @@
           "manualSms": 0,
           "autoSms": 16,
           "manualEmail": 0,
-          "autoEmail": 42
+          "autoEmail": 40
         },
         {
           "date": "2026-06-08",
@@ -592,7 +592,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 56
+          "autoEmail": 54
         },
         {
           "date": "2026-06-12",
@@ -614,9 +614,9 @@
           "date": "2026-06-14",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 40,
+          "autoSms": 38,
           "manualEmail": 0,
-          "autoEmail": 44
+          "autoEmail": 42
         },
         {
           "date": "2026-06-15",
@@ -748,6 +748,79 @@
         }
       ],
       "opportunities": [
+        {
+          "id": "QvucfRcIkaoVB66sAMa0",
+          "name": "Indianapolis, IN Realtor | Emily Dyer Humphrey",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "assignedTo": "C7PplofCN88pv8MTTiZT",
+          "status": "open",
+          "source": null,
+          "lastStatusChangeAt": "2026-07-01T00:59:33.017Z",
+          "lastStageChangeAt": "2026-07-01T00:59:33.017Z",
+          "createdAt": "2026-07-01T00:59:33.017Z",
+          "updatedAt": "2026-07-01T00:59:36.846Z",
+          "forecastProbability": null,
+          "effectiveProbability": 31.25,
+          "contactId": "HBRlFBca7t9yS2EzAyWm",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "QvucfRcIkaoVB66sAMa0",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "HBRlFBca7t9yS2EzAyWm",
+              "fullName": "Indianapolis, IN Realtor | Emily Dyer Humphrey",
+              "contactName": "Indianapolis, IN Realtor | Emily Dyer Humphrey",
+              "companyName": null,
+              "email": "emily@callcarpenter.com",
+              "phone": null,
+              "tags": [
+                "keyword:social",
+                "new lead",
+                "assigned to natalia"
+              ],
+              "attributed": null
+            }
+          ],
+          "contact": {
+            "id": "HBRlFBca7t9yS2EzAyWm",
+            "name": "Indianapolis, IN Realtor | Emily Dyer Humphrey",
+            "companyName": null,
+            "email": "emily@callcarpenter.com",
+            "phone": null,
+            "tags": [
+              "keyword:social",
+              "new lead",
+              "assigned to natalia"
+            ],
+            "score": []
+          },
+          "sort": [
+            1782867573017,
+            "HBRlFBca7t9yS2EzAyWm"
+          ],
+          "attributions": [
+            {
+              "utmSessionSource": "Social media",
+              "isFirst": true,
+              "medium": "instagram",
+              "mediumId": "1246315473938168"
+            },
+            {
+              "utmSessionSource": "Social media",
+              "isLast": true,
+              "medium": "instagram",
+              "mediumId": "1246315473938168"
+            }
+          ]
+        },
         {
           "id": "23h7umBJvxyKwiAwicmJ",
           "name": "Myrna Gonzalez",
@@ -45056,6 +45129,16 @@
       ],
       "conversationsAll": [
         {
+          "id": "bopP173VItyebg1W5uep",
+          "lastMessageDate": 1782866879832,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "mvXody6quMVDiGR0f1Fw",
+          "lastMessageDate": 1782865693399,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "zIxdSucRN7fh3vE8lE7l",
           "lastMessageDate": 1782842969803,
           "type": "TYPE_PHONE"
@@ -45068,11 +45151,6 @@
         {
           "id": "KHRW5tErGPbvBL8tDZwv",
           "lastMessageDate": 1782837723853,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "bopP173VItyebg1W5uep",
-          "lastMessageDate": 1782831352287,
           "type": "TYPE_PHONE"
         },
         {
@@ -45551,8 +45629,13 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "eK0ygxJL7sr5SVHEwpDh",
-          "lastMessageDate": 1781453689152,
+          "id": "bopP173VItyebg1W5uep",
+          "lastMessageDate": 1782866879832,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "mvXody6quMVDiGR0f1Fw",
+          "lastMessageDate": 1782865693399,
           "type": "TYPE_PHONE"
         },
         {
@@ -45568,11 +45651,6 @@
         {
           "id": "KHRW5tErGPbvBL8tDZwv",
           "lastMessageDate": 1782837723853,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "bopP173VItyebg1W5uep",
-          "lastMessageDate": 1782831352287,
           "type": "TYPE_PHONE"
         },
         {
@@ -46048,11 +46126,6 @@
         {
           "id": "Rd8FEOOFlpILZiCCBJJW",
           "lastMessageDate": 1781453751451,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "eK0ygxJL7sr5SVHEwpDh",
-          "lastMessageDate": 1781453689152,
           "type": "TYPE_PHONE"
         }
       ]
