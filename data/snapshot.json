@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-07-02T22:09:44.580Z",
+  "syncedAt": "2026-07-03T00:08:47.845Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
-      "calls": 242,
+      "calls": 240,
       "talkTimeMinutes": 153,
       "manualSms": 232,
-      "autoSms": 430,
+      "autoSms": 424,
       "manualEmail": 128,
-      "autoEmail": 2494,
+      "autoEmail": 2466,
       "byDay": [
         {
           "date": "2024-09-05",
@@ -224,7 +224,7 @@
           "manualSms": 0,
           "autoSms": 6,
           "manualEmail": 2,
-          "autoEmail": 110
+          "autoEmail": 108
         },
         {
           "date": "2026-04-25",
@@ -240,7 +240,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 140
+          "autoEmail": 138
         },
         {
           "date": "2026-04-28",
@@ -280,7 +280,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 118
+          "autoEmail": 116
         },
         {
           "date": "2026-05-03",
@@ -304,7 +304,7 @@
           "manualSms": 2,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 126
+          "autoEmail": 124
         },
         {
           "date": "2026-05-06",
@@ -336,7 +336,7 @@
           "manualSms": 0,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 110
+          "autoEmail": 108
         },
         {
           "date": "2026-05-11",
@@ -376,7 +376,7 @@
           "manualSms": 4,
           "autoSms": 2,
           "manualEmail": 2,
-          "autoEmail": 98
+          "autoEmail": 96
         },
         {
           "date": "2026-05-16",
@@ -400,7 +400,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 126
+          "autoEmail": 124
         },
         {
           "date": "2026-05-19",
@@ -420,11 +420,11 @@
         },
         {
           "date": "2026-05-21",
-          "calls": 20,
+          "calls": 18,
           "manualSms": 0,
-          "autoSms": 20,
+          "autoSms": 18,
           "manualEmail": 0,
-          "autoEmail": 124
+          "autoEmail": 120
         },
         {
           "date": "2026-05-22",
@@ -446,9 +446,9 @@
           "date": "2026-05-24",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 20,
+          "autoSms": 18,
           "manualEmail": 0,
-          "autoEmail": 18
+          "autoEmail": 16
         },
         {
           "date": "2026-05-25",
@@ -480,7 +480,7 @@
           "manualSms": 4,
           "autoSms": 8,
           "manualEmail": 0,
-          "autoEmail": 48
+          "autoEmail": 46
         },
         {
           "date": "2026-05-29",
@@ -502,9 +502,9 @@
           "date": "2026-05-31",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 18,
+          "autoSms": 16,
           "manualEmail": 0,
-          "autoEmail": 22
+          "autoEmail": 20
         },
         {
           "date": "2026-06-01",
@@ -536,7 +536,7 @@
           "manualSms": 20,
           "autoSms": 16,
           "manualEmail": 2,
-          "autoEmail": 76
+          "autoEmail": 74
         },
         {
           "date": "2026-06-05",
@@ -560,7 +560,7 @@
           "manualSms": 0,
           "autoSms": 16,
           "manualEmail": 0,
-          "autoEmail": 38
+          "autoEmail": 36
         },
         {
           "date": "2026-06-08",
@@ -592,7 +592,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 52
+          "autoEmail": 50
         },
         {
           "date": "2026-06-12",
@@ -614,9 +614,9 @@
           "date": "2026-06-14",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 36,
+          "autoSms": 34,
           "manualEmail": 0,
-          "autoEmail": 40
+          "autoEmail": 38
         },
         {
           "date": "2026-06-15",
@@ -758,12 +758,95 @@
           "date": "2026-07-02",
           "calls": 0,
           "manualSms": 2,
-          "autoSms": 4,
+          "autoSms": 6,
           "manualEmail": 2,
-          "autoEmail": 56
+          "autoEmail": 60
         }
       ],
       "opportunities": [
+        {
+          "id": "14jGj1qcUNIvIaTG4zYW",
+          "name": "Melissa Roel",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "assignedTo": "C7PplofCN88pv8MTTiZT",
+          "status": "open",
+          "source": "GoGet'Em Sign Up Form w/@IG handle",
+          "lastStatusChangeAt": "2026-07-02T22:35:45.799Z",
+          "lastStageChangeAt": "2026-07-02T22:36:50.467Z",
+          "createdAt": "2026-07-02T22:35:45.799Z",
+          "updatedAt": "2026-07-02T22:36:50.584Z",
+          "forecastProbability": null,
+          "effectiveProbability": 31.25,
+          "contactId": "QZ0E0XBHULcdKXleX8bf",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "14jGj1qcUNIvIaTG4zYW",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "QZ0E0XBHULcdKXleX8bf",
+              "fullName": "Melissa Roel",
+              "contactName": "Melissa Roel",
+              "companyName": null,
+              "email": "melissacroel@gmail.com",
+              "phone": "+12103790396",
+              "tags": [
+                "smc",
+                "new lead",
+                "assigned to natalia"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "QZ0E0XBHULcdKXleX8bf",
+            "name": "Melissa Roel",
+            "companyName": null,
+            "email": "melissacroel@gmail.com",
+            "phone": "+12103790396",
+            "tags": [
+              "smc",
+              "new lead",
+              "assigned to natalia"
+            ],
+            "score": []
+          },
+          "sort": [
+            1783031745799,
+            "QZ0E0XBHULcdKXleX8bf"
+          ],
+          "attributions": [
+            {
+              "pageUrl": "https://gogetemcommunity.com/?utm_id=97760_v0_s00_e0_tv3",
+              "referrer": "https://l.instagram.com",
+              "utmSessionSource": "Social media",
+              "ip": "2600:1700:3130:74f0:6ccc:a044:4d0c:2c7e",
+              "isFirst": true,
+              "medium": "form",
+              "mediumId": "rtTNrLeOuDNq53WY7xwd",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23F81 Instagram 435.1.0.20.71 (iPhone18,5; iOS 26_5_1; en_US; en; scale=3.00; 1170x2532; IABMV/1; 1002470399) Safari/604.1",
+              "url": "https://gogetemcommunity.com/"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/?utm_id=97760_v0_s00_e0_tv3",
+              "referrer": "https://l.instagram.com",
+              "utmSessionSource": "Social media",
+              "isLast": true,
+              "ip": "2600:1700:3130:74f0:6ccc:a044:4d0c:2c7e",
+              "medium": "form",
+              "mediumId": "rtTNrLeOuDNq53WY7xwd",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23F81 Instagram 435.1.0.20.71 (iPhone18,5; iOS 26_5_1; en_US; en; scale=3.00; 1170x2532; IABMV/1; 1002470399) Safari/604.1",
+              "url": "https://gogetemcommunity.com/"
+            }
+          ]
+        },
         {
           "id": "QvucfRcIkaoVB66sAMa0",
           "name": "Indianapolis, IN Realtor | Emily Dyer Humphrey",
@@ -45170,7 +45253,12 @@
       "conversationsAll": [
         {
           "id": "5xUzfuF86bxoAXDaJ6UV",
-          "lastMessageDate": 1783025720182,
+          "lastMessageDate": 1783032457264,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "pyIAE0wDjRDQnMxy8Sfy",
+          "lastMessageDate": 1783032352572,
           "type": "TYPE_PHONE"
         },
         {
@@ -45661,16 +45749,16 @@
         {
           "id": "yZYHYbKBGVBz6Ca427bJ",
           "lastMessageDate": 1781454824823,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "U6x8ycX86XK1iwRGlUCp",
-          "lastMessageDate": 1781454714055,
           "type": "TYPE_PHONE"
         },
         {
           "id": "5xUzfuF86bxoAXDaJ6UV",
-          "lastMessageDate": 1783025720182,
+          "lastMessageDate": 1783032457264,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "pyIAE0wDjRDQnMxy8Sfy",
+          "lastMessageDate": 1783032352572,
           "type": "TYPE_PHONE"
         },
         {
@@ -46161,11 +46249,6 @@
         {
           "id": "yZYHYbKBGVBz6Ca427bJ",
           "lastMessageDate": 1781454824823,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "U6x8ycX86XK1iwRGlUCp",
-          "lastMessageDate": 1781454714055,
           "type": "TYPE_PHONE"
         }
       ]
