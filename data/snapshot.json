@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-07-03T00:08:47.845Z",
+  "syncedAt": "2026-07-03T04:44:06.390Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 240,
       "talkTimeMinutes": 153,
-      "manualSms": 232,
-      "autoSms": 424,
-      "manualEmail": 128,
-      "autoEmail": 2466,
+      "manualSms": 234,
+      "autoSms": 428,
+      "manualEmail": 132,
+      "autoEmail": 2472,
       "byDay": [
         {
           "date": "2024-09-05",
@@ -761,25 +761,33 @@
           "autoSms": 6,
           "manualEmail": 2,
           "autoEmail": 60
+        },
+        {
+          "date": "2026-07-03",
+          "calls": 0,
+          "manualSms": 2,
+          "autoSms": 4,
+          "manualEmail": 4,
+          "autoEmail": 6
         }
       ],
       "opportunities": [
         {
           "id": "14jGj1qcUNIvIaTG4zYW",
           "name": "Melissa Roel",
-          "monetaryValue": 0,
+          "monetaryValue": 78,
           "pipelineId": "4ODbBsC9MIjSBtnIOETl",
-          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
-          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "pipelineStageId": "4e0dc282-03f6-480e-b4f1-9e966ec0a179",
+          "pipelineStageUId": "4e0dc282-03f6-480e-b4f1-9e966ec0a179",
           "assignedTo": "C7PplofCN88pv8MTTiZT",
-          "status": "open",
+          "status": "won",
           "source": "GoGet'Em Sign Up Form w/@IG handle",
-          "lastStatusChangeAt": "2026-07-02T22:35:45.799Z",
-          "lastStageChangeAt": "2026-07-02T22:36:50.467Z",
+          "lastStatusChangeAt": "2026-07-03T00:52:05.186Z",
+          "lastStageChangeAt": "2026-07-03T00:52:02.141Z",
           "createdAt": "2026-07-02T22:35:45.799Z",
-          "updatedAt": "2026-07-02T22:36:50.584Z",
+          "updatedAt": "2026-07-03T00:52:05.186Z",
           "forecastProbability": null,
-          "effectiveProbability": 31.25,
+          "effectiveProbability": 81.25,
           "contactId": "QZ0E0XBHULcdKXleX8bf",
           "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
           "customFields": [],
@@ -799,8 +807,10 @@
               "phone": "+12103790396",
               "tags": [
                 "smc",
-                "new lead",
-                "assigned to natalia"
+                "assigned to natalia",
+                "gogetem affiliate",
+                "goget'em member; new",
+                "ggtc onboarding call scheduled"
               ],
               "attributed": true
             }
@@ -813,8 +823,10 @@
             "phone": "+12103790396",
             "tags": [
               "smc",
-              "new lead",
-              "assigned to natalia"
+              "assigned to natalia",
+              "gogetem affiliate",
+              "goget'em member; new",
+              "ggtc onboarding call scheduled"
             ],
             "score": []
           },
@@ -835,15 +847,18 @@
               "url": "https://gogetemcommunity.com/"
             },
             {
-              "pageUrl": "https://gogetemcommunity.com/?utm_id=97760_v0_s00_e0_tv3",
-              "referrer": "https://l.instagram.com",
-              "utmSessionSource": "Social media",
+              "pageUrl": "https://checkout.gogetemcommunity.com/join",
+              "referrer": "https://api.leadconnectorhq.com",
+              "utmSessionSource": "Referral",
               "isLast": true,
-              "ip": "2600:1700:3130:74f0:6ccc:a044:4d0c:2c7e",
+              "fbp": "fb.1.1782505890352.776065766303905578",
+              "fbc": "fb.1.1783039906483.PAcGRvZgJleHRuA2FlbQIxMABzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAaffrUZqKj6MyPZy-2aGcRwl7d5VJZhUHygR0lMJX65fsgi618AxpZNsXv3zow_aem_C42M_rQLIcHVlIbKCOJXeQ",
+              "ip": "2600:1700:3130:74f0:50b4:563d:4b05:d73d",
               "medium": "form",
-              "mediumId": "rtTNrLeOuDNq53WY7xwd",
+              "mediumId": "oNPhc6YRZ3qFiXQjEfpd",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23F81 Instagram 435.1.0.20.71 (iPhone18,5; iOS 26_5_1; en_US; en; scale=3.00; 1170x2532; IABMV/1; 1002470399) Safari/604.1",
-              "url": "https://gogetemcommunity.com/"
+              "gaClientId": "GA1.1.1400243729.1783030933",
+              "url": "https://checkout.gogetemcommunity.com/join"
             }
           ]
         },
@@ -45233,6 +45248,28 @@
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
+          "contactId": "QZ0E0XBHULcdKXleX8bf",
+          "dateAdded": "2026-07-03T00:55:01.778Z",
+          "dateUpdated": "2026-07-03T00:55:01.778Z",
+          "endTime": "2026-07-09T16:00:00-04:00",
+          "id": "Abt8YJFHgELRavE9V9tK",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "startTime": "2026-07-09T15:00:00-04:00",
+          "title": "GGTC Onboarding Call - Melissa Roel",
+          "assignedResources": [],
+          "isRecurring": false,
+          "createdBy": {
+            "source": "booking_widget",
+            "userId": null
+          },
+          "deleted": false
+        },
+        {
+          "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
+          "assignedUserId": "C7PplofCN88pv8MTTiZT",
+          "address": "https://zoom.us/j/98827914664",
+          "calendarId": "8kLbo3OukoeNXebq8B4b",
           "contactId": "5KU7kqqcyiYSen1xapqL",
           "dateAdded": "2026-07-02T13:40:11.106Z",
           "dateUpdated": "2026-07-02T13:40:11.106Z",
@@ -45252,13 +45289,13 @@
       ],
       "conversationsAll": [
         {
-          "id": "5xUzfuF86bxoAXDaJ6UV",
-          "lastMessageDate": 1783032457264,
+          "id": "pyIAE0wDjRDQnMxy8Sfy",
+          "lastMessageDate": 1783043915886,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "pyIAE0wDjRDQnMxy8Sfy",
-          "lastMessageDate": 1783032352572,
+          "id": "5xUzfuF86bxoAXDaJ6UV",
+          "lastMessageDate": 1783032457264,
           "type": "TYPE_PHONE"
         },
         {
@@ -45752,13 +45789,13 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "5xUzfuF86bxoAXDaJ6UV",
-          "lastMessageDate": 1783032457264,
+          "id": "pyIAE0wDjRDQnMxy8Sfy",
+          "lastMessageDate": 1783043915886,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "pyIAE0wDjRDQnMxy8Sfy",
-          "lastMessageDate": 1783032352572,
+          "id": "5xUzfuF86bxoAXDaJ6UV",
+          "lastMessageDate": 1783032457264,
           "type": "TYPE_PHONE"
         },
         {
