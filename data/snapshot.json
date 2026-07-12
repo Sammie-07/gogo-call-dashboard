@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-07-12T16:06:08.035Z",
+  "syncedAt": "2026-07-12T18:01:16.306Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
-      "calls": 244,
+      "calls": 242,
       "talkTimeMinutes": 172,
       "manualSms": 258,
       "autoSms": 396,
       "manualEmail": 96,
-      "autoEmail": 2548,
+      "autoEmail": 2544,
       "byDay": [
         {
           "date": "2024-09-05",
@@ -124,14 +124,6 @@
         },
         {
           "date": "2026-04-02",
-          "calls": 2,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 0
-        },
-        {
-          "date": "2026-04-06",
           "calls": 2,
           "manualSms": 0,
           "autoSms": 0,
@@ -416,7 +408,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 112
+          "autoEmail": 110
         },
         {
           "date": "2026-05-22",
@@ -640,7 +632,7 @@
           "manualSms": 2,
           "autoSms": 8,
           "manualEmail": 2,
-          "autoEmail": 16
+          "autoEmail": 14
         },
         {
           "date": "2026-06-21",
@@ -820,6 +812,98 @@
         }
       ],
       "opportunities": [
+        {
+          "id": "jrPPt4bOyKuxLsDVLRnA",
+          "name": "Lisabet De Vos",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "assignedTo": "C7PplofCN88pv8MTTiZT",
+          "status": "open",
+          "source": "GoGet'Em Sign Up Form w/@IG handle",
+          "lastStatusChangeAt": "2026-07-12T17:50:08.746Z",
+          "lastStageChangeAt": "2026-07-12T17:51:13.055Z",
+          "createdAt": "2026-07-12T17:50:08.745Z",
+          "updatedAt": "2026-07-12T17:51:13.439Z",
+          "forecastProbability": null,
+          "effectiveProbability": 31.25,
+          "contactId": "2zkJUjNPSFD5cI5eFrDm",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "jrPPt4bOyKuxLsDVLRnA",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "2zkJUjNPSFD5cI5eFrDm",
+              "fullName": "Lisabet de Vos",
+              "contactName": "Lisabet de Vos",
+              "companyName": null,
+              "email": "ltdevos@gmail.com",
+              "phone": "+12064827211",
+              "tags": [
+                "smc",
+                "new lead",
+                "assigned to natalia"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "2zkJUjNPSFD5cI5eFrDm",
+            "name": "Lisabet de Vos",
+            "companyName": null,
+            "email": "ltdevos@gmail.com",
+            "phone": "+12064827211",
+            "tags": [
+              "smc",
+              "new lead",
+              "assigned to natalia"
+            ],
+            "score": []
+          },
+          "sort": [
+            1783878608745,
+            "2zkJUjNPSFD5cI5eFrDm"
+          ],
+          "attributions": [
+            {
+              "pageUrl": "https://gogetemcommunity.com/socialmedia/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAcGRvZgJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAacNwk395jv0Y_9pCHUWqvuvza9cRgtL_bSoIjQmi4qke85Pnq6Dpp3LHbkXNw_aem_fQdWg8vRi41kc2cif_Xjfw&utm_id=97760_v0_s00_e0_tv3",
+              "utmSessionSource": "Social media",
+              "utmMedium": "social",
+              "ip": "66.114.154.116",
+              "isFirst": true,
+              "medium": "form",
+              "utmKeyword": "Link_in_bio",
+              "url": "https://gogetemcommunity.com/socialmedia/",
+              "referrer": "https://l.instagram.com",
+              "utmFbclid": "PAcGRvZgJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAacNwk395jv0Y_9pCHUWqvuvza9cRgtL_bSoIjQmi4qke85Pnq6Dpp3LHbkXNw_aem_fQdWg8vRi41kc2cif_Xjfw",
+              "mediumId": "rtTNrLeOuDNq53WY7xwd",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23F81 Instagram 437.2.0.25.50 (iPhone18,2; iOS 26_5_1; en_US; en; scale=3.00; 1125x2436; IABMV/1; 1012573892) NW/3 Safari/604.1",
+              "utmSource": "ig",
+              "utmContent": "link_in_bio"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/socialmedia/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAcGRvZgJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAacNwk395jv0Y_9pCHUWqvuvza9cRgtL_bSoIjQmi4qke85Pnq6Dpp3LHbkXNw_aem_fQdWg8vRi41kc2cif_Xjfw&utm_id=97760_v0_s00_e0_tv3",
+              "utmSessionSource": "Social media",
+              "utmMedium": "social",
+              "ip": "66.114.154.116",
+              "medium": "form",
+              "url": "https://gogetemcommunity.com/socialmedia/",
+              "referrer": "https://l.instagram.com",
+              "isLast": true,
+              "utmFbclid": "PAcGRvZgJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAacNwk395jv0Y_9pCHUWqvuvza9cRgtL_bSoIjQmi4qke85Pnq6Dpp3LHbkXNw_aem_fQdWg8vRi41kc2cif_Xjfw",
+              "mediumId": "rtTNrLeOuDNq53WY7xwd",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23F81 Instagram 437.2.0.25.50 (iPhone18,2; iOS 26_5_1; en_US; en; scale=3.00; 1125x2436; IABMV/1; 1012573892) NW/3 Safari/604.1",
+              "utmSource": "ig",
+              "utmContent": "link_in_bio"
+            }
+          ]
+        },
         {
           "id": "14jGj1qcUNIvIaTG4zYW",
           "name": "Melissa Roel",
@@ -45383,6 +45467,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "RqeDXTiwliMcigRUb9wD",
+          "lastMessageDate": 1783878006283,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "bopP173VItyebg1W5uep",
           "lastMessageDate": 1783862322678,
           "type": "TYPE_PHONE"
@@ -45878,8 +45967,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "Wiy7kSeyH1cz5MUHGz4h",
-          "lastMessageDate": 1781962129085,
+          "id": "RqeDXTiwliMcigRUb9wD",
+          "lastMessageDate": 1783878006283,
           "type": "TYPE_PHONE"
         },
         {
@@ -46375,11 +46464,6 @@
         {
           "id": "4QMLGdoRefNORolniSs1",
           "lastMessageDate": 1781973446206,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "Wiy7kSeyH1cz5MUHGz4h",
-          "lastMessageDate": 1781962129085,
           "type": "TYPE_PHONE"
         }
       ]
