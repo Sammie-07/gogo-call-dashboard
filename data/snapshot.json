@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-07-12T18:01:16.306Z",
+  "syncedAt": "2026-07-12T19:19:57.463Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 242,
       "talkTimeMinutes": 172,
       "manualSms": 258,
-      "autoSms": 396,
+      "autoSms": 398,
       "manualEmail": 96,
-      "autoEmail": 2544,
+      "autoEmail": 2562,
       "byDay": [
         {
           "date": "2024-09-05",
@@ -806,9 +806,9 @@
           "date": "2026-07-12",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 0,
+          "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 2
+          "autoEmail": 20
         }
       ],
       "opportunities": [
@@ -45467,8 +45467,48 @@
       ],
       "conversationsAll": [
         {
+          "id": "XwoZv41ufIkafCRh5eB1",
+          "lastMessageDate": 1783882156397,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "Cm4RpayEXc36jqep98BS",
+          "lastMessageDate": 1783882041725,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "H7GZtiSLjRb3zjAbPSYw",
+          "lastMessageDate": 1783882013201,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "ncX0NZXCGV5oF2BJLPeT",
+          "lastMessageDate": 1783879916745,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "wZ9EcyS1w9m0ta93IvXi",
+          "lastMessageDate": 1783879823128,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "bLIGvn1oKjN9ANanglyl",
+          "lastMessageDate": 1783879704210,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "Nc7is43lPCc5EGaT3l4a",
+          "lastMessageDate": 1783879627038,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "lsFP17KvbbLHETefuc4d",
+          "lastMessageDate": 1783879391758,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "RqeDXTiwliMcigRUb9wD",
-          "lastMessageDate": 1783878006283,
+          "lastMessageDate": 1783879350611,
           "type": "TYPE_PHONE"
         },
         {
@@ -45612,48 +45652,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "XwoZv41ufIkafCRh5eB1",
-          "lastMessageDate": 1783622954745,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "Cm4RpayEXc36jqep98BS",
-          "lastMessageDate": 1783622839308,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "H7GZtiSLjRb3zjAbPSYw",
-          "lastMessageDate": 1783622811435,
-          "type": "TYPE_PHONE"
-        },
-        {
           "id": "WTJsbddDPzOmdi2QhE2l",
           "lastMessageDate": 1783622555813,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "ncX0NZXCGV5oF2BJLPeT",
-          "lastMessageDate": 1783620715265,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "wZ9EcyS1w9m0ta93IvXi",
-          "lastMessageDate": 1783620622290,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "bLIGvn1oKjN9ANanglyl",
-          "lastMessageDate": 1783620502471,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "Nc7is43lPCc5EGaT3l4a",
-          "lastMessageDate": 1783620424450,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "lsFP17KvbbLHETefuc4d",
-          "lastMessageDate": 1783620190004,
           "type": "TYPE_PHONE"
         },
         {
@@ -45967,8 +45967,48 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "XwoZv41ufIkafCRh5eB1",
+          "lastMessageDate": 1783882156397,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "Cm4RpayEXc36jqep98BS",
+          "lastMessageDate": 1783882041725,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "H7GZtiSLjRb3zjAbPSYw",
+          "lastMessageDate": 1783882013201,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "ncX0NZXCGV5oF2BJLPeT",
+          "lastMessageDate": 1783879916745,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "wZ9EcyS1w9m0ta93IvXi",
+          "lastMessageDate": 1783879823128,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "bLIGvn1oKjN9ANanglyl",
+          "lastMessageDate": 1783879704210,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "Nc7is43lPCc5EGaT3l4a",
+          "lastMessageDate": 1783879627038,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "lsFP17KvbbLHETefuc4d",
+          "lastMessageDate": 1783879391758,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "RqeDXTiwliMcigRUb9wD",
-          "lastMessageDate": 1783878006283,
+          "lastMessageDate": 1783879350611,
           "type": "TYPE_PHONE"
         },
         {
@@ -46112,48 +46152,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "XwoZv41ufIkafCRh5eB1",
-          "lastMessageDate": 1783622954745,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "Cm4RpayEXc36jqep98BS",
-          "lastMessageDate": 1783622839308,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "H7GZtiSLjRb3zjAbPSYw",
-          "lastMessageDate": 1783622811435,
-          "type": "TYPE_PHONE"
-        },
-        {
           "id": "WTJsbddDPzOmdi2QhE2l",
           "lastMessageDate": 1783622555813,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "ncX0NZXCGV5oF2BJLPeT",
-          "lastMessageDate": 1783620715265,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "wZ9EcyS1w9m0ta93IvXi",
-          "lastMessageDate": 1783620622290,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "bLIGvn1oKjN9ANanglyl",
-          "lastMessageDate": 1783620502471,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "Nc7is43lPCc5EGaT3l4a",
-          "lastMessageDate": 1783620424450,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "lsFP17KvbbLHETefuc4d",
-          "lastMessageDate": 1783620190004,
           "type": "TYPE_PHONE"
         },
         {
