@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-12T20:52:52.623Z",
+  "syncedAt": "2026-07-12T21:54:28.435Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -45410,6 +45410,28 @@
           "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
           "startTime": "2026-07-09T15:00:00-04:00",
           "title": "GGTC Onboarding Call - Melissa Roel",
+          "assignedResources": [],
+          "isRecurring": false,
+          "createdBy": {
+            "source": "booking_widget",
+            "userId": null
+          },
+          "deleted": false
+        },
+        {
+          "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
+          "assignedUserId": "C7PplofCN88pv8MTTiZT",
+          "address": "https://zoom.us/j/6684356793",
+          "calendarId": "vEq9SEudnxMCXs4c7bJk",
+          "contactId": "Q6e2F13lW3P0v7phIPeJ",
+          "dateAdded": "2026-07-12T21:21:35.739Z",
+          "dateUpdated": "2026-07-12T21:21:35.739Z",
+          "endTime": "2026-07-15T12:30:00-04:00",
+          "id": "1Nl4x3n4YbJ0aDoo6zpm",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "startTime": "2026-07-15T12:00:00-04:00",
+          "title": "1:1 Check-in Call GoGet'Em Community",
           "assignedResources": [],
           "isRecurring": false,
           "createdBy": {
