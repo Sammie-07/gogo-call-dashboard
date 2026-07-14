@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-14T20:15:17.979Z",
+  "syncedAt": "2026-07-14T22:00:49.045Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -46867,12 +46867,12 @@
       ]
     },
     "Z6C8jEN8ccsSWv70qBr1": {
-      "calls": 56,
-      "talkTimeMinutes": 71,
+      "calls": 58,
+      "talkTimeMinutes": 83,
       "manualSms": 72,
-      "autoSms": 178,
+      "autoSms": 180,
       "manualEmail": 24,
-      "autoEmail": 1592,
+      "autoEmail": 1578,
       "byDay": [
         {
           "date": "2026-04-21",
@@ -46912,7 +46912,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 158
+          "autoEmail": 156
         },
         {
           "date": "2026-05-04",
@@ -46928,7 +46928,7 @@
           "manualSms": 8,
           "autoSms": 18,
           "manualEmail": 0,
-          "autoEmail": 178
+          "autoEmail": 176
         },
         {
           "date": "2026-05-07",
@@ -46952,7 +46952,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 138
+          "autoEmail": 136
         },
         {
           "date": "2026-05-11",
@@ -46984,7 +46984,7 @@
           "manualSms": 6,
           "autoSms": 14,
           "manualEmail": 0,
-          "autoEmail": 144
+          "autoEmail": 142
         },
         {
           "date": "2026-05-17",
@@ -47000,7 +47000,7 @@
           "manualSms": 2,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 126
+          "autoEmail": 124
         },
         {
           "date": "2026-05-19",
@@ -47024,7 +47024,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 146
+          "autoEmail": 144
         },
         {
           "date": "2026-05-22",
@@ -47056,7 +47056,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 146
+          "autoEmail": 144
         },
         {
           "date": "2026-05-28",
@@ -47072,7 +47072,7 @@
           "manualSms": 0,
           "autoSms": 16,
           "manualEmail": 0,
-          "autoEmail": 146
+          "autoEmail": 144
         },
         {
           "date": "2026-05-31",
@@ -47300,14 +47300,100 @@
         },
         {
           "date": "2026-07-14",
-          "calls": 2,
+          "calls": 4,
           "manualSms": 0,
-          "autoSms": 2,
+          "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 6
+          "autoEmail": 8
         }
       ],
       "opportunities": [
+        {
+          "id": "ik8Cdld7w43Cze4yMQev",
+          "name": "Megan Jones",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "47f17781-3c7e-42f1-b731-cea3c1a954ab",
+          "pipelineStageUId": "47f17781-3c7e-42f1-b731-cea3c1a954ab",
+          "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
+          "status": "open",
+          "source": "GoGet'Em Sign Up Form w/@IG handle",
+          "lastStatusChangeAt": "2026-07-14T21:09:16.552Z",
+          "lastStageChangeAt": "2026-07-14T21:46:49.114Z",
+          "createdAt": "2026-07-14T21:09:16.552Z",
+          "updatedAt": "2026-07-14T21:46:49.244Z",
+          "forecastProbability": null,
+          "effectiveProbability": 56.25,
+          "contactId": "ZaJH3pzKc619BGfewsPc",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "ik8Cdld7w43Cze4yMQev",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "ZaJH3pzKc619BGfewsPc",
+              "fullName": "Megan jones",
+              "contactName": "Megan jones",
+              "companyName": null,
+              "email": "mjsellingparadise@gmail.com",
+              "phone": "+13053959567",
+              "tags": [
+                "agent",
+                "referral form",
+                "smc",
+                "new lead",
+                "assigned to ferny",
+                "lead called",
+                "sales: follow up"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "ZaJH3pzKc619BGfewsPc",
+            "name": "Megan jones",
+            "companyName": null,
+            "email": "mjsellingparadise@gmail.com",
+            "phone": "+13053959567",
+            "tags": [
+              "agent",
+              "referral form",
+              "smc",
+              "new lead",
+              "assigned to ferny",
+              "lead called",
+              "sales: follow up"
+            ],
+            "score": []
+          },
+          "sort": [
+            1784063356552,
+            "ZaJH3pzKc619BGfewsPc"
+          ],
+          "attributions": [
+            {
+              "utmSessionSource": "CRM UI",
+              "isFirst": true,
+              "medium": "csv_import"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/?fbclid=PAcGRvZgJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAafBB1J3PtZE8oE5rPUqy2zZ1QsOn4EjuOlGBAzbPOJ6gvh12hBTLePOf1mzNw_aem_z7q9nWjuSFMYKQm-I8UQYg&utm_id=97760_v0_s00_e0_tv6_a1dennhawxbhge",
+              "referrer": "https://l.instagram.com",
+              "utmSessionSource": "Social media",
+              "isLast": true,
+              "utmFbclid": "PAcGRvZgJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAafBB1J3PtZE8oE5rPUqy2zZ1QsOn4EjuOlGBAzbPOJ6gvh12hBTLePOf1mzNw_aem_z7q9nWjuSFMYKQm-I8UQYg",
+              "ip": "2600:387:9:5::70",
+              "medium": "form",
+              "mediumId": "rtTNrLeOuDNq53WY7xwd",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23F84 Instagram 437.2.0.25.50 (iPhone12,1; iOS 26_5_2; en_US; en; scale=2.00; 828x1792; IABMV/1; 1012573892) Safari/604.1",
+              "url": "https://gogetemcommunity.com/"
+            }
+          ]
+        },
         {
           "id": "BSDWcHvaJzh9ePGwZr2W",
           "name": "Jaynette Lancaster",
@@ -69498,6 +69584,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "lxETiUCZ8R5zx4pVuATz",
+          "lastMessageDate": 1784065916378,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "9fRpEFAjNWWjLbh8Y8e1",
           "lastMessageDate": 1784057071430,
           "type": "TYPE_PHONE"
@@ -69993,8 +70084,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "fjgmouvcm7z3xdsCtZGt",
-          "lastMessageDate": 1780058046552,
+          "id": "lxETiUCZ8R5zx4pVuATz",
+          "lastMessageDate": 1784065916378,
           "type": "TYPE_PHONE"
         },
         {
@@ -70490,11 +70581,6 @@
         {
           "id": "ZRG5q8kGy1eUIU1Q1Ys3",
           "lastMessageDate": 1780058047523,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "fjgmouvcm7z3xdsCtZGt",
-          "lastMessageDate": 1780058046552,
           "type": "TYPE_PHONE"
         }
       ]
