@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-14T18:06:30.669Z",
+  "syncedAt": "2026-07-14T20:15:17.979Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -45800,6 +45800,28 @@
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
+          "contactId": "BABFc8mYQMxp18LKJ7ex",
+          "dateAdded": "2026-07-14T19:37:54.481Z",
+          "dateUpdated": "2026-07-14T19:37:54.481Z",
+          "endTime": "2026-07-16T16:00:00-04:00",
+          "id": "p6rbhDGjAw4z0rAfmXPU",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "startTime": "2026-07-16T15:00:00-04:00",
+          "title": "GGTC Onboarding Call - Abi Merkle",
+          "assignedResources": [],
+          "isRecurring": false,
+          "createdBy": {
+            "source": "booking_widget",
+            "userId": null
+          },
+          "deleted": false
+        },
+        {
+          "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
+          "assignedUserId": "C7PplofCN88pv8MTTiZT",
+          "address": "https://zoom.us/j/98827914664",
+          "calendarId": "8kLbo3OukoeNXebq8B4b",
           "contactId": "5KU7kqqcyiYSen1xapqL",
           "dateAdded": "2026-07-02T13:40:11.106Z",
           "dateUpdated": "2026-07-02T13:40:11.106Z",
@@ -46850,7 +46872,7 @@
       "manualSms": 72,
       "autoSms": 178,
       "manualEmail": 24,
-      "autoEmail": 1588,
+      "autoEmail": 1592,
       "byDay": [
         {
           "date": "2026-04-21",
@@ -47282,7 +47304,7 @@
           "manualSms": 0,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 2
+          "autoEmail": 6
         }
       ],
       "opportunities": [
@@ -69476,6 +69498,16 @@
       ],
       "conversationsAll": [
         {
+          "id": "9fRpEFAjNWWjLbh8Y8e1",
+          "lastMessageDate": 1784057071430,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "O5edgDN0VHepyMHOQeIY",
+          "lastMessageDate": 1784056785813,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "sLmWnRXhvhXvU0LlmY20",
           "lastMessageDate": 1784044934345,
           "type": "TYPE_PHONE"
@@ -69493,16 +69525,6 @@
         {
           "id": "Sp72bqZWVksvoxUUFhtM",
           "lastMessageDate": 1783861654813,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "9fRpEFAjNWWjLbh8Y8e1",
-          "lastMessageDate": 1783711469380,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "O5edgDN0VHepyMHOQeIY",
-          "lastMessageDate": 1783711184221,
           "type": "TYPE_PHONE"
         },
         {
@@ -69976,6 +69998,16 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "9fRpEFAjNWWjLbh8Y8e1",
+          "lastMessageDate": 1784057071430,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "O5edgDN0VHepyMHOQeIY",
+          "lastMessageDate": 1784056785813,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "sLmWnRXhvhXvU0LlmY20",
           "lastMessageDate": 1784044934345,
           "type": "TYPE_PHONE"
@@ -69993,16 +70025,6 @@
         {
           "id": "Sp72bqZWVksvoxUUFhtM",
           "lastMessageDate": 1783861654813,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "9fRpEFAjNWWjLbh8Y8e1",
-          "lastMessageDate": 1783711469380,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "O5edgDN0VHepyMHOQeIY",
-          "lastMessageDate": 1783711184221,
           "type": "TYPE_PHONE"
         },
         {
