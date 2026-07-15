@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-07-15T12:18:10.812Z",
+  "syncedAt": "2026-07-15T14:53:28.422Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
-      "calls": 226,
-      "talkTimeMinutes": 184,
-      "manualSms": 244,
-      "autoSms": 374,
+      "calls": 218,
+      "talkTimeMinutes": 180,
+      "manualSms": 240,
+      "autoSms": 376,
       "manualEmail": 94,
-      "autoEmail": 2522,
+      "autoEmail": 2508,
       "byDay": [
         {
           "date": "2024-09-05",
@@ -208,7 +208,7 @@
           "manualSms": 0,
           "autoSms": 6,
           "manualEmail": 2,
-          "autoEmail": 110
+          "autoEmail": 108
         },
         {
           "date": "2026-04-25",
@@ -224,7 +224,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 142
+          "autoEmail": 140
         },
         {
           "date": "2026-04-28",
@@ -244,7 +244,7 @@
         },
         {
           "date": "2026-04-30",
-          "calls": 6,
+          "calls": 4,
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 4,
@@ -264,7 +264,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 112
+          "autoEmail": 110
         },
         {
           "date": "2026-05-03",
@@ -288,12 +288,12 @@
           "manualSms": 2,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 110
+          "autoEmail": 108
         },
         {
           "date": "2026-05-06",
-          "calls": 8,
-          "manualSms": 8,
+          "calls": 4,
+          "manualSms": 6,
           "autoSms": 2,
           "manualEmail": 2,
           "autoEmail": 6
@@ -301,7 +301,7 @@
         {
           "date": "2026-05-07",
           "calls": 0,
-          "manualSms": 6,
+          "manualSms": 4,
           "autoSms": 4,
           "manualEmail": 0,
           "autoEmail": 10
@@ -328,15 +328,15 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 106
+          "autoEmail": 104
         },
         {
           "date": "2026-05-11",
-          "calls": 12,
+          "calls": 10,
           "manualSms": 2,
           "autoSms": 8,
           "manualEmail": 0,
-          "autoEmail": 26
+          "autoEmail": 24
         },
         {
           "date": "2026-05-12",
@@ -432,7 +432,7 @@
           "manualSms": 6,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 36
+          "autoEmail": 34
         },
         {
           "date": "2026-05-26",
@@ -672,7 +672,7 @@
           "manualSms": 0,
           "autoSms": 28,
           "manualEmail": 0,
-          "autoEmail": 64
+          "autoEmail": 62
         },
         {
           "date": "2026-06-26",
@@ -830,12 +830,94 @@
           "date": "2026-07-15",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 0,
+          "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 2
+          "autoEmail": 4
         }
       ],
       "opportunities": [
+        {
+          "id": "GRz0E2zjusojVbUuZ3j3",
+          "name": "Lisa Lombardozzi",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "assignedTo": "C7PplofCN88pv8MTTiZT",
+          "status": "open",
+          "source": "GoGet'Em Sign Up Form w/@IG handle",
+          "lastStatusChangeAt": "2026-07-15T12:32:58.026Z",
+          "lastStageChangeAt": "2026-07-15T12:34:02.514Z",
+          "createdAt": "2026-07-15T12:32:58.026Z",
+          "updatedAt": "2026-07-15T12:34:02.630Z",
+          "forecastProbability": null,
+          "effectiveProbability": 31.25,
+          "contactId": "YY0iA6sCqpJLakfkhAXf",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "GRz0E2zjusojVbUuZ3j3",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "YY0iA6sCqpJLakfkhAXf",
+              "fullName": "Lisa Lombardozzi",
+              "contactName": "Lisa Lombardozzi",
+              "companyName": null,
+              "email": "lisalombar21@gmail.com",
+              "phone": "+14168280003",
+              "tags": [
+                "gbc webby opt-in",
+                "bootcamp application",
+                "smc",
+                "new lead",
+                "assigned to natalia"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "YY0iA6sCqpJLakfkhAXf",
+            "name": "Lisa Lombardozzi",
+            "companyName": null,
+            "email": "lisalombar21@gmail.com",
+            "phone": "+14168280003",
+            "tags": [
+              "gbc webby opt-in",
+              "bootcamp application",
+              "smc",
+              "new lead",
+              "assigned to natalia"
+            ],
+            "score": []
+          },
+          "sort": [
+            1784118778026,
+            "YY0iA6sCqpJLakfkhAXf"
+          ],
+          "attributions": [
+            {
+              "utmSessionSource": "CRM UI",
+              "isFirst": true,
+              "medium": "csv_import"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/?fbclid=PAcGRvZgJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAaczIKCHLhotp9l-Tz9LBJODrMPp8cadmuNAYWbIvbH7mlpzHqxvL2l62bw9-Q_aem_79TeININwWzxFOvcuKpaGg&utm_id=97760_v0_s00_e0_tv6_a1dennhawxbhge",
+              "referrer": "https://l.instagram.com",
+              "utmSessionSource": "Social media",
+              "isLast": true,
+              "utmFbclid": "PAcGRvZgJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAaczIKCHLhotp9l-Tz9LBJODrMPp8cadmuNAYWbIvbH7mlpzHqxvL2l62bw9-Q_aem_79TeININwWzxFOvcuKpaGg",
+              "ip": "2605:8d80:6cc6:7cc9:e1cd:ad32:8e98:5ab9",
+              "medium": "form",
+              "mediumId": "rtTNrLeOuDNq53WY7xwd",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23F77 Instagram 437.2.0.25.50 (iPhone17,3; iOS 26_5; en_US; en; scale=3.00; 1179x2556; IABMV/1; 1012573892) NW/3 Safari/604.1",
+              "url": "https://gogetemcommunity.com/"
+            }
+          ]
+        },
         {
           "id": "RjtNLkiwBNr2dfv1Xpck",
           "name": "THOMAS MARCH",
@@ -45875,6 +45957,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "1QkRqDmgKd4vic5JztBY",
+          "lastMessageDate": 1784119386012,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "KwFnN0p9CQSZtp3Vhx9i",
           "lastMessageDate": 1784115104628,
           "type": "TYPE_PHONE"
@@ -46370,8 +46457,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "QNoYNwiapCoPqdY8TMKT",
-          "lastMessageDate": 1782413409878,
+          "id": "1QkRqDmgKd4vic5JztBY",
+          "lastMessageDate": 1784119386012,
           "type": "TYPE_PHONE"
         },
         {
@@ -46867,11 +46954,6 @@
         {
           "id": "gjpRchEOGi65x3z5rw7U",
           "lastMessageDate": 1782413977636,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "QNoYNwiapCoPqdY8TMKT",
-          "lastMessageDate": 1782413409878,
           "type": "TYPE_PHONE"
         }
       ]
@@ -46882,7 +46964,7 @@
       "manualSms": 72,
       "autoSms": 180,
       "manualEmail": 24,
-      "autoEmail": 1578,
+      "autoEmail": 1580,
       "byDay": [
         {
           "date": "2026-04-21",
@@ -47315,6 +47397,14 @@
           "autoSms": 4,
           "manualEmail": 0,
           "autoEmail": 8
+        },
+        {
+          "date": "2026-07-15",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 0,
+          "manualEmail": 0,
+          "autoEmail": 2
         }
       ],
       "opportunities": [
@@ -69594,6 +69684,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "3yR6Y2EBfRpn2XfUagw4",
+          "lastMessageDate": 1784123825699,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "lxETiUCZ8R5zx4pVuATz",
           "lastMessageDate": 1784065916378,
           "type": "TYPE_PHONE"
@@ -69626,11 +69721,6 @@
         {
           "id": "Sp72bqZWVksvoxUUFhtM",
           "lastMessageDate": 1783861654813,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "3yR6Y2EBfRpn2XfUagw4",
-          "lastMessageDate": 1783691820560,
           "type": "TYPE_PHONE"
         },
         {
@@ -70094,6 +70184,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "3yR6Y2EBfRpn2XfUagw4",
+          "lastMessageDate": 1784123825699,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "lxETiUCZ8R5zx4pVuATz",
           "lastMessageDate": 1784065916378,
           "type": "TYPE_PHONE"
@@ -70126,11 +70221,6 @@
         {
           "id": "Sp72bqZWVksvoxUUFhtM",
           "lastMessageDate": 1783861654813,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "3yR6Y2EBfRpn2XfUagw4",
-          "lastMessageDate": 1783691820560,
           "type": "TYPE_PHONE"
         },
         {
