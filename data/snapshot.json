@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-07-15T20:12:09.257Z",
+  "syncedAt": "2026-07-15T22:04:08.334Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
-      "calls": 218,
-      "talkTimeMinutes": 179,
+      "calls": 222,
+      "talkTimeMinutes": 180,
       "manualSms": 240,
-      "autoSms": 378,
+      "autoSms": 380,
       "manualEmail": 94,
-      "autoEmail": 2532,
+      "autoEmail": 2534,
       "byDay": [
         {
           "date": "2024-09-05",
@@ -828,11 +828,11 @@
         },
         {
           "date": "2026-07-15",
-          "calls": 0,
+          "calls": 4,
           "manualSms": 0,
-          "autoSms": 4,
+          "autoSms": 6,
           "manualEmail": 0,
-          "autoEmail": 34
+          "autoEmail": 36
         }
       ],
       "opportunities": [
@@ -841,17 +841,17 @@
           "name": "Lisa Lombardozzi",
           "monetaryValue": 0,
           "pipelineId": "4ODbBsC9MIjSBtnIOETl",
-          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
-          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "pipelineStageId": "9af4ce40-5d59-4bbc-bb7a-a035ad6c0a46",
+          "pipelineStageUId": "9af4ce40-5d59-4bbc-bb7a-a035ad6c0a46",
           "assignedTo": "C7PplofCN88pv8MTTiZT",
           "status": "open",
           "source": "GoGet'Em Sign Up Form w/@IG handle",
           "lastStatusChangeAt": "2026-07-15T12:32:58.026Z",
-          "lastStageChangeAt": "2026-07-15T12:34:02.514Z",
+          "lastStageChangeAt": "2026-07-15T20:16:24.923Z",
           "createdAt": "2026-07-15T12:32:58.026Z",
-          "updatedAt": "2026-07-15T12:34:02.630Z",
+          "updatedAt": "2026-07-15T20:16:25.366Z",
           "forecastProbability": null,
-          "effectiveProbability": 31.25,
+          "effectiveProbability": 43.75,
           "contactId": "YY0iA6sCqpJLakfkhAXf",
           "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
           "customFields": [],
@@ -874,7 +874,8 @@
                 "bootcamp application",
                 "smc",
                 "new lead",
-                "assigned to natalia"
+                "assigned to natalia",
+                "lead called"
               ],
               "attributed": true
             }
@@ -890,7 +891,8 @@
               "bootcamp application",
               "smc",
               "new lead",
-              "assigned to natalia"
+              "assigned to natalia",
+              "lead called"
             ],
             "score": []
           },
@@ -45959,6 +45961,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "1QkRqDmgKd4vic5JztBY",
+          "lastMessageDate": 1784146589041,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "qDKbcRwB2fZTY7P9hQNo",
           "lastMessageDate": 1784145997105,
           "type": "TYPE_PHONE"
@@ -46031,11 +46038,6 @@
         {
           "id": "5x2DL6dTVUpflP2yP65x",
           "lastMessageDate": 1784128412255,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "1QkRqDmgKd4vic5JztBY",
-          "lastMessageDate": 1784119386012,
           "type": "TYPE_PHONE"
         },
         {
@@ -46459,6 +46461,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "1QkRqDmgKd4vic5JztBY",
+          "lastMessageDate": 1784146589041,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "qDKbcRwB2fZTY7P9hQNo",
           "lastMessageDate": 1784145997105,
           "type": "TYPE_PHONE"
@@ -46531,11 +46538,6 @@
         {
           "id": "5x2DL6dTVUpflP2yP65x",
           "lastMessageDate": 1784128412255,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "1QkRqDmgKd4vic5JztBY",
-          "lastMessageDate": 1784119386012,
           "type": "TYPE_PHONE"
         },
         {
@@ -69686,6 +69688,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "BlzcdaIgt0thULY5RwNF",
+          "lastMessageDate": 1784152653859,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "sLmWnRXhvhXvU0LlmY20",
           "lastMessageDate": 1784145986305,
           "type": "TYPE_PHONE"
@@ -70181,8 +70188,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "ZRG5q8kGy1eUIU1Q1Ys3",
-          "lastMessageDate": 1780058047523,
+          "id": "BlzcdaIgt0thULY5RwNF",
+          "lastMessageDate": 1784152653859,
           "type": "TYPE_PHONE"
         },
         {
@@ -70678,11 +70685,6 @@
         {
           "id": "jYUUnW8TsgStRik11Mym",
           "lastMessageDate": 1780058289476,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "ZRG5q8kGy1eUIU1Q1Ys3",
-          "lastMessageDate": 1780058047523,
           "type": "TYPE_PHONE"
         }
       ]
