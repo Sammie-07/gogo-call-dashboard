@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-14T23:06:17.862Z",
+  "syncedAt": "2026-07-15T02:35:04.116Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -8,7 +8,7 @@
       "manualSms": 244,
       "autoSms": 374,
       "manualEmail": 94,
-      "autoEmail": 2520,
+      "autoEmail": 2522,
       "byDay": [
         {
           "date": "2024-09-05",
@@ -825,6 +825,14 @@
           "autoSms": 16,
           "manualEmail": 0,
           "autoEmail": 56
+        },
+        {
+          "date": "2026-07-15",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 0,
+          "manualEmail": 0,
+          "autoEmail": 2
         }
       ],
       "opportunities": [
@@ -34572,7 +34580,8 @@
               "tags": [
                 "smc",
                 "assigned to natalia",
-                "lead called"
+                "lead called",
+                "niche-finder-paid"
               ],
               "attributed": true
             }
@@ -34586,7 +34595,8 @@
             "tags": [
               "smc",
               "assigned to natalia",
-              "lead called"
+              "lead called",
+              "niche-finder-paid"
             ],
             "score": []
           },
@@ -45865,13 +45875,13 @@
       ],
       "conversationsAll": [
         {
-          "id": "zHVoyIkyFqRJQRLIh1vG",
-          "lastMessageDate": 1784050000041,
+          "id": "MVln42pokSmVr0TBNj24",
+          "lastMessageDate": 1784076783402,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "MVln42pokSmVr0TBNj24",
-          "lastMessageDate": 1784047950997,
+          "id": "zHVoyIkyFqRJQRLIh1vG",
+          "lastMessageDate": 1784050000041,
           "type": "TYPE_PHONE"
         },
         {
@@ -46365,13 +46375,13 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "zHVoyIkyFqRJQRLIh1vG",
-          "lastMessageDate": 1784050000041,
+          "id": "MVln42pokSmVr0TBNj24",
+          "lastMessageDate": 1784076783402,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "MVln42pokSmVr0TBNj24",
-          "lastMessageDate": 1784047950997,
+          "id": "zHVoyIkyFqRJQRLIh1vG",
+          "lastMessageDate": 1784050000041,
           "type": "TYPE_PHONE"
         },
         {
