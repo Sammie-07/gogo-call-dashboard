@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-07-16T19:14:55.180Z",
+  "syncedAt": "2026-07-16T21:03:16.844Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 216,
       "talkTimeMinutes": 174,
       "manualSms": 242,
-      "autoSms": 378,
+      "autoSms": 382,
       "manualEmail": 94,
-      "autoEmail": 2518,
+      "autoEmail": 2532,
       "byDay": [
         {
           "date": "2024-09-05",
@@ -712,7 +712,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 30
+          "autoEmail": 28
         },
         {
           "date": "2026-06-30",
@@ -846,9 +846,9 @@
           "date": "2026-07-16",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 4,
+          "autoSms": 8,
           "manualEmail": 0,
-          "autoEmail": 22
+          "autoEmail": 38
         }
       ],
       "opportunities": [
@@ -1257,6 +1257,97 @@
               "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
               "url": "https://gogetemcommunity.com/",
               "utmSource": "email"
+            }
+          ]
+        },
+        {
+          "id": "XPJuA4Vh2VXPwJvSR2Uf",
+          "name": "Lynsey Chasteen",
+          "monetaryValue": 78,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "4e0dc282-03f6-480e-b4f1-9e966ec0a179",
+          "pipelineStageUId": "4e0dc282-03f6-480e-b4f1-9e966ec0a179",
+          "assignedTo": "C7PplofCN88pv8MTTiZT",
+          "status": "won",
+          "source": "GGTC Monthly - $67/mo",
+          "lastStatusChangeAt": "2026-07-16T20:34:11.332Z",
+          "lastStageChangeAt": "2026-07-16T20:34:09.002Z",
+          "createdAt": "2026-07-12T21:32:02.625Z",
+          "updatedAt": "2026-07-16T20:34:11.332Z",
+          "forecastProbability": null,
+          "effectiveProbability": 81.25,
+          "contactId": "6zzxWsjPXB33H5j1Buoc",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "XPJuA4Vh2VXPwJvSR2Uf",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "6zzxWsjPXB33H5j1Buoc",
+              "fullName": "Lynsey Chasteen",
+              "contactName": "Lynsey Chasteen",
+              "companyName": null,
+              "email": "chasteensellshomes@gmail.com",
+              "phone": "+18657483553",
+              "tags": [
+                "circle_waitlist",
+                "clarity_call_approved",
+                "clarity_call_booked",
+                "freemium community",
+                "#teamgogo",
+                "smc",
+                "assigned to natalia",
+                "gogetem affiliate",
+                "goget'em member; new"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "6zzxWsjPXB33H5j1Buoc",
+            "name": "Lynsey Chasteen",
+            "companyName": null,
+            "email": "chasteensellshomes@gmail.com",
+            "phone": "+18657483553",
+            "tags": [
+              "circle_waitlist",
+              "clarity_call_approved",
+              "clarity_call_booked",
+              "freemium community",
+              "#teamgogo",
+              "smc",
+              "assigned to natalia",
+              "gogetem affiliate",
+              "goget'em member; new"
+            ],
+            "score": []
+          },
+          "sort": [
+            1783891922625,
+            "6zzxWsjPXB33H5j1Buoc"
+          ],
+          "attributions": [
+            {
+              "utmSessionSource": "CRM UI",
+              "isFirst": true,
+              "medium": "manual"
+            },
+            {
+              "pageUrl": "https://checkout.gogetemcommunity.com/join",
+              "referrer": "https://api.leadconnectorhq.com",
+              "utmSessionSource": "Referral",
+              "isLast": true,
+              "fbp": "fb.1.1783891183925.9189509320",
+              "ip": "2600:1004:a120:9deb:1ed:8106:951b:41b3",
+              "medium": "form",
+              "mediumId": "oNPhc6YRZ3qFiXQjEfpd",
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5.2 Safari/605.1.15",
+              "gaClientId": "GA1.1.1680803545.1783891184",
+              "url": "https://checkout.gogetemcommunity.com/join"
             }
           ]
         },
@@ -45977,6 +46068,36 @@
       ],
       "conversationsAll": [
         {
+          "id": "O86HHcQ3IVbqbGKt7ejl",
+          "lastMessageDate": 1784234596143,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "jzos9ovcnyYiCAxAw2qF",
+          "lastMessageDate": 1784234073433,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "Gd4TUBn6VoUw324nGQ2p",
+          "lastMessageDate": 1784232167416,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "igFsirsUqRFuYQSTVAJX",
+          "lastMessageDate": 1784232095383,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "KHRW5tErGPbvBL8tDZwv",
+          "lastMessageDate": 1784232094606,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "qDKbcRwB2fZTY7P9hQNo",
+          "lastMessageDate": 1784232087150,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "XwoZv41ufIkafCRh5eB1",
           "lastMessageDate": 1784227757610,
           "type": "TYPE_PHONE"
@@ -45989,11 +46110,6 @@
         {
           "id": "H7GZtiSLjRb3zjAbPSYw",
           "lastMessageDate": 1784227614975,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "O86HHcQ3IVbqbGKt7ejl",
-          "lastMessageDate": 1784226866446,
           "type": "TYPE_PHONE"
         },
         {
@@ -46052,11 +46168,6 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "qDKbcRwB2fZTY7P9hQNo",
-          "lastMessageDate": 1784145997105,
-          "type": "TYPE_PHONE"
-        },
-        {
           "id": "52NhSVeJes9c0XygMGMp",
           "lastMessageDate": 1784145996154,
           "type": "TYPE_PHONE"
@@ -46072,23 +46183,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "igFsirsUqRFuYQSTVAJX",
-          "lastMessageDate": 1784145990261,
-          "type": "TYPE_PHONE"
-        },
-        {
           "id": "WySZiMBMkSohTURQq930",
           "lastMessageDate": 1784145986056,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "KHRW5tErGPbvBL8tDZwv",
-          "lastMessageDate": 1784145984519,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "Gd4TUBn6VoUw324nGQ2p",
-          "lastMessageDate": 1784145984300,
           "type": "TYPE_PHONE"
         },
         {
@@ -46279,11 +46375,6 @@
         {
           "id": "vUaK9PFLpV7a5UPk8Ef3",
           "lastMessageDate": 1783711812517,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "jzos9ovcnyYiCAxAw2qF",
-          "lastMessageDate": 1783705845725,
           "type": "TYPE_PHONE"
         },
         {
@@ -46477,6 +46568,36 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "O86HHcQ3IVbqbGKt7ejl",
+          "lastMessageDate": 1784234596143,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "jzos9ovcnyYiCAxAw2qF",
+          "lastMessageDate": 1784234073433,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "Gd4TUBn6VoUw324nGQ2p",
+          "lastMessageDate": 1784232167416,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "igFsirsUqRFuYQSTVAJX",
+          "lastMessageDate": 1784232095383,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "KHRW5tErGPbvBL8tDZwv",
+          "lastMessageDate": 1784232094606,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "qDKbcRwB2fZTY7P9hQNo",
+          "lastMessageDate": 1784232087150,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "XwoZv41ufIkafCRh5eB1",
           "lastMessageDate": 1784227757610,
           "type": "TYPE_PHONE"
@@ -46489,11 +46610,6 @@
         {
           "id": "H7GZtiSLjRb3zjAbPSYw",
           "lastMessageDate": 1784227614975,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "O86HHcQ3IVbqbGKt7ejl",
-          "lastMessageDate": 1784226866446,
           "type": "TYPE_PHONE"
         },
         {
@@ -46552,11 +46668,6 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "qDKbcRwB2fZTY7P9hQNo",
-          "lastMessageDate": 1784145997105,
-          "type": "TYPE_PHONE"
-        },
-        {
           "id": "52NhSVeJes9c0XygMGMp",
           "lastMessageDate": 1784145996154,
           "type": "TYPE_PHONE"
@@ -46572,23 +46683,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "igFsirsUqRFuYQSTVAJX",
-          "lastMessageDate": 1784145990261,
-          "type": "TYPE_PHONE"
-        },
-        {
           "id": "WySZiMBMkSohTURQq930",
           "lastMessageDate": 1784145986056,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "KHRW5tErGPbvBL8tDZwv",
-          "lastMessageDate": 1784145984519,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "Gd4TUBn6VoUw324nGQ2p",
-          "lastMessageDate": 1784145984300,
           "type": "TYPE_PHONE"
         },
         {
@@ -46779,11 +46875,6 @@
         {
           "id": "vUaK9PFLpV7a5UPk8Ef3",
           "lastMessageDate": 1783711812517,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "jzos9ovcnyYiCAxAw2qF",
-          "lastMessageDate": 1783705845725,
           "type": "TYPE_PHONE"
         },
         {
@@ -46984,7 +47075,7 @@
       "manualSms": 72,
       "autoSms": 180,
       "manualEmail": 24,
-      "autoEmail": 1580,
+      "autoEmail": 1566,
       "byDay": [
         {
           "date": "2026-04-21",
@@ -47024,7 +47115,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 156
+          "autoEmail": 154
         },
         {
           "date": "2026-05-04",
@@ -47040,7 +47131,7 @@
           "manualSms": 8,
           "autoSms": 18,
           "manualEmail": 0,
-          "autoEmail": 176
+          "autoEmail": 174
         },
         {
           "date": "2026-05-07",
@@ -47064,7 +47155,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 136
+          "autoEmail": 134
         },
         {
           "date": "2026-05-11",
@@ -47096,7 +47187,7 @@
           "manualSms": 6,
           "autoSms": 14,
           "manualEmail": 0,
-          "autoEmail": 142
+          "autoEmail": 140
         },
         {
           "date": "2026-05-17",
@@ -47112,7 +47203,7 @@
           "manualSms": 2,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 124
+          "autoEmail": 122
         },
         {
           "date": "2026-05-19",
@@ -47136,7 +47227,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 144
+          "autoEmail": 142
         },
         {
           "date": "2026-05-22",
@@ -47168,7 +47259,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 144
+          "autoEmail": 142
         },
         {
           "date": "2026-05-28",
@@ -47184,7 +47275,7 @@
           "manualSms": 0,
           "autoSms": 16,
           "manualEmail": 0,
-          "autoEmail": 144
+          "autoEmail": 142
         },
         {
           "date": "2026-05-31",
@@ -47420,6 +47511,14 @@
         },
         {
           "date": "2026-07-15",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 0,
+          "manualEmail": 0,
+          "autoEmail": 2
+        },
+        {
+          "date": "2026-07-16",
           "calls": 0,
           "manualSms": 0,
           "autoSms": 0,
@@ -55509,6 +55608,87 @@
               "medium": "form",
               "mediumId": "rtTNrLeOuDNq53WY7xwd",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22B91 Safari/604.1 [FBAN/FBIOS;FBAV/543.0.0.47.72;FBBV/845843444;FBDV/iPhone15,5;FBMD/iPhone;FBSN/iOS;FBSV/18.1.1;FBSS/3;FBID/phone;FBLC/en_US;FBOP/5;FBRV/852007394;IABMV/1]",
+              "url": "https://gogetemcommunity.com/"
+            }
+          ]
+        },
+        {
+          "id": "UOhb79Qbbv2yluBrly7E",
+          "name": "Grace Melton",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "9af4ce40-5d59-4bbc-bb7a-a035ad6c0a46",
+          "pipelineStageUId": "9af4ce40-5d59-4bbc-bb7a-a035ad6c0a46",
+          "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
+          "status": "open",
+          "source": null,
+          "lastStatusChangeAt": "2026-02-27T20:03:43.290Z",
+          "lastStageChangeAt": "2026-05-05T15:35:24.254Z",
+          "createdAt": "2026-02-27T20:03:43.290Z",
+          "updatedAt": "2026-05-05T15:35:24.386Z",
+          "forecastProbability": null,
+          "effectiveProbability": 43.75,
+          "contactId": "exIK2zB7QXgNgurgBijX",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "UOhb79Qbbv2yluBrly7E",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "exIK2zB7QXgNgurgBijX",
+              "fullName": "Grace Melton",
+              "contactName": "Grace Melton",
+              "companyName": null,
+              "email": "graceroyaltyproperties@gmail.com",
+              "phone": "+18042989082",
+              "tags": [
+                "smc",
+                "assigned to ferny",
+                "lead called"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "exIK2zB7QXgNgurgBijX",
+            "name": "Grace Melton",
+            "companyName": null,
+            "email": "graceroyaltyproperties@gmail.com",
+            "phone": "+18042989082",
+            "tags": [
+              "smc",
+              "assigned to ferny",
+              "lead called"
+            ],
+            "score": []
+          },
+          "sort": [
+            1772222623290,
+            "exIK2zB7QXgNgurgBijX"
+          ],
+          "attributions": [
+            {
+              "pageUrl": "https://gogetemcommunity.com/",
+              "utmSessionSource": "Direct traffic",
+              "ip": "2601:5c9:c200:ff30:563:64f4:21ab:2773",
+              "isFirst": true,
+              "medium": "form",
+              "mediumId": "rtTNrLeOuDNq53WY7xwd",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22G100 Safari/604.1 [FBAN/FBIOS;FBAV/543.0.0.47.72;FBBV/845843444;FBDV/iPhone14,3;FBMD/iPhone;FBSN/iOS;FBSV/18.6.2;FBSS/3;FBID/phone;FBLC/en_US;FBOP/5;FBRV/849914621;IABMV/1]",
+              "url": "https://gogetemcommunity.com/"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/",
+              "utmSessionSource": "Direct traffic",
+              "isLast": true,
+              "ip": "2601:5c9:c200:ff30:563:64f4:21ab:2773",
+              "medium": "form",
+              "mediumId": "rtTNrLeOuDNq53WY7xwd",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22G100 Safari/604.1 [FBAN/FBIOS;FBAV/543.0.0.47.72;FBBV/845843444;FBDV/iPhone14,3;FBMD/iPhone;FBSN/iOS;FBSV/18.6.2;FBSS/3;FBID/phone;FBLC/en_US;FBOP/5;FBRV/849914621;IABMV/1]",
               "url": "https://gogetemcommunity.com/"
             }
           ]
@@ -69704,6 +69884,16 @@
       ],
       "conversationsAll": [
         {
+          "id": "aqZyfZqjeZXqvVcF8JM4",
+          "lastMessageDate": 1784234955316,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "sLmWnRXhvhXvU0LlmY20",
+          "lastMessageDate": 1784232089765,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "csPmrnAwXiYXw0j2pfj4",
           "lastMessageDate": 1784169857177,
           "type": "TYPE_PHONE"
@@ -69711,11 +69901,6 @@
         {
           "id": "BlzcdaIgt0thULY5RwNF",
           "lastMessageDate": 1784152653859,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "sLmWnRXhvhXvU0LlmY20",
-          "lastMessageDate": 1784145986305,
           "type": "TYPE_PHONE"
         },
         {
@@ -70199,8 +70384,13 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "jYUUnW8TsgStRik11Mym",
-          "lastMessageDate": 1780058289476,
+          "id": "aqZyfZqjeZXqvVcF8JM4",
+          "lastMessageDate": 1784234955316,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "sLmWnRXhvhXvU0LlmY20",
+          "lastMessageDate": 1784232089765,
           "type": "TYPE_PHONE"
         },
         {
@@ -70211,11 +70401,6 @@
         {
           "id": "BlzcdaIgt0thULY5RwNF",
           "lastMessageDate": 1784152653859,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "sLmWnRXhvhXvU0LlmY20",
-          "lastMessageDate": 1784145986305,
           "type": "TYPE_PHONE"
         },
         {
@@ -70696,11 +70881,6 @@
         {
           "id": "1Nw1SXy8ZWAPo4pxrOJT",
           "lastMessageDate": 1780058289565,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "jYUUnW8TsgStRik11Mym",
-          "lastMessageDate": 1780058289476,
           "type": "TYPE_PHONE"
         }
       ]
