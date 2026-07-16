@@ -1,12 +1,12 @@
 {
-  "syncedAt": "2026-07-16T21:03:16.844Z",
+  "syncedAt": "2026-07-16T22:14:02.715Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 216,
       "talkTimeMinutes": 174,
       "manualSms": 242,
-      "autoSms": 382,
+      "autoSms": 384,
       "manualEmail": 94,
       "autoEmail": 2532,
       "byDay": [
@@ -846,7 +846,7 @@
           "date": "2026-07-16",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 8,
+          "autoSms": 10,
           "manualEmail": 0,
           "autoEmail": 38
         }
@@ -46069,7 +46069,7 @@
       "conversationsAll": [
         {
           "id": "O86HHcQ3IVbqbGKt7ejl",
-          "lastMessageDate": 1784234596143,
+          "lastMessageDate": 1784237670630,
           "type": "TYPE_PHONE"
         },
         {
@@ -46569,7 +46569,7 @@
         },
         {
           "id": "O86HHcQ3IVbqbGKt7ejl",
-          "lastMessageDate": 1784234596143,
+          "lastMessageDate": 1784237670630,
           "type": "TYPE_PHONE"
         },
         {
@@ -47527,6 +47527,87 @@
         }
       ],
       "opportunities": [
+        {
+          "id": "m9iuGpvFTLgJKEgxf0Oe",
+          "name": "Juan Gorena",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "80949724-7894-4a42-8028-746a06208f9e",
+          "pipelineStageUId": "80949724-7894-4a42-8028-746a06208f9e",
+          "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
+          "status": "open",
+          "source": "GoGet'Em Sign Up Form w/@IG handle",
+          "lastStatusChangeAt": "2026-07-16T20:59:27.650Z",
+          "lastStageChangeAt": "2026-07-16T21:02:05.525Z",
+          "createdAt": "2026-07-16T20:59:27.650Z",
+          "updatedAt": "2026-07-16T21:02:06.491Z",
+          "forecastProbability": null,
+          "effectiveProbability": 25,
+          "contactId": "HOWSu03KvZ1r2mYsqeA3",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "m9iuGpvFTLgJKEgxf0Oe",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "HOWSu03KvZ1r2mYsqeA3",
+              "fullName": "Juan Gorena",
+              "contactName": "Juan Gorena",
+              "companyName": null,
+              "email": "commercial@thetreygroup.com",
+              "phone": "+12103676024",
+              "tags": [
+                "smc",
+                "new lead",
+                "assigned to ferny"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "HOWSu03KvZ1r2mYsqeA3",
+            "name": "Juan Gorena",
+            "companyName": null,
+            "email": "commercial@thetreygroup.com",
+            "phone": "+12103676024",
+            "tags": [
+              "smc",
+              "new lead",
+              "assigned to ferny"
+            ],
+            "score": []
+          },
+          "sort": [
+            1784235567650,
+            "HOWSu03KvZ1r2mYsqeA3"
+          ],
+          "attributions": [
+            {
+              "pageUrl": "https://gogetemcommunity.com/",
+              "utmSessionSource": "Direct traffic",
+              "ip": "2600:1702:c00:1190:15be:75c2:a611:318b",
+              "isFirst": true,
+              "medium": "form",
+              "mediumId": "rtTNrLeOuDNq53WY7xwd",
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5.2 Safari/605.1.15",
+              "url": "https://gogetemcommunity.com/"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/",
+              "utmSessionSource": "Direct traffic",
+              "isLast": true,
+              "ip": "2600:1702:c00:1190:15be:75c2:a611:318b",
+              "medium": "form",
+              "mediumId": "rtTNrLeOuDNq53WY7xwd",
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5.2 Safari/605.1.15",
+              "url": "https://gogetemcommunity.com/"
+            }
+          ]
+        },
         {
           "id": "ik8Cdld7w43Cze4yMQev",
           "name": "Megan Jones",
@@ -55608,87 +55689,6 @@
               "medium": "form",
               "mediumId": "rtTNrLeOuDNq53WY7xwd",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22B91 Safari/604.1 [FBAN/FBIOS;FBAV/543.0.0.47.72;FBBV/845843444;FBDV/iPhone15,5;FBMD/iPhone;FBSN/iOS;FBSV/18.1.1;FBSS/3;FBID/phone;FBLC/en_US;FBOP/5;FBRV/852007394;IABMV/1]",
-              "url": "https://gogetemcommunity.com/"
-            }
-          ]
-        },
-        {
-          "id": "UOhb79Qbbv2yluBrly7E",
-          "name": "Grace Melton",
-          "monetaryValue": 0,
-          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
-          "pipelineStageId": "9af4ce40-5d59-4bbc-bb7a-a035ad6c0a46",
-          "pipelineStageUId": "9af4ce40-5d59-4bbc-bb7a-a035ad6c0a46",
-          "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
-          "status": "open",
-          "source": null,
-          "lastStatusChangeAt": "2026-02-27T20:03:43.290Z",
-          "lastStageChangeAt": "2026-05-05T15:35:24.254Z",
-          "createdAt": "2026-02-27T20:03:43.290Z",
-          "updatedAt": "2026-05-05T15:35:24.386Z",
-          "forecastProbability": null,
-          "effectiveProbability": 43.75,
-          "contactId": "exIK2zB7QXgNgurgBijX",
-          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
-          "customFields": [],
-          "lostReasonId": null,
-          "followers": [],
-          "relations": [
-            {
-              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
-              "relationId": "UOhb79Qbbv2yluBrly7E",
-              "primary": true,
-              "objectKey": "contact",
-              "recordId": "exIK2zB7QXgNgurgBijX",
-              "fullName": "Grace Melton",
-              "contactName": "Grace Melton",
-              "companyName": null,
-              "email": "graceroyaltyproperties@gmail.com",
-              "phone": "+18042989082",
-              "tags": [
-                "smc",
-                "assigned to ferny",
-                "lead called"
-              ],
-              "attributed": true
-            }
-          ],
-          "contact": {
-            "id": "exIK2zB7QXgNgurgBijX",
-            "name": "Grace Melton",
-            "companyName": null,
-            "email": "graceroyaltyproperties@gmail.com",
-            "phone": "+18042989082",
-            "tags": [
-              "smc",
-              "assigned to ferny",
-              "lead called"
-            ],
-            "score": []
-          },
-          "sort": [
-            1772222623290,
-            "exIK2zB7QXgNgurgBijX"
-          ],
-          "attributions": [
-            {
-              "pageUrl": "https://gogetemcommunity.com/",
-              "utmSessionSource": "Direct traffic",
-              "ip": "2601:5c9:c200:ff30:563:64f4:21ab:2773",
-              "isFirst": true,
-              "medium": "form",
-              "mediumId": "rtTNrLeOuDNq53WY7xwd",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22G100 Safari/604.1 [FBAN/FBIOS;FBAV/543.0.0.47.72;FBBV/845843444;FBDV/iPhone14,3;FBMD/iPhone;FBSN/iOS;FBSV/18.6.2;FBSS/3;FBID/phone;FBLC/en_US;FBOP/5;FBRV/849914621;IABMV/1]",
-              "url": "https://gogetemcommunity.com/"
-            },
-            {
-              "pageUrl": "https://gogetemcommunity.com/",
-              "utmSessionSource": "Direct traffic",
-              "isLast": true,
-              "ip": "2601:5c9:c200:ff30:563:64f4:21ab:2773",
-              "medium": "form",
-              "mediumId": "rtTNrLeOuDNq53WY7xwd",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22G100 Safari/604.1 [FBAN/FBIOS;FBAV/543.0.0.47.72;FBBV/845843444;FBDV/iPhone14,3;FBMD/iPhone;FBSN/iOS;FBSV/18.6.2;FBSS/3;FBID/phone;FBLC/en_US;FBOP/5;FBRV/849914621;IABMV/1]",
               "url": "https://gogetemcommunity.com/"
             }
           ]
