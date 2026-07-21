@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-07-21T19:26:15.619Z",
+  "syncedAt": "2026-07-21T21:12:47.197Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 200,
       "talkTimeMinutes": 170,
-      "manualSms": 256,
-      "autoSms": 406,
-      "manualEmail": 96,
-      "autoEmail": 2662,
+      "manualSms": 258,
+      "autoSms": 414,
+      "manualEmail": 100,
+      "autoEmail": 2670,
       "byDay": [
         {
           "date": "2024-09-05",
@@ -877,10 +877,10 @@
         {
           "date": "2026-07-21",
           "calls": 2,
-          "manualSms": 10,
-          "autoSms": 4,
-          "manualEmail": 2,
-          "autoEmail": 58
+          "manualSms": 12,
+          "autoSms": 12,
+          "manualEmail": 6,
+          "autoEmail": 66
         }
       ],
       "opportunities": [
@@ -2096,19 +2096,19 @@
         {
           "id": "4gmpIveEr9fIfUpD1rgz",
           "name": "Pam Tapp",
-          "monetaryValue": 0,
+          "monetaryValue": 78,
           "pipelineId": "4ODbBsC9MIjSBtnIOETl",
-          "pipelineStageId": "47f17781-3c7e-42f1-b731-cea3c1a954ab",
-          "pipelineStageUId": "47f17781-3c7e-42f1-b731-cea3c1a954ab",
+          "pipelineStageId": "4e0dc282-03f6-480e-b4f1-9e966ec0a179",
+          "pipelineStageUId": "4e0dc282-03f6-480e-b4f1-9e966ec0a179",
           "assignedTo": "C7PplofCN88pv8MTTiZT",
-          "status": "open",
+          "status": "won",
           "source": "email",
-          "lastStatusChangeAt": "2026-06-16T16:05:09.546Z",
-          "lastStageChangeAt": "2026-06-16T16:37:33.434Z",
+          "lastStatusChangeAt": "2026-07-21T19:40:34.410Z",
+          "lastStageChangeAt": "2026-07-21T19:40:28.484Z",
           "createdAt": "2026-06-16T16:05:09.546Z",
-          "updatedAt": "2026-06-16T16:37:34.255Z",
+          "updatedAt": "2026-07-21T19:40:34.410Z",
           "forecastProbability": null,
-          "effectiveProbability": 56.25,
+          "effectiveProbability": 81.25,
           "contactId": "NcrfH8ZEUvrzG4rTee64",
           "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
           "customFields": [],
@@ -2128,12 +2128,14 @@
               "phone": "+19412329496",
               "tags": [
                 "smc",
-                "new lead",
                 "assigned to natalia",
                 "lead called",
-                "sales: follow up",
                 "niche-finder-paid",
-                "niche-finder"
+                "niche-finder",
+                "gogetem affiliate",
+                "goget'em member; new",
+                "new lead",
+                "ggtc onboarding call scheduled"
               ],
               "attributed": true
             }
@@ -2146,12 +2148,14 @@
             "phone": "+19412329496",
             "tags": [
               "smc",
-              "new lead",
               "assigned to natalia",
               "lead called",
-              "sales: follow up",
               "niche-finder-paid",
-              "niche-finder"
+              "niche-finder",
+              "gogetem affiliate",
+              "goget'em member; new",
+              "new lead",
+              "ggtc onboarding call scheduled"
             ],
             "score": []
           },
@@ -2161,17 +2165,17 @@
           ],
           "attributions": [
             {
-              "pageUrl": "https://gogetemcommunity.com/?utm_source=email&utm_medium=email marketing&utm_campaign=Tuesday Template (16-06-2026)",
-              "utmSessionSource": "Email Marketing",
+              "pageUrl": "https://checkout.gogetemcommunity.com/join",
+              "referrer": "https://api.leadconnectorhq.com",
+              "utmSessionSource": "Referral",
               "isLast": true,
-              "utmCampaign": "Tuesday Template (16-06-2026)",
-              "utmMedium": "email marketing",
-              "ip": "2601:701:c200:56a0:19b0:216c:5974:e0fd",
+              "fbp": "fb.1.1784654441029.325048368904050867",
+              "ip": "2601:701:c200:56a0:c167:a3e8:a23:e5f6",
               "medium": "form",
-              "mediumId": "rtTNrLeOuDNq53WY7xwd",
-              "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-              "url": "https://gogetemcommunity.com/",
-              "utmSource": "email"
+              "mediumId": "oNPhc6YRZ3qFiXQjEfpd",
+              "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+              "gaClientId": "GA1.1.1746012781.1784654441",
+              "url": "https://checkout.gogetemcommunity.com/join"
             }
           ]
         },
@@ -46234,6 +46238,28 @@
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/6684356793",
           "calendarId": "vn5ozDQQe0DQUJYuEw9b",
+          "contactId": "NcrfH8ZEUvrzG4rTee64",
+          "dateAdded": "2026-07-21T20:03:24.190Z",
+          "dateUpdated": "2026-07-21T20:03:24.190Z",
+          "endTime": "2026-07-22T10:00:00-04:00",
+          "id": "ARnjEiJyxkpkuMvaDjkP",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "startTime": "2026-07-22T09:30:00-04:00",
+          "title": "GoGet'Em Community Intro Call - Pam Tapp & Natalia",
+          "assignedResources": [],
+          "isRecurring": false,
+          "createdBy": {
+            "source": "booking_widget",
+            "userId": null
+          },
+          "deleted": false
+        },
+        {
+          "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
+          "assignedUserId": "C7PplofCN88pv8MTTiZT",
+          "address": "https://zoom.us/j/6684356793",
+          "calendarId": "vn5ozDQQe0DQUJYuEw9b",
           "contactId": "bwMuMHWzZUG18YVpxKM9",
           "dateAdded": "2026-07-21T17:36:53.076Z",
           "dateUpdated": "2026-07-21T18:59:03.491Z",
@@ -46244,6 +46270,28 @@
           "description": "",
           "startTime": "2026-07-23T12:00:00-04:00",
           "title": "GoGet'Em Community Intro Call - Charmayne Deshon & Natalia",
+          "assignedResources": [],
+          "isRecurring": false,
+          "createdBy": {
+            "source": "booking_widget",
+            "userId": null
+          },
+          "deleted": false
+        },
+        {
+          "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
+          "assignedUserId": "C7PplofCN88pv8MTTiZT",
+          "address": "https://zoom.us/j/98827914664",
+          "calendarId": "8kLbo3OukoeNXebq8B4b",
+          "contactId": "NcrfH8ZEUvrzG4rTee64",
+          "dateAdded": "2026-07-21T19:48:07.468Z",
+          "dateUpdated": "2026-07-21T19:48:07.468Z",
+          "endTime": "2026-07-23T16:00:00-04:00",
+          "id": "Qj9KR2xgErzI0c9OmCTp",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "startTime": "2026-07-23T15:00:00-04:00",
+          "title": "GGTC Onboarding Call - Pam Tapp",
           "assignedResources": [],
           "isRecurring": false,
           "createdBy": {
@@ -46300,6 +46348,16 @@
         }
       ],
       "conversationsAll": [
+        {
+          "id": "zIxdSucRN7fh3vE8lE7l",
+          "lastMessageDate": 1784666447270,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "Fd14M9V7nvRpu1QecHAq",
+          "lastMessageDate": 1784665288852,
+          "type": "TYPE_PHONE"
+        },
         {
           "id": "MVln42pokSmVr0TBNj24",
           "lastMessageDate": 1784660978418,
@@ -46438,11 +46496,6 @@
         {
           "id": "6voUyjIwFGdCnDkAA9tH",
           "lastMessageDate": 1784640617471,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "Fd14M9V7nvRpu1QecHAq",
-          "lastMessageDate": 1784579078021,
           "type": "TYPE_PHONE"
         },
         {
@@ -46703,11 +46756,6 @@
         {
           "id": "ikFcg67Nvg46bHjNzdOF",
           "lastMessageDate": 1783441502827,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "zIxdSucRN7fh3vE8lE7l",
-          "lastMessageDate": 1783441394839,
           "type": "TYPE_PHONE"
         },
         {
@@ -46801,6 +46849,16 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "zIxdSucRN7fh3vE8lE7l",
+          "lastMessageDate": 1784666447270,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "Fd14M9V7nvRpu1QecHAq",
+          "lastMessageDate": 1784665288852,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "MVln42pokSmVr0TBNj24",
           "lastMessageDate": 1784660978418,
           "type": "TYPE_PHONE"
@@ -46938,11 +46996,6 @@
         {
           "id": "6voUyjIwFGdCnDkAA9tH",
           "lastMessageDate": 1784640617471,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "Fd14M9V7nvRpu1QecHAq",
-          "lastMessageDate": 1784579078021,
           "type": "TYPE_PHONE"
         },
         {
@@ -47203,11 +47256,6 @@
         {
           "id": "ikFcg67Nvg46bHjNzdOF",
           "lastMessageDate": 1783441502827,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "zIxdSucRN7fh3vE8lE7l",
-          "lastMessageDate": 1783441394839,
           "type": "TYPE_PHONE"
         },
         {
