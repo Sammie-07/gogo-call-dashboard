@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-07-22T17:22:58.261Z",
+  "syncedAt": "2026-07-22T19:23:26.415Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 200,
       "talkTimeMinutes": 170,
-      "manualSms": 260,
-      "autoSms": 416,
+      "manualSms": 262,
+      "autoSms": 418,
       "manualEmail": 102,
-      "autoEmail": 2672,
+      "autoEmail": 2674,
       "byDay": [
         {
           "date": "2024-09-05",
@@ -885,10 +885,10 @@
         {
           "date": "2026-07-22",
           "calls": 0,
-          "manualSms": 2,
-          "autoSms": 0,
+          "manualSms": 4,
+          "autoSms": 2,
           "manualEmail": 2,
-          "autoEmail": 0
+          "autoEmail": 2
         }
       ],
       "opportunities": [
@@ -46360,7 +46360,12 @@
       "conversationsAll": [
         {
           "id": "zIxdSucRN7fh3vE8lE7l",
-          "lastMessageDate": 1784727096823,
+          "lastMessageDate": 1784746853476,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "uuTVYhVmq8gakqb83ZvL",
+          "lastMessageDate": 1784743710442,
           "type": "TYPE_PHONE"
         },
         {
@@ -46376,11 +46381,6 @@
         {
           "id": "MVln42pokSmVr0TBNj24",
           "lastMessageDate": 1784660978418,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "uuTVYhVmq8gakqb83ZvL",
-          "lastMessageDate": 1784659760257,
           "type": "TYPE_PHONE"
         },
         {
@@ -46860,7 +46860,12 @@
         },
         {
           "id": "zIxdSucRN7fh3vE8lE7l",
-          "lastMessageDate": 1784727096823,
+          "lastMessageDate": 1784746853476,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "uuTVYhVmq8gakqb83ZvL",
+          "lastMessageDate": 1784743710442,
           "type": "TYPE_PHONE"
         },
         {
@@ -46876,11 +46881,6 @@
         {
           "id": "MVln42pokSmVr0TBNj24",
           "lastMessageDate": 1784660978418,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "uuTVYhVmq8gakqb83ZvL",
-          "lastMessageDate": 1784659760257,
           "type": "TYPE_PHONE"
         },
         {
