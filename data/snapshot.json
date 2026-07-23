@@ -1,11 +1,11 @@
 {
-  "syncedAt": "2026-07-23T16:29:27.438Z",
+  "syncedAt": "2026-07-23T18:15:28.348Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 200,
       "talkTimeMinutes": 170,
-      "manualSms": 266,
+      "manualSms": 268,
       "autoSms": 418,
       "manualEmail": 104,
       "autoEmail": 2702,
@@ -893,7 +893,7 @@
         {
           "date": "2026-07-23",
           "calls": 0,
-          "manualSms": 4,
+          "manualSms": 6,
           "autoSms": 0,
           "manualEmail": 2,
           "autoEmail": 26
@@ -34969,17 +34969,17 @@
           "name": "Charmayne Deshon",
           "monetaryValue": 0,
           "pipelineId": "4ODbBsC9MIjSBtnIOETl",
-          "pipelineStageId": "9af4ce40-5d59-4bbc-bb7a-a035ad6c0a46",
-          "pipelineStageUId": "9af4ce40-5d59-4bbc-bb7a-a035ad6c0a46",
+          "pipelineStageId": "5ab71bd0-0254-44b8-9a73-c92ca538e7fb",
+          "pipelineStageUId": "5ab71bd0-0254-44b8-9a73-c92ca538e7fb",
           "assignedTo": "C7PplofCN88pv8MTTiZT",
           "status": "open",
           "source": null,
           "lastStatusChangeAt": "2026-02-27T20:03:33.664Z",
-          "lastStageChangeAt": "2026-07-07T16:52:22.414Z",
+          "lastStageChangeAt": "2026-07-23T18:12:24.287Z",
           "createdAt": "2026-02-27T20:03:33.664Z",
-          "updatedAt": "2026-07-07T16:52:22.536Z",
+          "updatedAt": "2026-07-23T18:12:24.298Z",
           "forecastProbability": null,
-          "effectiveProbability": 43.75,
+          "effectiveProbability": 93.75,
           "contactId": "bwMuMHWzZUG18YVpxKM9",
           "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
           "customFields": [],
@@ -35038,14 +35038,17 @@
               "url": "https://gogetemcommunity.com/"
             },
             {
-              "pageUrl": "https://gogetemcommunity.com/",
-              "utmSessionSource": "Direct traffic",
+              "pageUrl": "https://api.leadconnectorhq.com/widget/bookings/ggtc-intro-call-natalia?utm_source=email&utm_medium=email+marketing&utm_campaign=007+|+Lead+Didn't+Answer+the+phone+->+Start+Follow+Up+Sequence-Email+(21-07-2026)",
+              "utmSessionSource": "Email Marketing",
               "isLast": true,
-              "ip": "2600:100c:b017:5738:fd1b:9993:11f9:7bb",
-              "medium": "form",
-              "mediumId": "rtTNrLeOuDNq53WY7xwd",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23B85 [FBAN/FBIOS;FBAV/543.0.0.47.72;FBBV/845843444;FBDV/iPhone15,2;FBMD/iPhone;FBSN/iOS;FBSV/26.1;FBSS/3;FBID/phone;FBLC/en_US;FBOP/5;FBRV/858902542;IABMV/1]",
-              "url": "https://gogetemcommunity.com/"
+              "utmCampaign": "007 | Lead Didn't Answer the phone -> Start Follow Up Sequence-Email (21-07-2026)",
+              "utmMedium": "email marketing",
+              "ip": "2600:100c:a128:b8ba:d9e0:5c01:5a67:be0d",
+              "medium": "calendar",
+              "mediumId": "vn5ozDQQe0DQUJYuEw9b",
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5 Safari/605.1.15",
+              "url": "https://api.leadconnectorhq.com/widget/bookings/ggtc-intro-call-natalia",
+              "utmSource": "email"
             }
           ]
         },
@@ -46367,6 +46370,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "6voUyjIwFGdCnDkAA9tH",
+          "lastMessageDate": 1784830303173,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "MVln42pokSmVr0TBNj24",
           "lastMessageDate": 1784822579656,
           "type": "TYPE_PHONE"
@@ -46439,11 +46447,6 @@
         {
           "id": "uuTVYhVmq8gakqb83ZvL",
           "lastMessageDate": 1784743710442,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "6voUyjIwFGdCnDkAA9tH",
-          "lastMessageDate": 1784671178851,
           "type": "TYPE_PHONE"
         },
         {
@@ -46867,6 +46870,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "6voUyjIwFGdCnDkAA9tH",
+          "lastMessageDate": 1784830303173,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "MVln42pokSmVr0TBNj24",
           "lastMessageDate": 1784822579656,
           "type": "TYPE_PHONE"
@@ -46939,11 +46947,6 @@
         {
           "id": "uuTVYhVmq8gakqb83ZvL",
           "lastMessageDate": 1784743710442,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "6voUyjIwFGdCnDkAA9tH",
-          "lastMessageDate": 1784671178851,
           "type": "TYPE_PHONE"
         },
         {
