@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-27T20:25:35.941Z",
+  "syncedAt": "2026-07-27T22:10:50.821Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -8,7 +8,7 @@
       "manualSms": 266,
       "autoSms": 432,
       "manualEmail": 100,
-      "autoEmail": 2696,
+      "autoEmail": 2698,
       "byDay": [
         {
           "date": "2025-05-30",
@@ -896,7 +896,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 24
+          "autoEmail": 26
         }
       ],
       "opportunities": [
@@ -46372,6 +46372,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "Fd14M9V7nvRpu1QecHAq",
+          "lastMessageDate": 1785183882196,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "KHRW5tErGPbvBL8tDZwv",
           "lastMessageDate": 1785174030476,
           "type": "TYPE_PHONE"
@@ -46529,11 +46534,6 @@
         {
           "id": "uwiIcMS5zC51rw5UINQs",
           "lastMessageDate": 1784902711546,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "Fd14M9V7nvRpu1QecHAq",
-          "lastMessageDate": 1784838280700,
           "type": "TYPE_PHONE"
         },
         {
@@ -46872,6 +46872,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "Fd14M9V7nvRpu1QecHAq",
+          "lastMessageDate": 1785183882196,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "KHRW5tErGPbvBL8tDZwv",
           "lastMessageDate": 1785174030476,
           "type": "TYPE_PHONE"
@@ -47029,11 +47034,6 @@
         {
           "id": "uwiIcMS5zC51rw5UINQs",
           "lastMessageDate": 1784902711546,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "Fd14M9V7nvRpu1QecHAq",
-          "lastMessageDate": 1784838280700,
           "type": "TYPE_PHONE"
         },
         {
@@ -47379,7 +47379,7 @@
       "manualSms": 72,
       "autoSms": 196,
       "manualEmail": 24,
-      "autoEmail": 1562,
+      "autoEmail": 1554,
       "byDay": [
         {
           "date": "2026-04-21",
@@ -47419,7 +47419,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 150
+          "autoEmail": 149
         },
         {
           "date": "2026-05-04",
@@ -47435,7 +47435,7 @@
           "manualSms": 8,
           "autoSms": 18,
           "manualEmail": 0,
-          "autoEmail": 170
+          "autoEmail": 169
         },
         {
           "date": "2026-05-07",
@@ -47459,7 +47459,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 130
+          "autoEmail": 129
         },
         {
           "date": "2026-05-11",
@@ -47491,7 +47491,7 @@
           "manualSms": 6,
           "autoSms": 14,
           "manualEmail": 0,
-          "autoEmail": 136
+          "autoEmail": 135
         },
         {
           "date": "2026-05-17",
@@ -47507,7 +47507,7 @@
           "manualSms": 2,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 118
+          "autoEmail": 117
         },
         {
           "date": "2026-05-19",
@@ -47531,7 +47531,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 138
+          "autoEmail": 137
         },
         {
           "date": "2026-05-22",
@@ -47563,7 +47563,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 138
+          "autoEmail": 137
         },
         {
           "date": "2026-05-28",
@@ -47579,7 +47579,7 @@
           "manualSms": 0,
           "autoSms": 16,
           "manualEmail": 0,
-          "autoEmail": 138
+          "autoEmail": 137
         },
         {
           "date": "2026-05-31",
@@ -47884,17 +47884,17 @@
           "name": "Jenny Jun",
           "monetaryValue": 0,
           "pipelineId": "4ODbBsC9MIjSBtnIOETl",
-          "pipelineStageId": "9af4ce40-5d59-4bbc-bb7a-a035ad6c0a46",
-          "pipelineStageUId": "9af4ce40-5d59-4bbc-bb7a-a035ad6c0a46",
+          "pipelineStageId": "71028263-9714-45b3-91aa-dda01d4bb4a6",
+          "pipelineStageUId": "71028263-9714-45b3-91aa-dda01d4bb4a6",
           "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
           "status": "open",
           "source": "email",
           "lastStatusChangeAt": "2026-07-21T12:19:34.196Z",
-          "lastStageChangeAt": "2026-07-27T19:06:04.800Z",
+          "lastStageChangeAt": "2026-07-27T20:30:39.186Z",
           "createdAt": "2026-07-21T12:19:34.196Z",
-          "updatedAt": "2026-07-27T19:06:04.941Z",
+          "updatedAt": "2026-07-27T20:30:39.212Z",
           "forecastProbability": null,
-          "effectiveProbability": 43.75,
+          "effectiveProbability": 62.5,
           "contactId": "tw1tXfQzGL0iwUrlaxiG",
           "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
           "customFields": [],
@@ -47916,7 +47916,8 @@
                 "smc",
                 "new lead",
                 "assigned to ferny",
-                "lead called"
+                "lead called",
+                "sales: not interested"
               ],
               "attributed": true
             }
@@ -47931,7 +47932,8 @@
               "smc",
               "new lead",
               "assigned to ferny",
-              "lead called"
+              "lead called",
+              "sales: not interested"
             ],
             "score": []
           },
