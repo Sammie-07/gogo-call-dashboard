@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-28T04:13:03.146Z",
+  "syncedAt": "2026-07-28T07:41:55.760Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -47387,7 +47387,7 @@
       "manualSms": 72,
       "autoSms": 196,
       "manualEmail": 24,
-      "autoEmail": 1562,
+      "autoEmail": 1544,
       "byDay": [
         {
           "date": "2026-04-21",
@@ -47411,7 +47411,7 @@
           "manualSms": 0,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 70
+          "autoEmail": 68
         },
         {
           "date": "2026-04-30",
@@ -47427,7 +47427,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 150
+          "autoEmail": 148
         },
         {
           "date": "2026-05-04",
@@ -47443,7 +47443,7 @@
           "manualSms": 8,
           "autoSms": 18,
           "manualEmail": 0,
-          "autoEmail": 170
+          "autoEmail": 168
         },
         {
           "date": "2026-05-07",
@@ -47467,7 +47467,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 130
+          "autoEmail": 128
         },
         {
           "date": "2026-05-11",
@@ -47499,7 +47499,7 @@
           "manualSms": 6,
           "autoSms": 14,
           "manualEmail": 0,
-          "autoEmail": 136
+          "autoEmail": 134
         },
         {
           "date": "2026-05-17",
@@ -47515,7 +47515,7 @@
           "manualSms": 2,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 118
+          "autoEmail": 116
         },
         {
           "date": "2026-05-19",
@@ -47539,7 +47539,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 138
+          "autoEmail": 136
         },
         {
           "date": "2026-05-22",
@@ -47571,7 +47571,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 138
+          "autoEmail": 136
         },
         {
           "date": "2026-05-28",
@@ -47587,7 +47587,7 @@
           "manualSms": 0,
           "autoSms": 16,
           "manualEmail": 0,
-          "autoEmail": 138
+          "autoEmail": 136
         },
         {
           "date": "2026-05-31",
@@ -47887,6 +47887,98 @@
         }
       ],
       "opportunities": [
+        {
+          "id": "53j1jsJqK1edxRfRV5WQ",
+          "name": "Ray Qinn",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "80949724-7894-4a42-8028-746a06208f9e",
+          "pipelineStageUId": "80949724-7894-4a42-8028-746a06208f9e",
+          "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
+          "status": "open",
+          "source": "GoGet'Em Sign Up Form w/@IG handle",
+          "lastStatusChangeAt": "2026-07-28T07:05:23.275Z",
+          "lastStageChangeAt": "2026-07-28T07:06:28.279Z",
+          "createdAt": "2026-07-28T07:05:23.275Z",
+          "updatedAt": "2026-07-28T07:06:28.438Z",
+          "forecastProbability": null,
+          "effectiveProbability": 25,
+          "contactId": "WBaanZbGcAbC4Yx1a5kS",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "53j1jsJqK1edxRfRV5WQ",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "WBaanZbGcAbC4Yx1a5kS",
+              "fullName": "Ray Qinn",
+              "contactName": "Ray Qinn",
+              "companyName": null,
+              "email": "ray.qin@hatchingroup.com",
+              "phone": "+15175802905",
+              "tags": [
+                "smc",
+                "new lead",
+                "assigned to ferny"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "WBaanZbGcAbC4Yx1a5kS",
+            "name": "Ray Qinn",
+            "companyName": null,
+            "email": "ray.qin@hatchingroup.com",
+            "phone": "+15175802905",
+            "tags": [
+              "smc",
+              "new lead",
+              "assigned to ferny"
+            ],
+            "score": []
+          },
+          "sort": [
+            1785222323275,
+            "WBaanZbGcAbC4Yx1a5kS"
+          ],
+          "attributions": [
+            {
+              "pageUrl": "https://gogetemcommunity.com/socialmedia/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAcGRvZgJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAadaUAat3_gjyNAnOUr-39ynEmZsFoRRHZWFG4rrJLsNYixb_iYzY81ruRjMNg_aem_L8I3Q2viAbj286F7ZjzOSg&utm_id=97760_v0_s00_e0_tv3",
+              "utmSessionSource": "Social media",
+              "utmMedium": "social",
+              "ip": "119.18.23.247",
+              "isFirst": true,
+              "medium": "form",
+              "utmKeyword": "Link_in_bio",
+              "url": "https://gogetemcommunity.com/socialmedia/",
+              "referrer": "https://l.instagram.com",
+              "utmFbclid": "PAcGRvZgJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAadaUAat3_gjyNAnOUr-39ynEmZsFoRRHZWFG4rrJLsNYixb_iYzY81ruRjMNg_aem_L8I3Q2viAbj286F7ZjzOSg",
+              "mediumId": "rtTNrLeOuDNq53WY7xwd",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23F84 Instagram 439.0.0.35.60 (iPhone12,5; iOS 26_5_2; zh_CN; zh-Hans; scale=3.00; 1242x2688; IABMV/1; 1021301964) Safari/604.1",
+              "utmSource": "ig",
+              "utmContent": "link_in_bio"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/socialmedia/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAcGRvZgJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAadaUAat3_gjyNAnOUr-39ynEmZsFoRRHZWFG4rrJLsNYixb_iYzY81ruRjMNg_aem_L8I3Q2viAbj286F7ZjzOSg&utm_id=97760_v0_s00_e0_tv3",
+              "utmSessionSource": "Social media",
+              "utmMedium": "social",
+              "ip": "119.18.23.247",
+              "medium": "form",
+              "url": "https://gogetemcommunity.com/socialmedia/",
+              "referrer": "https://l.instagram.com",
+              "isLast": true,
+              "utmFbclid": "PAcGRvZgJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAadaUAat3_gjyNAnOUr-39ynEmZsFoRRHZWFG4rrJLsNYixb_iYzY81ruRjMNg_aem_L8I3Q2viAbj286F7ZjzOSg",
+              "mediumId": "rtTNrLeOuDNq53WY7xwd",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23F84 Instagram 439.0.0.35.60 (iPhone12,5; iOS 26_5_2; zh_CN; zh-Hans; scale=3.00; 1242x2688; IABMV/1; 1021301964) Safari/604.1",
+              "utmSource": "ig",
+              "utmContent": "link_in_bio"
+            }
+          ]
+        },
         {
           "id": "51boRlwM6MlZftDxuFgi",
           "name": "Jenny Jun",
@@ -70341,6 +70433,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "joel5AcrkpNNXyYokuWk",
+          "lastMessageDate": 1785221721558,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "aqZyfZqjeZXqvVcF8JM4",
           "lastMessageDate": 1785179580823,
           "type": "TYPE_PHONE"
@@ -70836,8 +70933,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "r6S31fSkgcPbFPbdWKlf",
-          "lastMessageDate": 1780058299418,
+          "id": "joel5AcrkpNNXyYokuWk",
+          "lastMessageDate": 1785221721558,
           "type": "TYPE_PHONE"
         },
         {
@@ -71333,11 +71430,6 @@
         {
           "id": "qmrOK9AzqnK8Or267xlv",
           "lastMessageDate": 1780058299604,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "r6S31fSkgcPbFPbdWKlf",
-          "lastMessageDate": 1780058299418,
           "type": "TYPE_PHONE"
         }
       ]
