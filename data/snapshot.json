@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-08-03T23:04:00.212Z",
+  "syncedAt": "2026-08-04T02:39:09.934Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
-      "calls": 194,
-      "talkTimeMinutes": 155,
-      "manualSms": 268,
-      "autoSms": 438,
-      "manualEmail": 92,
-      "autoEmail": 2922,
+      "calls": 192,
+      "talkTimeMinutes": 153,
+      "manualSms": 248,
+      "autoSms": 436,
+      "manualEmail": 88,
+      "autoEmail": 2920,
       "byDay": [
         {
           "date": "2025-05-30",
@@ -413,7 +413,7 @@
         {
           "date": "2026-05-27",
           "calls": 2,
-          "manualSms": 2,
+          "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
           "autoEmail": 18
@@ -428,11 +428,11 @@
         },
         {
           "date": "2026-05-29",
-          "calls": 4,
-          "manualSms": 8,
-          "autoSms": 6,
+          "calls": 2,
+          "manualSms": 0,
+          "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 96
+          "autoEmail": 94
         },
         {
           "date": "2026-05-30",
@@ -445,10 +445,10 @@
         {
           "date": "2026-06-01",
           "calls": 0,
-          "manualSms": 6,
-          "autoSms": 2,
-          "manualEmail": 2,
-          "autoEmail": 14
+          "manualSms": 0,
+          "autoSms": 0,
+          "manualEmail": 0,
+          "autoEmail": 12
         },
         {
           "date": "2026-06-02",
@@ -461,9 +461,9 @@
         {
           "date": "2026-06-03",
           "calls": 0,
-          "manualSms": 28,
+          "manualSms": 24,
           "autoSms": 10,
-          "manualEmail": 6,
+          "manualEmail": 4,
           "autoEmail": 2
         },
         {
@@ -905,9 +905,109 @@
           "autoSms": 0,
           "manualEmail": 2,
           "autoEmail": 52
+        },
+        {
+          "date": "2026-08-04",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 2,
+          "manualEmail": 0,
+          "autoEmail": 2
         }
       ],
       "opportunities": [
+        {
+          "id": "laCUgib3NKD5FXcxNX5C",
+          "name": "Kara Byrnes",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "assignedTo": "C7PplofCN88pv8MTTiZT",
+          "status": "open",
+          "source": "GoGet'Em Sign Up Form w/@IG handle",
+          "lastStatusChangeAt": "2026-08-04T02:14:04.187Z",
+          "lastStageChangeAt": "2026-08-04T02:15:11.348Z",
+          "createdAt": "2026-08-04T02:14:04.186Z",
+          "updatedAt": "2026-08-04T02:15:11.499Z",
+          "forecastProbability": null,
+          "effectiveProbability": 31.25,
+          "contactId": "7MH4y71uogGat5BfQg3B",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "laCUgib3NKD5FXcxNX5C",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "7MH4y71uogGat5BfQg3B",
+              "fullName": "Kara Byrnes",
+              "contactName": "Kara Byrnes",
+              "companyName": null,
+              "email": "karajbyrnes@gmail.com",
+              "phone": "+12143855977",
+              "tags": [
+                "smc",
+                "new lead",
+                "assigned to natalia"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "7MH4y71uogGat5BfQg3B",
+            "name": "Kara Byrnes",
+            "companyName": null,
+            "email": "karajbyrnes@gmail.com",
+            "phone": "+12143855977",
+            "tags": [
+              "smc",
+              "new lead",
+              "assigned to natalia"
+            ],
+            "score": []
+          },
+          "sort": [
+            1785809644186,
+            "7MH4y71uogGat5BfQg3B"
+          ],
+          "attributions": [
+            {
+              "pageUrl": "https://gogetemcommunity.com/socialmedia/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAcGRvZgJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAaeqUQAsuBEyeKbmAB745cAtwfBoYbBjPKhk5h6VA-ZPiKtnaM1Z153oZGl7yQ_aem_XcmZ5xB2YyJFoNlG3Er3eQ&utm_id=97760_v0_s00_e0_tv3",
+              "utmSessionSource": "Social media",
+              "utmMedium": "social",
+              "ip": "47.189.238.29",
+              "isFirst": true,
+              "medium": "form",
+              "utmKeyword": "Link_in_bio",
+              "url": "https://gogetemcommunity.com/socialmedia/",
+              "referrer": "https://l.instagram.com",
+              "utmFbclid": "PAcGRvZgJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAaeqUQAsuBEyeKbmAB745cAtwfBoYbBjPKhk5h6VA-ZPiKtnaM1Z153oZGl7yQ_aem_XcmZ5xB2YyJFoNlG3Er3eQ",
+              "mediumId": "rtTNrLeOuDNq53WY7xwd",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23F84 Instagram 440.0.0.30.81 (iPhone16,1; iOS 26_5_2; en_US; en; scale=3.00; 1179x2556; IABMV/1; 1025609183) NW/3 Safari/604.1",
+              "utmSource": "ig",
+              "utmContent": "link_in_bio"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/socialmedia/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAcGRvZgJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAaeqUQAsuBEyeKbmAB745cAtwfBoYbBjPKhk5h6VA-ZPiKtnaM1Z153oZGl7yQ_aem_XcmZ5xB2YyJFoNlG3Er3eQ&utm_id=97760_v0_s00_e0_tv3",
+              "utmSessionSource": "Social media",
+              "utmMedium": "social",
+              "ip": "47.189.238.29",
+              "medium": "form",
+              "url": "https://gogetemcommunity.com/socialmedia/",
+              "referrer": "https://l.instagram.com",
+              "isLast": true,
+              "utmFbclid": "PAcGRvZgJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAaeqUQAsuBEyeKbmAB745cAtwfBoYbBjPKhk5h6VA-ZPiKtnaM1Z153oZGl7yQ_aem_XcmZ5xB2YyJFoNlG3Er3eQ",
+              "mediumId": "rtTNrLeOuDNq53WY7xwd",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23F84 Instagram 440.0.0.30.81 (iPhone16,1; iOS 26_5_2; en_US; en; scale=3.00; 1179x2556; IABMV/1; 1025609183) NW/3 Safari/604.1",
+              "utmSource": "ig",
+              "utmContent": "link_in_bio"
+            }
+          ]
+        },
         {
           "id": "vQ7kqZmHMGUlazBplMPK",
           "name": "Lauren Hutchins",
@@ -46543,6 +46643,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "6UZ9c8jkpRLzP3lRbusZ",
+          "lastMessageDate": 1785810251336,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "Fd14M9V7nvRpu1QecHAq",
           "lastMessageDate": 1785788687420,
           "type": "TYPE_PHONE"
@@ -47038,8 +47143,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "uvW4XLUWCvcsn0WP9l4c",
-          "lastMessageDate": 1783780806422,
+          "id": "6UZ9c8jkpRLzP3lRbusZ",
+          "lastMessageDate": 1785810251336,
           "type": "TYPE_PHONE"
         },
         {
@@ -47535,11 +47640,6 @@
         {
           "id": "46D8MY2xEYxNM6d04B9t",
           "lastMessageDate": 1783787969871,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "uvW4XLUWCvcsn0WP9l4c",
-          "lastMessageDate": 1783780806422,
           "type": "TYPE_PHONE"
         }
       ]
