@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-05T04:12:42.536Z",
+  "syncedAt": "2026-08-05T07:41:49.378Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -48290,7 +48290,7 @@
         },
         {
           "id": "53j1jsJqK1edxRfRV5WQ",
-          "name": "Ray Qinn",
+          "name": "Ray Qin",
           "monetaryValue": 0,
           "pipelineId": "4ODbBsC9MIjSBtnIOETl",
           "pipelineStageId": "80949724-7894-4a42-8028-746a06208f9e",
@@ -48301,7 +48301,7 @@
           "lastStatusChangeAt": "2026-07-28T07:05:23.275Z",
           "lastStageChangeAt": "2026-07-28T07:06:28.279Z",
           "createdAt": "2026-07-28T07:05:23.275Z",
-          "updatedAt": "2026-07-28T07:06:28.438Z",
+          "updatedAt": "2026-08-05T06:17:37.687Z",
           "forecastProbability": null,
           "effectiveProbability": 25,
           "contactId": "WBaanZbGcAbC4Yx1a5kS",
@@ -48316,11 +48316,11 @@
               "primary": true,
               "objectKey": "contact",
               "recordId": "WBaanZbGcAbC4Yx1a5kS",
-              "fullName": "Ray Qinn",
-              "contactName": "Ray Qinn",
+              "fullName": "Ray Qin",
+              "contactName": "Ray Qin",
               "companyName": null,
               "email": "ray.qin@hatchingroup.com",
-              "phone": "+15175802905",
+              "phone": "+61404266618",
               "tags": [
                 "smc",
                 "new lead",
@@ -48331,10 +48331,10 @@
           ],
           "contact": {
             "id": "WBaanZbGcAbC4Yx1a5kS",
-            "name": "Ray Qinn",
+            "name": "Ray Qin",
             "companyName": null,
             "email": "ray.qin@hatchingroup.com",
-            "phone": "+15175802905",
+            "phone": "+61404266618",
             "tags": [
               "smc",
               "new lead",
@@ -48364,19 +48364,15 @@
               "utmContent": "link_in_bio"
             },
             {
-              "pageUrl": "https://gogetemcommunity.com/socialmedia/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAcGRvZgJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAadaUAat3_gjyNAnOUr-39ynEmZsFoRRHZWFG4rrJLsNYixb_iYzY81ruRjMNg_aem_L8I3Q2viAbj286F7ZjzOSg&utm_id=97760_v0_s00_e0_tv3",
+              "pageUrl": "https://gogetemcommunity.com/socialmedia/",
+              "referrer": "https://www.youtube.com",
               "utmSessionSource": "Social media",
-              "utmMedium": "social",
+              "isLast": true,
               "ip": "119.18.23.247",
               "medium": "form",
-              "url": "https://gogetemcommunity.com/socialmedia/",
-              "referrer": "https://l.instagram.com",
-              "isLast": true,
-              "utmFbclid": "PAcGRvZgJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAadaUAat3_gjyNAnOUr-39ynEmZsFoRRHZWFG4rrJLsNYixb_iYzY81ruRjMNg_aem_L8I3Q2viAbj286F7ZjzOSg",
               "mediumId": "rtTNrLeOuDNq53WY7xwd",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23F84 Instagram 439.0.0.35.60 (iPhone12,5; iOS 26_5_2; zh_CN; zh-Hans; scale=3.00; 1242x2688; IABMV/1; 1021301964) Safari/604.1",
-              "utmSource": "ig",
-              "utmContent": "link_in_bio"
+              "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+              "url": "https://gogetemcommunity.com/socialmedia/"
             }
           ]
         },
@@ -70834,6 +70830,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "joel5AcrkpNNXyYokuWk",
+          "lastMessageDate": 1785909990743,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "sLmWnRXhvhXvU0LlmY20",
           "lastMessageDate": 1785859285100,
           "type": "TYPE_PHONE"
@@ -70886,11 +70887,6 @@
         {
           "id": "Uy8Y0tEhAUCGhMxpeBQf",
           "lastMessageDate": 1785272663294,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "joel5AcrkpNNXyYokuWk",
-          "lastMessageDate": 1785221721558,
           "type": "TYPE_PHONE"
         },
         {
@@ -71334,6 +71330,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "joel5AcrkpNNXyYokuWk",
+          "lastMessageDate": 1785909990743,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "sLmWnRXhvhXvU0LlmY20",
           "lastMessageDate": 1785859285100,
           "type": "TYPE_PHONE"
@@ -71386,11 +71387,6 @@
         {
           "id": "Uy8Y0tEhAUCGhMxpeBQf",
           "lastMessageDate": 1785272663294,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "joel5AcrkpNNXyYokuWk",
-          "lastMessageDate": 1785221721558,
           "type": "TYPE_PHONE"
         },
         {
