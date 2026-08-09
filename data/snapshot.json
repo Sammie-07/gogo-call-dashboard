@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-08-09T10:37:25.472Z",
+  "syncedAt": "2026-08-09T11:31:58.745Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 190,
       "talkTimeMinutes": 152,
       "manualSms": 254,
-      "autoSms": 464,
+      "autoSms": 466,
       "manualEmail": 88,
-      "autoEmail": 3072,
+      "autoEmail": 3070,
       "byDay": [
         {
           "date": "2025-05-30",
@@ -240,7 +240,7 @@
           "manualSms": 0,
           "autoSms": 6,
           "manualEmail": 4,
-          "autoEmail": 16
+          "autoEmail": 14
         },
         {
           "date": "2026-05-05",
@@ -937,6 +937,14 @@
           "autoSms": 22,
           "manualEmail": 0,
           "autoEmail": 26
+        },
+        {
+          "date": "2026-08-09",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 2,
+          "manualEmail": 0,
+          "autoEmail": 0
         }
       ],
       "opportunities": [
@@ -46679,6 +46687,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "qDKbcRwB2fZTY7P9hQNo",
+          "lastMessageDate": 1786273848063,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "O86HHcQ3IVbqbGKt7ejl",
           "lastMessageDate": 1786144895647,
           "type": "TYPE_PHONE"
@@ -46766,11 +46779,6 @@
         {
           "id": "Gd4TUBn6VoUw324nGQ2p",
           "lastMessageDate": 1786046566546,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "qDKbcRwB2fZTY7P9hQNo",
-          "lastMessageDate": 1786046518193,
           "type": "TYPE_PHONE"
         },
         {
@@ -47179,6 +47187,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "qDKbcRwB2fZTY7P9hQNo",
+          "lastMessageDate": 1786273848063,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "O86HHcQ3IVbqbGKt7ejl",
           "lastMessageDate": 1786144895647,
           "type": "TYPE_PHONE"
@@ -47266,11 +47279,6 @@
         {
           "id": "Gd4TUBn6VoUw324nGQ2p",
           "lastMessageDate": 1786046566546,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "qDKbcRwB2fZTY7P9hQNo",
-          "lastMessageDate": 1786046518193,
           "type": "TYPE_PHONE"
         },
         {
@@ -48885,8 +48893,8 @@
               "primary": true,
               "objectKey": "contact",
               "recordId": "lmnwZIpomKb5pKke7pVt",
-              "fullName": "Christopher Brewer",
-              "contactName": "Christopher Brewer",
+              "fullName": "Christopher Neil Brewer",
+              "contactName": "Christopher Neil Brewer",
               "companyName": null,
               "email": "chrisnbrewer@gmail.com",
               "phone": "+13047853202",
@@ -48906,7 +48914,7 @@
           ],
           "contact": {
             "id": "lmnwZIpomKb5pKke7pVt",
-            "name": "Christopher Brewer",
+            "name": "Christopher Neil Brewer",
             "companyName": null,
             "email": "chrisnbrewer@gmail.com",
             "phone": "+13047853202",
@@ -70878,6 +70886,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "Sp72bqZWVksvoxUUFhtM",
+          "lastMessageDate": 1786273840120,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "ADaWvmYMVSyWANSQNeK6",
           "lastMessageDate": 1786118562883,
           "type": "TYPE_PHONE"
@@ -70960,11 +70973,6 @@
         {
           "id": "lxETiUCZ8R5zx4pVuATz",
           "lastMessageDate": 1784065916378,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "Sp72bqZWVksvoxUUFhtM",
-          "lastMessageDate": 1783861654813,
           "type": "TYPE_PHONE"
         },
         {
@@ -71378,6 +71386,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "Sp72bqZWVksvoxUUFhtM",
+          "lastMessageDate": 1786273840120,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "ADaWvmYMVSyWANSQNeK6",
           "lastMessageDate": 1786118562883,
           "type": "TYPE_PHONE"
@@ -71460,11 +71473,6 @@
         {
           "id": "lxETiUCZ8R5zx4pVuATz",
           "lastMessageDate": 1784065916378,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "Sp72bqZWVksvoxUUFhtM",
-          "lastMessageDate": 1783861654813,
           "type": "TYPE_PHONE"
         },
         {
