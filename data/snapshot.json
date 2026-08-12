@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-12T17:59:26.148Z",
+  "syncedAt": "2026-08-12T19:11:48.465Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -47710,7 +47710,7 @@
       "manualSms": 72,
       "autoSms": 214,
       "manualEmail": 24,
-      "autoEmail": 1548,
+      "autoEmail": 1532,
       "byDay": [
         {
           "date": "2026-04-21",
@@ -47750,7 +47750,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 144
+          "autoEmail": 142
         },
         {
           "date": "2026-05-04",
@@ -47766,7 +47766,7 @@
           "manualSms": 8,
           "autoSms": 18,
           "manualEmail": 0,
-          "autoEmail": 164
+          "autoEmail": 162
         },
         {
           "date": "2026-05-07",
@@ -47790,7 +47790,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 124
+          "autoEmail": 122
         },
         {
           "date": "2026-05-11",
@@ -47822,7 +47822,7 @@
           "manualSms": 6,
           "autoSms": 14,
           "manualEmail": 0,
-          "autoEmail": 130
+          "autoEmail": 128
         },
         {
           "date": "2026-05-17",
@@ -47838,7 +47838,7 @@
           "manualSms": 2,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 112
+          "autoEmail": 110
         },
         {
           "date": "2026-05-19",
@@ -47862,7 +47862,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 132
+          "autoEmail": 130
         },
         {
           "date": "2026-05-22",
@@ -47894,7 +47894,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 132
+          "autoEmail": 130
         },
         {
           "date": "2026-05-28",
@@ -47910,7 +47910,7 @@
           "manualSms": 0,
           "autoSms": 16,
           "manualEmail": 0,
-          "autoEmail": 132
+          "autoEmail": 130
         },
         {
           "date": "2026-05-31",
@@ -48282,6 +48282,94 @@
         }
       ],
       "opportunities": [
+        {
+          "id": "YP2qCSGgMpMpaTQoVR4X",
+          "name": "Miranda Ureche",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "80949724-7894-4a42-8028-746a06208f9e",
+          "pipelineStageUId": "80949724-7894-4a42-8028-746a06208f9e",
+          "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
+          "status": "open",
+          "source": "GoGet'Em Sign Up Form w/@IG handle",
+          "lastStatusChangeAt": "2026-08-12T18:55:49.887Z",
+          "lastStageChangeAt": "2026-08-12T18:56:56.261Z",
+          "createdAt": "2026-08-12T18:55:49.887Z",
+          "updatedAt": "2026-08-12T18:56:56.407Z",
+          "forecastProbability": null,
+          "effectiveProbability": 25,
+          "contactId": "8JAm2W2UbFJwGRY6wGsB",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "YP2qCSGgMpMpaTQoVR4X",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "8JAm2W2UbFJwGRY6wGsB",
+              "fullName": "Miranda Ureche",
+              "contactName": "Miranda Ureche",
+              "companyName": null,
+              "email": "urechemiranda@gmail.com",
+              "phone": "+15869405557",
+              "tags": [
+                "smc",
+                "gogetem affiliate",
+                "goget'em member; new",
+                "new lead",
+                "assigned to ferny"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "8JAm2W2UbFJwGRY6wGsB",
+            "name": "Miranda Ureche",
+            "companyName": null,
+            "email": "urechemiranda@gmail.com",
+            "phone": "+15869405557",
+            "tags": [
+              "smc",
+              "gogetem affiliate",
+              "goget'em member; new",
+              "new lead",
+              "assigned to ferny"
+            ],
+            "score": []
+          },
+          "sort": [
+            1786560949887,
+            "8JAm2W2UbFJwGRY6wGsB"
+          ],
+          "attributions": [
+            {
+              "pageUrl": "https://gogetemcommunity.com/",
+              "utmSessionSource": "Direct traffic",
+              "ip": "2603:3015:1f75:800:60b4:820b:1cce:86c0",
+              "isFirst": true,
+              "medium": "form",
+              "mediumId": "rtTNrLeOuDNq53WY7xwd",
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+              "url": "https://gogetemcommunity.com/"
+            },
+            {
+              "pageUrl": "https://checkout.gogetemcommunity.com/join",
+              "referrer": "https://api.leadconnectorhq.com",
+              "utmSessionSource": "Referral",
+              "isLast": true,
+              "fbp": "fb.1.1786560300429.21245812654386519",
+              "ip": "2603:3015:1f75:800:60b4:820b:1cce:86c0",
+              "medium": "form",
+              "mediumId": "oNPhc6YRZ3qFiXQjEfpd",
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+              "gaClientId": "GA1.1.138638461.1786560301",
+              "url": "https://checkout.gogetemcommunity.com/join"
+            }
+          ]
+        },
         {
           "id": "vLU3Xj55L6U8qTrgHCrw",
           "name": "Michelle Warren-Willibey",
@@ -70983,6 +71071,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "uWSWZCvYXV7TvcguK9jH",
+          "lastMessageDate": 1786560481144,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "sLmWnRXhvhXvU0LlmY20",
           "lastMessageDate": 1786544321178,
           "type": "TYPE_PHONE"
@@ -71478,8 +71571,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "0ZnBxVFPvDnOKBOL5iJ6",
-          "lastMessageDate": 1780058301012,
+          "id": "uWSWZCvYXV7TvcguK9jH",
+          "lastMessageDate": 1786560481144,
           "type": "TYPE_PHONE"
         },
         {
@@ -71975,11 +72068,6 @@
         {
           "id": "VWOZ54BoXUDZZYXyGMr7",
           "lastMessageDate": 1780058301271,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "0ZnBxVFPvDnOKBOL5iJ6",
-          "lastMessageDate": 1780058301012,
           "type": "TYPE_PHONE"
         }
       ]
