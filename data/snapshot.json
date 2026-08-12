@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-12T22:43:34.013Z",
+  "syncedAt": "2026-08-12T23:44:18.709Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -47708,9 +47708,9 @@
       "calls": 74,
       "talkTimeMinutes": 85,
       "manualSms": 80,
-      "autoSms": 218,
+      "autoSms": 220,
       "manualEmail": 24,
-      "autoEmail": 1550,
+      "autoEmail": 1552,
       "byDay": [
         {
           "date": "2026-04-21",
@@ -48284,9 +48284,9 @@
           "date": "2026-08-12",
           "calls": 8,
           "manualSms": 8,
-          "autoSms": 4,
+          "autoSms": 6,
           "manualEmail": 0,
-          "autoEmail": 2
+          "autoEmail": 4
         }
       ],
       "opportunities": [
@@ -70994,6 +70994,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "joel5AcrkpNNXyYokuWk",
+          "lastMessageDate": 1786575781092,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "uWSWZCvYXV7TvcguK9jH",
           "lastMessageDate": 1786565689569,
           "type": "TYPE_PHONE"
@@ -71001,11 +71006,6 @@
         {
           "id": "rYZB2NbTOoUKBFi9uHjh",
           "lastMessageDate": 1786565377160,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "joel5AcrkpNNXyYokuWk",
-          "lastMessageDate": 1786564735841,
           "type": "TYPE_PHONE"
         },
         {
@@ -71494,6 +71494,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "joel5AcrkpNNXyYokuWk",
+          "lastMessageDate": 1786575781092,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "uWSWZCvYXV7TvcguK9jH",
           "lastMessageDate": 1786565689569,
           "type": "TYPE_PHONE"
@@ -71501,11 +71506,6 @@
         {
           "id": "rYZB2NbTOoUKBFi9uHjh",
           "lastMessageDate": 1786565377160,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "joel5AcrkpNNXyYokuWk",
-          "lastMessageDate": 1786564735841,
           "type": "TYPE_PHONE"
         },
         {
