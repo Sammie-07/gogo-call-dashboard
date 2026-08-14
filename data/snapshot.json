@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-08-14T17:55:32.985Z",
+  "syncedAt": "2026-08-14T18:57:10.779Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 202,
       "talkTimeMinutes": 162,
       "manualSms": 254,
-      "autoSms": 482,
+      "autoSms": 484,
       "manualEmail": 84,
-      "autoEmail": 3190,
+      "autoEmail": 3192,
       "byDay": [
         {
           "date": "2025-05-30",
@@ -974,9 +974,9 @@
           "date": "2026-08-14",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 4,
+          "autoSms": 6,
           "manualEmail": 0,
-          "autoEmail": 52
+          "autoEmail": 54
         }
       ],
       "opportunities": [
@@ -46792,6 +46792,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "uuTVYhVmq8gakqb83ZvL",
+          "lastMessageDate": 1786733379156,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "gdH7zEuaXLk30YSsKBa1",
           "lastMessageDate": 1786726901717,
           "type": "TYPE_PHONE"
@@ -46929,11 +46934,6 @@
         {
           "id": "Fd14M9V7nvRpu1QecHAq",
           "lastMessageDate": 1786652693113,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "uuTVYhVmq8gakqb83ZvL",
-          "lastMessageDate": 1786474176442,
           "type": "TYPE_PHONE"
         },
         {
@@ -47292,6 +47292,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "uuTVYhVmq8gakqb83ZvL",
+          "lastMessageDate": 1786733379156,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "gdH7zEuaXLk30YSsKBa1",
           "lastMessageDate": 1786726901717,
           "type": "TYPE_PHONE"
@@ -47429,11 +47434,6 @@
         {
           "id": "Fd14M9V7nvRpu1QecHAq",
           "lastMessageDate": 1786652693113,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "uuTVYhVmq8gakqb83ZvL",
-          "lastMessageDate": 1786474176442,
           "type": "TYPE_PHONE"
         },
         {
@@ -47799,7 +47799,7 @@
       "manualSms": 80,
       "autoSms": 220,
       "manualEmail": 24,
-      "autoEmail": 1560,
+      "autoEmail": 1544,
       "byDay": [
         {
           "date": "2026-04-21",
@@ -47839,7 +47839,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 144
+          "autoEmail": 142
         },
         {
           "date": "2026-05-04",
@@ -47855,7 +47855,7 @@
           "manualSms": 8,
           "autoSms": 18,
           "manualEmail": 0,
-          "autoEmail": 164
+          "autoEmail": 162
         },
         {
           "date": "2026-05-07",
@@ -47879,7 +47879,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 124
+          "autoEmail": 122
         },
         {
           "date": "2026-05-11",
@@ -47911,7 +47911,7 @@
           "manualSms": 6,
           "autoSms": 14,
           "manualEmail": 0,
-          "autoEmail": 130
+          "autoEmail": 128
         },
         {
           "date": "2026-05-17",
@@ -47927,7 +47927,7 @@
           "manualSms": 2,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 112
+          "autoEmail": 110
         },
         {
           "date": "2026-05-19",
@@ -47951,7 +47951,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 132
+          "autoEmail": 130
         },
         {
           "date": "2026-05-22",
@@ -47983,7 +47983,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 132
+          "autoEmail": 130
         },
         {
           "date": "2026-05-28",
@@ -47999,7 +47999,7 @@
           "manualSms": 0,
           "autoSms": 16,
           "manualEmail": 0,
-          "autoEmail": 132
+          "autoEmail": 130
         },
         {
           "date": "2026-05-31",
@@ -48387,6 +48387,79 @@
         }
       ],
       "opportunities": [
+        {
+          "id": "OBwJucfLo4j7sUxl2J8P",
+          "name": "Lxy",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "61ee0fbd-d136-4069-8222-c95ab05ce746",
+          "pipelineStageUId": "61ee0fbd-d136-4069-8222-c95ab05ce746",
+          "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
+          "status": "open",
+          "source": null,
+          "lastStatusChangeAt": "2026-08-14T18:40:21.013Z",
+          "lastStageChangeAt": "2026-08-14T18:40:21.013Z",
+          "createdAt": "2026-08-14T18:40:21.013Z",
+          "updatedAt": "2026-08-14T18:40:25.385Z",
+          "forecastProbability": null,
+          "effectiveProbability": 18.75,
+          "contactId": "fUAcFHDOwQRx8JeOq04P",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "OBwJucfLo4j7sUxl2J8P",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "fUAcFHDOwQRx8JeOq04P",
+              "fullName": "lxy",
+              "contactName": "lxy",
+              "companyName": null,
+              "email": "alffinandrade@gmail.com",
+              "phone": null,
+              "tags": [
+                "keyword:social",
+                "new lead",
+                "sales: no show"
+              ],
+              "attributed": null
+            }
+          ],
+          "contact": {
+            "id": "fUAcFHDOwQRx8JeOq04P",
+            "name": "lxy",
+            "companyName": null,
+            "email": "alffinandrade@gmail.com",
+            "phone": null,
+            "tags": [
+              "keyword:social",
+              "new lead",
+              "sales: no show"
+            ],
+            "score": []
+          },
+          "sort": [
+            1786732821013,
+            "fUAcFHDOwQRx8JeOq04P"
+          ],
+          "attributions": [
+            {
+              "utmSessionSource": "Social media",
+              "isFirst": true,
+              "medium": "instagram",
+              "mediumId": "1785736605763929"
+            },
+            {
+              "utmSessionSource": "Social media",
+              "isLast": true,
+              "medium": "instagram",
+              "mediumId": "1785736605763929"
+            }
+          ]
+        },
         {
           "id": "YP2qCSGgMpMpaTQoVR4X",
           "name": "Miranda Ureche",
@@ -71091,6 +71164,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "0JEEXKg9VPCQ7bDIOPk8",
+          "lastMessageDate": 1786730929510,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "uWSWZCvYXV7TvcguK9jH",
           "lastMessageDate": 1786726878166,
           "type": "TYPE_PHONE"
@@ -71586,8 +71664,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "0ZnBxVFPvDnOKBOL5iJ6",
-          "lastMessageDate": 1780058301012,
+          "id": "0JEEXKg9VPCQ7bDIOPk8",
+          "lastMessageDate": 1786730929510,
           "type": "TYPE_PHONE"
         },
         {
@@ -72083,11 +72161,6 @@
         {
           "id": "VWOZ54BoXUDZZYXyGMr7",
           "lastMessageDate": 1780058301271,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "0ZnBxVFPvDnOKBOL5iJ6",
-          "lastMessageDate": 1780058301012,
           "type": "TYPE_PHONE"
         }
       ]
