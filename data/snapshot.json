@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-16T22:23:33.429Z",
+  "syncedAt": "2026-08-16T23:22:18.135Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -47799,9 +47799,9 @@
       "calls": 74,
       "talkTimeMinutes": 85,
       "manualSms": 80,
-      "autoSms": 220,
+      "autoSms": 222,
       "manualEmail": 24,
-      "autoEmail": 1546,
+      "autoEmail": 1548,
       "byDay": [
         {
           "date": "2026-04-21",
@@ -48392,6 +48392,14 @@
           "calls": 0,
           "manualSms": 0,
           "autoSms": 0,
+          "manualEmail": 0,
+          "autoEmail": 2
+        },
+        {
+          "date": "2026-08-16",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 2,
           "manualEmail": 0,
           "autoEmail": 2
         }
@@ -71174,6 +71182,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "joel5AcrkpNNXyYokuWk",
+          "lastMessageDate": 1786921374747,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "uWSWZCvYXV7TvcguK9jH",
           "lastMessageDate": 1786736893481,
           "type": "TYPE_PHONE"
@@ -71201,11 +71214,6 @@
         {
           "id": "nHDtIekpX5M3R7b0gcJX",
           "lastMessageDate": 1786615887857,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "joel5AcrkpNNXyYokuWk",
-          "lastMessageDate": 1786575781092,
           "type": "TYPE_PHONE"
         },
         {
@@ -71674,6 +71682,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "joel5AcrkpNNXyYokuWk",
+          "lastMessageDate": 1786921374747,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "uWSWZCvYXV7TvcguK9jH",
           "lastMessageDate": 1786736893481,
           "type": "TYPE_PHONE"
@@ -71701,11 +71714,6 @@
         {
           "id": "nHDtIekpX5M3R7b0gcJX",
           "lastMessageDate": 1786615887857,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "joel5AcrkpNNXyYokuWk",
-          "lastMessageDate": 1786575781092,
           "type": "TYPE_PHONE"
         },
         {
