@@ -1,11 +1,11 @@
 {
-  "syncedAt": "2026-08-17T17:29:42.321Z",
+  "syncedAt": "2026-08-17T18:42:03.775Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 198,
       "talkTimeMinutes": 156,
-      "manualSms": 270,
+      "manualSms": 266,
       "autoSms": 482,
       "manualEmail": 100,
       "autoEmail": 3206,
@@ -151,22 +151,6 @@
           "calls": 0,
           "manualSms": 0,
           "autoSms": 2,
-          "manualEmail": 0,
-          "autoEmail": 0
-        },
-        {
-          "date": "2026-04-10",
-          "calls": 0,
-          "manualSms": 2,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 0
-        },
-        {
-          "date": "2026-04-13",
-          "calls": 0,
-          "manualSms": 2,
-          "autoSms": 0,
           "manualEmail": 0,
           "autoEmail": 0
         },
@@ -46940,6 +46924,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "Gd4TUBn6VoUw324nGQ2p",
+          "lastMessageDate": 1786991166239,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "AtVR7nSLrbUm57EAfzmP",
           "lastMessageDate": 1786986885990,
           "type": "TYPE_PHONE"
@@ -46962,11 +46951,6 @@
         {
           "id": "pyIAE0wDjRDQnMxy8Sfy",
           "lastMessageDate": 1786986164088,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "Gd4TUBn6VoUw324nGQ2p",
-          "lastMessageDate": 1786986163826,
           "type": "TYPE_PHONE"
         },
         {
@@ -47440,6 +47424,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "Gd4TUBn6VoUw324nGQ2p",
+          "lastMessageDate": 1786991166239,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "AtVR7nSLrbUm57EAfzmP",
           "lastMessageDate": 1786986885990,
           "type": "TYPE_PHONE"
@@ -47462,11 +47451,6 @@
         {
           "id": "pyIAE0wDjRDQnMxy8Sfy",
           "lastMessageDate": 1786986164088,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "Gd4TUBn6VoUw324nGQ2p",
-          "lastMessageDate": 1786986163826,
           "type": "TYPE_PHONE"
         },
         {
@@ -47947,7 +47931,7 @@
       "manualSms": 80,
       "autoSms": 224,
       "manualEmail": 24,
-      "autoEmail": 1550,
+      "autoEmail": 1534,
       "byDay": [
         {
           "date": "2026-04-21",
@@ -47987,7 +47971,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 142
+          "autoEmail": 140
         },
         {
           "date": "2026-05-04",
@@ -48003,7 +47987,7 @@
           "manualSms": 8,
           "autoSms": 18,
           "manualEmail": 0,
-          "autoEmail": 162
+          "autoEmail": 160
         },
         {
           "date": "2026-05-07",
@@ -48027,7 +48011,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 122
+          "autoEmail": 120
         },
         {
           "date": "2026-05-11",
@@ -48059,7 +48043,7 @@
           "manualSms": 6,
           "autoSms": 14,
           "manualEmail": 0,
-          "autoEmail": 128
+          "autoEmail": 126
         },
         {
           "date": "2026-05-17",
@@ -48075,7 +48059,7 @@
           "manualSms": 2,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 110
+          "autoEmail": 108
         },
         {
           "date": "2026-05-19",
@@ -48099,7 +48083,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 130
+          "autoEmail": 128
         },
         {
           "date": "2026-05-22",
@@ -48131,7 +48115,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 130
+          "autoEmail": 128
         },
         {
           "date": "2026-05-28",
@@ -48147,7 +48131,7 @@
           "manualSms": 0,
           "autoSms": 16,
           "manualEmail": 0,
-          "autoEmail": 130
+          "autoEmail": 128
         },
         {
           "date": "2026-05-31",
@@ -48559,6 +48543,92 @@
         }
       ],
       "opportunities": [
+        {
+          "id": "OEdGwHn6gQE1ZeiWzSNS",
+          "name": "Monica Smith",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "80949724-7894-4a42-8028-746a06208f9e",
+          "pipelineStageUId": "80949724-7894-4a42-8028-746a06208f9e",
+          "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
+          "status": "open",
+          "source": "GoGet'Em Sign Up Form w/@IG handle",
+          "lastStatusChangeAt": "2026-08-17T18:32:59.942Z",
+          "lastStageChangeAt": "2026-08-17T18:34:05.558Z",
+          "createdAt": "2026-08-17T18:32:59.942Z",
+          "updatedAt": "2026-08-17T18:34:05.692Z",
+          "forecastProbability": null,
+          "effectiveProbability": 25,
+          "contactId": "oad8p7ss3lGs2H4q8yt3",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "OEdGwHn6gQE1ZeiWzSNS",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "oad8p7ss3lGs2H4q8yt3",
+              "fullName": "Monica Smith",
+              "contactName": "Monica Smith",
+              "companyName": null,
+              "email": "monicajeansmith86@gmail.com",
+              "phone": "+18504614676",
+              "tags": [
+                "gbc webby opt-in",
+                "smc",
+                "gogetem affiliate",
+                "goget'em member; new",
+                "new lead",
+                "assigned to ferny"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "oad8p7ss3lGs2H4q8yt3",
+            "name": "Monica Smith",
+            "companyName": null,
+            "email": "monicajeansmith86@gmail.com",
+            "phone": "+18504614676",
+            "tags": [
+              "gbc webby opt-in",
+              "smc",
+              "gogetem affiliate",
+              "goget'em member; new",
+              "new lead",
+              "assigned to ferny"
+            ],
+            "score": []
+          },
+          "sort": [
+            1786991579942,
+            "oad8p7ss3lGs2H4q8yt3"
+          ],
+          "attributions": [
+            {
+              "utmSessionSource": "CRM UI",
+              "isFirst": true,
+              "medium": "csv_import"
+            },
+            {
+              "pageUrl": "https://checkout.gogetemcommunity.com/thank_you",
+              "referrer": "https://api.leadconnectorhq.com",
+              "utmSessionSource": "Referral",
+              "isLast": true,
+              "fbp": "fb.1.1786990844812.188187073833674043",
+              "fbc": "fb.1.1786991094638.PAcGRvZgJmZGlkFlDKp65zVphElgKZWUJ2U-8QAJzAFvpleHRuA2FlbQIxMABzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAaeZqDUXhkMtE0ywEq3UGdeOV6MCW0Z3FMoJjbQCGjlpZcq339tIv1U0GgOIdw_aem_Un_FNVE2hJawEASRQAUonw",
+              "ip": "2600:1701:404:be80:cca5:6723:dacf:eed8",
+              "medium": "form",
+              "mediumId": "WVyxnPbLN9HCAjivkACX",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23G71 Instagram 442.0.0.22.64 (iPhone17,2; iOS 26_6; en_US; en; scale=3.00; 1320x2868; IABMV/1; 1035455812) Safari/604.1",
+              "gaClientId": "GA1.1.1994208720.1786990985",
+              "url": "https://checkout.gogetemcommunity.com/thank_you"
+            }
+          ]
+        },
         {
           "id": "OBwJucfLo4j7sUxl2J8P",
           "name": "Lxy",
@@ -71336,6 +71406,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "SIYkNu0CtU4eJC5Kbo7j",
+          "lastMessageDate": 1786991226649,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "sLmWnRXhvhXvU0LlmY20",
           "lastMessageDate": 1786986166095,
           "type": "TYPE_PHONE"
@@ -71831,8 +71906,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "VWOZ54BoXUDZZYXyGMr7",
-          "lastMessageDate": 1780058301271,
+          "id": "SIYkNu0CtU4eJC5Kbo7j",
+          "lastMessageDate": 1786991226649,
           "type": "TYPE_PHONE"
         },
         {
@@ -72328,11 +72403,6 @@
         {
           "id": "3H5BI9yQFbsJoZtqABqK",
           "lastMessageDate": 1780058301660,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "VWOZ54BoXUDZZYXyGMr7",
-          "lastMessageDate": 1780058301271,
           "type": "TYPE_PHONE"
         }
       ]
