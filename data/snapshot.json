@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-08-17T15:27:56.279Z",
+  "syncedAt": "2026-08-17T16:30:30.053Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
-      "calls": 198,
+      "calls": 196,
       "talkTimeMinutes": 154,
       "manualSms": 250,
-      "autoSms": 490,
+      "autoSms": 480,
       "manualEmail": 98,
-      "autoEmail": 3194,
+      "autoEmail": 3176,
       "byDay": [
         {
           "date": "2025-05-30",
@@ -596,19 +596,19 @@
         },
         {
           "date": "2026-06-22",
-          "calls": 2,
+          "calls": 0,
           "manualSms": 0,
-          "autoSms": 4,
+          "autoSms": 0,
           "manualEmail": 2,
-          "autoEmail": 36
+          "autoEmail": 32
         },
         {
           "date": "2026-06-23",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 2,
+          "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 18
+          "autoEmail": 16
         },
         {
           "date": "2026-06-24",
@@ -622,9 +622,9 @@
           "date": "2026-06-25",
           "calls": 20,
           "manualSms": 0,
-          "autoSms": 18,
+          "autoSms": 16,
           "manualEmail": 0,
-          "autoEmail": 36
+          "autoEmail": 34
         },
         {
           "date": "2026-06-26",
@@ -656,7 +656,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 18
+          "autoEmail": 16
         },
         {
           "date": "2026-06-30",
@@ -678,9 +678,9 @@
           "date": "2026-07-02",
           "calls": 0,
           "manualSms": 2,
-          "autoSms": 6,
+          "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 48
+          "autoEmail": 46
         },
         {
           "date": "2026-07-03",
@@ -712,7 +712,7 @@
           "manualSms": 2,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 44
+          "autoEmail": 42
         },
         {
           "date": "2026-07-07",
@@ -736,7 +736,7 @@
           "manualSms": 6,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 28
+          "autoEmail": 26
         },
         {
           "date": "2026-07-10",
@@ -768,7 +768,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 44
+          "autoEmail": 42
         },
         {
           "date": "2026-07-14",
@@ -790,9 +790,9 @@
           "date": "2026-07-16",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 6,
+          "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 30
+          "autoEmail": 28
         },
         {
           "date": "2026-07-17",
@@ -1014,12 +1014,90 @@
           "date": "2026-08-17",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 2,
+          "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 42
+          "autoEmail": 44
         }
       ],
       "opportunities": [
+        {
+          "id": "cXr8bIY8J2oGz3d1ayB4",
+          "name": "Lisa Ann Normile",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "assignedTo": "C7PplofCN88pv8MTTiZT",
+          "status": "open",
+          "source": "GoGet'Em Sign Up Form w/@IG handle",
+          "lastStatusChangeAt": "2026-08-17T16:15:14.479Z",
+          "lastStageChangeAt": "2026-08-17T16:16:19.910Z",
+          "createdAt": "2026-08-17T16:15:14.479Z",
+          "updatedAt": "2026-08-17T16:16:20.026Z",
+          "forecastProbability": null,
+          "effectiveProbability": 31.25,
+          "contactId": "9EVyRSSC7y82AmTUSkAb",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "cXr8bIY8J2oGz3d1ayB4",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "9EVyRSSC7y82AmTUSkAb",
+              "fullName": "Lisa Ann Normile",
+              "contactName": "Lisa Ann Normile",
+              "companyName": null,
+              "email": "lisan1@remax.net",
+              "phone": "+15617797625",
+              "tags": [
+                "kristaandgogo",
+                "smc",
+                "new lead",
+                "assigned to natalia"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "9EVyRSSC7y82AmTUSkAb",
+            "name": "Lisa Ann Normile",
+            "companyName": null,
+            "email": "lisan1@remax.net",
+            "phone": "+15617797625",
+            "tags": [
+              "kristaandgogo",
+              "smc",
+              "new lead",
+              "assigned to natalia"
+            ],
+            "score": []
+          },
+          "sort": [
+            1786983314479,
+            "9EVyRSSC7y82AmTUSkAb"
+          ],
+          "attributions": [
+            {
+              "utmSessionSource": "CRM UI",
+              "isFirst": true,
+              "medium": "csv_import"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/",
+              "utmSessionSource": "Direct traffic",
+              "isLast": true,
+              "ip": "209.42.57.66",
+              "medium": "form",
+              "mediumId": "rtTNrLeOuDNq53WY7xwd",
+              "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+              "url": "https://gogetemcommunity.com/"
+            }
+          ]
+        },
         {
           "id": "mcGLvIx32ANI11ECDNW3",
           "name": "April Love",
@@ -46860,6 +46938,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "AtVR7nSLrbUm57EAfzmP",
+          "lastMessageDate": 1786983918181,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "ZgOUGdypkKSJtQuHK8b4",
           "lastMessageDate": 1786979593403,
           "type": "TYPE_PHONE"
@@ -47355,8 +47438,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "PqlvNWjxwAZnoKW6fHww",
-          "lastMessageDate": 1784207776095,
+          "id": "AtVR7nSLrbUm57EAfzmP",
+          "lastMessageDate": 1786983918181,
           "type": "TYPE_PHONE"
         },
         {
@@ -47852,11 +47935,6 @@
         {
           "id": "Y36NckiNURkPPkARbcB7",
           "lastMessageDate": 1784223613614,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "PqlvNWjxwAZnoKW6fHww",
-          "lastMessageDate": 1784207776095,
           "type": "TYPE_PHONE"
         }
       ]
