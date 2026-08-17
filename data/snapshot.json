@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-17T09:43:55.687Z",
+  "syncedAt": "2026-08-17T10:34:39.586Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -42637,7 +42637,8 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "deleted": false,
+          "rescheduledAt": "2026-01-07T16:18:17.000Z"
         },
         {
           "appointmentStatus": "cancelled",
@@ -43457,7 +43458,8 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "deleted": false,
+          "rescheduledAt": "2026-01-23T10:36:06.000Z"
         },
         {
           "appointmentStatus": "confirmed",
@@ -43569,7 +43571,8 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "deleted": false,
+          "rescheduledAt": "2026-01-07T04:47:47.000Z"
         },
         {
           "appointmentStatus": "cancelled",
@@ -43967,7 +43970,8 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "deleted": false,
+          "rescheduledAt": "2026-02-05T16:18:33.000Z"
         },
         {
           "appointmentStatus": "confirmed",
@@ -44057,7 +44061,8 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "deleted": false,
+          "rescheduledAt": "2026-01-29T15:59:51.000Z"
         },
         {
           "appointmentStatus": "confirmed",
@@ -44149,7 +44154,8 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "deleted": false,
+          "rescheduledAt": "2026-01-08T20:02:51.000Z"
         },
         {
           "appointmentStatus": "cancelled",
@@ -44171,7 +44177,8 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "deleted": false,
+          "rescheduledAt": "2026-01-08T19:30:30.000Z"
         },
         {
           "appointmentStatus": "confirmed",
@@ -44353,7 +44360,8 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "deleted": false,
+          "rescheduledAt": "2026-01-08T19:46:03.000Z"
         },
         {
           "appointmentStatus": "cancelled",
@@ -44377,7 +44385,8 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "deleted": false,
+          "rescheduledAt": "2026-01-07T20:20:05.000Z"
         },
         {
           "appointmentStatus": "confirmed",
@@ -44645,7 +44654,8 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "deleted": false,
+          "rescheduledAt": "2026-01-15T19:31:03.000Z"
         },
         {
           "appointmentStatus": "confirmed",
@@ -44889,7 +44899,8 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "deleted": false,
+          "rescheduledAt": "2026-02-12T15:39:27.000Z"
         },
         {
           "appointmentStatus": "cancelled",
@@ -45021,7 +45032,8 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "deleted": false,
+          "rescheduledAt": "2026-02-05T04:01:03.000Z"
         },
         {
           "appointmentStatus": "confirmed",
@@ -45135,7 +45147,8 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "deleted": false,
+          "rescheduledAt": "2026-02-19T18:37:55.000Z"
         },
         {
           "appointmentStatus": "confirmed",
@@ -45225,7 +45238,8 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "deleted": false,
+          "rescheduledAt": "2026-03-05T19:07:33.000Z"
         },
         {
           "appointmentStatus": "confirmed",
@@ -45269,7 +45283,8 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "deleted": false,
+          "rescheduledAt": "2026-03-05T21:30:09.000Z"
         },
         {
           "appointmentStatus": "confirmed",
@@ -45379,7 +45394,8 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "deleted": false,
+          "rescheduledAt": "2026-03-06T10:35:41.000Z"
         },
         {
           "appointmentStatus": "confirmed",
@@ -45423,7 +45439,8 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "deleted": false,
+          "rescheduledAt": "2026-03-12T12:33:20.000Z"
         },
         {
           "appointmentStatus": "confirmed",
@@ -45671,7 +45688,8 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "deleted": false,
+          "rescheduledAt": "2026-04-02T15:29:43.000Z"
         },
         {
           "appointmentStatus": "confirmed",
@@ -45871,7 +45889,8 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "deleted": false,
+          "rescheduledAt": "2026-04-02T12:18:40.000Z"
         },
         {
           "appointmentStatus": "confirmed",
@@ -45961,7 +45980,8 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "deleted": false,
+          "rescheduledAt": "2026-04-17T16:41:21.000Z"
         },
         {
           "appointmentStatus": "confirmed",
@@ -45983,7 +46003,8 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "deleted": false,
+          "rescheduledAt": "2026-04-13T19:14:21.000Z"
         },
         {
           "appointmentStatus": "confirmed",
@@ -46049,7 +46070,8 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "deleted": false,
+          "rescheduledAt": "2026-04-27T17:45:45.000Z"
         },
         {
           "appointmentStatus": "confirmed",
@@ -46341,7 +46363,8 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "deleted": false,
+          "rescheduledAt": "2026-05-26T15:01:29.000Z"
         },
         {
           "appointmentStatus": "confirmed",
@@ -46677,7 +46700,8 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "deleted": false,
+          "rescheduledAt": "2026-07-21T18:59:03.000Z"
         },
         {
           "appointmentStatus": "confirmed",
