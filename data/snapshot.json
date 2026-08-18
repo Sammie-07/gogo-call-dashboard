@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-18T10:31:00.147Z",
+  "syncedAt": "2026-08-18T11:28:04.724Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -46921,6 +46921,28 @@
           "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
           "startTime": "2026-08-13T15:00:00-04:00",
           "title": "GGTC Onboarding Call - Eliza Silver",
+          "assignedResources": [],
+          "isRecurring": false,
+          "createdBy": {
+            "source": "booking_widget",
+            "userId": null
+          },
+          "deleted": false
+        },
+        {
+          "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
+          "assignedUserId": "C7PplofCN88pv8MTTiZT",
+          "address": "https://zoom.us/j/98827914664",
+          "calendarId": "8kLbo3OukoeNXebq8B4b",
+          "contactId": "gpAm8Xzjzlc08jsVSJZl",
+          "dateAdded": "2026-08-18T10:45:35.000Z",
+          "dateUpdated": "2026-08-18T10:45:35.000Z",
+          "endTime": "2026-08-20T16:00:00-04:00",
+          "id": "ndNFsni0G0uZyMz48DzA",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "startTime": "2026-08-20T15:00:00-04:00",
+          "title": "GGTC Onboarding Call - Nathan Graham",
           "assignedResources": [],
           "isRecurring": false,
           "createdBy": {
