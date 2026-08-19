@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-08-19T14:36:58.184Z",
+  "syncedAt": "2026-08-19T15:34:09.509Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
-      "calls": 198,
+      "calls": 196,
       "talkTimeMinutes": 157,
       "manualSms": 252,
-      "autoSms": 482,
+      "autoSms": 476,
       "manualEmail": 100,
-      "autoEmail": 3216,
+      "autoEmail": 3182,
       "byDay": [
         {
           "date": "2025-12-29",
@@ -192,7 +192,7 @@
           "manualSms": 0,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 134
+          "autoEmail": 132
         },
         {
           "date": "2026-04-28",
@@ -232,7 +232,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 122
+          "autoEmail": 120
         },
         {
           "date": "2026-05-03",
@@ -256,7 +256,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 120
+          "autoEmail": 118
         },
         {
           "date": "2026-05-06",
@@ -288,7 +288,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 116
+          "autoEmail": 114
         },
         {
           "date": "2026-05-11",
@@ -328,7 +328,7 @@
           "manualSms": 2,
           "autoSms": 0,
           "manualEmail": 2,
-          "autoEmail": 102
+          "autoEmail": 100
         },
         {
           "date": "2026-05-16",
@@ -352,7 +352,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 122
+          "autoEmail": 120
         },
         {
           "date": "2026-05-19",
@@ -376,7 +376,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 110
+          "autoEmail": 108
         },
         {
           "date": "2026-05-22",
@@ -416,7 +416,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 2,
-          "autoEmail": 102
+          "autoEmail": 100
         },
         {
           "date": "2026-05-27",
@@ -440,7 +440,7 @@
           "manualSms": 8,
           "autoSms": 6,
           "manualEmail": 0,
-          "autoEmail": 94
+          "autoEmail": 92
         },
         {
           "date": "2026-05-30",
@@ -588,11 +588,11 @@
         },
         {
           "date": "2026-06-24",
-          "calls": 6,
+          "calls": 4,
           "manualSms": 6,
-          "autoSms": 6,
+          "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 24
+          "autoEmail": 22
         },
         {
           "date": "2026-06-25",
@@ -614,9 +614,9 @@
           "date": "2026-06-27",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 8,
+          "autoSms": 6,
           "manualEmail": 0,
-          "autoEmail": 10
+          "autoEmail": 8
         },
         {
           "date": "2026-06-28",
@@ -648,7 +648,7 @@
           "manualSms": 2,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 24
+          "autoEmail": 22
         },
         {
           "date": "2026-07-02",
@@ -670,9 +670,9 @@
           "date": "2026-07-04",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 6,
+          "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 6
+          "autoEmail": 4
         },
         {
           "date": "2026-07-05",
@@ -704,7 +704,7 @@
           "manualSms": 2,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 26
+          "autoEmail": 24
         },
         {
           "date": "2026-07-09",
@@ -728,7 +728,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 8
+          "autoEmail": 6
         },
         {
           "date": "2026-07-12",
@@ -760,7 +760,7 @@
           "manualSms": 0,
           "autoSms": 6,
           "manualEmail": 0,
-          "autoEmail": 34
+          "autoEmail": 32
         },
         {
           "date": "2026-07-16",
@@ -784,7 +784,7 @@
           "manualSms": 0,
           "autoSms": 6,
           "manualEmail": 0,
-          "autoEmail": 12
+          "autoEmail": 10
         },
         {
           "date": "2026-07-19",
@@ -47101,6 +47101,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "8nixkbEWmHSUyuD2S3Ze",
+          "lastMessageDate": 1787152739779,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "igFsirsUqRFuYQSTVAJX",
           "lastMessageDate": 1787148133091,
           "type": "TYPE_PHONE"
@@ -47596,8 +47601,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "aP14SiYEceynUltayStD",
-          "lastMessageDate": 1784403688681,
+          "id": "8nixkbEWmHSUyuD2S3Ze",
+          "lastMessageDate": 1787152739779,
           "type": "TYPE_PHONE"
         },
         {
@@ -48093,11 +48098,6 @@
         {
           "id": "KKbp62vnmFYq2ufyzbz6",
           "lastMessageDate": 1784403777082,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "aP14SiYEceynUltayStD",
-          "lastMessageDate": 1784403688681,
           "type": "TYPE_PHONE"
         }
       ]
