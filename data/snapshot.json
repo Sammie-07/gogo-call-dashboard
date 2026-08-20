@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-08-20T16:37:55.502Z",
+  "syncedAt": "2026-08-20T17:32:07.395Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 196,
       "talkTimeMinutes": 157,
       "manualSms": 252,
-      "autoSms": 478,
+      "autoSms": 480,
       "manualEmail": 100,
-      "autoEmail": 3186,
+      "autoEmail": 3188,
       "byDay": [
         {
           "date": "2025-12-29",
@@ -1009,6 +1009,14 @@
           "autoSms": 4,
           "manualEmail": 0,
           "autoEmail": 6
+        },
+        {
+          "date": "2026-08-20",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 2,
+          "manualEmail": 0,
+          "autoEmail": 2
         }
       ],
       "opportunities": [
@@ -47123,6 +47131,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "AtVR7nSLrbUm57EAfzmP",
+          "lastMessageDate": 1787246088935,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "8nixkbEWmHSUyuD2S3Ze",
           "lastMessageDate": 1787238554168,
           "type": "TYPE_PHONE"
@@ -47220,11 +47233,6 @@
         {
           "id": "Lc5DleQ01P29k7NBR933",
           "lastMessageDate": 1787075946695,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "AtVR7nSLrbUm57EAfzmP",
-          "lastMessageDate": 1787070325599,
           "type": "TYPE_PHONE"
         },
         {
@@ -47623,6 +47631,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "AtVR7nSLrbUm57EAfzmP",
+          "lastMessageDate": 1787246088935,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "8nixkbEWmHSUyuD2S3Ze",
           "lastMessageDate": 1787238554168,
           "type": "TYPE_PHONE"
@@ -47720,11 +47733,6 @@
         {
           "id": "Lc5DleQ01P29k7NBR933",
           "lastMessageDate": 1787075946695,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "AtVR7nSLrbUm57EAfzmP",
-          "lastMessageDate": 1787070325599,
           "type": "TYPE_PHONE"
         },
         {
