@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-20T15:36:51.830Z",
+  "syncedAt": "2026-08-20T16:37:55.502Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -47090,6 +47090,28 @@
           "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
           "startTime": "2026-08-20T15:00:00-04:00",
           "title": "GGTC Onboarding Call - Nathan Graham",
+          "assignedResources": [],
+          "isRecurring": false,
+          "createdBy": {
+            "source": "booking_widget",
+            "userId": null
+          },
+          "deleted": false
+        },
+        {
+          "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
+          "assignedUserId": "C7PplofCN88pv8MTTiZT",
+          "address": "https://zoom.us/j/6684356793",
+          "calendarId": "vEq9SEudnxMCXs4c7bJk",
+          "contactId": "gc5Cza8jB6NyXUVMnciL",
+          "dateAdded": "2026-08-20T16:34:08.000Z",
+          "dateUpdated": "2026-08-20T16:34:08.000Z",
+          "endTime": "2026-08-24T12:30:00-04:00",
+          "id": "8kySCTJWNXxom0aXLzxP",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "startTime": "2026-08-24T12:00:00-04:00",
+          "title": "1:1 Check-in Call GoGet'Em Community",
           "assignedResources": [],
           "isRecurring": false,
           "createdBy": {
