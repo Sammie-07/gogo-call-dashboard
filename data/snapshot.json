@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-21T01:22:23.994Z",
+  "syncedAt": "2026-08-21T03:05:37.799Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -48832,6 +48832,84 @@
         }
       ],
       "opportunities": [
+        {
+          "id": "JiFS7MWMkTxavWpijcc8",
+          "name": "Buffy Longoria",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "80949724-7894-4a42-8028-746a06208f9e",
+          "pipelineStageUId": "80949724-7894-4a42-8028-746a06208f9e",
+          "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
+          "status": "open",
+          "source": "GGTC Blocker Quiz",
+          "lastStatusChangeAt": "2026-08-21T02:27:58.630Z",
+          "lastStageChangeAt": "2026-08-21T02:29:04.901Z",
+          "createdAt": "2026-08-21T02:27:58.629Z",
+          "updatedAt": "2026-08-21T02:29:05.219Z",
+          "forecastProbability": null,
+          "effectiveProbability": 25,
+          "contactId": "B0XeAcfFZNJsO1QnyBUF",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "JiFS7MWMkTxavWpijcc8",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "B0XeAcfFZNJsO1QnyBUF",
+              "fullName": "Buffy Longoria",
+              "contactName": "Buffy Longoria",
+              "companyName": null,
+              "email": "buffy_longoria@yahoo.com",
+              "phone": "+13615481498",
+              "tags": [
+                "stimulus package",
+                "new lead",
+                "assigned to ferny"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "B0XeAcfFZNJsO1QnyBUF",
+            "name": "Buffy Longoria",
+            "companyName": null,
+            "email": "buffy_longoria@yahoo.com",
+            "phone": "+13615481498",
+            "tags": [
+              "stimulus package",
+              "new lead",
+              "assigned to ferny"
+            ],
+            "score": []
+          },
+          "sort": [
+            1787279278629,
+            "B0XeAcfFZNJsO1QnyBUF"
+          ],
+          "attributions": [
+            {
+              "utmSessionSource": "CRM UI",
+              "isFirst": true,
+              "medium": "csv_import"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/growth-blocker.html?fbclid=IwY2xjawT0kwZwZG9mBWV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHoP-07vPUxwsIIAVP_-mTpdKPAc2UeBHSf9WSuvtSU_CvnWgfJIWuyVsksGC_aem_hRkwUVmIoWQVOetFG5LE-Q&utm_id=97757_v0_s00_e0_tv4_a1demo0jppamdg",
+              "referrer": "https://l.facebook.com",
+              "utmSessionSource": "Social media",
+              "isLast": true,
+              "utmFbclid": "IwY2xjawT0kwZwZG9mBWV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHoP-07vPUxwsIIAVP_-mTpdKPAc2UeBHSf9WSuvtSU_CvnWgfJIWuyVsksGC_aem_hRkwUVmIoWQVOetFG5LE-Q",
+              "ip": "108.244.23.119",
+              "medium": "form",
+              "mediumId": "muiUniGFhCNqBm9Ak62g",
+              "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S911U Build/BP4A.251205.006) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/151.0.7922.165 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/575.0.0.45.73;IABMV/1;]",
+              "url": "https://gogetemcommunity.com/growth-blocker.html"
+            }
+          ]
+        },
         {
           "id": "OEdGwHn6gQE1ZeiWzSNS",
           "name": "Monica Smith",
