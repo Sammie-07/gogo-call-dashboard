@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-08-21T16:37:21.354Z",
+  "syncedAt": "2026-08-21T17:31:43.501Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 192,
       "talkTimeMinutes": 155,
-      "manualSms": 256,
+      "manualSms": 264,
       "autoSms": 470,
-      "manualEmail": 100,
-      "autoEmail": 3152,
+      "manualEmail": 102,
+      "autoEmail": 3154,
       "byDay": [
         {
           "date": "2025-12-29",
@@ -1013,10 +1013,10 @@
         {
           "date": "2026-08-21",
           "calls": 0,
-          "manualSms": 2,
+          "manualSms": 10,
           "autoSms": 8,
-          "manualEmail": 0,
-          "autoEmail": 32
+          "manualEmail": 2,
+          "autoEmail": 34
         }
       ],
       "opportunities": [
@@ -47193,12 +47193,39 @@
             "userId": null
           },
           "deleted": false
+        },
+        {
+          "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
+          "assignedUserId": "C7PplofCN88pv8MTTiZT",
+          "address": "https://zoom.us/j/6684356793",
+          "calendarId": "vn5ozDQQe0DQUJYuEw9b",
+          "contactId": "adc6CJDHnWeIJ3vjZt9F",
+          "dateAdded": "2026-08-21T17:22:48.000Z",
+          "dateUpdated": "2026-08-21T17:22:48.000Z",
+          "endTime": "2026-08-24T16:00:00-04:00",
+          "id": "1fCXmWBo0M3fP9ORBf9i",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "startTime": "2026-08-24T15:30:00-04:00",
+          "title": "GoGet'Em Community Intro Call - Florence Darko & Natalia",
+          "assignedResources": [],
+          "isRecurring": false,
+          "createdBy": {
+            "source": "booking_widget",
+            "userId": null
+          },
+          "deleted": false
         }
       ],
       "conversationsAll": [
         {
           "id": "o75x3QpWwB3BfxJtWWZz",
-          "lastMessageDate": 1787329714461,
+          "lastMessageDate": 1787333284722,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "gSfUmEe5pNXKo8RI1ptI",
+          "lastMessageDate": 1787330773400,
           "type": "TYPE_PHONE"
         },
         {
@@ -47634,11 +47661,6 @@
         {
           "id": "6voUyjIwFGdCnDkAA9tH",
           "lastMessageDate": 1784830303173,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "gSfUmEe5pNXKo8RI1ptI",
-          "lastMessageDate": 1784652372992,
           "type": "TYPE_PHONE"
         },
         {
@@ -47698,7 +47720,12 @@
         },
         {
           "id": "o75x3QpWwB3BfxJtWWZz",
-          "lastMessageDate": 1787329714461,
+          "lastMessageDate": 1787333284722,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "gSfUmEe5pNXKo8RI1ptI",
+          "lastMessageDate": 1787330773400,
           "type": "TYPE_PHONE"
         },
         {
@@ -48134,11 +48161,6 @@
         {
           "id": "6voUyjIwFGdCnDkAA9tH",
           "lastMessageDate": 1784830303173,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "gSfUmEe5pNXKo8RI1ptI",
-          "lastMessageDate": 1784652372992,
           "type": "TYPE_PHONE"
         },
         {
