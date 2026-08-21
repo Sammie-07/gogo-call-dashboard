@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-21T20:28:33.380Z",
+  "syncedAt": "2026-08-21T21:27:13.912Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -48226,7 +48226,7 @@
       "manualSms": 80,
       "autoSms": 236,
       "manualEmail": 24,
-      "autoEmail": 1550,
+      "autoEmail": 1532,
       "byDay": [
         {
           "date": "2026-04-21",
@@ -48250,7 +48250,7 @@
           "manualSms": 0,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 68
+          "autoEmail": 66
         },
         {
           "date": "2026-04-30",
@@ -48266,7 +48266,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 138
+          "autoEmail": 136
         },
         {
           "date": "2026-05-04",
@@ -48282,7 +48282,7 @@
           "manualSms": 8,
           "autoSms": 18,
           "manualEmail": 0,
-          "autoEmail": 158
+          "autoEmail": 156
         },
         {
           "date": "2026-05-07",
@@ -48306,7 +48306,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 118
+          "autoEmail": 116
         },
         {
           "date": "2026-05-11",
@@ -48338,7 +48338,7 @@
           "manualSms": 6,
           "autoSms": 14,
           "manualEmail": 0,
-          "autoEmail": 124
+          "autoEmail": 122
         },
         {
           "date": "2026-05-17",
@@ -48354,7 +48354,7 @@
           "manualSms": 2,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 106
+          "autoEmail": 104
         },
         {
           "date": "2026-05-19",
@@ -48378,7 +48378,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 126
+          "autoEmail": 124
         },
         {
           "date": "2026-05-22",
@@ -48410,7 +48410,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 126
+          "autoEmail": 124
         },
         {
           "date": "2026-05-28",
@@ -48426,7 +48426,7 @@
           "manualSms": 0,
           "autoSms": 16,
           "manualEmail": 0,
-          "autoEmail": 126
+          "autoEmail": 124
         },
         {
           "date": "2026-05-31",
@@ -48870,6 +48870,79 @@
         }
       ],
       "opportunities": [
+        {
+          "id": "nE04PIrsDIHNljdIIV1F",
+          "name": "Beth King Delacruz",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "61ee0fbd-d136-4069-8222-c95ab05ce746",
+          "pipelineStageUId": "61ee0fbd-d136-4069-8222-c95ab05ce746",
+          "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
+          "status": "open",
+          "source": null,
+          "lastStatusChangeAt": "2026-08-21T20:45:33.857Z",
+          "lastStageChangeAt": "2026-08-21T20:45:33.857Z",
+          "createdAt": "2026-08-21T20:45:33.857Z",
+          "updatedAt": "2026-08-21T20:45:33.857Z",
+          "forecastProbability": null,
+          "effectiveProbability": 18.75,
+          "contactId": "mFfApD4EGeO5LcnDYHVH",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "nE04PIrsDIHNljdIIV1F",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "mFfApD4EGeO5LcnDYHVH",
+              "fullName": "Beth King Delacruz",
+              "contactName": "Beth King Delacruz",
+              "companyName": null,
+              "email": "beth@winningminds.com",
+              "phone": null,
+              "tags": [
+                "keyword:community",
+                "new lead",
+                "sales: no show"
+              ],
+              "attributed": null
+            }
+          ],
+          "contact": {
+            "id": "mFfApD4EGeO5LcnDYHVH",
+            "name": "Beth King Delacruz",
+            "companyName": null,
+            "email": "beth@winningminds.com",
+            "phone": null,
+            "tags": [
+              "keyword:community",
+              "new lead",
+              "sales: no show"
+            ],
+            "score": []
+          },
+          "sort": [
+            1787345133857,
+            "mFfApD4EGeO5LcnDYHVH"
+          ],
+          "attributions": [
+            {
+              "utmSessionSource": "Social media",
+              "medium": "facebook",
+              "mediumId": "37277885665158229",
+              "isFirst": true
+            },
+            {
+              "utmSessionSource": "Social media",
+              "medium": "facebook",
+              "mediumId": "37277885665158229",
+              "isLast": true
+            }
+          ]
+        },
         {
           "id": "JiFS7MWMkTxavWpijcc8",
           "name": "Buffy Longoria",
@@ -71815,6 +71888,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "ixTWgtRFQGu1C2p3geKU",
+          "lastMessageDate": 1787343252770,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "SIYkNu0CtU4eJC5Kbo7j",
           "lastMessageDate": 1787339025673,
           "type": "TYPE_PHONE"
@@ -72310,8 +72388,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "BpOqWz9JRXQc3VBGoMgn",
-          "lastMessageDate": 1780058302408,
+          "id": "ixTWgtRFQGu1C2p3geKU",
+          "lastMessageDate": 1787343252770,
           "type": "TYPE_PHONE"
         },
         {
@@ -72807,11 +72885,6 @@
         {
           "id": "mI7ps3yrYpcGlXluA7Gc",
           "lastMessageDate": 1780058302536,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "BpOqWz9JRXQc3VBGoMgn",
-          "lastMessageDate": 1780058302408,
           "type": "TYPE_PHONE"
         }
       ]
