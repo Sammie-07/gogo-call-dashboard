@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-22T14:24:16.863Z",
+  "syncedAt": "2026-08-22T15:23:35.022Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -1020,6 +1020,99 @@
         }
       ],
       "opportunities": [
+        {
+          "id": "pkorcywUrXiaBwC3ShWX",
+          "name": "Sheri Hill",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "assignedTo": "C7PplofCN88pv8MTTiZT",
+          "status": "open",
+          "source": "GoGet'Em Webinars Check Out",
+          "lastStatusChangeAt": "2026-08-22T15:18:41.340Z",
+          "lastStageChangeAt": "2026-08-22T15:19:47.281Z",
+          "createdAt": "2026-08-22T15:18:41.340Z",
+          "updatedAt": "2026-08-22T15:19:47.379Z",
+          "forecastProbability": null,
+          "effectiveProbability": 31.25,
+          "contactId": "pVCAwSK0rNSimZiZlW1M",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "pkorcywUrXiaBwC3ShWX",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "pVCAwSK0rNSimZiZlW1M",
+              "fullName": "Sheri Hill",
+              "contactName": "Sheri Hill",
+              "companyName": null,
+              "email": "therealsherihill@gmail.com",
+              "phone": "+17604034552",
+              "tags": [
+                "first crm import",
+                "webinar email",
+                "#teamgogo",
+                "california",
+                "goget'em canceled",
+                "wine not millionaire",
+                "new lead",
+                "assigned to natalia"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "pVCAwSK0rNSimZiZlW1M",
+            "name": "Sheri Hill",
+            "companyName": null,
+            "email": "therealsherihill@gmail.com",
+            "phone": "+17604034552",
+            "tags": [
+              "first crm import",
+              "webinar email",
+              "#teamgogo",
+              "california",
+              "goget'em canceled",
+              "wine not millionaire",
+              "new lead",
+              "assigned to natalia"
+            ],
+            "score": []
+          },
+          "sort": [
+            1787411921340,
+            "pVCAwSK0rNSimZiZlW1M"
+          ],
+          "attributions": [
+            {
+              "utmSessionSource": "CRM UI",
+              "isFirst": true,
+              "medium": "manual"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/growth-blocker.html?audience=new_audience&utm_medium=paid&utm_source=ig&utm_id=120248501992090250_v2_s03&utm_content=120248501992080250&utm_term=120248501992090250&utm_campaign=120246164236430250&fbclid=PAcGRvZgJmZGlkFlDPgWg8xmCU6TxfatDQEYNPMm9IixhleHRuA2FlbQEwAGFkaWQBqzVgH8FjanNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABpx1rildksKhm-N7o2yAY0gFe2bTfx-UVDqIEl7V4ZlWFvwHnvDFhobFWcNN1_aem_nR8A4-IK5yAA9Ekj1TFqrg",
+              "utmSessionSource": "Social media",
+              "utmCampaign": "120246164236430250",
+              "utmMedium": "paid",
+              "ip": "2600:100f:b196:6258:db:d086:bdef:2da",
+              "medium": "form",
+              "url": "https://gogetemcommunity.com/growth-blocker.html",
+              "utmTerm": "120248501992090250",
+              "referrer": "https://instagram.com",
+              "isLast": true,
+              "utmFbclid": "PAcGRvZgJmZGlkFlDPgWg8xmCU6TxfatDQEYNPMm9IixhleHRuA2FlbQEwAGFkaWQBqzVgH8FjanNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABpx1rildksKhm-N7o2yAY0gFe2bTfx-UVDqIEl7V4ZlWFvwHnvDFhobFWcNN1_aem_nR8A4-IK5yAA9Ekj1TFqrg",
+              "mediumId": "muiUniGFhCNqBm9Ak62g",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23F84 Instagram 442.0.0.22.64 (iPhone15,3; iOS 26_5_2; en_US; en; scale=3.00; 1290x2796; IABMV/1; 1035455812) Safari/604.1",
+              "utmSource": "ig",
+              "utmContent": "120248501992080250"
+            }
+          ]
+        },
         {
           "id": "nEuXfZde9zM6l5hAIjgP",
           "name": "Kristina Case",
