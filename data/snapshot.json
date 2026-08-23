@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-23T20:25:57.232Z",
+  "syncedAt": "2026-08-23T21:24:39.029Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -48319,7 +48319,7 @@
       "manualSms": 80,
       "autoSms": 236,
       "manualEmail": 24,
-      "autoEmail": 1532,
+      "autoEmail": 1516,
       "byDay": [
         {
           "date": "2026-04-21",
@@ -48359,7 +48359,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 136
+          "autoEmail": 134
         },
         {
           "date": "2026-05-04",
@@ -48375,7 +48375,7 @@
           "manualSms": 8,
           "autoSms": 18,
           "manualEmail": 0,
-          "autoEmail": 156
+          "autoEmail": 154
         },
         {
           "date": "2026-05-07",
@@ -48399,7 +48399,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 116
+          "autoEmail": 114
         },
         {
           "date": "2026-05-11",
@@ -48431,7 +48431,7 @@
           "manualSms": 6,
           "autoSms": 14,
           "manualEmail": 0,
-          "autoEmail": 122
+          "autoEmail": 120
         },
         {
           "date": "2026-05-17",
@@ -48447,7 +48447,7 @@
           "manualSms": 2,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 104
+          "autoEmail": 102
         },
         {
           "date": "2026-05-19",
@@ -48471,7 +48471,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 124
+          "autoEmail": 122
         },
         {
           "date": "2026-05-22",
@@ -48503,7 +48503,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 124
+          "autoEmail": 122
         },
         {
           "date": "2026-05-28",
@@ -48519,7 +48519,7 @@
           "manualSms": 0,
           "autoSms": 16,
           "manualEmail": 0,
-          "autoEmail": 124
+          "autoEmail": 122
         },
         {
           "date": "2026-05-31",
@@ -48963,6 +48963,100 @@
         }
       ],
       "opportunities": [
+        {
+          "id": "thHCeEjUkJWhkaCuzK7a",
+          "name": "Lori Ortiz",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "80949724-7894-4a42-8028-746a06208f9e",
+          "pipelineStageUId": "80949724-7894-4a42-8028-746a06208f9e",
+          "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
+          "status": "open",
+          "source": "GGTC Blocker Quiz",
+          "lastStatusChangeAt": "2026-08-23T20:35:46.425Z",
+          "lastStageChangeAt": "2026-08-23T20:36:51.307Z",
+          "createdAt": "2026-08-23T20:35:46.425Z",
+          "updatedAt": "2026-08-23T20:36:51.430Z",
+          "forecastProbability": null,
+          "effectiveProbability": 25,
+          "contactId": "1WYOSRCaA5fmehEJdfi3",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "thHCeEjUkJWhkaCuzK7a",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "1WYOSRCaA5fmehEJdfi3",
+              "fullName": "Lori Ortiz",
+              "contactName": "Lori Ortiz",
+              "companyName": null,
+              "email": "lori.ortiz@exprealty.com",
+              "phone": "+16169155115",
+              "tags": [
+                "new lead",
+                "assigned to ferny"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "1WYOSRCaA5fmehEJdfi3",
+            "name": "Lori Ortiz",
+            "companyName": null,
+            "email": "lori.ortiz@exprealty.com",
+            "phone": "+16169155115",
+            "tags": [
+              "new lead",
+              "assigned to ferny"
+            ],
+            "score": []
+          },
+          "sort": [
+            1787517346425,
+            "1WYOSRCaA5fmehEJdfi3"
+          ],
+          "attributions": [
+            {
+              "pageUrl": "https://gogetemcommunity.com/growth-blocker.html?fbclid=IwcGRvZgVmZGlkFlDQa2M1Pq-komz1qjDG8K6Z1ZdKwylleHRuA2FlbQEwAGFkaWQBqzVgH8FjanNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR5LjqEaLEW20cFHPWNYDsLxQoYyqUBvzK2FbUanspej_ahXtkc0dcS5UPlCPg_aem_L6hkerGjeaSt9144-tgj6g&audience=new_audience&utm_medium=paid&utm_source=fb&utm_id=120248501992090250_v2_s09_e7743&utm_content=120248501992080250&utm_term=120248501992090250&utm_campaign=120246164236430250",
+              "utmSessionSource": "Social media",
+              "utmCampaign": "120246164236430250",
+              "utmMedium": "paid",
+              "ip": "96.27.32.37",
+              "isFirst": true,
+              "medium": "form",
+              "utmKeyword": "120248501992090250",
+              "url": "https://gogetemcommunity.com/growth-blocker.html",
+              "utmTerm": "120248501992090250",
+              "referrer": "https://facebook.com",
+              "utmFbclid": "IwcGRvZgVmZGlkFlDQa2M1Pq-komz1qjDG8K6Z1ZdKwylleHRuA2FlbQEwAGFkaWQBqzVgH8FjanNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR5LjqEaLEW20cFHPWNYDsLxQoYyqUBvzK2FbUanspej_ahXtkc0dcS5UPlCPg_aem_L6hkerGjeaSt9144-tgj6g",
+              "mediumId": "muiUniGFhCNqBm9Ak62g",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22H352 Safari/604.1 [FBAN/FBIOS;FBAV/575.0.0.30.70;FBBV/1043180474;FBDV/iPhone14,5;FBMD/iPhone;FBSN/iOS;FBSV/18.7.8;FBSS/3;FBID/phone;FBLC/en_US;FBOP/5;FBRV/1048430012;IABMV/1]",
+              "utmSource": "fb",
+              "utmContent": "120248501992080250"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/growth-blocker.html?fbclid=IwcGRvZgVmZGlkFlDQa2M1Pq-komz1qjDG8K6Z1ZdKwylleHRuA2FlbQEwAGFkaWQBqzVgH8FjanNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR5LjqEaLEW20cFHPWNYDsLxQoYyqUBvzK2FbUanspej_ahXtkc0dcS5UPlCPg_aem_L6hkerGjeaSt9144-tgj6g&audience=new_audience&utm_medium=paid&utm_source=fb&utm_id=120248501992090250_v2_s09_e7743&utm_content=120248501992080250&utm_term=120248501992090250&utm_campaign=120246164236430250",
+              "utmSessionSource": "Social media",
+              "utmCampaign": "120246164236430250",
+              "utmMedium": "paid",
+              "ip": "96.27.32.37",
+              "medium": "form",
+              "url": "https://gogetemcommunity.com/growth-blocker.html",
+              "utmTerm": "120248501992090250",
+              "referrer": "https://facebook.com",
+              "isLast": true,
+              "utmFbclid": "IwcGRvZgVmZGlkFlDQa2M1Pq-komz1qjDG8K6Z1ZdKwylleHRuA2FlbQEwAGFkaWQBqzVgH8FjanNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR5LjqEaLEW20cFHPWNYDsLxQoYyqUBvzK2FbUanspej_ahXtkc0dcS5UPlCPg_aem_L6hkerGjeaSt9144-tgj6g",
+              "mediumId": "muiUniGFhCNqBm9Ak62g",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22H352 Safari/604.1 [FBAN/FBIOS;FBAV/575.0.0.30.70;FBBV/1043180474;FBDV/iPhone14,5;FBMD/iPhone;FBSN/iOS;FBSV/18.7.8;FBSS/3;FBID/phone;FBLC/en_US;FBOP/5;FBRV/1048430012;IABMV/1]",
+              "utmSource": "fb",
+              "utmContent": "120248501992080250"
+            }
+          ]
+        },
         {
           "id": "nE04PIrsDIHNljdIIV1F",
           "name": "Beth King Delacruz",
@@ -71981,6 +72075,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "aLzK5MYyjaQrzjNkzCCm",
+          "lastMessageDate": 1787517346907,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "ixTWgtRFQGu1C2p3geKU",
           "lastMessageDate": 1787343252770,
           "type": "TYPE_PHONE"
@@ -72476,8 +72575,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "mI7ps3yrYpcGlXluA7Gc",
-          "lastMessageDate": 1780058302536,
+          "id": "aLzK5MYyjaQrzjNkzCCm",
+          "lastMessageDate": 1787517346907,
           "type": "TYPE_PHONE"
         },
         {
@@ -72973,11 +73072,6 @@
         {
           "id": "mWsxRJhWYDvV9eRN2LnB",
           "lastMessageDate": 1780058302642,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "mI7ps3yrYpcGlXluA7Gc",
-          "lastMessageDate": 1780058302536,
           "type": "TYPE_PHONE"
         }
       ]
