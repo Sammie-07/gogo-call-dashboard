@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-24T21:32:28.986Z",
+  "syncedAt": "2026-08-24T22:28:54.212Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -48433,7 +48433,7 @@
       "manualSms": 82,
       "autoSms": 240,
       "manualEmail": 26,
-      "autoEmail": 1522,
+      "autoEmail": 1506,
       "byDay": [
         {
           "date": "2026-04-21",
@@ -48473,7 +48473,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 134
+          "autoEmail": 132
         },
         {
           "date": "2026-05-04",
@@ -48489,7 +48489,7 @@
           "manualSms": 8,
           "autoSms": 18,
           "manualEmail": 0,
-          "autoEmail": 154
+          "autoEmail": 152
         },
         {
           "date": "2026-05-07",
@@ -48513,7 +48513,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 114
+          "autoEmail": 112
         },
         {
           "date": "2026-05-11",
@@ -48545,7 +48545,7 @@
           "manualSms": 6,
           "autoSms": 14,
           "manualEmail": 0,
-          "autoEmail": 120
+          "autoEmail": 118
         },
         {
           "date": "2026-05-17",
@@ -48561,7 +48561,7 @@
           "manualSms": 2,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 102
+          "autoEmail": 100
         },
         {
           "date": "2026-05-19",
@@ -48585,7 +48585,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 122
+          "autoEmail": 120
         },
         {
           "date": "2026-05-22",
@@ -48617,7 +48617,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 122
+          "autoEmail": 120
         },
         {
           "date": "2026-05-28",
@@ -48633,7 +48633,7 @@
           "manualSms": 0,
           "autoSms": 16,
           "manualEmail": 0,
-          "autoEmail": 122
+          "autoEmail": 120
         },
         {
           "date": "2026-05-31",
@@ -49093,6 +49093,96 @@
         }
       ],
       "opportunities": [
+        {
+          "id": "I6RpPuuKQHckg9x6AQgj",
+          "name": "Shreed Test",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "80949724-7894-4a42-8028-746a06208f9e",
+          "pipelineStageUId": "80949724-7894-4a42-8028-746a06208f9e",
+          "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
+          "status": "open",
+          "source": "ee09e95",
+          "lastStatusChangeAt": "2026-08-24T22:04:02.132Z",
+          "lastStageChangeAt": "2026-08-24T22:05:08.300Z",
+          "createdAt": "2026-08-24T22:04:02.132Z",
+          "updatedAt": "2026-08-24T22:05:08.468Z",
+          "forecastProbability": null,
+          "effectiveProbability": 25,
+          "contactId": "qXZetRaPFEG9a7FUWEW5",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "I6RpPuuKQHckg9x6AQgj",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "qXZetRaPFEG9a7FUWEW5",
+              "fullName": "Shreed Test",
+              "contactName": "Shreed Test",
+              "companyName": null,
+              "email": "emarketingkingsofficial@gmail.com",
+              "phone": "+918982918211",
+              "tags": [
+                "5daylive",
+                "circle_active_member",
+                "clarity_call_booked",
+                "free_ggtm",
+                "aa - kajabi",
+                "ggtc_free_training_signup",
+                "new lead",
+                "assigned to ferny"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "qXZetRaPFEG9a7FUWEW5",
+            "name": "Shreed Test",
+            "companyName": null,
+            "email": "emarketingkingsofficial@gmail.com",
+            "phone": "+918982918211",
+            "tags": [
+              "5daylive",
+              "circle_active_member",
+              "clarity_call_booked",
+              "free_ggtm",
+              "aa - kajabi",
+              "ggtc_free_training_signup",
+              "new lead",
+              "assigned to ferny"
+            ],
+            "score": []
+          },
+          "sort": [
+            1787609042132,
+            "qXZetRaPFEG9a7FUWEW5"
+          ],
+          "attributions": [
+            {
+              "pageUrl": "https://gogetemcommunity.com/",
+              "utmSessionSource": "Direct traffic",
+              "ip": "92.55.82.80",
+              "isFirst": true,
+              "medium": "chat_widget",
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+              "url": "https://gogetemcommunity.com/"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/growth-blocker.html",
+              "utmSessionSource": "Direct traffic",
+              "isLast": true,
+              "ip": "2409:40d5:1073:2b41:7865:f41e:2eef:1818",
+              "medium": "form",
+              "mediumId": "muiUniGFhCNqBm9Ak62g",
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+              "url": "https://gogetemcommunity.com/growth-blocker.html"
+            }
+          ]
+        },
         {
           "id": "thHCeEjUkJWhkaCuzK7a",
           "name": "Lori Ortiz",
@@ -72267,6 +72357,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "HS9GFcdqfEyV4myBBEcW",
+          "lastMessageDate": 1787074782895,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "0JEEXKg9VPCQ7bDIOPk8",
           "lastMessageDate": 1786730929510,
           "type": "TYPE_PHONE"
@@ -72699,11 +72794,6 @@
         {
           "id": "HXTrX2qR0Xem5xCTVag9",
           "lastMessageDate": 1780058302919,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "mWsxRJhWYDvV9eRN2LnB",
-          "lastMessageDate": 1780058302642,
           "type": "TYPE_PHONE"
         },
         {
@@ -72767,6 +72857,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "HS9GFcdqfEyV4myBBEcW",
+          "lastMessageDate": 1787074782895,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "0JEEXKg9VPCQ7bDIOPk8",
           "lastMessageDate": 1786730929510,
           "type": "TYPE_PHONE"
@@ -73199,11 +73294,6 @@
         {
           "id": "HXTrX2qR0Xem5xCTVag9",
           "lastMessageDate": 1780058302919,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "mWsxRJhWYDvV9eRN2LnB",
-          "lastMessageDate": 1780058302642,
           "type": "TYPE_PHONE"
         }
       ]
