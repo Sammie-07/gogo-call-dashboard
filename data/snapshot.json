@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-08-24T14:44:45.916Z",
+  "syncedAt": "2026-08-24T15:42:23.659Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 188,
       "talkTimeMinutes": 152,
       "manualSms": 260,
-      "autoSms": 486,
+      "autoSms": 488,
       "manualEmail": 102,
-      "autoEmail": 3202,
+      "autoEmail": 3204,
       "byDay": [
         {
           "date": "2025-12-29",
@@ -1022,9 +1022,9 @@
           "date": "2026-08-24",
           "calls": 0,
           "manualSms": 2,
-          "autoSms": 16,
+          "autoSms": 18,
           "manualEmail": 0,
-          "autoEmail": 42
+          "autoEmail": 44
         }
       ],
       "opportunities": [
@@ -47316,9 +47316,41 @@
             "userId": null
           },
           "deleted": false
+        },
+        {
+          "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
+          "assignedUserId": "C7PplofCN88pv8MTTiZT",
+          "address": "https://zoom.us/j/98827914664",
+          "calendarId": "8kLbo3OukoeNXebq8B4b",
+          "contactId": "8JAm2W2UbFJwGRY6wGsB",
+          "dateAdded": "2026-08-24T15:17:34.000Z",
+          "dateUpdated": "2026-08-24T15:17:34.000Z",
+          "endTime": "2026-09-03T16:00:00-04:00",
+          "id": "32fxt0UkSOgpYKJyIb8m",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "startTime": "2026-09-03T15:00:00-04:00",
+          "title": "GGTC Onboarding Call - Miranda Ureche",
+          "assignedResources": [],
+          "isRecurring": false,
+          "createdBy": {
+            "source": "booking_widget",
+            "userId": null
+          },
+          "deleted": false
         }
       ],
       "conversationsAll": [
+        {
+          "id": "ZgOUGdypkKSJtQuHK8b4",
+          "lastMessageDate": 1787584537787,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "pyIAE0wDjRDQnMxy8Sfy",
+          "lastMessageDate": 1787584053177,
+          "type": "TYPE_PHONE"
+        },
         {
           "id": "IEMSzCxPJm0OxTVt9PWi",
           "lastMessageDate": 1787580883633,
@@ -47367,11 +47399,6 @@
         {
           "id": "zIxdSucRN7fh3vE8lE7l",
           "lastMessageDate": 1787580068233,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "pyIAE0wDjRDQnMxy8Sfy",
-          "lastMessageDate": 1787580068126,
           "type": "TYPE_PHONE"
         },
         {
@@ -47447,11 +47474,6 @@
         {
           "id": "Ah0mkqPCdSzUbH87Tc93",
           "lastMessageDate": 1787327214122,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "ZgOUGdypkKSJtQuHK8b4",
-          "lastMessageDate": 1787325195465,
           "type": "TYPE_PHONE"
         },
         {
@@ -47820,6 +47842,16 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "ZgOUGdypkKSJtQuHK8b4",
+          "lastMessageDate": 1787584537787,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "pyIAE0wDjRDQnMxy8Sfy",
+          "lastMessageDate": 1787584053177,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "IEMSzCxPJm0OxTVt9PWi",
           "lastMessageDate": 1787580883633,
           "type": "TYPE_PHONE"
@@ -47867,11 +47899,6 @@
         {
           "id": "zIxdSucRN7fh3vE8lE7l",
           "lastMessageDate": 1787580068233,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "pyIAE0wDjRDQnMxy8Sfy",
-          "lastMessageDate": 1787580068126,
           "type": "TYPE_PHONE"
         },
         {
@@ -47947,11 +47974,6 @@
         {
           "id": "Ah0mkqPCdSzUbH87Tc93",
           "lastMessageDate": 1787327214122,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "ZgOUGdypkKSJtQuHK8b4",
-          "lastMessageDate": 1787325195465,
           "type": "TYPE_PHONE"
         },
         {
@@ -48324,9 +48346,9 @@
     "Z6C8jEN8ccsSWv70qBr1": {
       "calls": 74,
       "talkTimeMinutes": 85,
-      "manualSms": 80,
+      "manualSms": 82,
       "autoSms": 240,
-      "manualEmail": 24,
+      "manualEmail": 26,
       "autoEmail": 1522,
       "byDay": [
         {
@@ -48980,9 +49002,9 @@
         {
           "date": "2026-08-24",
           "calls": 0,
-          "manualSms": 0,
+          "manualSms": 2,
           "autoSms": 2,
-          "manualEmail": 0,
+          "manualEmail": 2,
           "autoEmail": 4
         }
       ],
@@ -49432,7 +49454,8 @@
                 "goget'em member; new",
                 "new lead",
                 "assigned to ferny",
-                "not on ggtc whatsapp chat"
+                "not on ggtc whatsapp chat",
+                "ggtc onboarding call scheduled"
               ],
               "attributed": true
             }
@@ -49449,7 +49472,8 @@
               "goget'em member; new",
               "new lead",
               "assigned to ferny",
-              "not on ggtc whatsapp chat"
+              "not on ggtc whatsapp chat",
+              "ggtc onboarding call scheduled"
             ],
             "score": []
           },
@@ -72100,7 +72124,7 @@
       "conversationsAll": [
         {
           "id": "uWSWZCvYXV7TvcguK9jH",
-          "lastMessageDate": 1787581210779,
+          "lastMessageDate": 1787584788106,
           "type": "TYPE_PHONE"
         },
         {
@@ -72600,7 +72624,7 @@
         },
         {
           "id": "uWSWZCvYXV7TvcguK9jH",
-          "lastMessageDate": 1787581210779,
+          "lastMessageDate": 1787584788106,
           "type": "TYPE_PHONE"
         },
         {
