@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-25T17:34:41.676Z",
+  "syncedAt": "2026-08-25T18:41:55.386Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -1041,17 +1041,17 @@
           "name": "Denise Fernandes",
           "monetaryValue": 0,
           "pipelineId": "4ODbBsC9MIjSBtnIOETl",
-          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
-          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "pipelineStageId": "d36cd537-38db-4b60-887f-b54b6f8ddfbd",
+          "pipelineStageUId": "d36cd537-38db-4b60-887f-b54b6f8ddfbd",
           "assignedTo": "C7PplofCN88pv8MTTiZT",
           "status": "open",
           "source": "Trial period for GoGet'Em Webinars Membership (1mo FREE)",
           "lastStatusChangeAt": "2026-08-25T16:28:30.601Z",
-          "lastStageChangeAt": "2026-08-25T16:28:30.601Z",
+          "lastStageChangeAt": "2026-08-25T17:43:58.059Z",
           "createdAt": "2026-08-25T16:28:30.600Z",
-          "updatedAt": "2026-08-25T16:28:34.093Z",
+          "updatedAt": "2026-08-25T17:43:58.079Z",
           "forecastProbability": null,
-          "effectiveProbability": 31.25,
+          "effectiveProbability": 12.5,
           "contactId": "xqHXvOFaK3l4YhXcVXpp",
           "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
           "customFields": [],
@@ -1109,89 +1109,6 @@
               "isLast": true,
               "medium": "facebook",
               "mediumId": "5324304707627396"
-            }
-          ]
-        },
-        {
-          "id": "ZMS2vrYDIdilA1bZBgNs",
-          "name": "Natalia Duraes",
-          "monetaryValue": 0,
-          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
-          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
-          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
-          "assignedTo": "C7PplofCN88pv8MTTiZT",
-          "status": "open",
-          "source": "order form-prebuilt goget'em",
-          "lastStatusChangeAt": "2026-08-25T13:40:11.049Z",
-          "lastStageChangeAt": "2026-08-25T13:41:16.060Z",
-          "createdAt": "2026-08-25T13:40:11.049Z",
-          "updatedAt": "2026-08-25T13:41:16.159Z",
-          "forecastProbability": null,
-          "effectiveProbability": 31.25,
-          "contactId": "bVxYFlTfgM5qDPenRqXU",
-          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
-          "customFields": [],
-          "lostReasonId": null,
-          "followers": [],
-          "relations": [
-            {
-              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
-              "relationId": "ZMS2vrYDIdilA1bZBgNs",
-              "primary": true,
-              "objectKey": "contact",
-              "recordId": "bVxYFlTfgM5qDPenRqXU",
-              "fullName": "natalia duraes",
-              "contactName": "natalia duraes",
-              "companyName": null,
-              "email": "nataliasduraes@gmail.com",
-              "phone": "+15702055050",
-              "tags": [
-                "smc",
-                "goget'em canceled",
-                "new lead",
-                "niche-finder",
-                "ggtc_free_training_signup",
-                "assigned to natalia"
-              ],
-              "attributed": true
-            }
-          ],
-          "contact": {
-            "id": "bVxYFlTfgM5qDPenRqXU",
-            "name": "natalia duraes",
-            "companyName": null,
-            "email": "nataliasduraes@gmail.com",
-            "phone": "+15702055050",
-            "tags": [
-              "smc",
-              "goget'em canceled",
-              "new lead",
-              "niche-finder",
-              "ggtc_free_training_signup",
-              "assigned to natalia"
-            ],
-            "score": []
-          },
-          "sort": [
-            1787665211049,
-            "bVxYFlTfgM5qDPenRqXU"
-          ],
-          "attributions": [
-            {
-              "utmSessionSource": "Other",
-              "isFirst": true,
-              "medium": "instagram",
-              "mediumId": "2424470371286875"
-            },
-            {
-              "pageUrl": "https://gogetemcommunity.com/live/",
-              "utmSessionSource": "Direct traffic",
-              "isLast": true,
-              "ip": "93.88.156.82",
-              "medium": "form",
-              "mediumId": "rtTNrLeOuDNq53WY7xwd",
-              "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
-              "url": "https://gogetemcommunity.com/live/"
             }
           ]
         },
@@ -48602,7 +48519,7 @@
       "manualSms": 82,
       "autoSms": 240,
       "manualEmail": 26,
-      "autoEmail": 1506,
+      "autoEmail": 1508,
       "byDay": [
         {
           "date": "2026-04-21",
@@ -49259,99 +49176,17 @@
           "autoSms": 2,
           "manualEmail": 2,
           "autoEmail": 4
+        },
+        {
+          "date": "2026-08-25",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 0,
+          "manualEmail": 0,
+          "autoEmail": 2
         }
       ],
       "opportunities": [
-        {
-          "id": "I6RpPuuKQHckg9x6AQgj",
-          "name": "Shreed Test",
-          "monetaryValue": 0,
-          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
-          "pipelineStageId": "80949724-7894-4a42-8028-746a06208f9e",
-          "pipelineStageUId": "80949724-7894-4a42-8028-746a06208f9e",
-          "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
-          "status": "open",
-          "source": "ee09e95",
-          "lastStatusChangeAt": "2026-08-24T22:04:02.132Z",
-          "lastStageChangeAt": "2026-08-24T22:05:08.300Z",
-          "createdAt": "2026-08-24T22:04:02.132Z",
-          "updatedAt": "2026-08-24T22:05:08.468Z",
-          "forecastProbability": null,
-          "effectiveProbability": 25,
-          "contactId": "qXZetRaPFEG9a7FUWEW5",
-          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
-          "customFields": [],
-          "lostReasonId": null,
-          "followers": [],
-          "relations": [
-            {
-              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
-              "relationId": "I6RpPuuKQHckg9x6AQgj",
-              "primary": true,
-              "objectKey": "contact",
-              "recordId": "qXZetRaPFEG9a7FUWEW5",
-              "fullName": "Shreed Test",
-              "contactName": "Shreed Test",
-              "companyName": null,
-              "email": "emarketingkingsofficial@gmail.com",
-              "phone": "+912817217281",
-              "tags": [
-                "5daylive",
-                "circle_active_member",
-                "clarity_call_booked",
-                "free_ggtm",
-                "aa - kajabi",
-                "ggtc_free_training_signup",
-                "new lead",
-                "assigned to ferny"
-              ],
-              "attributed": true
-            }
-          ],
-          "contact": {
-            "id": "qXZetRaPFEG9a7FUWEW5",
-            "name": "Shreed Test",
-            "companyName": null,
-            "email": "emarketingkingsofficial@gmail.com",
-            "phone": "+912817217281",
-            "tags": [
-              "5daylive",
-              "circle_active_member",
-              "clarity_call_booked",
-              "free_ggtm",
-              "aa - kajabi",
-              "ggtc_free_training_signup",
-              "new lead",
-              "assigned to ferny"
-            ],
-            "score": []
-          },
-          "sort": [
-            1787609042132,
-            "qXZetRaPFEG9a7FUWEW5"
-          ],
-          "attributions": [
-            {
-              "pageUrl": "https://gogetemcommunity.com/",
-              "utmSessionSource": "Direct traffic",
-              "ip": "92.55.82.80",
-              "isFirst": true,
-              "medium": "chat_widget",
-              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
-              "url": "https://gogetemcommunity.com/"
-            },
-            {
-              "pageUrl": "https://gogetemcommunity.com/growth-blocker.html",
-              "utmSessionSource": "Direct traffic",
-              "isLast": true,
-              "ip": "2409:40d5:1073:2b41:7865:f41e:2eef:1818",
-              "medium": "form",
-              "mediumId": "muiUniGFhCNqBm9Ak62g",
-              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-              "url": "https://gogetemcommunity.com/growth-blocker.html"
-            }
-          ]
-        },
         {
           "id": "thHCeEjUkJWhkaCuzK7a",
           "name": "Lori Ortiz",
@@ -72472,6 +72307,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "HS9GFcdqfEyV4myBBEcW",
+          "lastMessageDate": 1787679585174,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "uWSWZCvYXV7TvcguK9jH",
           "lastMessageDate": 1787589070612,
           "type": "TYPE_PHONE"
@@ -72529,11 +72369,6 @@
         {
           "id": "qnXFtrmo0pzxZmlSE7eB",
           "lastMessageDate": 1787252864301,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "HS9GFcdqfEyV4myBBEcW",
-          "lastMessageDate": 1787074782895,
           "type": "TYPE_PHONE"
         },
         {
@@ -72972,6 +72807,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "HS9GFcdqfEyV4myBBEcW",
+          "lastMessageDate": 1787679585174,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "uWSWZCvYXV7TvcguK9jH",
           "lastMessageDate": 1787589070612,
           "type": "TYPE_PHONE"
@@ -73029,11 +72869,6 @@
         {
           "id": "qnXFtrmo0pzxZmlSE7eB",
           "lastMessageDate": 1787252864301,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "HS9GFcdqfEyV4myBBEcW",
-          "lastMessageDate": 1787074782895,
           "type": "TYPE_PHONE"
         },
         {
