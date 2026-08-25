@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-25T19:34:38.358Z",
+  "syncedAt": "2026-08-25T20:31:51.968Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -8,7 +8,7 @@
       "manualSms": 270,
       "autoSms": 480,
       "manualEmail": 104,
-      "autoEmail": 3164,
+      "autoEmail": 3166,
       "byDay": [
         {
           "date": "2025-12-29",
@@ -1032,10 +1032,112 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 10
+          "autoEmail": 12
         }
       ],
       "opportunities": [
+        {
+          "id": "Gv1JjQw4UfFtmQydSmjF",
+          "name": "Samuel Akinwande",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "assignedTo": "C7PplofCN88pv8MTTiZT",
+          "status": "open",
+          "source": "[[source]]",
+          "lastStatusChangeAt": "2026-08-25T20:02:31.746Z",
+          "lastStageChangeAt": "2026-08-25T20:04:01.523Z",
+          "createdAt": "2026-08-25T20:02:31.745Z",
+          "updatedAt": "2026-08-25T20:04:01.667Z",
+          "forecastProbability": null,
+          "effectiveProbability": 31.25,
+          "contactId": "QGBK4PP0ZoMgtNUImwYm",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "Gv1JjQw4UfFtmQydSmjF",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "QGBK4PP0ZoMgtNUImwYm",
+              "fullName": "Samuel Akinwande",
+              "contactName": "Samuel Akinwande",
+              "companyName": null,
+              "email": "tech@gogosrealestate.com",
+              "phone": "+2349090090999",
+              "tags": [
+                "keyword:social",
+                "audit call submitted",
+                "circle_member_approved",
+                "circle_contract_signed",
+                "gogetem affiliate",
+                "circle_waitlist",
+                "smc",
+                "gogetem updated",
+                "ggtc_free_training_signup",
+                "goget'em member; new",
+                "clarity_call_offered",
+                "⭕ signed - $2.5k/$13.5k",
+                "clarity_call_expired",
+                "niche-finder",
+                "goget'em canceled",
+                "blocker quiz",
+                "new lead",
+                "assigned to natalia"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "QGBK4PP0ZoMgtNUImwYm",
+            "name": "Samuel Akinwande",
+            "companyName": null,
+            "email": "tech@gogosrealestate.com",
+            "phone": "+2349090090999",
+            "tags": [
+              "keyword:social",
+              "audit call submitted",
+              "circle_member_approved",
+              "circle_contract_signed",
+              "gogetem affiliate",
+              "circle_waitlist",
+              "smc",
+              "gogetem updated",
+              "ggtc_free_training_signup",
+              "goget'em member; new",
+              "clarity_call_offered",
+              "⭕ signed - $2.5k/$13.5k",
+              "clarity_call_expired",
+              "niche-finder",
+              "goget'em canceled",
+              "blocker quiz",
+              "new lead",
+              "assigned to natalia"
+            ],
+            "score": []
+          },
+          "sort": [
+            1787688151745,
+            "QGBK4PP0ZoMgtNUImwYm"
+          ],
+          "attributions": [
+            {
+              "pageUrl": "https://gogetemcommunity.com/growth-blocker.html?utm_source=manychat",
+              "utmSessionSource": "Direct traffic",
+              "isLast": true,
+              "ip": "2c0f:f5c0:b10:2b86:7c13:169e:2042:8771",
+              "medium": "form",
+              "mediumId": "muiUniGFhCNqBm9Ak62g",
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+              "url": "https://gogetemcommunity.com/growth-blocker.html",
+              "utmSource": "manychat"
+            }
+          ]
+        },
         {
           "id": "v4y0rncK484b3EIQYG6F",
           "name": "Denise Fernandes",
@@ -47512,6 +47614,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "KHRW5tErGPbvBL8tDZwv",
+          "lastMessageDate": 1787687560292,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "EjLjvB4OYBHTxowNbNML",
           "lastMessageDate": 1787678536803,
           "type": "TYPE_PHONE"
@@ -47599,11 +47706,6 @@
         {
           "id": "lqvtaPljoxBBCe3G1j4k",
           "lastMessageDate": 1787580068944,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "KHRW5tErGPbvBL8tDZwv",
-          "lastMessageDate": 1787580068911,
           "type": "TYPE_PHONE"
         },
         {
@@ -48012,6 +48114,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "KHRW5tErGPbvBL8tDZwv",
+          "lastMessageDate": 1787687560292,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "EjLjvB4OYBHTxowNbNML",
           "lastMessageDate": 1787678536803,
           "type": "TYPE_PHONE"
@@ -48099,11 +48206,6 @@
         {
           "id": "lqvtaPljoxBBCe3G1j4k",
           "lastMessageDate": 1787580068944,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "KHRW5tErGPbvBL8tDZwv",
-          "lastMessageDate": 1787580068911,
           "type": "TYPE_PHONE"
         },
         {
@@ -48519,7 +48621,7 @@
       "manualSms": 82,
       "autoSms": 240,
       "manualEmail": 26,
-      "autoEmail": 1508,
+      "autoEmail": 1510,
       "byDay": [
         {
           "date": "2026-04-21",
@@ -49183,10 +49285,116 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 2
+          "autoEmail": 4
         }
       ],
       "opportunities": [
+        {
+          "id": "8LN1OKaH51qx40Haaimn",
+          "name": "Samuel Akinwande",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "80949724-7894-4a42-8028-746a06208f9e",
+          "pipelineStageUId": "80949724-7894-4a42-8028-746a06208f9e",
+          "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
+          "status": "open",
+          "source": "order form-prebuilt goget'em",
+          "lastStatusChangeAt": "2026-08-25T19:52:50.677Z",
+          "lastStageChangeAt": "2026-08-25T19:53:55.780Z",
+          "createdAt": "2026-08-25T19:52:50.677Z",
+          "updatedAt": "2026-08-25T19:53:56.062Z",
+          "forecastProbability": null,
+          "effectiveProbability": 25,
+          "contactId": "YmkJZ1OfHOM7g4jQtuZY",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "8LN1OKaH51qx40Haaimn",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "YmkJZ1OfHOM7g4jQtuZY",
+              "fullName": "Samuel Akinwande",
+              "contactName": "Samuel Akinwande",
+              "companyName": null,
+              "email": "akinwandesammy02@gmail.com",
+              "phone": "+2349071678625",
+              "tags": [
+                "ggtc | gogo launch",
+                "gogetem affiliate",
+                "goget'em yearly sub",
+                "renewal date added",
+                "smc",
+                "keyword:social",
+                "keyword:community",
+                "circle_waitlist",
+                "ggtc_free_training_signup",
+                "goget'em member; new",
+                "niche-finder-paid",
+                "blocker quiz",
+                "new lead",
+                "assigned to ferny"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "YmkJZ1OfHOM7g4jQtuZY",
+            "name": "Samuel Akinwande",
+            "companyName": null,
+            "email": "akinwandesammy02@gmail.com",
+            "phone": "+2349071678625",
+            "tags": [
+              "ggtc | gogo launch",
+              "gogetem affiliate",
+              "goget'em yearly sub",
+              "renewal date added",
+              "smc",
+              "keyword:social",
+              "keyword:community",
+              "circle_waitlist",
+              "ggtc_free_training_signup",
+              "goget'em member; new",
+              "niche-finder-paid",
+              "blocker quiz",
+              "new lead",
+              "assigned to ferny"
+            ],
+            "score": []
+          },
+          "sort": [
+            1787687570677,
+            "YmkJZ1OfHOM7g4jQtuZY"
+          ],
+          "attributions": [
+            {
+              "pageUrl": "https://checkout.gogetemcommunity.com/join",
+              "utmSessionSource": "Direct traffic",
+              "fbp": "fb.1.1758044086938.458343290121209798",
+              "ip": "169.150.197.227",
+              "isFirst": true,
+              "medium": "form",
+              "mediumId": "oNPhc6YRZ3qFiXQjEfpd",
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+              "gaClientId": "GA1.1.1913264365.1757701428",
+              "url": "https://checkout.gogetemcommunity.com/join"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/growth-blocker.html?utm_source=manychat",
+              "utmSessionSource": "Direct traffic",
+              "isLast": true,
+              "ip": "2c0f:f5c0:b10:2b86:7c13:169e:2042:8771",
+              "medium": "form",
+              "mediumId": "muiUniGFhCNqBm9Ak62g",
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+              "url": "https://gogetemcommunity.com/growth-blocker.html",
+              "utmSource": "manychat"
+            }
+          ]
+        },
         {
           "id": "thHCeEjUkJWhkaCuzK7a",
           "name": "Lori Ortiz",
@@ -72307,6 +72515,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "sLmWnRXhvhXvU0LlmY20",
+          "lastMessageDate": 1787687090571,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "HS9GFcdqfEyV4myBBEcW",
           "lastMessageDate": 1787679585174,
           "type": "TYPE_PHONE"
@@ -72319,11 +72532,6 @@
         {
           "id": "Uy8Y0tEhAUCGhMxpeBQf",
           "lastMessageDate": 1787580716451,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "sLmWnRXhvhXvU0LlmY20",
-          "lastMessageDate": 1787580072294,
           "type": "TYPE_PHONE"
         },
         {
@@ -72807,6 +73015,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "sLmWnRXhvhXvU0LlmY20",
+          "lastMessageDate": 1787687090571,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "HS9GFcdqfEyV4myBBEcW",
           "lastMessageDate": 1787679585174,
           "type": "TYPE_PHONE"
@@ -72819,11 +73032,6 @@
         {
           "id": "Uy8Y0tEhAUCGhMxpeBQf",
           "lastMessageDate": 1787580716451,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "sLmWnRXhvhXvU0LlmY20",
-          "lastMessageDate": 1787580072294,
           "type": "TYPE_PHONE"
         },
         {
