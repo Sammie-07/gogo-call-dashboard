@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-08-25T15:44:29.846Z",
+  "syncedAt": "2026-08-25T16:40:21.839Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
-      "calls": 194,
+      "calls": 192,
       "talkTimeMinutes": 154,
       "manualSms": 270,
-      "autoSms": 486,
+      "autoSms": 480,
       "manualEmail": 104,
-      "autoEmail": 3196,
+      "autoEmail": 3164,
       "byDay": [
         {
           "date": "2025-12-29",
@@ -176,7 +176,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 98
+          "autoEmail": 96
         },
         {
           "date": "2026-04-25",
@@ -192,7 +192,7 @@
           "manualSms": 0,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 126
+          "autoEmail": 124
         },
         {
           "date": "2026-04-28",
@@ -232,7 +232,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 114
+          "autoEmail": 112
         },
         {
           "date": "2026-05-03",
@@ -256,7 +256,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 114
+          "autoEmail": 112
         },
         {
           "date": "2026-05-06",
@@ -288,7 +288,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 110
+          "autoEmail": 108
         },
         {
           "date": "2026-05-11",
@@ -328,7 +328,7 @@
           "manualSms": 2,
           "autoSms": 0,
           "manualEmail": 2,
-          "autoEmail": 96
+          "autoEmail": 94
         },
         {
           "date": "2026-05-16",
@@ -352,7 +352,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 114
+          "autoEmail": 112
         },
         {
           "date": "2026-05-19",
@@ -376,7 +376,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 104
+          "autoEmail": 102
         },
         {
           "date": "2026-05-22",
@@ -416,7 +416,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 2,
-          "autoEmail": 96
+          "autoEmail": 94
         },
         {
           "date": "2026-05-27",
@@ -440,7 +440,7 @@
           "manualSms": 8,
           "autoSms": 6,
           "manualEmail": 0,
-          "autoEmail": 88
+          "autoEmail": 86
         },
         {
           "date": "2026-05-30",
@@ -596,11 +596,11 @@
         },
         {
           "date": "2026-06-25",
-          "calls": 18,
+          "calls": 16,
           "manualSms": 0,
-          "autoSms": 14,
+          "autoSms": 12,
           "manualEmail": 0,
-          "autoEmail": 30
+          "autoEmail": 28
         },
         {
           "date": "2026-06-26",
@@ -622,9 +622,9 @@
           "date": "2026-06-28",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 14,
+          "autoSms": 12,
           "manualEmail": 0,
-          "autoEmail": 24
+          "autoEmail": 22
         },
         {
           "date": "2026-06-29",
@@ -656,7 +656,7 @@
           "manualSms": 2,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 44
+          "autoEmail": 42
         },
         {
           "date": "2026-07-03",
@@ -670,9 +670,9 @@
           "date": "2026-07-05",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 14,
+          "autoSms": 12,
           "manualEmail": 0,
-          "autoEmail": 24
+          "autoEmail": 22
         },
         {
           "date": "2026-07-06",
@@ -704,7 +704,7 @@
           "manualSms": 6,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 24
+          "autoEmail": 22
         },
         {
           "date": "2026-07-10",
@@ -728,7 +728,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 14
+          "autoEmail": 12
         },
         {
           "date": "2026-07-13",
@@ -760,7 +760,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 26
+          "autoEmail": 24
         },
         {
           "date": "2026-07-17",
@@ -782,9 +782,9 @@
           "date": "2026-07-19",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 16,
+          "autoSms": 14,
           "manualEmail": 0,
-          "autoEmail": 26
+          "autoEmail": 24
         },
         {
           "date": "2026-07-20",
@@ -1030,12 +1030,88 @@
           "date": "2026-08-25",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 2,
+          "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 6
+          "autoEmail": 10
         }
       ],
       "opportunities": [
+        {
+          "id": "v4y0rncK484b3EIQYG6F",
+          "name": "Denise Fernandes",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "assignedTo": "C7PplofCN88pv8MTTiZT",
+          "status": "open",
+          "source": "Trial period for GoGet'Em Webinars Membership (1mo FREE)",
+          "lastStatusChangeAt": "2026-08-25T16:28:30.601Z",
+          "lastStageChangeAt": "2026-08-25T16:28:30.601Z",
+          "createdAt": "2026-08-25T16:28:30.600Z",
+          "updatedAt": "2026-08-25T16:28:34.093Z",
+          "forecastProbability": null,
+          "effectiveProbability": 31.25,
+          "contactId": "xqHXvOFaK3l4YhXcVXpp",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "v4y0rncK484b3EIQYG6F",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "xqHXvOFaK3l4YhXcVXpp",
+              "fullName": "Denise Fernandes",
+              "contactName": "Denise Fernandes",
+              "companyName": null,
+              "email": "denise.fernandes@exprealty.com",
+              "phone": null,
+              "tags": [
+                "kristaandgogo",
+                "goget'em canceled",
+                "keyword:community",
+                "new lead",
+                "assigned to natalia"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "xqHXvOFaK3l4YhXcVXpp",
+            "name": "Denise Fernandes",
+            "companyName": null,
+            "email": "denise.fernandes@exprealty.com",
+            "phone": null,
+            "tags": [
+              "kristaandgogo",
+              "goget'em canceled",
+              "keyword:community",
+              "new lead",
+              "assigned to natalia"
+            ],
+            "score": []
+          },
+          "sort": [
+            1787675310600,
+            "xqHXvOFaK3l4YhXcVXpp"
+          ],
+          "attributions": [
+            {
+              "utmSessionSource": "CRM UI",
+              "isFirst": true,
+              "medium": "manual"
+            },
+            {
+              "utmSessionSource": "Social media",
+              "isLast": true,
+              "medium": "facebook",
+              "mediumId": "5324304707627396"
+            }
+          ]
+        },
         {
           "id": "ZMS2vrYDIdilA1bZBgNs",
           "name": "Natalia Duraes",
@@ -1244,7 +1320,8 @@
                 "goget'em canceled",
                 "wine not millionaire",
                 "new lead",
-                "assigned to natalia"
+                "assigned to natalia",
+                "blocker quiz"
               ],
               "attributed": true
             }
@@ -1263,7 +1340,8 @@
               "goget'em canceled",
               "wine not millionaire",
               "new lead",
-              "assigned to natalia"
+              "assigned to natalia",
+              "blocker quiz"
             ],
             "score": []
           },
@@ -47517,6 +47595,21 @@
       ],
       "conversationsAll": [
         {
+          "id": "xibRaCwejV1J3j4INVcz",
+          "lastMessageDate": 1787674435445,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "M1OV1m3qtXQRHZBYC9OC",
+          "lastMessageDate": 1787674318669,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "EjLjvB4OYBHTxowNbNML",
+          "lastMessageDate": 1787673430324,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "6UZ9c8jkpRLzP3lRbusZ",
           "lastMessageDate": 1787667030243,
           "type": "TYPE_PHONE"
@@ -47544,11 +47637,6 @@
         {
           "id": "AtVR7nSLrbUm57EAfzmP",
           "lastMessageDate": 1787591707858,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "M1OV1m3qtXQRHZBYC9OC",
-          "lastMessageDate": 1787589913156,
           "type": "TYPE_PHONE"
         },
         {
@@ -47659,11 +47747,6 @@
         {
           "id": "gSfUmEe5pNXKo8RI1ptI",
           "lastMessageDate": 1787330773400,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "xibRaCwejV1J3j4INVcz",
-          "lastMessageDate": 1787328832752,
           "type": "TYPE_PHONE"
         },
         {
@@ -48012,8 +48095,18 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "Nc7is43lPCc5EGaT3l4a",
-          "lastMessageDate": 1784484431246,
+          "id": "xibRaCwejV1J3j4INVcz",
+          "lastMessageDate": 1787674435445,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "M1OV1m3qtXQRHZBYC9OC",
+          "lastMessageDate": 1787674318669,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "EjLjvB4OYBHTxowNbNML",
+          "lastMessageDate": 1787673430324,
           "type": "TYPE_PHONE"
         },
         {
@@ -48044,11 +48137,6 @@
         {
           "id": "AtVR7nSLrbUm57EAfzmP",
           "lastMessageDate": 1787591707858,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "M1OV1m3qtXQRHZBYC9OC",
-          "lastMessageDate": 1787589913156,
           "type": "TYPE_PHONE"
         },
         {
@@ -48159,11 +48247,6 @@
         {
           "id": "gSfUmEe5pNXKo8RI1ptI",
           "lastMessageDate": 1787330773400,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "xibRaCwejV1J3j4INVcz",
-          "lastMessageDate": 1787328832752,
           "type": "TYPE_PHONE"
         },
         {
@@ -48509,11 +48592,6 @@
         {
           "id": "bLIGvn1oKjN9ANanglyl",
           "lastMessageDate": 1784484510345,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "Nc7is43lPCc5EGaT3l4a",
-          "lastMessageDate": 1784484431246,
           "type": "TYPE_PHONE"
         }
       ]
@@ -49309,7 +49387,8 @@
               "phone": "+16169155115",
               "tags": [
                 "new lead",
-                "assigned to ferny"
+                "assigned to ferny",
+                "blocker quiz"
               ],
               "attributed": true
             }
@@ -49322,7 +49401,8 @@
             "phone": "+16169155115",
             "tags": [
               "new lead",
-              "assigned to ferny"
+              "assigned to ferny",
+              "blocker quiz"
             ],
             "score": []
           },
@@ -49477,7 +49557,8 @@
               "tags": [
                 "stimulus package",
                 "new lead",
-                "assigned to ferny"
+                "assigned to ferny",
+                "blocker quiz"
               ],
               "attributed": true
             }
@@ -49491,7 +49572,8 @@
             "tags": [
               "stimulus package",
               "new lead",
-              "assigned to ferny"
+              "assigned to ferny",
+              "blocker quiz"
             ],
             "score": []
           },
@@ -58637,7 +58719,8 @@
               "phone": "+17326842299",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "blocker quiz"
               ],
               "attributed": true
             }
@@ -58650,7 +58733,8 @@
             "phone": "+17326842299",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "blocker quiz"
             ],
             "score": []
           },
