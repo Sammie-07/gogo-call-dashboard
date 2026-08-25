@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-08-25T12:50:34.806Z",
+  "syncedAt": "2026-08-25T13:53:15.173Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 194,
       "talkTimeMinutes": 154,
       "manualSms": 270,
-      "autoSms": 484,
+      "autoSms": 486,
       "manualEmail": 104,
-      "autoEmail": 3190,
+      "autoEmail": 3192,
       "byDay": [
         {
           "date": "2025-12-29",
@@ -1025,9 +1025,100 @@
           "autoSms": 22,
           "manualEmail": 2,
           "autoEmail": 52
+        },
+        {
+          "date": "2026-08-25",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 2,
+          "manualEmail": 0,
+          "autoEmail": 2
         }
       ],
       "opportunities": [
+        {
+          "id": "ZMS2vrYDIdilA1bZBgNs",
+          "name": "Natalia Duraes",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "assignedTo": "C7PplofCN88pv8MTTiZT",
+          "status": "open",
+          "source": "order form-prebuilt goget'em",
+          "lastStatusChangeAt": "2026-08-25T13:40:11.049Z",
+          "lastStageChangeAt": "2026-08-25T13:41:16.060Z",
+          "createdAt": "2026-08-25T13:40:11.049Z",
+          "updatedAt": "2026-08-25T13:41:16.159Z",
+          "forecastProbability": null,
+          "effectiveProbability": 31.25,
+          "contactId": "bVxYFlTfgM5qDPenRqXU",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "ZMS2vrYDIdilA1bZBgNs",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "bVxYFlTfgM5qDPenRqXU",
+              "fullName": "natalia duraes",
+              "contactName": "natalia duraes",
+              "companyName": null,
+              "email": "nataliasduraes@gmail.com",
+              "phone": "+5557112050505",
+              "tags": [
+                "smc",
+                "goget'em canceled",
+                "new lead",
+                "niche-finder",
+                "ggtc_free_training_signup",
+                "assigned to natalia"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "bVxYFlTfgM5qDPenRqXU",
+            "name": "natalia duraes",
+            "companyName": null,
+            "email": "nataliasduraes@gmail.com",
+            "phone": "+5557112050505",
+            "tags": [
+              "smc",
+              "goget'em canceled",
+              "new lead",
+              "niche-finder",
+              "ggtc_free_training_signup",
+              "assigned to natalia"
+            ],
+            "score": []
+          },
+          "sort": [
+            1787665211049,
+            "bVxYFlTfgM5qDPenRqXU"
+          ],
+          "attributions": [
+            {
+              "utmSessionSource": "Other",
+              "isFirst": true,
+              "medium": "instagram",
+              "mediumId": "2424470371286875"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/live/",
+              "utmSessionSource": "Direct traffic",
+              "isLast": true,
+              "ip": "93.88.156.82",
+              "medium": "form",
+              "mediumId": "rtTNrLeOuDNq53WY7xwd",
+              "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+              "url": "https://gogetemcommunity.com/live/"
+            }
+          ]
+        },
         {
           "id": "ZriZ3Npxkll6qSiz42xi",
           "name": "Nancy. Stewart",
@@ -47426,6 +47517,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "HD5jLwef0rEfOO4FyS1L",
+          "lastMessageDate": 1787665815868,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "d0kjBlUairge4W0hM3tR",
           "lastMessageDate": 1787603759058,
           "type": "TYPE_PHONE"
@@ -47603,11 +47699,6 @@
         {
           "id": "8nixkbEWmHSUyuD2S3Ze",
           "lastMessageDate": 1787256978703,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "HD5jLwef0rEfOO4FyS1L",
-          "lastMessageDate": 1787157414071,
           "type": "TYPE_PHONE"
         },
         {
@@ -47926,6 +48017,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "HD5jLwef0rEfOO4FyS1L",
+          "lastMessageDate": 1787665815868,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "d0kjBlUairge4W0hM3tR",
           "lastMessageDate": 1787603759058,
           "type": "TYPE_PHONE"
@@ -48103,11 +48199,6 @@
         {
           "id": "8nixkbEWmHSUyuD2S3Ze",
           "lastMessageDate": 1787256978703,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "HD5jLwef0rEfOO4FyS1L",
-          "lastMessageDate": 1787157414071,
           "type": "TYPE_PHONE"
         },
         {
