@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-08-26T12:55:14.260Z",
+  "syncedAt": "2026-08-26T13:57:17.868Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
-      "calls": 194,
-      "talkTimeMinutes": 157,
-      "manualSms": 272,
-      "autoSms": 480,
+      "calls": 196,
+      "talkTimeMinutes": 160,
+      "manualSms": 274,
+      "autoSms": 482,
       "manualEmail": 104,
-      "autoEmail": 3148,
+      "autoEmail": 3150,
       "byDay": [
         {
           "date": "2025-12-29",
@@ -1041,6 +1041,14 @@
           "autoSms": 4,
           "manualEmail": 0,
           "autoEmail": 12
+        },
+        {
+          "date": "2026-08-26",
+          "calls": 2,
+          "manualSms": 2,
+          "autoSms": 2,
+          "manualEmail": 0,
+          "autoEmail": 2
         }
       ],
       "opportunities": [
@@ -12916,17 +12924,17 @@
           "name": "Roshni Aneja",
           "monetaryValue": 0,
           "pipelineId": "4ODbBsC9MIjSBtnIOETl",
-          "pipelineStageId": "9af4ce40-5d59-4bbc-bb7a-a035ad6c0a46",
-          "pipelineStageUId": "9af4ce40-5d59-4bbc-bb7a-a035ad6c0a46",
+          "pipelineStageId": "5ab71bd0-0254-44b8-9a73-c92ca538e7fb",
+          "pipelineStageUId": "5ab71bd0-0254-44b8-9a73-c92ca538e7fb",
           "assignedTo": "C7PplofCN88pv8MTTiZT",
           "status": "open",
           "source": null,
           "lastStatusChangeAt": "2026-02-27T20:03:52.960Z",
-          "lastStageChangeAt": "2026-04-29T14:21:21.003Z",
+          "lastStageChangeAt": "2026-08-26T13:36:13.557Z",
           "createdAt": "2026-02-27T20:03:52.960Z",
-          "updatedAt": "2026-04-29T14:21:22.556Z",
+          "updatedAt": "2026-08-26T13:36:13.570Z",
           "forecastProbability": null,
-          "effectiveProbability": 43.75,
+          "effectiveProbability": 93.75,
           "indexVersion": 1,
           "contactId": "gQLA8SFPTwx2kRAQ9BuK",
           "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
@@ -47622,8 +47630,13 @@
       ],
       "conversationsAll": [
         {
+          "id": "HD5jLwef0rEfOO4FyS1L",
+          "lastMessageDate": 1787752223551,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "XX0p8GkPXiPUnlLSFgBC",
-          "lastMessageDate": 1787717690301,
+          "lastMessageDate": 1787751314366,
           "type": "TYPE_PHONE"
         },
         {
@@ -47654,11 +47667,6 @@
         {
           "id": "SLYFTiPX0h4h6I37WAQ8",
           "lastMessageDate": 1787666967222,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "HD5jLwef0rEfOO4FyS1L",
-          "lastMessageDate": 1787665815868,
           "type": "TYPE_PHONE"
         },
         {
@@ -48122,8 +48130,13 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "HD5jLwef0rEfOO4FyS1L",
+          "lastMessageDate": 1787752223551,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "XX0p8GkPXiPUnlLSFgBC",
-          "lastMessageDate": 1787717690301,
+          "lastMessageDate": 1787751314366,
           "type": "TYPE_PHONE"
         },
         {
@@ -48154,11 +48167,6 @@
         {
           "id": "SLYFTiPX0h4h6I37WAQ8",
           "lastMessageDate": 1787666967222,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "HD5jLwef0rEfOO4FyS1L",
-          "lastMessageDate": 1787665815868,
           "type": "TYPE_PHONE"
         },
         {
