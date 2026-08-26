@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-26T19:06:36.610Z",
+  "syncedAt": "2026-08-26T22:51:04.809Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -344,7 +344,7 @@
           "manualSms": 2,
           "autoSms": 0,
           "manualEmail": 2,
-          "autoEmail": 84
+          "autoEmail": 82
         },
         {
           "date": "2026-05-16",
@@ -368,7 +368,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 104
+          "autoEmail": 102
         },
         {
           "date": "2026-05-19",
@@ -1056,7 +1056,7 @@
           "manualSms": 10,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 26
+          "autoEmail": 30
         }
       ],
       "opportunities": [
@@ -3780,8 +3780,8 @@
               "primary": true,
               "objectKey": "contact",
               "recordId": "c8LQ0zFQKba4V0ZYk30o",
-              "fullName": "CHRISTINE Ives IVES POLIZZI",
-              "contactName": "CHRISTINE Ives IVES POLIZZI",
+              "fullName": "CHRISTINE IVES POLIZZI",
+              "contactName": "CHRISTINE IVES POLIZZI",
               "companyName": null,
               "email": "chrissi.polizzi@exprealty.com",
               "phone": "+15705617189",
@@ -3801,14 +3801,17 @@
                 "circle_active_member",
                 "smc",
                 "new lead",
-                "assigned to natalia"
+                "assigned to natalia",
+                "gogetem affiliate",
+                "goget'em member; new",
+                "ggtc onboarding call scheduled"
               ],
               "attributed": true
             }
           ],
           "contact": {
             "id": "c8LQ0zFQKba4V0ZYk30o",
-            "name": "CHRISTINE Ives IVES POLIZZI",
+            "name": "CHRISTINE IVES POLIZZI",
             "companyName": null,
             "email": "chrissi.polizzi@exprealty.com",
             "phone": "+15705617189",
@@ -3828,7 +3831,10 @@
               "circle_active_member",
               "smc",
               "new lead",
-              "assigned to natalia"
+              "assigned to natalia",
+              "gogetem affiliate",
+              "goget'em member; new",
+              "ggtc onboarding call scheduled"
             ],
             "score": []
           },
@@ -47634,12 +47640,41 @@
             "userId": null
           },
           "deleted": false
+        },
+        {
+          "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
+          "assignedUserId": "C7PplofCN88pv8MTTiZT",
+          "address": "https://zoom.us/j/98827914664",
+          "calendarId": "8kLbo3OukoeNXebq8B4b",
+          "contactId": "c8LQ0zFQKba4V0ZYk30o",
+          "dateAdded": "2026-08-26T19:57:17.000Z",
+          "dateUpdated": "2026-08-26T19:57:17.000Z",
+          "endTime": "2026-09-03T16:00:00-04:00",
+          "id": "JBmzVzQdMauEUXHX3CbY",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "notes": "Not exactly sure I’m definitely looking to start utilizing virtual assistance that Gogo uses",
+          "description": "Not exactly sure I’m definitely looking to start utilizing virtual assistance that Gogo uses",
+          "startTime": "2026-09-03T15:00:00-04:00",
+          "title": "GGTC Onboarding Call - CHRISTINE IVES POLIZZI",
+          "assignedResources": [],
+          "isRecurring": false,
+          "createdBy": {
+            "source": "booking_widget",
+            "userId": null
+          },
+          "deleted": false
         }
       ],
       "conversationsAll": [
         {
+          "id": "qDKbcRwB2fZTY7P9hQNo",
+          "lastMessageDate": 1787774460934,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "EjLjvB4OYBHTxowNbNML",
-          "lastMessageDate": 1787763872136,
+          "lastMessageDate": 1787773465707,
           "type": "TYPE_PHONE"
         },
         {
@@ -47670,11 +47705,6 @@
         {
           "id": "52NhSVeJes9c0XygMGMp",
           "lastMessageDate": 1787758762316,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "qDKbcRwB2fZTY7P9hQNo",
-          "lastMessageDate": 1787758762230,
           "type": "TYPE_PHONE"
         },
         {
@@ -48138,8 +48168,13 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "qDKbcRwB2fZTY7P9hQNo",
+          "lastMessageDate": 1787774460934,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "EjLjvB4OYBHTxowNbNML",
-          "lastMessageDate": 1787763872136,
+          "lastMessageDate": 1787773465707,
           "type": "TYPE_PHONE"
         },
         {
@@ -48170,11 +48205,6 @@
         {
           "id": "52NhSVeJes9c0XygMGMp",
           "lastMessageDate": 1787758762316,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "qDKbcRwB2fZTY7P9hQNo",
-          "lastMessageDate": 1787758762230,
           "type": "TYPE_PHONE"
         },
         {
@@ -49313,6 +49343,96 @@
         }
       ],
       "opportunities": [
+        {
+          "id": "pMOryRtNeequwIegBerc",
+          "name": "Shreed Test",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "80949724-7894-4a42-8028-746a06208f9e",
+          "pipelineStageUId": "80949724-7894-4a42-8028-746a06208f9e",
+          "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
+          "status": "open",
+          "source": "ee09e95",
+          "lastStatusChangeAt": "2026-08-26T20:15:59.795Z",
+          "lastStageChangeAt": "2026-08-26T20:17:04.864Z",
+          "createdAt": "2026-08-26T20:15:59.795Z",
+          "updatedAt": "2026-08-26T20:17:05.008Z",
+          "forecastProbability": null,
+          "effectiveProbability": 25,
+          "contactId": "qXZetRaPFEG9a7FUWEW5",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "pMOryRtNeequwIegBerc",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "qXZetRaPFEG9a7FUWEW5",
+              "fullName": "Shreed Test",
+              "contactName": "Shreed Test",
+              "companyName": null,
+              "email": "emarketingkingsofficial@gmail.com",
+              "phone": "+918391829212",
+              "tags": [
+                "5daylive",
+                "circle_active_member",
+                "clarity_call_booked",
+                "free_ggtm",
+                "aa - kajabi",
+                "ggtc_free_training_signup",
+                "new lead",
+                "assigned to ferny"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "qXZetRaPFEG9a7FUWEW5",
+            "name": "Shreed Test",
+            "companyName": null,
+            "email": "emarketingkingsofficial@gmail.com",
+            "phone": "+918391829212",
+            "tags": [
+              "5daylive",
+              "circle_active_member",
+              "clarity_call_booked",
+              "free_ggtm",
+              "aa - kajabi",
+              "ggtc_free_training_signup",
+              "new lead",
+              "assigned to ferny"
+            ],
+            "score": []
+          },
+          "sort": [
+            1787775359795,
+            "qXZetRaPFEG9a7FUWEW5"
+          ],
+          "attributions": [
+            {
+              "pageUrl": "https://gogetemcommunity.com/",
+              "utmSessionSource": "Direct traffic",
+              "ip": "92.55.82.80",
+              "isFirst": true,
+              "medium": "chat_widget",
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+              "url": "https://gogetemcommunity.com/"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/growth-blocker.html",
+              "utmSessionSource": "Direct traffic",
+              "isLast": true,
+              "ip": "2409:40d5:1073:2b41:c489:64f8:cb15:fa3c",
+              "medium": "form",
+              "mediumId": "muiUniGFhCNqBm9Ak62g",
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+              "url": "https://gogetemcommunity.com/growth-blocker.html"
+            }
+          ]
+        },
         {
           "id": "thHCeEjUkJWhkaCuzK7a",
           "name": "Lori Ortiz",
