@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-08-26T16:20:29.415Z",
+  "syncedAt": "2026-08-26T19:06:36.610Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 190,
       "talkTimeMinutes": 154,
-      "manualSms": 274,
+      "manualSms": 282,
       "autoSms": 458,
       "manualEmail": 104,
-      "autoEmail": 3064,
+      "autoEmail": 3066,
       "byDay": [
         {
           "date": "2025-12-11",
@@ -1053,10 +1053,10 @@
         {
           "date": "2026-08-26",
           "calls": 2,
-          "manualSms": 2,
+          "manualSms": 10,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 24
+          "autoEmail": 26
         }
       ],
       "opportunities": [
@@ -47638,6 +47638,36 @@
       ],
       "conversationsAll": [
         {
+          "id": "EjLjvB4OYBHTxowNbNML",
+          "lastMessageDate": 1787763872136,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "d0kjBlUairge4W0hM3tR",
+          "lastMessageDate": 1787762335098,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "aLzK5MYyjaQrzjNkzCCm",
+          "lastMessageDate": 1787762217213,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "HD5jLwef0rEfOO4FyS1L",
+          "lastMessageDate": 1787762216541,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "KozEW9zny8do5lD7DnHU",
+          "lastMessageDate": 1787762204951,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "NZm0DCAoqXpskIGbKPDW",
+          "lastMessageDate": 1787762079113,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "52NhSVeJes9c0XygMGMp",
           "lastMessageDate": 1787758762316,
           "type": "TYPE_PHONE"
@@ -47693,18 +47723,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "HD5jLwef0rEfOO4FyS1L",
-          "lastMessageDate": 1787752223551,
-          "type": "TYPE_PHONE"
-        },
-        {
           "id": "XX0p8GkPXiPUnlLSFgBC",
           "lastMessageDate": 1787751314366,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "EjLjvB4OYBHTxowNbNML",
-          "lastMessageDate": 1787678536803,
           "type": "TYPE_PHONE"
         },
         {
@@ -47725,11 +47745,6 @@
         {
           "id": "SLYFTiPX0h4h6I37WAQ8",
           "lastMessageDate": 1787666967222,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "d0kjBlUairge4W0hM3tR",
-          "lastMessageDate": 1787603759058,
           "type": "TYPE_PHONE"
         },
         {
@@ -47793,11 +47808,6 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "aLzK5MYyjaQrzjNkzCCm",
-          "lastMessageDate": 1787577242683,
-          "type": "TYPE_PHONE"
-        },
-        {
           "id": "gSfUmEe5pNXKo8RI1ptI",
           "lastMessageDate": 1787330773400,
           "type": "TYPE_PHONE"
@@ -47818,11 +47828,6 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "KozEW9zny8do5lD7DnHU",
-          "lastMessageDate": 1787317609851,
-          "type": "TYPE_PHONE"
-        },
-        {
           "id": "q8xZZ7IpVx2xT9cMuQCn",
           "lastMessageDate": 1787317418785,
           "type": "TYPE_PHONE"
@@ -47835,11 +47840,6 @@
         {
           "id": "Wp1g1izj7ionRO3SzijW",
           "lastMessageDate": 1787261207259,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "NZm0DCAoqXpskIGbKPDW",
-          "lastMessageDate": 1787258225909,
           "type": "TYPE_PHONE"
         },
         {
@@ -48138,6 +48138,36 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "EjLjvB4OYBHTxowNbNML",
+          "lastMessageDate": 1787763872136,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "d0kjBlUairge4W0hM3tR",
+          "lastMessageDate": 1787762335098,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "aLzK5MYyjaQrzjNkzCCm",
+          "lastMessageDate": 1787762217213,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "HD5jLwef0rEfOO4FyS1L",
+          "lastMessageDate": 1787762216541,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "KozEW9zny8do5lD7DnHU",
+          "lastMessageDate": 1787762204951,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "NZm0DCAoqXpskIGbKPDW",
+          "lastMessageDate": 1787762079113,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "52NhSVeJes9c0XygMGMp",
           "lastMessageDate": 1787758762316,
           "type": "TYPE_PHONE"
@@ -48193,18 +48223,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "HD5jLwef0rEfOO4FyS1L",
-          "lastMessageDate": 1787752223551,
-          "type": "TYPE_PHONE"
-        },
-        {
           "id": "XX0p8GkPXiPUnlLSFgBC",
           "lastMessageDate": 1787751314366,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "EjLjvB4OYBHTxowNbNML",
-          "lastMessageDate": 1787678536803,
           "type": "TYPE_PHONE"
         },
         {
@@ -48225,11 +48245,6 @@
         {
           "id": "SLYFTiPX0h4h6I37WAQ8",
           "lastMessageDate": 1787666967222,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "d0kjBlUairge4W0hM3tR",
-          "lastMessageDate": 1787603759058,
           "type": "TYPE_PHONE"
         },
         {
@@ -48293,11 +48308,6 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "aLzK5MYyjaQrzjNkzCCm",
-          "lastMessageDate": 1787577242683,
-          "type": "TYPE_PHONE"
-        },
-        {
           "id": "gSfUmEe5pNXKo8RI1ptI",
           "lastMessageDate": 1787330773400,
           "type": "TYPE_PHONE"
@@ -48318,11 +48328,6 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "KozEW9zny8do5lD7DnHU",
-          "lastMessageDate": 1787317609851,
-          "type": "TYPE_PHONE"
-        },
-        {
           "id": "q8xZZ7IpVx2xT9cMuQCn",
           "lastMessageDate": 1787317418785,
           "type": "TYPE_PHONE"
@@ -48335,11 +48340,6 @@
         {
           "id": "Wp1g1izj7ionRO3SzijW",
           "lastMessageDate": 1787261207259,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "NZm0DCAoqXpskIGbKPDW",
-          "lastMessageDate": 1787258225909,
           "type": "TYPE_PHONE"
         },
         {
@@ -49313,112 +49313,6 @@
         }
       ],
       "opportunities": [
-        {
-          "id": "8LN1OKaH51qx40Haaimn",
-          "name": "Samuel Akinwande",
-          "monetaryValue": 0,
-          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
-          "pipelineStageId": "80949724-7894-4a42-8028-746a06208f9e",
-          "pipelineStageUId": "80949724-7894-4a42-8028-746a06208f9e",
-          "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
-          "status": "open",
-          "source": "order form-prebuilt goget'em",
-          "lastStatusChangeAt": "2026-08-25T19:52:50.677Z",
-          "lastStageChangeAt": "2026-08-25T19:53:55.780Z",
-          "createdAt": "2026-08-25T19:52:50.677Z",
-          "updatedAt": "2026-08-25T19:53:56.062Z",
-          "forecastProbability": null,
-          "effectiveProbability": 25,
-          "contactId": "YmkJZ1OfHOM7g4jQtuZY",
-          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
-          "customFields": [],
-          "lostReasonId": null,
-          "followers": [],
-          "relations": [
-            {
-              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
-              "relationId": "8LN1OKaH51qx40Haaimn",
-              "primary": true,
-              "objectKey": "contact",
-              "recordId": "YmkJZ1OfHOM7g4jQtuZY",
-              "fullName": "Samuel Akinwande",
-              "contactName": "Samuel Akinwande",
-              "companyName": null,
-              "email": "akinwandesammy02@gmail.com",
-              "phone": "+2349071678625",
-              "tags": [
-                "ggtc | gogo launch",
-                "gogetem affiliate",
-                "goget'em yearly sub",
-                "renewal date added",
-                "smc",
-                "keyword:social",
-                "keyword:community",
-                "circle_waitlist",
-                "ggtc_free_training_signup",
-                "goget'em member; new",
-                "niche-finder-paid",
-                "blocker quiz",
-                "new lead",
-                "assigned to ferny"
-              ],
-              "attributed": true
-            }
-          ],
-          "contact": {
-            "id": "YmkJZ1OfHOM7g4jQtuZY",
-            "name": "Samuel Akinwande",
-            "companyName": null,
-            "email": "akinwandesammy02@gmail.com",
-            "phone": "+2349071678625",
-            "tags": [
-              "ggtc | gogo launch",
-              "gogetem affiliate",
-              "goget'em yearly sub",
-              "renewal date added",
-              "smc",
-              "keyword:social",
-              "keyword:community",
-              "circle_waitlist",
-              "ggtc_free_training_signup",
-              "goget'em member; new",
-              "niche-finder-paid",
-              "blocker quiz",
-              "new lead",
-              "assigned to ferny"
-            ],
-            "score": []
-          },
-          "sort": [
-            1787687570677,
-            "YmkJZ1OfHOM7g4jQtuZY"
-          ],
-          "attributions": [
-            {
-              "pageUrl": "https://checkout.gogetemcommunity.com/join",
-              "utmSessionSource": "Direct traffic",
-              "fbp": "fb.1.1758044086938.458343290121209798",
-              "ip": "169.150.197.227",
-              "isFirst": true,
-              "medium": "form",
-              "mediumId": "oNPhc6YRZ3qFiXQjEfpd",
-              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-              "gaClientId": "GA1.1.1913264365.1757701428",
-              "url": "https://checkout.gogetemcommunity.com/join"
-            },
-            {
-              "pageUrl": "https://gogetemcommunity.com/growth-blocker.html?utm_source=manychat",
-              "utmSessionSource": "Direct traffic",
-              "isLast": true,
-              "ip": "2c0f:f5c0:b10:2b86:7c13:169e:2042:8771",
-              "medium": "form",
-              "mediumId": "muiUniGFhCNqBm9Ak62g",
-              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
-              "url": "https://gogetemcommunity.com/growth-blocker.html",
-              "utmSource": "manychat"
-            }
-          ]
-        },
         {
           "id": "thHCeEjUkJWhkaCuzK7a",
           "name": "Lori Ortiz",
