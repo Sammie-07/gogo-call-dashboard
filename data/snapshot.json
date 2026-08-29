@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-08-28T23:28:11.129Z",
+  "syncedAt": "2026-08-29T06:02:04.546Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 194,
       "talkTimeMinutes": 152,
-      "manualSms": 288,
+      "manualSms": 290,
       "autoSms": 462,
-      "manualEmail": 102,
-      "autoEmail": 3070,
+      "manualEmail": 104,
+      "autoEmail": 3062,
       "byDay": [
         {
           "date": "2025-12-11",
@@ -208,7 +208,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 88
+          "autoEmail": 86
         },
         {
           "date": "2026-04-25",
@@ -224,7 +224,7 @@
           "manualSms": 0,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 116
+          "autoEmail": 112
         },
         {
           "date": "2026-04-28",
@@ -232,7 +232,7 @@
           "manualSms": 4,
           "autoSms": 4,
           "manualEmail": 6,
-          "autoEmail": 8
+          "autoEmail": 6
         },
         {
           "date": "2026-04-29",
@@ -1089,6 +1089,14 @@
           "autoSms": 6,
           "manualEmail": 2,
           "autoEmail": 12
+        },
+        {
+          "date": "2026-08-29",
+          "calls": 0,
+          "manualSms": 2,
+          "autoSms": 0,
+          "manualEmail": 2,
+          "autoEmail": 0
         }
       ],
       "opportunities": [
@@ -23340,8 +23348,8 @@
               "primary": true,
               "objectKey": "contact",
               "recordId": "jA630Kf6FyqFsECK69rM",
-              "fullName": "Annie Yeo",
-              "contactName": "Annie Yeo",
+              "fullName": "annie yeo",
+              "contactName": "annie yeo",
               "companyName": null,
               "email": "resuccess88@aol.com",
               "phone": "+17607502828",
@@ -23349,14 +23357,15 @@
                 "gogetem affiliate",
                 "goget'em - diy",
                 "smc",
-                "not on ggtc whatsapp chat"
+                "not on ggtc whatsapp chat",
+                "ggtc onboarding call scheduled"
               ],
               "attributed": true
             }
           ],
           "contact": {
             "id": "jA630Kf6FyqFsECK69rM",
-            "name": "Annie Yeo",
+            "name": "annie yeo",
             "companyName": null,
             "email": "resuccess88@aol.com",
             "phone": "+17607502828",
@@ -23364,7 +23373,8 @@
               "gogetem affiliate",
               "goget'em - diy",
               "smc",
-              "not on ggtc whatsapp chat"
+              "not on ggtc whatsapp chat",
+              "ggtc onboarding call scheduled"
             ],
             "score": []
           },
@@ -47696,9 +47706,38 @@
             "userId": null
           },
           "deleted": false
+        },
+        {
+          "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
+          "assignedUserId": "C7PplofCN88pv8MTTiZT",
+          "address": "https://zoom.us/j/98827914664",
+          "calendarId": "8kLbo3OukoeNXebq8B4b",
+          "contactId": "jA630Kf6FyqFsECK69rM",
+          "dateAdded": "2026-08-29T00:36:34.000Z",
+          "dateUpdated": "2026-08-29T00:36:34.000Z",
+          "endTime": "2026-09-03T16:00:00-04:00",
+          "id": "eNDghK1fd5RbOW8Ouf7j",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "notes": "need to start as was distracted by a scam and now homeless.  Ready to start work now.\nThank you",
+          "description": "need to start as was distracted by a scam and now homeless.  Ready to start work now.\nThank you",
+          "startTime": "2026-09-03T15:00:00-04:00",
+          "title": "GGTC Onboarding Call - Annie Yeo",
+          "assignedResources": [],
+          "isRecurring": false,
+          "createdBy": {
+            "source": "booking_widget",
+            "userId": null
+          },
+          "deleted": false
         }
       ],
       "conversationsAll": [
+        {
+          "id": "Gd4TUBn6VoUw324nGQ2p",
+          "lastMessageDate": 1787965840064,
+          "type": "TYPE_PHONE"
+        },
         {
           "id": "igFsirsUqRFuYQSTVAJX",
           "lastMessageDate": 1787936517414,
@@ -47722,11 +47761,6 @@
         {
           "id": "lqvtaPljoxBBCe3G1j4k",
           "lastMessageDate": 1787936509224,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "Gd4TUBn6VoUw324nGQ2p",
-          "lastMessageDate": 1787936508557,
           "type": "TYPE_PHONE"
         },
         {
@@ -48200,6 +48234,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "Gd4TUBn6VoUw324nGQ2p",
+          "lastMessageDate": 1787965840064,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "igFsirsUqRFuYQSTVAJX",
           "lastMessageDate": 1787936517414,
           "type": "TYPE_PHONE"
@@ -48222,11 +48261,6 @@
         {
           "id": "lqvtaPljoxBBCe3G1j4k",
           "lastMessageDate": 1787936509224,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "Gd4TUBn6VoUw324nGQ2p",
-          "lastMessageDate": 1787936508557,
           "type": "TYPE_PHONE"
         },
         {
