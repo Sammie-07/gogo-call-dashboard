@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-30T22:28:50.645Z",
+  "syncedAt": "2026-08-31T01:09:09.210Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -48741,7 +48741,7 @@
       "manualSms": 36,
       "autoSms": 97,
       "manualEmail": 13,
-      "autoEmail": 299,
+      "autoEmail": 300,
       "byDay": [
         {
           "date": "2026-04-21",
@@ -49417,6 +49417,14 @@
         },
         {
           "date": "2026-08-28",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 0,
+          "manualEmail": 0,
+          "autoEmail": 1
+        },
+        {
+          "date": "2026-08-30",
           "calls": 0,
           "manualSms": 0,
           "autoSms": 0,
@@ -72650,6 +72658,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "joel5AcrkpNNXyYokuWk",
+          "lastMessageDate": 1788131018097,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "Uy8Y0tEhAUCGhMxpeBQf",
           "lastMessageDate": 1788110281025,
           "type": "TYPE_PHONE"
@@ -72667,11 +72680,6 @@
         {
           "id": "SIYkNu0CtU4eJC5Kbo7j",
           "lastMessageDate": 1787936487423,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "joel5AcrkpNNXyYokuWk",
-          "lastMessageDate": 1787871810605,
           "type": "TYPE_PHONE"
         },
         {
