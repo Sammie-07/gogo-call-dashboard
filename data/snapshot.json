@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-01T23:06:17.945Z",
+  "syncedAt": "2026-09-02T03:20:57.072Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -49458,6 +49458,79 @@
       ],
       "opportunities": [
         {
+          "id": "eksvL6BpaSaxRZhf1iIr",
+          "name": "Ergün Yenen | Real Estate & Mentor",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "61ee0fbd-d136-4069-8222-c95ab05ce746",
+          "pipelineStageUId": "61ee0fbd-d136-4069-8222-c95ab05ce746",
+          "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
+          "status": "open",
+          "source": null,
+          "lastStatusChangeAt": "2026-09-02T00:04:03.489Z",
+          "lastStageChangeAt": "2026-09-02T00:04:03.489Z",
+          "createdAt": "2026-09-02T00:04:03.489Z",
+          "updatedAt": "2026-09-02T00:04:03.489Z",
+          "forecastProbability": null,
+          "effectiveProbability": 18.75,
+          "contactId": "ss00oHV2wQT9dFeHv7Vj",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "eksvL6BpaSaxRZhf1iIr",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "ss00oHV2wQT9dFeHv7Vj",
+              "fullName": "Ergün Yenen | Real Estate & Mentor",
+              "contactName": "Ergün Yenen | Real Estate & Mentor",
+              "companyName": null,
+              "email": "ergun.yenen@expturkiye.com",
+              "phone": null,
+              "tags": [
+                "keyword:community",
+                "new lead",
+                "sales: no show"
+              ],
+              "attributed": null
+            }
+          ],
+          "contact": {
+            "id": "ss00oHV2wQT9dFeHv7Vj",
+            "name": "Ergün Yenen | Real Estate & Mentor",
+            "companyName": null,
+            "email": "ergun.yenen@expturkiye.com",
+            "phone": null,
+            "tags": [
+              "keyword:community",
+              "new lead",
+              "sales: no show"
+            ],
+            "score": []
+          },
+          "sort": [
+            1788307443489,
+            "eksvL6BpaSaxRZhf1iIr"
+          ],
+          "attributions": [
+            {
+              "utmSessionSource": "Social media",
+              "medium": "instagram",
+              "mediumId": "1494390315767478",
+              "isFirst": true
+            },
+            {
+              "utmSessionSource": "Social media",
+              "medium": "instagram",
+              "mediumId": "1494390315767478",
+              "isLast": true
+            }
+          ]
+        },
+        {
           "id": "pMOryRtNeequwIegBerc",
           "name": "Shreed Test",
           "monetaryValue": 0,
@@ -72681,6 +72754,11 @@
         }
       ],
       "conversationsAll": [
+        {
+          "id": "IQk8OxB7HW0S9Cir2U84",
+          "lastMessageDate": 1788305411104,
+          "type": "TYPE_PHONE"
+        },
         {
           "id": "HS9GFcdqfEyV4myBBEcW",
           "lastMessageDate": 1788284388227,
