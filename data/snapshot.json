@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-03T20:38:37.692Z",
+  "syncedAt": "2026-09-03T23:03:13.496Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -47644,6 +47644,30 @@
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
+          "contactId": "cGJ7M5SImiwi4gpQFUzw",
+          "dateAdded": "2026-09-03T21:20:29.000Z",
+          "dateUpdated": "2026-09-03T21:20:29.000Z",
+          "endTime": "2026-09-10T16:00:00-04:00",
+          "id": "LOBo3V7GhtN6eCvQ4RWQ",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "notes": "Been a long-time member, could use a refresher on how to navigate.",
+          "description": "Been a long-time member, could use a refresher on how to navigate.",
+          "startTime": "2026-09-10T15:00:00-04:00",
+          "title": "GGTC Onboarding Call - Hector Aguilar",
+          "assignedResources": [],
+          "isRecurring": false,
+          "createdBy": {
+            "source": "booking_widget",
+            "userId": null
+          },
+          "deleted": false
+        },
+        {
+          "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
+          "assignedUserId": "C7PplofCN88pv8MTTiZT",
+          "address": "https://zoom.us/j/98827914664",
+          "calendarId": "8kLbo3OukoeNXebq8B4b",
           "contactId": "8JAm2W2UbFJwGRY6wGsB",
           "dateAdded": "2026-08-24T15:17:34.000Z",
           "dateUpdated": "2026-09-03T18:22:24.000Z",
@@ -47663,6 +47687,11 @@
         }
       ],
       "conversationsAll": [
+        {
+          "id": "NZm0DCAoqXpskIGbKPDW",
+          "lastMessageDate": 1788467831757,
+          "type": "TYPE_PHONE"
+        },
         {
           "id": "Gd4TUBn6VoUw324nGQ2p",
           "lastMessageDate": 1788465976959,
@@ -47781,11 +47810,6 @@
         {
           "id": "KozEW9zny8do5lD7DnHU",
           "lastMessageDate": 1787922480578,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "NZm0DCAoqXpskIGbKPDW",
-          "lastMessageDate": 1787863028403,
           "type": "TYPE_PHONE"
         },
         {
@@ -48164,6 +48188,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "NZm0DCAoqXpskIGbKPDW",
+          "lastMessageDate": 1788467831757,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "Gd4TUBn6VoUw324nGQ2p",
           "lastMessageDate": 1788465976959,
           "type": "TYPE_PHONE"
@@ -48281,11 +48310,6 @@
         {
           "id": "KozEW9zny8do5lD7DnHU",
           "lastMessageDate": 1787922480578,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "NZm0DCAoqXpskIGbKPDW",
-          "lastMessageDate": 1787863028403,
           "type": "TYPE_PHONE"
         },
         {
