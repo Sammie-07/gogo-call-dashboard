@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-03T23:03:13.496Z",
+  "syncedAt": "2026-09-04T03:24:21.519Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -8,7 +8,7 @@
       "manualSms": 292,
       "autoSms": 452,
       "manualEmail": 102,
-      "autoEmail": 3058,
+      "autoEmail": 3056,
       "byDay": [
         {
           "date": "2025-12-11",
@@ -408,7 +408,7 @@
           "manualSms": 2,
           "autoSms": 0,
           "manualEmail": 2,
-          "autoEmail": 8
+          "autoEmail": 6
         },
         {
           "date": "2026-05-23",
@@ -47688,13 +47688,13 @@
       ],
       "conversationsAll": [
         {
-          "id": "NZm0DCAoqXpskIGbKPDW",
-          "lastMessageDate": 1788467831757,
+          "id": "Gd4TUBn6VoUw324nGQ2p",
+          "lastMessageDate": 1788489609374,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "Gd4TUBn6VoUw324nGQ2p",
-          "lastMessageDate": 1788465976959,
+          "id": "NZm0DCAoqXpskIGbKPDW",
+          "lastMessageDate": 1788467831757,
           "type": "TYPE_PHONE"
         },
         {
@@ -48188,13 +48188,13 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "NZm0DCAoqXpskIGbKPDW",
-          "lastMessageDate": 1788467831757,
+          "id": "Gd4TUBn6VoUw324nGQ2p",
+          "lastMessageDate": 1788489609374,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "Gd4TUBn6VoUw324nGQ2p",
-          "lastMessageDate": 1788465976959,
+          "id": "NZm0DCAoqXpskIGbKPDW",
+          "lastMessageDate": 1788467831757,
           "type": "TYPE_PHONE"
         },
         {
@@ -48695,7 +48695,7 @@
       "manualSms": 39,
       "autoSms": 93,
       "manualEmail": 11,
-      "autoEmail": 291,
+      "autoEmail": 292,
       "byDay": [
         {
           "date": "2026-04-21",
@@ -49415,7 +49415,7 @@
           "manualSms": 7,
           "autoSms": 0,
           "manualEmail": 1,
-          "autoEmail": 2
+          "autoEmail": 3
         }
       ],
       "opportunities": [
@@ -72715,6 +72715,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "joel5AcrkpNNXyYokuWk",
+          "lastMessageDate": 1788476619450,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "sLmWnRXhvhXvU0LlmY20",
           "lastMessageDate": 1788465736628,
           "type": "TYPE_PHONE"
@@ -72752,11 +72757,6 @@
         {
           "id": "eW3wS3yVAJRFXQEj9YwC",
           "lastMessageDate": 1788184393682,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "joel5AcrkpNNXyYokuWk",
-          "lastMessageDate": 1788131018097,
           "type": "TYPE_PHONE"
         },
         {
