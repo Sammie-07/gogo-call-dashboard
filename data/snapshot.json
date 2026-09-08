@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-07T22:35:53.536Z",
+  "syncedAt": "2026-09-08T00:58:51.096Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -7,7 +7,7 @@
       "talkTimeMinutes": 147,
       "manualSms": 306,
       "autoSms": 440,
-      "manualEmail": 104,
+      "manualEmail": 106,
       "autoEmail": 3038,
       "byDay": [
         {
@@ -485,7 +485,7 @@
         {
           "date": "2026-06-03",
           "calls": 0,
-          "manualSms": 20,
+          "manualSms": 18,
           "autoSms": 4,
           "manualEmail": 4,
           "autoEmail": 2
@@ -1125,9 +1125,9 @@
         {
           "date": "2026-09-07",
           "calls": 0,
-          "manualSms": 4,
+          "manualSms": 6,
           "autoSms": 0,
-          "manualEmail": 2,
+          "manualEmail": 4,
           "autoEmail": 30
         }
       ],
@@ -47734,6 +47734,30 @@
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
+          "contactId": "YEc4wc0HzxGO09aShQDC",
+          "dateAdded": "2026-09-07T23:14:06.000Z",
+          "dateUpdated": "2026-09-07T23:14:06.000Z",
+          "endTime": "2026-09-10T16:00:00-04:00",
+          "id": "IVyfhNQjSW001s3Tc5Fi",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "notes": "This is my second onboarding call. I’m in the program but feel lost.  ",
+          "description": "This is my second onboarding call. I’m in the program but feel lost.  ",
+          "startTime": "2026-09-10T15:00:00-04:00",
+          "title": "GGTC Onboarding Call - Kathy Casarin",
+          "assignedResources": [],
+          "isRecurring": false,
+          "createdBy": {
+            "source": "booking_widget",
+            "userId": null
+          },
+          "deleted": false
+        },
+        {
+          "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
+          "assignedUserId": "C7PplofCN88pv8MTTiZT",
+          "address": "https://zoom.us/j/98827914664",
+          "calendarId": "8kLbo3OukoeNXebq8B4b",
           "contactId": "cGJ7M5SImiwi4gpQFUzw",
           "dateAdded": "2026-09-03T21:20:29.000Z",
           "dateUpdated": "2026-09-03T21:20:29.000Z",
@@ -47778,6 +47802,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "jkU93bNach7ZHahfxbaH",
+          "lastMessageDate": 1788822849616,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "AtVR7nSLrbUm57EAfzmP",
           "lastMessageDate": 1788801298990,
           "type": "TYPE_PHONE"
@@ -47805,11 +47834,6 @@
         {
           "id": "qDKbcRwB2fZTY7P9hQNo",
           "lastMessageDate": 1788789629037,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "jkU93bNach7ZHahfxbaH",
-          "lastMessageDate": 1788789624793,
           "type": "TYPE_PHONE"
         },
         {
@@ -48278,6 +48302,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "jkU93bNach7ZHahfxbaH",
+          "lastMessageDate": 1788822849616,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "AtVR7nSLrbUm57EAfzmP",
           "lastMessageDate": 1788801298990,
           "type": "TYPE_PHONE"
@@ -48305,11 +48334,6 @@
         {
           "id": "qDKbcRwB2fZTY7P9hQNo",
           "lastMessageDate": 1788789629037,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "jkU93bNach7ZHahfxbaH",
-          "lastMessageDate": 1788789624793,
           "type": "TYPE_PHONE"
         },
         {
