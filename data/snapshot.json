@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-08T00:58:51.096Z",
+  "syncedAt": "2026-09-08T05:48:34.709Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -48809,7 +48809,7 @@
       "manualSms": 31,
       "autoSms": 66,
       "manualEmail": 11,
-      "autoEmail": 212,
+      "autoEmail": 204,
       "byDay": [
         {
           "date": "2026-04-21",
@@ -48825,7 +48825,7 @@
           "manualSms": 0,
           "autoSms": 1,
           "manualEmail": 0,
-          "autoEmail": 5
+          "autoEmail": 4
         },
         {
           "date": "2026-04-30",
@@ -48841,7 +48841,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 8
+          "autoEmail": 7
         },
         {
           "date": "2026-05-04",
@@ -48857,7 +48857,7 @@
           "manualSms": 0,
           "autoSms": 1,
           "manualEmail": 0,
-          "autoEmail": 9
+          "autoEmail": 8
         },
         {
           "date": "2026-05-07",
@@ -48881,7 +48881,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 7
+          "autoEmail": 6
         },
         {
           "date": "2026-05-11",
@@ -48913,7 +48913,7 @@
           "manualSms": 3,
           "autoSms": 1,
           "manualEmail": 0,
-          "autoEmail": 7
+          "autoEmail": 6
         },
         {
           "date": "2026-05-17",
@@ -48953,7 +48953,7 @@
           "manualSms": 0,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 9
+          "autoEmail": 8
         },
         {
           "date": "2026-05-22",
@@ -48985,7 +48985,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 8
+          "autoEmail": 7
         },
         {
           "date": "2026-05-28",
@@ -49001,7 +49001,7 @@
           "manualSms": 0,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 8
+          "autoEmail": 7
         },
         {
           "date": "2026-05-31",
@@ -73020,11 +73020,6 @@
         {
           "id": "1koaTjJyRntfzkrDCvgg",
           "lastMessageDate": 1781106606639,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "mWrZHPzfSx1o9lrl1paz",
-          "lastMessageDate": 1781059321003,
           "type": "TYPE_PHONE"
         }
       ]
