@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-08T18:27:20.940Z",
+  "syncedAt": "2026-09-08T21:39:08.765Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -49796,6 +49796,87 @@
       ],
       "opportunities": [
         {
+          "id": "2oLW9xnKgnZ0mWeUoGfP",
+          "name": "Ellen Fahr",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "80949724-7894-4a42-8028-746a06208f9e",
+          "pipelineStageUId": "80949724-7894-4a42-8028-746a06208f9e",
+          "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
+          "status": "open",
+          "source": "GGTC Blocker Quiz",
+          "lastStatusChangeAt": "2026-09-08T19:51:18.697Z",
+          "lastStageChangeAt": "2026-09-08T19:52:23.754Z",
+          "createdAt": "2026-09-08T19:51:18.697Z",
+          "updatedAt": "2026-09-08T19:52:24.167Z",
+          "forecastProbability": null,
+          "effectiveProbability": 25,
+          "contactId": "7nmK1Hwj1geJQJOwCoYI",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "2oLW9xnKgnZ0mWeUoGfP",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "7nmK1Hwj1geJQJOwCoYI",
+              "fullName": "Ellen Fahr",
+              "contactName": "Ellen Fahr",
+              "companyName": null,
+              "email": "ellenfahr1@gmail.com",
+              "phone": "+17025954881",
+              "tags": [
+                "ai advantage atendees",
+                "blocker quiz",
+                "new lead",
+                "assigned to ferny"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "7nmK1Hwj1geJQJOwCoYI",
+            "name": "Ellen Fahr",
+            "companyName": null,
+            "email": "ellenfahr1@gmail.com",
+            "phone": "+17025954881",
+            "tags": [
+              "ai advantage atendees",
+              "blocker quiz",
+              "new lead",
+              "assigned to ferny"
+            ],
+            "score": []
+          },
+          "sort": [
+            1788897078697,
+            "2oLW9xnKgnZ0mWeUoGfP"
+          ],
+          "attributions": [
+            {
+              "utmSessionSource": "CRM UI",
+              "isFirst": true,
+              "medium": "csv_import"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/growth-blocker.html?utm_source=email&utm_medium=email marketing&utm_campaign=Tuesday Template (08-09-2026)",
+              "utmSessionSource": "Email Marketing",
+              "isLast": true,
+              "utmCampaign": "Tuesday Template (08-09-2026)",
+              "utmMedium": "email marketing",
+              "ip": "98.167.46.37",
+              "medium": "form",
+              "mediumId": "muiUniGFhCNqBm9Ak62g",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6.1 Mobile/15E148 Safari/604.1",
+              "url": "https://gogetemcommunity.com/growth-blocker.html",
+              "utmSource": "email"
+            }
+          ]
+        },
+        {
           "id": "RX6EUoQpnFIVZ9InHj0h",
           "name": "Heidi Marsh",
           "monetaryValue": 0,
@@ -73274,6 +73355,11 @@
         }
       ],
       "conversationsAll": [
+        {
+          "id": "XnKQ3RHmWMLL8lzoph54",
+          "lastMessageDate": 1788897523172,
+          "type": "TYPE_PHONE"
+        },
         {
           "id": "HS9GFcdqfEyV4myBBEcW",
           "lastMessageDate": 1788889190659,
