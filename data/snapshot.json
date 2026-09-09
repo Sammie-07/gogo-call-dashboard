@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-08T23:54:37.034Z",
+  "syncedAt": "2026-09-09T03:33:11.809Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -8,7 +8,7 @@
       "manualSms": 336,
       "autoSms": 418,
       "manualEmail": 106,
-      "autoEmail": 3100,
+      "autoEmail": 3098,
       "byDay": [
         {
           "date": "2024-02-19",
@@ -632,7 +632,7 @@
           "manualSms": 6,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 24
+          "autoEmail": 22
         },
         {
           "date": "2026-06-25",
@@ -1156,6 +1156,97 @@
         }
       ],
       "opportunities": [
+        {
+          "id": "bpZ8ApdAUFkgrPxSsS7p",
+          "name": "Melissa Johnson",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "assignedTo": "C7PplofCN88pv8MTTiZT",
+          "status": "open",
+          "source": "GGTC Blocker Quiz",
+          "lastStatusChangeAt": "2026-09-09T00:14:13.979Z",
+          "lastStageChangeAt": "2026-09-09T00:15:28.965Z",
+          "createdAt": "2026-09-09T00:14:13.979Z",
+          "updatedAt": "2026-09-09T00:15:29.030Z",
+          "forecastProbability": null,
+          "effectiveProbability": 31.25,
+          "contactId": "cFTLmBdsoQQ4BE3iOhM3",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "bpZ8ApdAUFkgrPxSsS7p",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "cFTLmBdsoQQ4BE3iOhM3",
+              "fullName": "Melissa Johnson",
+              "contactName": "Melissa Johnson",
+              "companyName": null,
+              "email": "melissa.johnson.fl@exprealty.com",
+              "phone": "+14076814393",
+              "tags": [
+                "first crm import",
+                "webinar email",
+                "#teamgogo",
+                "florida",
+                "aa - kajabi",
+                "gbc social media - kajabi",
+                "blocker quiz",
+                "new lead",
+                "assigned to natalia"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "cFTLmBdsoQQ4BE3iOhM3",
+            "name": "Melissa Johnson",
+            "companyName": null,
+            "email": "melissa.johnson.fl@exprealty.com",
+            "phone": "+14076814393",
+            "tags": [
+              "first crm import",
+              "webinar email",
+              "#teamgogo",
+              "florida",
+              "aa - kajabi",
+              "gbc social media - kajabi",
+              "blocker quiz",
+              "new lead",
+              "assigned to natalia"
+            ],
+            "score": []
+          },
+          "sort": [
+            1788912853979,
+            "bpZ8ApdAUFkgrPxSsS7p"
+          ],
+          "attributions": [
+            {
+              "utmSessionSource": "CRM UI",
+              "isFirst": true,
+              "medium": "csv_import"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/growth-blocker.html?utm_source=email&utm_medium=email marketing&utm_campaign=Tuesday Template (08-09-2026)",
+              "utmSessionSource": "Email Marketing",
+              "isLast": true,
+              "utmCampaign": "Tuesday Template (08-09-2026)",
+              "utmMedium": "email marketing",
+              "ip": "2603:9001:101:196:680a:4a7d:4e3e:8d39",
+              "medium": "form",
+              "mediumId": "muiUniGFhCNqBm9Ak62g",
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+              "url": "https://gogetemcommunity.com/growth-blocker.html",
+              "utmSource": "email"
+            }
+          ]
+        },
         {
           "id": "vE9GJtbTkPz26HUe16Sg",
           "name": "Alison Wirthlin",
@@ -48080,13 +48171,18 @@
       ],
       "conversationsAll": [
         {
-          "id": "igFsirsUqRFuYQSTVAJX",
-          "lastMessageDate": 1788891661731,
+          "id": "xJBmuq6cAoiW3j2IZgld",
+          "lastMessageDate": 1788920709783,
           "type": "TYPE_PHONE"
         },
         {
           "id": "Gd4TUBn6VoUw324nGQ2p",
-          "lastMessageDate": 1788890406570,
+          "lastMessageDate": 1788917281958,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "igFsirsUqRFuYQSTVAJX",
+          "lastMessageDate": 1788891661731,
           "type": "TYPE_PHONE"
         },
         {
@@ -48372,11 +48468,6 @@
         {
           "id": "9GZrGZA77MxEikDDqIRj",
           "lastMessageDate": 1786972960769,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "xJBmuq6cAoiW3j2IZgld",
-          "lastMessageDate": 1786971179266,
           "type": "TYPE_PHONE"
         },
         {
@@ -48580,13 +48671,18 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "igFsirsUqRFuYQSTVAJX",
-          "lastMessageDate": 1788891661731,
+          "id": "xJBmuq6cAoiW3j2IZgld",
+          "lastMessageDate": 1788920709783,
           "type": "TYPE_PHONE"
         },
         {
           "id": "Gd4TUBn6VoUw324nGQ2p",
-          "lastMessageDate": 1788890406570,
+          "lastMessageDate": 1788917281958,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "igFsirsUqRFuYQSTVAJX",
+          "lastMessageDate": 1788891661731,
           "type": "TYPE_PHONE"
         },
         {
@@ -48872,11 +48968,6 @@
         {
           "id": "9GZrGZA77MxEikDDqIRj",
           "lastMessageDate": 1786972960769,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "xJBmuq6cAoiW3j2IZgld",
-          "lastMessageDate": 1786971179266,
           "type": "TYPE_PHONE"
         },
         {
