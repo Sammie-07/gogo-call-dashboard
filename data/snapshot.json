@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-09-09T13:31:17.265Z",
+  "syncedAt": "2026-09-09T17:39:21.317Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
-      "calls": 174,
+      "calls": 173,
       "talkTimeMinutes": 142,
-      "manualSms": 338,
-      "autoSms": 418,
-      "manualEmail": 106,
-      "autoEmail": 3062,
+      "manualSms": 334,
+      "autoSms": 416,
+      "manualEmail": 103,
+      "autoEmail": 3078,
       "byDay": [
         {
           "date": "2024-02-19",
@@ -188,24 +188,24 @@
         },
         {
           "date": "2026-04-08",
-          "calls": 2,
-          "manualSms": 4,
-          "autoSms": 2,
+          "calls": 1,
+          "manualSms": 2,
+          "autoSms": 1,
           "manualEmail": 0,
           "autoEmail": 0
         },
         {
           "date": "2026-04-09",
           "calls": 0,
-          "manualSms": 2,
-          "autoSms": 4,
+          "manualSms": 1,
+          "autoSms": 3,
           "manualEmail": 0,
           "autoEmail": 0
         },
         {
           "date": "2026-04-14",
           "calls": 0,
-          "manualSms": 2,
+          "manualSms": 1,
           "autoSms": 0,
           "manualEmail": 0,
           "autoEmail": 0
@@ -224,7 +224,7 @@
           "manualSms": 0,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 72
+          "autoEmail": 74
         },
         {
           "date": "2026-04-25",
@@ -240,7 +240,7 @@
           "manualSms": 0,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 104
+          "autoEmail": 106
         },
         {
           "date": "2026-04-28",
@@ -280,7 +280,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 94
+          "autoEmail": 96
         },
         {
           "date": "2026-05-03",
@@ -304,11 +304,11 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 90
+          "autoEmail": 92
         },
         {
           "date": "2026-05-06",
-          "calls": 6,
+          "calls": 5,
           "manualSms": 6,
           "autoSms": 2,
           "manualEmail": 2,
@@ -316,7 +316,7 @@
         },
         {
           "date": "2026-05-07",
-          "calls": 2,
+          "calls": 1,
           "manualSms": 4,
           "autoSms": 0,
           "manualEmail": 0,
@@ -336,15 +336,15 @@
           "manualSms": 0,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 88
+          "autoEmail": 90
         },
         {
           "date": "2026-05-11",
-          "calls": 8,
+          "calls": 10,
           "manualSms": 2,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 12
+          "autoEmail": 14
         },
         {
           "date": "2026-05-12",
@@ -456,7 +456,7 @@
           "manualSms": 6,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 22
+          "autoEmail": 24
         },
         {
           "date": "2026-05-26",
@@ -640,7 +640,7 @@
           "manualSms": 2,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 8
+          "autoEmail": 10
         },
         {
           "date": "2026-06-26",
@@ -664,7 +664,7 @@
           "manualSms": 2,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 18
+          "autoEmail": 16
         },
         {
           "date": "2026-06-30",
@@ -856,7 +856,7 @@
           "manualSms": 0,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 4
+          "autoEmail": 6
         },
         {
           "date": "2026-07-27",
@@ -1079,7 +1079,7 @@
           "calls": 0,
           "manualSms": 0,
           "autoSms": 6,
-          "manualEmail": 2,
+          "manualEmail": 1,
           "autoEmail": 12
         },
         {
@@ -1103,7 +1103,7 @@
           "calls": 0,
           "manualSms": 0,
           "autoSms": 0,
-          "manualEmail": 2,
+          "manualEmail": 1,
           "autoEmail": 2
         },
         {
@@ -1111,7 +1111,7 @@
           "calls": 0,
           "manualSms": 2,
           "autoSms": 0,
-          "manualEmail": 2,
+          "manualEmail": 1,
           "autoEmail": 24
         },
         {
@@ -1164,97 +1164,6 @@
         }
       ],
       "opportunities": [
-        {
-          "id": "bpZ8ApdAUFkgrPxSsS7p",
-          "name": "Melissa Johnson",
-          "monetaryValue": 0,
-          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
-          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
-          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
-          "assignedTo": "C7PplofCN88pv8MTTiZT",
-          "status": "open",
-          "source": "GGTC Blocker Quiz",
-          "lastStatusChangeAt": "2026-09-09T00:14:13.979Z",
-          "lastStageChangeAt": "2026-09-09T00:15:28.965Z",
-          "createdAt": "2026-09-09T00:14:13.979Z",
-          "updatedAt": "2026-09-09T00:15:29.030Z",
-          "forecastProbability": null,
-          "effectiveProbability": 31.25,
-          "contactId": "cFTLmBdsoQQ4BE3iOhM3",
-          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
-          "customFields": [],
-          "lostReasonId": null,
-          "followers": [],
-          "relations": [
-            {
-              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
-              "relationId": "bpZ8ApdAUFkgrPxSsS7p",
-              "primary": true,
-              "objectKey": "contact",
-              "recordId": "cFTLmBdsoQQ4BE3iOhM3",
-              "fullName": "Melissa Johnson",
-              "contactName": "Melissa Johnson",
-              "companyName": null,
-              "email": "melissa.johnson.fl@exprealty.com",
-              "phone": "+14076814393",
-              "tags": [
-                "first crm import",
-                "webinar email",
-                "#teamgogo",
-                "florida",
-                "aa - kajabi",
-                "gbc social media - kajabi",
-                "blocker quiz",
-                "new lead",
-                "assigned to natalia"
-              ],
-              "attributed": true
-            }
-          ],
-          "contact": {
-            "id": "cFTLmBdsoQQ4BE3iOhM3",
-            "name": "Melissa Johnson",
-            "companyName": null,
-            "email": "melissa.johnson.fl@exprealty.com",
-            "phone": "+14076814393",
-            "tags": [
-              "first crm import",
-              "webinar email",
-              "#teamgogo",
-              "florida",
-              "aa - kajabi",
-              "gbc social media - kajabi",
-              "blocker quiz",
-              "new lead",
-              "assigned to natalia"
-            ],
-            "score": []
-          },
-          "sort": [
-            1788912853979,
-            "bpZ8ApdAUFkgrPxSsS7p"
-          ],
-          "attributions": [
-            {
-              "utmSessionSource": "CRM UI",
-              "isFirst": true,
-              "medium": "csv_import"
-            },
-            {
-              "pageUrl": "https://gogetemcommunity.com/growth-blocker.html?utm_source=email&utm_medium=email marketing&utm_campaign=Tuesday Template (08-09-2026)",
-              "utmSessionSource": "Email Marketing",
-              "isLast": true,
-              "utmCampaign": "Tuesday Template (08-09-2026)",
-              "utmMedium": "email marketing",
-              "ip": "2603:9001:101:196:680a:4a7d:4e3e:8d39",
-              "medium": "form",
-              "mediumId": "muiUniGFhCNqBm9Ak62g",
-              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
-              "url": "https://gogetemcommunity.com/growth-blocker.html",
-              "utmSource": "email"
-            }
-          ]
-        },
         {
           "id": "vE9GJtbTkPz26HUe16Sg",
           "name": "Alison Wirthlin",
@@ -48179,23 +48088,28 @@
       ],
       "conversationsAll": [
         {
-          "id": "kkrCJXQij6TX4yXN9mXx",
-          "lastMessageDate": 1788960420921,
+          "id": "HD5jLwef0rEfOO4FyS1L",
+          "lastMessageDate": 1788971821683,
           "type": "TYPE_PHONE"
         },
         {
           "id": "Gd4TUBn6VoUw324nGQ2p",
-          "lastMessageDate": 1788955210704,
+          "lastMessageDate": 1788964363967,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "XnKQ3RHmWMLL8lzoph54",
+          "lastMessageDate": 1788963372794,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "uvW4XLUWCvcsn0WP9l4c",
+          "lastMessageDate": 1788963027738,
           "type": "TYPE_PHONE"
         },
         {
           "id": "xJBmuq6cAoiW3j2IZgld",
           "lastMessageDate": 1788920709783,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "XnKQ3RHmWMLL8lzoph54",
-          "lastMessageDate": 1788897523172,
           "type": "TYPE_PHONE"
         },
         {
@@ -48319,11 +48233,6 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "HD5jLwef0rEfOO4FyS1L",
-          "lastMessageDate": 1788613402746,
-          "type": "TYPE_PHONE"
-        },
-        {
           "id": "pyIAE0wDjRDQnMxy8Sfy",
           "lastMessageDate": 1788448308897,
           "type": "TYPE_PHONE"
@@ -48431,11 +48340,6 @@
         {
           "id": "q8xZZ7IpVx2xT9cMuQCn",
           "lastMessageDate": 1787317418785,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "uvW4XLUWCvcsn0WP9l4c",
-          "lastMessageDate": 1787285841170,
           "type": "TYPE_PHONE"
         },
         {
@@ -48679,23 +48583,33 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "kkrCJXQij6TX4yXN9mXx",
-          "lastMessageDate": 1788960420921,
+          "id": "gjpRchEOGi65x3z5rw7U",
+          "lastMessageDate": 1785005978586,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "HD5jLwef0rEfOO4FyS1L",
+          "lastMessageDate": 1788971821683,
           "type": "TYPE_PHONE"
         },
         {
           "id": "Gd4TUBn6VoUw324nGQ2p",
-          "lastMessageDate": 1788955210704,
+          "lastMessageDate": 1788964363967,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "XnKQ3RHmWMLL8lzoph54",
+          "lastMessageDate": 1788963372794,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "uvW4XLUWCvcsn0WP9l4c",
+          "lastMessageDate": 1788963027738,
           "type": "TYPE_PHONE"
         },
         {
           "id": "xJBmuq6cAoiW3j2IZgld",
           "lastMessageDate": 1788920709783,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "XnKQ3RHmWMLL8lzoph54",
-          "lastMessageDate": 1788897523172,
           "type": "TYPE_PHONE"
         },
         {
@@ -48819,11 +48733,6 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "HD5jLwef0rEfOO4FyS1L",
-          "lastMessageDate": 1788613402746,
-          "type": "TYPE_PHONE"
-        },
-        {
           "id": "pyIAE0wDjRDQnMxy8Sfy",
           "lastMessageDate": 1788448308897,
           "type": "TYPE_PHONE"
@@ -48931,11 +48840,6 @@
         {
           "id": "q8xZZ7IpVx2xT9cMuQCn",
           "lastMessageDate": 1787317418785,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "uvW4XLUWCvcsn0WP9l4c",
-          "lastMessageDate": 1787285841170,
           "type": "TYPE_PHONE"
         },
         {
@@ -49176,6 +49080,11 @@
         {
           "id": "vX6hr1VPwV4infZpWm0O",
           "lastMessageDate": 1785008146279,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "gjpRchEOGi65x3z5rw7U",
+          "lastMessageDate": 1785005978586,
           "type": "TYPE_PHONE"
         }
       ]
@@ -49899,17 +49808,17 @@
           "name": "Ellen Fahr",
           "monetaryValue": 0,
           "pipelineId": "4ODbBsC9MIjSBtnIOETl",
-          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
-          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "pipelineStageId": "5ab71bd0-0254-44b8-9a73-c92ca538e7fb",
+          "pipelineStageUId": "5ab71bd0-0254-44b8-9a73-c92ca538e7fb",
           "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
           "status": "open",
           "source": "GGTC Blocker Quiz",
           "lastStatusChangeAt": "2026-09-08T19:51:18.697Z",
-          "lastStageChangeAt": "2026-09-09T13:27:07.820Z",
+          "lastStageChangeAt": "2026-09-09T13:51:23.128Z",
           "createdAt": "2026-09-08T19:51:18.697Z",
-          "updatedAt": "2026-09-09T13:27:07.849Z",
+          "updatedAt": "2026-09-09T13:51:23.140Z",
           "forecastProbability": null,
-          "effectiveProbability": 31.25,
+          "effectiveProbability": 93.75,
           "contactId": "7nmK1Hwj1geJQJOwCoYI",
           "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
           "customFields": [],
