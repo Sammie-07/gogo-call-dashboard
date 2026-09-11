@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-09-11T17:37:27.727Z",
+  "syncedAt": "2026-09-11T20:37:30.399Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 190,
       "talkTimeMinutes": 164,
       "manualSms": 354,
-      "autoSms": 418,
+      "autoSms": 420,
       "manualEmail": 106,
-      "autoEmail": 3094,
+      "autoEmail": 3092,
       "byDay": [
         {
           "date": "2024-02-19",
@@ -632,7 +632,7 @@
           "manualSms": 6,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 22
+          "autoEmail": 20
         },
         {
           "date": "2026-06-25",
@@ -1174,7 +1174,7 @@
           "date": "2026-09-11",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 2,
+          "autoSms": 4,
           "manualEmail": 0,
           "autoEmail": 6
         }
@@ -48196,7 +48196,7 @@
       "conversationsAll": [
         {
           "id": "qDKbcRwB2fZTY7P9hQNo",
-          "lastMessageDate": 1789143353788,
+          "lastMessageDate": 1789152680746,
           "type": "TYPE_PHONE"
         },
         {
@@ -48696,7 +48696,7 @@
         },
         {
           "id": "qDKbcRwB2fZTY7P9hQNo",
-          "lastMessageDate": 1789143353788,
+          "lastMessageDate": 1789152680746,
           "type": "TYPE_PHONE"
         },
         {
@@ -49862,6 +49862,72 @@
         }
       ],
       "opportunities": [
+        {
+          "id": "n2bVqoqMUo68vUEpfAGq",
+          "name": "Nino",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "61ee0fbd-d136-4069-8222-c95ab05ce746",
+          "pipelineStageUId": "61ee0fbd-d136-4069-8222-c95ab05ce746",
+          "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
+          "status": "open",
+          "source": null,
+          "lastStatusChangeAt": "2026-09-11T17:53:06.958Z",
+          "lastStageChangeAt": "2026-09-11T17:53:06.958Z",
+          "createdAt": "2026-09-11T17:53:06.957Z",
+          "updatedAt": "2026-09-11T17:53:06.957Z",
+          "forecastProbability": null,
+          "effectiveProbability": 18.75,
+          "contactId": "zZrtUrD3S3sH7deMn3xh",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "n2bVqoqMUo68vUEpfAGq",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "zZrtUrD3S3sH7deMn3xh",
+              "fullName": "Nino",
+              "contactName": "Nino",
+              "companyName": null,
+              "email": "natalia@gmail.com",
+              "phone": null,
+              "tags": [
+                "keyword:community",
+                "new lead",
+                "sales: no show"
+              ],
+              "attributed": null
+            }
+          ],
+          "contact": {
+            "id": "zZrtUrD3S3sH7deMn3xh",
+            "name": "Nino",
+            "companyName": null,
+            "email": "natalia@gmail.com",
+            "phone": null,
+            "tags": [
+              "keyword:community",
+              "new lead",
+              "sales: no show"
+            ],
+            "score": []
+          },
+          "sort": [
+            1789149186957,
+            "n2bVqoqMUo68vUEpfAGq"
+          ],
+          "attributions": [
+            {
+              "utmSessionSource": "CRM Workflows",
+              "medium": "Manual",
+              "isFirst": true
+            }
+          ]
+        },
         {
           "id": "2oLW9xnKgnZ0mWeUoGfP",
           "name": "Ellen Fahr",
@@ -73422,6 +73488,11 @@
         }
       ],
       "conversationsAll": [
+        {
+          "id": "rPqr6pLHdVCtIgDvXrVO",
+          "lastMessageDate": 1789149187860,
+          "type": "TYPE_PHONE"
+        },
         {
           "id": "IQk8OxB7HW0S9Cir2U84",
           "lastMessageDate": 1789081454302,
