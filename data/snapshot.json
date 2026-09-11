@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-09-11T13:21:38.108Z",
+  "syncedAt": "2026-09-11T17:37:27.727Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 190,
       "talkTimeMinutes": 164,
       "manualSms": 354,
-      "autoSms": 416,
+      "autoSms": 418,
       "manualEmail": 106,
-      "autoEmail": 3092,
+      "autoEmail": 3094,
       "byDay": [
         {
           "date": "2024-02-19",
@@ -624,7 +624,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 18
+          "autoEmail": 16
         },
         {
           "date": "2026-06-24",
@@ -1174,12 +1174,97 @@
           "date": "2026-09-11",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 0,
+          "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 2
+          "autoEmail": 6
         }
       ],
       "opportunities": [
+        {
+          "id": "qu68NTwlqCjnaODMWPGL",
+          "name": "Natália Durães",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "assignedTo": "C7PplofCN88pv8MTTiZT",
+          "status": "open",
+          "source": "order form-prebuilt goget'em",
+          "lastStatusChangeAt": "2026-09-11T16:24:12.743Z",
+          "lastStageChangeAt": "2026-09-11T16:24:12.743Z",
+          "createdAt": "2026-09-11T16:24:12.743Z",
+          "updatedAt": "2026-09-11T16:26:00.941Z",
+          "forecastProbability": null,
+          "effectiveProbability": 31.25,
+          "contactId": "bVxYFlTfgM5qDPenRqXU",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "qu68NTwlqCjnaODMWPGL",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "bVxYFlTfgM5qDPenRqXU",
+              "fullName": "Natália Durães",
+              "contactName": "Natália Durães",
+              "companyName": null,
+              "email": "nataliasduraes@gmail.com",
+              "phone": "+15702055050",
+              "tags": [
+                "smc",
+                "goget'em canceled",
+                "new lead",
+                "niche-finder",
+                "ggtc_free_training_signup",
+                "assigned to natalia",
+                "keyword:community"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "bVxYFlTfgM5qDPenRqXU",
+            "name": "Natália Durães",
+            "companyName": null,
+            "email": "nataliasduraes@gmail.com",
+            "phone": "+15702055050",
+            "tags": [
+              "smc",
+              "goget'em canceled",
+              "new lead",
+              "niche-finder",
+              "ggtc_free_training_signup",
+              "assigned to natalia",
+              "keyword:community"
+            ],
+            "score": []
+          },
+          "sort": [
+            1789143852743,
+            "qu68NTwlqCjnaODMWPGL"
+          ],
+          "attributions": [
+            {
+              "utmSessionSource": "Other",
+              "isFirst": true,
+              "medium": "instagram",
+              "mediumId": "2424470371286875"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/growth-blocker.html",
+              "utmSessionSource": "Direct traffic",
+              "isLast": true,
+              "ip": "93.88.156.82",
+              "medium": "form",
+              "mediumId": "muiUniGFhCNqBm9Ak62g",
+              "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+              "url": "https://gogetemcommunity.com/growth-blocker.html"
+            }
+          ]
+        },
         {
           "id": "vE9GJtbTkPz26HUe16Sg",
           "name": "Alison Wirthlin",
@@ -48110,6 +48195,21 @@
       ],
       "conversationsAll": [
         {
+          "id": "qDKbcRwB2fZTY7P9hQNo",
+          "lastMessageDate": 1789143353788,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "xibRaCwejV1J3j4INVcz",
+          "lastMessageDate": 1789143248366,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "2R4KL01RlrQtrBnAueBq",
+          "lastMessageDate": 1789133040546,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "KozEW9zny8do5lD7DnHU",
           "lastMessageDate": 1789132159625,
           "type": "TYPE_PHONE"
@@ -48132,11 +48232,6 @@
         {
           "id": "igFsirsUqRFuYQSTVAJX",
           "lastMessageDate": 1789070512311,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "qDKbcRwB2fZTY7P9hQNo",
-          "lastMessageDate": 1789070506113,
           "type": "TYPE_PHONE"
         },
         {
@@ -48235,11 +48330,6 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "xibRaCwejV1J3j4INVcz",
-          "lastMessageDate": 1788884045719,
-          "type": "TYPE_PHONE"
-        },
-        {
           "id": "R1ekL0Z2SZDgwX0YHkaZ",
           "lastMessageDate": 1788873497974,
           "type": "TYPE_PHONE"
@@ -48247,11 +48337,6 @@
         {
           "id": "PT4orxUuqxpyVZw9h4M6",
           "lastMessageDate": 1788873280699,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "2R4KL01RlrQtrBnAueBq",
-          "lastMessageDate": 1788787439332,
           "type": "TYPE_PHONE"
         },
         {
@@ -48610,6 +48695,21 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "qDKbcRwB2fZTY7P9hQNo",
+          "lastMessageDate": 1789143353788,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "xibRaCwejV1J3j4INVcz",
+          "lastMessageDate": 1789143248366,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "2R4KL01RlrQtrBnAueBq",
+          "lastMessageDate": 1789133040546,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "KozEW9zny8do5lD7DnHU",
           "lastMessageDate": 1789132159625,
           "type": "TYPE_PHONE"
@@ -48632,11 +48732,6 @@
         {
           "id": "igFsirsUqRFuYQSTVAJX",
           "lastMessageDate": 1789070512311,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "qDKbcRwB2fZTY7P9hQNo",
-          "lastMessageDate": 1789070506113,
           "type": "TYPE_PHONE"
         },
         {
@@ -48735,11 +48830,6 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "xibRaCwejV1J3j4INVcz",
-          "lastMessageDate": 1788884045719,
-          "type": "TYPE_PHONE"
-        },
-        {
           "id": "R1ekL0Z2SZDgwX0YHkaZ",
           "lastMessageDate": 1788873497974,
           "type": "TYPE_PHONE"
@@ -48747,11 +48837,6 @@
         {
           "id": "PT4orxUuqxpyVZw9h4M6",
           "lastMessageDate": 1788873280699,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "2R4KL01RlrQtrBnAueBq",
-          "lastMessageDate": 1788787439332,
           "type": "TYPE_PHONE"
         },
         {
