@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-11T03:28:31.468Z",
+  "syncedAt": "2026-09-11T08:41:52.677Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -42773,28 +42773,6 @@
         }
       ],
       "appointments": [
-        {
-          "appointmentStatus": "cancelled",
-          "appoinmentStatus": "cancelled",
-          "assignedUserId": "C7PplofCN88pv8MTTiZT",
-          "address": "https://us02web.zoom.us/j/86737515122",
-          "calendarId": "P63yugFTNQw7BeSCtjKL",
-          "contactId": "FvpI1tWeOuuFXcx28DT6",
-          "dateAdded": "2025-09-09T18:23:05.000Z",
-          "dateUpdated": "2026-08-31T15:12:14.000Z",
-          "endTime": "2025-09-10T21:30:00-04:00",
-          "id": "t5K0Ij23bCZtuo3ZV6sS",
-          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
-          "startTime": "2025-09-10T20:00:00-04:00",
-          "title": "Kristy Waker",
-          "assignedResources": [],
-          "isRecurring": false,
-          "createdBy": {
-            "source": "booking_widget",
-            "userId": null
-          },
-          "deleted": false
-        },
         {
           "appointmentStatus": "confirmed",
           "appoinmentStatus": "confirmed",
