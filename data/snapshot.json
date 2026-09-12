@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-12T19:00:43.461Z",
+  "syncedAt": "2026-09-12T21:24:28.420Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -49270,12 +49270,12 @@
       ]
     },
     "Z6C8jEN8ccsSWv70qBr1": {
-      "calls": 16,
+      "calls": 17,
       "talkTimeMinutes": 24,
       "manualSms": 27,
-      "autoSms": 50,
+      "autoSms": 54,
       "manualEmail": 6,
-      "autoEmail": 172,
+      "autoEmail": 180,
       "byDay": [
         {
           "date": "2026-04-21",
@@ -49735,11 +49735,11 @@
         },
         {
           "date": "2026-08-12",
-          "calls": 3,
+          "calls": 4,
           "manualSms": 4,
-          "autoSms": 2,
+          "autoSms": 3,
           "manualEmail": 0,
-          "autoEmail": 1
+          "autoEmail": 2
         },
         {
           "date": "2026-08-13",
@@ -49754,6 +49754,14 @@
           "calls": 0,
           "manualSms": 0,
           "autoSms": 0,
+          "manualEmail": 0,
+          "autoEmail": 1
+        },
+        {
+          "date": "2026-08-16",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 1,
           "manualEmail": 0,
           "autoEmail": 1
         },
@@ -49787,13 +49795,21 @@
           "manualSms": 0,
           "autoSms": 3,
           "manualEmail": 0,
-          "autoEmail": 5
+          "autoEmail": 6
         },
         {
           "date": "2026-08-21",
           "calls": 0,
           "manualSms": 0,
           "autoSms": 0,
+          "manualEmail": 0,
+          "autoEmail": 1
+        },
+        {
+          "date": "2026-08-23",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 1,
           "manualEmail": 0,
           "autoEmail": 1
         },
@@ -49819,10 +49835,18 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 2
+          "autoEmail": 3
         },
         {
           "date": "2026-08-28",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 0,
+          "manualEmail": 0,
+          "autoEmail": 1
+        },
+        {
+          "date": "2026-08-30",
           "calls": 0,
           "manualSms": 0,
           "autoSms": 0,
@@ -49859,7 +49883,7 @@
           "manualSms": 7,
           "autoSms": 0,
           "manualEmail": 1,
-          "autoEmail": 2
+          "autoEmail": 3
         },
         {
           "date": "2026-09-04",
@@ -49874,6 +49898,14 @@
           "calls": 0,
           "manualSms": 0,
           "autoSms": 0,
+          "manualEmail": 0,
+          "autoEmail": 1
+        },
+        {
+          "date": "2026-09-06",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 1,
           "manualEmail": 0,
           "autoEmail": 1
         },
