@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-09-12T12:42:04.528Z",
+  "syncedAt": "2026-09-12T16:03:48.403Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
-      "calls": 190,
-      "talkTimeMinutes": 164,
+      "calls": 188,
+      "talkTimeMinutes": 163,
       "manualSms": 354,
       "autoSms": 420,
       "manualEmail": 106,
-      "autoEmail": 3092,
+      "autoEmail": 3074,
       "byDay": [
         {
           "date": "2024-02-19",
@@ -224,7 +224,7 @@
           "manualSms": 0,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 74
+          "autoEmail": 72
         },
         {
           "date": "2026-04-25",
@@ -240,7 +240,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 106
+          "autoEmail": 104
         },
         {
           "date": "2026-04-28",
@@ -280,7 +280,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 96
+          "autoEmail": 94
         },
         {
           "date": "2026-05-03",
@@ -304,7 +304,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 92
+          "autoEmail": 90
         },
         {
           "date": "2026-05-06",
@@ -336,15 +336,15 @@
           "manualSms": 0,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 90
+          "autoEmail": 88
         },
         {
           "date": "2026-05-11",
-          "calls": 10,
+          "calls": 8,
           "manualSms": 2,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 14
+          "autoEmail": 12
         },
         {
           "date": "2026-05-12",
@@ -456,7 +456,7 @@
           "manualSms": 6,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 24
+          "autoEmail": 22
         },
         {
           "date": "2026-05-26",
@@ -640,7 +640,7 @@
           "manualSms": 2,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 10
+          "autoEmail": 8
         },
         {
           "date": "2026-06-26",
@@ -856,7 +856,7 @@
           "manualSms": 0,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 6
+          "autoEmail": 4
         },
         {
           "date": "2026-07-27",
@@ -1180,6 +1180,79 @@
         }
       ],
       "opportunities": [
+        {
+          "id": "bh1Rhq2Vqq4C8GTDSiL6",
+          "name": "Gustavo Matos",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "assignedTo": "C7PplofCN88pv8MTTiZT",
+          "status": "open",
+          "source": null,
+          "lastStatusChangeAt": "2026-09-12T13:23:13.063Z",
+          "lastStageChangeAt": "2026-09-12T13:23:13.064Z",
+          "createdAt": "2026-09-12T13:23:13.063Z",
+          "updatedAt": "2026-09-12T13:23:13.063Z",
+          "forecastProbability": null,
+          "effectiveProbability": 31.25,
+          "contactId": "SSQ6OBeQwFvyioHAxI0N",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "bh1Rhq2Vqq4C8GTDSiL6",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "SSQ6OBeQwFvyioHAxI0N",
+              "fullName": "Gustavo Matos",
+              "contactName": "Gustavo Matos",
+              "companyName": null,
+              "email": "gustavo@dtbvr.com",
+              "phone": null,
+              "tags": [
+                "keyword:community",
+                "new lead",
+                "assigned to natalia"
+              ],
+              "attributed": null
+            }
+          ],
+          "contact": {
+            "id": "SSQ6OBeQwFvyioHAxI0N",
+            "name": "Gustavo Matos",
+            "companyName": null,
+            "email": "gustavo@dtbvr.com",
+            "phone": null,
+            "tags": [
+              "keyword:community",
+              "new lead",
+              "assigned to natalia"
+            ],
+            "score": []
+          },
+          "sort": [
+            1789219393063,
+            "bh1Rhq2Vqq4C8GTDSiL6"
+          ],
+          "attributions": [
+            {
+              "utmSessionSource": "Social media",
+              "medium": "instagram",
+              "mediumId": "2058954378177262",
+              "isFirst": true
+            },
+            {
+              "utmSessionSource": "Social media",
+              "medium": "instagram",
+              "mediumId": "2058954378177262",
+              "isLast": true
+            }
+          ]
+        },
         {
           "id": "qu68NTwlqCjnaODMWPGL",
           "name": "Natália Durães",
@@ -48195,6 +48268,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "FTI98Q7PgbEpaAhKJ4kG",
+          "lastMessageDate": 1789217512221,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "xJBmuq6cAoiW3j2IZgld",
           "lastMessageDate": 1789159865899,
           "type": "TYPE_PHONE"
@@ -48690,8 +48768,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "gjpRchEOGi65x3z5rw7U",
-          "lastMessageDate": 1785005978586,
+          "id": "FTI98Q7PgbEpaAhKJ4kG",
+          "lastMessageDate": 1789217512221,
           "type": "TYPE_PHONE"
         },
         {
@@ -49187,11 +49265,6 @@
         {
           "id": "vX6hr1VPwV4infZpWm0O",
           "lastMessageDate": 1785008146279,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "gjpRchEOGi65x3z5rw7U",
-          "lastMessageDate": 1785005978586,
           "type": "TYPE_PHONE"
         }
       ]
