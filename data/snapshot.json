@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-15T07:19:56.288Z",
+  "syncedAt": "2026-09-15T13:14:03.791Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -664,7 +664,7 @@
           "manualSms": 2,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 18
+          "autoEmail": 16
         },
         {
           "date": "2026-07-02",
@@ -702,7 +702,7 @@
           "date": "2026-07-07",
           "calls": 12,
           "manualSms": 4,
-          "autoSms": 8,
+          "autoSms": 6,
           "manualEmail": 0,
           "autoEmail": 28
         },
@@ -712,7 +712,7 @@
           "manualSms": 2,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 20
+          "autoEmail": 18
         },
         {
           "date": "2026-07-09",
@@ -1169,6 +1169,14 @@
           "autoSms": 22,
           "manualEmail": 2,
           "autoEmail": 70
+        },
+        {
+          "date": "2026-09-15",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 2,
+          "manualEmail": 0,
+          "autoEmail": 4
         }
       ],
       "opportunities": [
@@ -23617,8 +23625,8 @@
               "primary": true,
               "objectKey": "contact",
               "recordId": "jA630Kf6FyqFsECK69rM",
-              "fullName": "annie yeo",
-              "contactName": "annie yeo",
+              "fullName": "ANNIE YEO",
+              "contactName": "ANNIE YEO",
               "companyName": null,
               "email": "resuccess88@aol.com",
               "phone": "+17607502828",
@@ -23628,14 +23636,15 @@
                 "smc",
                 "not on ggtc whatsapp chat",
                 "ggtc onboarding call scheduled",
-                "blocker quiz"
+                "blocker quiz",
+                "circle_disqualified"
               ],
               "attributed": true
             }
           ],
           "contact": {
             "id": "jA630Kf6FyqFsECK69rM",
-            "name": "annie yeo",
+            "name": "ANNIE YEO",
             "companyName": null,
             "email": "resuccess88@aol.com",
             "phone": "+17607502828",
@@ -23645,7 +23654,8 @@
               "smc",
               "not on ggtc whatsapp chat",
               "ggtc onboarding call scheduled",
-              "blocker quiz"
+              "blocker quiz",
+              "circle_disqualified"
             ],
             "score": []
           },
@@ -48097,6 +48107,26 @@
       ],
       "conversationsAll": [
         {
+          "id": "zyIaZfftVrnIoDJkJtWc",
+          "lastMessageDate": 1789477908739,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "i67wo5C14HpKZhVRzYZr",
+          "lastMessageDate": 1789477874714,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "qDKbcRwB2fZTY7P9hQNo",
+          "lastMessageDate": 1789472375349,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "Gd4TUBn6VoUw324nGQ2p",
+          "lastMessageDate": 1789472364073,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "FTI98Q7PgbEpaAhKJ4kG",
           "lastMessageDate": 1789423875971,
           "type": "TYPE_PHONE"
@@ -48192,11 +48222,6 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "qDKbcRwB2fZTY7P9hQNo",
-          "lastMessageDate": 1789405282013,
-          "type": "TYPE_PHONE"
-        },
-        {
           "id": "gdH7zEuaXLk30YSsKBa1",
           "lastMessageDate": 1789405277364,
           "type": "TYPE_PHONE"
@@ -48219,11 +48244,6 @@
         {
           "id": "WySZiMBMkSohTURQq930",
           "lastMessageDate": 1789405229496,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "Gd4TUBn6VoUw324nGQ2p",
-          "lastMessageDate": 1789405226893,
           "type": "TYPE_PHONE"
         },
         {
@@ -48279,16 +48299,6 @@
         {
           "id": "f1f5C7y68F2PavMWSDhi",
           "lastMessageDate": 1789071360164,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "zyIaZfftVrnIoDJkJtWc",
-          "lastMessageDate": 1789070204388,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "i67wo5C14HpKZhVRzYZr",
-          "lastMessageDate": 1789066260006,
           "type": "TYPE_PHONE"
         },
         {
@@ -48597,6 +48607,26 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "zyIaZfftVrnIoDJkJtWc",
+          "lastMessageDate": 1789477908739,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "i67wo5C14HpKZhVRzYZr",
+          "lastMessageDate": 1789477874714,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "qDKbcRwB2fZTY7P9hQNo",
+          "lastMessageDate": 1789472375349,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "Gd4TUBn6VoUw324nGQ2p",
+          "lastMessageDate": 1789472364073,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "FTI98Q7PgbEpaAhKJ4kG",
           "lastMessageDate": 1789423875971,
           "type": "TYPE_PHONE"
@@ -48692,11 +48722,6 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "qDKbcRwB2fZTY7P9hQNo",
-          "lastMessageDate": 1789405282013,
-          "type": "TYPE_PHONE"
-        },
-        {
           "id": "gdH7zEuaXLk30YSsKBa1",
           "lastMessageDate": 1789405277364,
           "type": "TYPE_PHONE"
@@ -48719,11 +48744,6 @@
         {
           "id": "WySZiMBMkSohTURQq930",
           "lastMessageDate": 1789405229496,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "Gd4TUBn6VoUw324nGQ2p",
-          "lastMessageDate": 1789405226893,
           "type": "TYPE_PHONE"
         },
         {
@@ -48779,16 +48799,6 @@
         {
           "id": "f1f5C7y68F2PavMWSDhi",
           "lastMessageDate": 1789071360164,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "zyIaZfftVrnIoDJkJtWc",
-          "lastMessageDate": 1789070204388,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "i67wo5C14HpKZhVRzYZr",
-          "lastMessageDate": 1789066260006,
           "type": "TYPE_PHONE"
         },
         {
