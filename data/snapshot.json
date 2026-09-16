@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-16T14:42:21.585Z",
+  "syncedAt": "2026-09-16T18:44:46.229Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -8,7 +8,7 @@
       "manualSms": 312,
       "autoSms": 428,
       "manualEmail": 100,
-      "autoEmail": 3212,
+      "autoEmail": 3214,
       "byDay": [
         {
           "date": "2024-02-19",
@@ -1184,7 +1184,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 20
+          "autoEmail": 22
         }
       ],
       "opportunities": [
@@ -48115,6 +48115,16 @@
       ],
       "conversationsAll": [
         {
+          "id": "ju6h98CDB1TmczLmlVfe",
+          "lastMessageDate": 1789579191015,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "HD5jLwef0rEfOO4FyS1L",
+          "lastMessageDate": 1789576625174,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "52NhSVeJes9c0XygMGMp",
           "lastMessageDate": 1789566833883,
           "type": "TYPE_PHONE"
@@ -48285,11 +48295,6 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "ju6h98CDB1TmczLmlVfe",
-          "lastMessageDate": 1789389874157,
-          "type": "TYPE_PHONE"
-        },
-        {
           "id": "xJBmuq6cAoiW3j2IZgld",
           "lastMessageDate": 1789159865899,
           "type": "TYPE_PHONE"
@@ -48317,11 +48322,6 @@
         {
           "id": "AtVR7nSLrbUm57EAfzmP",
           "lastMessageDate": 1789060501652,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "HD5jLwef0rEfOO4FyS1L",
-          "lastMessageDate": 1788971821683,
           "type": "TYPE_PHONE"
         },
         {
@@ -48615,6 +48615,16 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "ju6h98CDB1TmczLmlVfe",
+          "lastMessageDate": 1789579191015,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "HD5jLwef0rEfOO4FyS1L",
+          "lastMessageDate": 1789576625174,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "52NhSVeJes9c0XygMGMp",
           "lastMessageDate": 1789566833883,
           "type": "TYPE_PHONE"
@@ -48785,11 +48795,6 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "ju6h98CDB1TmczLmlVfe",
-          "lastMessageDate": 1789389874157,
-          "type": "TYPE_PHONE"
-        },
-        {
           "id": "xJBmuq6cAoiW3j2IZgld",
           "lastMessageDate": 1789159865899,
           "type": "TYPE_PHONE"
@@ -48817,11 +48822,6 @@
         {
           "id": "AtVR7nSLrbUm57EAfzmP",
           "lastMessageDate": 1789060501652,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "HD5jLwef0rEfOO4FyS1L",
-          "lastMessageDate": 1788971821683,
           "type": "TYPE_PHONE"
         },
         {
@@ -49120,7 +49120,7 @@
       "calls": 17,
       "talkTimeMinutes": 24,
       "manualSms": 27,
-      "autoSms": 54,
+      "autoSms": 55,
       "manualEmail": 6,
       "autoEmail": 180,
       "byDay": [
@@ -49795,9 +49795,90 @@
           "autoSms": 0,
           "manualEmail": 0,
           "autoEmail": 1
+        },
+        {
+          "date": "2026-09-16",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 1,
+          "manualEmail": 0,
+          "autoEmail": 0
         }
       ],
       "opportunities": [
+        {
+          "id": "laFOqPc5ZU9mgqkXjtlc",
+          "name": "Finger Lakes Realtor | Jenn Heitmann",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "61ee0fbd-d136-4069-8222-c95ab05ce746",
+          "pipelineStageUId": "61ee0fbd-d136-4069-8222-c95ab05ce746",
+          "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
+          "status": "open",
+          "source": null,
+          "lastStatusChangeAt": "2026-09-16T17:39:37.003Z",
+          "lastStageChangeAt": "2026-09-16T17:39:37.003Z",
+          "createdAt": "2026-09-16T17:39:37.003Z",
+          "updatedAt": "2026-09-16T17:39:40.031Z",
+          "forecastProbability": null,
+          "effectiveProbability": 18.75,
+          "contactId": "4rnlF7M7XoHFxoyE8gUD",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "laFOqPc5ZU9mgqkXjtlc",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "4rnlF7M7XoHFxoyE8gUD",
+              "fullName": "Finger Lakes Realtor | Jenn Heitmann",
+              "contactName": "Finger Lakes Realtor | Jenn Heitmann",
+              "companyName": null,
+              "email": "jennhasthekey@gmail.com",
+              "phone": null,
+              "tags": [
+                "keyword:social",
+                "new lead",
+                "sales: no show"
+              ],
+              "attributed": null
+            }
+          ],
+          "contact": {
+            "id": "4rnlF7M7XoHFxoyE8gUD",
+            "name": "Finger Lakes Realtor | Jenn Heitmann",
+            "companyName": null,
+            "email": "jennhasthekey@gmail.com",
+            "phone": null,
+            "tags": [
+              "keyword:social",
+              "new lead",
+              "sales: no show"
+            ],
+            "score": []
+          },
+          "sort": [
+            1789580377003,
+            "laFOqPc5ZU9mgqkXjtlc"
+          ],
+          "attributions": [
+            {
+              "utmSessionSource": "Social media",
+              "isFirst": true,
+              "medium": "instagram",
+              "mediumId": "3128792017317412"
+            },
+            {
+              "utmSessionSource": "Social media",
+              "isLast": true,
+              "medium": "instagram",
+              "mediumId": "3128792017317412"
+            }
+          ]
+        },
         {
           "id": "n2bVqoqMUo68vUEpfAGq",
           "name": "Nino",
@@ -73333,6 +73414,16 @@
       ],
       "conversationsAll": [
         {
+          "id": "bKSvdxzMMgvg0H3EKlYf",
+          "lastMessageDate": 1789578484600,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "uWSWZCvYXV7TvcguK9jH",
+          "lastMessageDate": 1789571574828,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "SIYkNu0CtU4eJC5Kbo7j",
           "lastMessageDate": 1789566833718,
           "type": "TYPE_PHONE"
@@ -73340,11 +73431,6 @@
         {
           "id": "sLmWnRXhvhXvU0LlmY20",
           "lastMessageDate": 1789566824902,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "uWSWZCvYXV7TvcguK9jH",
-          "lastMessageDate": 1789566822881,
           "type": "TYPE_PHONE"
         },
         {
