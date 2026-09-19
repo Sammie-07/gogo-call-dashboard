@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-09-18T23:06:05.403Z",
+  "syncedAt": "2026-09-19T03:35:35.495Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
-      "calls": 186,
-      "talkTimeMinutes": 150,
+      "calls": 184,
+      "talkTimeMinutes": 146,
       "manualSms": 298,
-      "autoSms": 406,
+      "autoSms": 398,
       "manualEmail": 98,
-      "autoEmail": 3118,
+      "autoEmail": 3084,
       "byDay": [
         {
           "date": "2024-02-23",
@@ -192,7 +192,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 108
+          "autoEmail": 106
         },
         {
           "date": "2026-04-28",
@@ -232,7 +232,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 102
+          "autoEmail": 100
         },
         {
           "date": "2026-05-04",
@@ -248,7 +248,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 98
+          "autoEmail": 96
         },
         {
           "date": "2026-05-06",
@@ -280,7 +280,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 96
+          "autoEmail": 94
         },
         {
           "date": "2026-05-11",
@@ -320,7 +320,7 @@
           "manualSms": 2,
           "autoSms": 0,
           "manualEmail": 2,
-          "autoEmail": 94
+          "autoEmail": 92
         },
         {
           "date": "2026-05-16",
@@ -336,7 +336,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 114
+          "autoEmail": 112
         },
         {
           "date": "2026-05-19",
@@ -360,7 +360,7 @@
           "manualSms": 0,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 96
+          "autoEmail": 94
         },
         {
           "date": "2026-05-22",
@@ -392,7 +392,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 2,
-          "autoEmail": 102
+          "autoEmail": 100
         },
         {
           "date": "2026-05-27",
@@ -416,7 +416,7 @@
           "manualSms": 8,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 92
+          "autoEmail": 90
         },
         {
           "date": "2026-05-30",
@@ -692,11 +692,11 @@
         },
         {
           "date": "2026-07-14",
-          "calls": 4,
+          "calls": 2,
           "manualSms": 0,
-          "autoSms": 6,
+          "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 26
+          "autoEmail": 24
         },
         {
           "date": "2026-07-15",
@@ -718,9 +718,9 @@
           "date": "2026-07-17",
           "calls": 0,
           "manualSms": 6,
-          "autoSms": 4,
+          "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 22
+          "autoEmail": 20
         },
         {
           "date": "2026-07-18",
@@ -752,7 +752,7 @@
           "manualSms": 2,
           "autoSms": 12,
           "manualEmail": 4,
-          "autoEmail": 40
+          "autoEmail": 38
         },
         {
           "date": "2026-07-22",
@@ -774,9 +774,9 @@
           "date": "2026-07-24",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 6,
+          "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 6
+          "autoEmail": 4
         },
         {
           "date": "2026-07-25",
@@ -800,7 +800,7 @@
           "manualSms": 0,
           "autoSms": 10,
           "manualEmail": 0,
-          "autoEmail": 42
+          "autoEmail": 40
         },
         {
           "date": "2026-07-29",
@@ -824,7 +824,7 @@
           "manualSms": 0,
           "autoSms": 8,
           "manualEmail": 0,
-          "autoEmail": 12
+          "autoEmail": 10
         },
         {
           "date": "2026-08-01",
@@ -856,7 +856,7 @@
           "manualSms": 2,
           "autoSms": 8,
           "manualEmail": 0,
-          "autoEmail": 44
+          "autoEmail": 42
         },
         {
           "date": "2026-08-05",
@@ -878,9 +878,9 @@
           "date": "2026-08-07",
           "calls": 0,
           "manualSms": 2,
-          "autoSms": 14,
+          "autoSms": 12,
           "manualEmail": 0,
-          "autoEmail": 16
+          "autoEmail": 14
         },
         {
           "date": "2026-08-09",
@@ -1148,6 +1148,79 @@
         }
       ],
       "opportunities": [
+        {
+          "id": "d5EPpTJ3P5QfTvuiQq6J",
+          "name": "Ftma Prto",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "assignedTo": "C7PplofCN88pv8MTTiZT",
+          "status": "open",
+          "source": null,
+          "lastStatusChangeAt": "2026-09-18T23:42:43.939Z",
+          "lastStageChangeAt": "2026-09-18T23:42:43.939Z",
+          "createdAt": "2026-09-18T23:42:43.939Z",
+          "updatedAt": "2026-09-18T23:42:43.939Z",
+          "forecastProbability": null,
+          "effectiveProbability": 31.25,
+          "contactId": "dDCMgdjlTvHpmsTS55a9",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "d5EPpTJ3P5QfTvuiQq6J",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "dDCMgdjlTvHpmsTS55a9",
+              "fullName": "ftma prto",
+              "contactName": "ftma prto",
+              "companyName": null,
+              "email": "maryfatimapuerto@gmail.com",
+              "phone": null,
+              "tags": [
+                "keyword:social",
+                "new lead",
+                "assigned to natalia"
+              ],
+              "attributed": null
+            }
+          ],
+          "contact": {
+            "id": "dDCMgdjlTvHpmsTS55a9",
+            "name": "ftma prto",
+            "companyName": null,
+            "email": "maryfatimapuerto@gmail.com",
+            "phone": null,
+            "tags": [
+              "keyword:social",
+              "new lead",
+              "assigned to natalia"
+            ],
+            "score": []
+          },
+          "sort": [
+            1789774963939,
+            "d5EPpTJ3P5QfTvuiQq6J"
+          ],
+          "attributions": [
+            {
+              "utmSessionSource": "Social media",
+              "medium": "instagram",
+              "mediumId": "1605423081333230",
+              "isFirst": true
+            },
+            {
+              "utmSessionSource": "Social media",
+              "medium": "instagram",
+              "mediumId": "1605423081333230",
+              "isLast": true
+            }
+          ]
+        },
         {
           "id": "bh1Rhq2Vqq4C8GTDSiL6",
           "name": "Gustavo Matos",
@@ -48068,6 +48141,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "jah98BNb9igh6R9WjAvi",
+          "lastMessageDate": 1789773084894,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "qDKbcRwB2fZTY7P9hQNo",
           "lastMessageDate": 1789771394785,
           "type": "TYPE_PHONE"
@@ -48563,8 +48641,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "g1M0AFdVGTuqJfyK1ADP",
-          "lastMessageDate": 1786117868690,
+          "id": "jah98BNb9igh6R9WjAvi",
+          "lastMessageDate": 1789773084894,
           "type": "TYPE_PHONE"
         },
         {
@@ -49060,11 +49138,6 @@
         {
           "id": "5x2DL6dTVUpflP2yP65x",
           "lastMessageDate": 1786118563423,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "g1M0AFdVGTuqJfyK1ADP",
-          "lastMessageDate": 1786117868690,
           "type": "TYPE_PHONE"
         }
       ]
