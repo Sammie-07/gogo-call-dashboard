@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-19T22:12:39.671Z",
+  "syncedAt": "2026-09-20T00:45:58.837Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -48166,6 +48166,30 @@
           "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
           "startTime": "2026-09-24T15:00:00-04:00",
           "title": "GGTC Onboarding Call - Kate Howard",
+          "assignedResources": [],
+          "isRecurring": false,
+          "createdBy": {
+            "source": "booking_widget",
+            "userId": null
+          },
+          "deleted": false
+        },
+        {
+          "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
+          "assignedUserId": "C7PplofCN88pv8MTTiZT",
+          "address": "https://zoom.us/j/98827914664",
+          "calendarId": "8kLbo3OukoeNXebq8B4b",
+          "contactId": "5Pd2POMb1wNbgRYLls3I",
+          "dateAdded": "2026-09-19T22:37:20.000Z",
+          "dateUpdated": "2026-09-19T22:37:20.000Z",
+          "endTime": "2026-09-24T16:00:00-04:00",
+          "id": "rmJNZ1xqwh5Hrqj0xz8E",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "notes": "Hello, I am redoing my Onboarding because I have spent the better part of this year with a pneumonia that had me so tired and worn down I haven’t been working much. I’m healed and need to jump back in!! ",
+          "description": "Hello, I am redoing my Onboarding because I have spent the better part of this year with a pneumonia that had me so tired and worn down I haven’t been working much. I’m healed and need to jump back in!! ",
+          "startTime": "2026-09-24T15:00:00-04:00",
+          "title": "GGTC Onboarding Call - Sheri Tucker",
           "assignedResources": [],
           "isRecurring": false,
           "createdBy": {
