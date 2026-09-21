@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-21T20:51:15.546Z",
+  "syncedAt": "2026-09-21T23:53:58.939Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -48109,6 +48109,28 @@
           "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
           "startTime": "2026-09-24T15:00:00-04:00",
           "title": "GGTC Onboarding Call - Kate Howard",
+          "assignedResources": [],
+          "isRecurring": false,
+          "createdBy": {
+            "source": "booking_widget",
+            "userId": null
+          },
+          "deleted": false
+        },
+        {
+          "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
+          "assignedUserId": "C7PplofCN88pv8MTTiZT",
+          "address": "https://zoom.us/j/98827914664",
+          "calendarId": "8kLbo3OukoeNXebq8B4b",
+          "contactId": "c8LQ0zFQKba4V0ZYk30o",
+          "dateAdded": "2026-09-21T21:35:02.000Z",
+          "dateUpdated": "2026-09-21T21:35:02.000Z",
+          "endTime": "2026-09-24T16:00:00-04:00",
+          "id": "g2Sd1Ge6pPu3NdtFvs62",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "startTime": "2026-09-24T15:00:00-04:00",
+          "title": "GGTC Onboarding Call - CHRISTINE IVES POLIZZI",
           "assignedResources": [],
           "isRecurring": false,
           "createdBy": {
