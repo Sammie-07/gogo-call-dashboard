@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-23T00:05:56.808Z",
+  "syncedAt": "2026-09-23T05:35:35.437Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -49182,7 +49182,7 @@
     "Z6C8jEN8ccsSWv70qBr1": {
       "calls": 15,
       "talkTimeMinutes": 15,
-      "manualSms": 42,
+      "manualSms": 43,
       "autoSms": 49,
       "manualEmail": 6,
       "autoEmail": 155,
@@ -49839,6 +49839,14 @@
           "date": "2026-09-22",
           "calls": 0,
           "manualSms": 20,
+          "autoSms": 0,
+          "manualEmail": 0,
+          "autoEmail": 0
+        },
+        {
+          "date": "2026-09-23",
+          "calls": 0,
+          "manualSms": 1,
           "autoSms": 0,
           "manualEmail": 0,
           "autoEmail": 0
@@ -73467,7 +73475,7 @@
       "conversationsAll": [
         {
           "id": "rYZB2NbTOoUKBFi9uHjh",
-          "lastMessageDate": 1790117890394,
+          "lastMessageDate": 1790130792971,
           "type": "TYPE_PHONE"
         },
         {
