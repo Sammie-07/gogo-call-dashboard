@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-25T01:12:42.910Z",
+  "syncedAt": "2026-09-25T07:15:39.937Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -42817,7 +42817,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Rafael",
+              "lastName": "Makino",
+              "email": "support@teamgogo.team",
+              "phone": "+5561999091580"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -42841,7 +42857,24 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "natalia",
+              "lastName": "duraes",
+              "email": "support@gogetemcommunity.com",
+              "phone": "+5538984282928",
+              "additionalInfo": "test"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -42863,7 +42896,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "natalia",
+              "lastName": "duraes",
+              "email": "support@gogetemcommunity.com",
+              "phone": "+5516993912026"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -42885,7 +42934,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Amanda",
+              "lastName": "Richards",
+              "email": "amandarealestatebroker@gmail.com",
+              "phone": "+15418684618"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -42909,7 +42974,24 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "PATRICIA",
+              "lastName": "NORRIS",
+              "email": "patricianorrisexp@gmail.com",
+              "phone": "+18135419843",
+              "additionalInfo": "LOOKING FORWARD TO WORKING WITH GOGO & HER TEAM DIRECTLY TO BUILD MY BUSINES IN 2026!"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -42933,7 +43015,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Shirley",
+              "lastName": "Millan",
+              "email": "managinghomesfl@gmail.com",
+              "additionalInfo": "I truly appreciate the 14-day trial opportunity. While I wasn't able to log in and navigate the community during the trial due to my delay in scheduling. I appreciate the access "
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -42955,7 +43053,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Nicole",
+              "lastName": "Clinton",
+              "email": "nicoleclintonrealestate@gmail.com",
+              "phone": "+15307180227"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -42977,7 +43091,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "email": "resilientrealestateservices@gmail.com",
+              "phone": "+18032507189",
+              "lastName": "Robinson",
+              "firstName": "Adriana"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "showed",
@@ -42999,7 +43129,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "firstName": "JENNIFER",
+              "phone": "+16318136100",
+              "email": "jennifernyxrealtor@gmail.com",
+              "lastName": "NYX"
+            },
+            "slotType": "custom"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "CNvBLjwyo8lxCxs7ofwA",
+            "status": "Showed",
+            "state": "completed",
+            "oldStatus": "showed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "showed",
@@ -43023,7 +43169,24 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "custom",
+            "defaultFormDetails": {
+              "firstName": "PATRICIA",
+              "lastName": "NORRIS",
+              "email": "patricianorrisexp@gmail.com",
+              "phone": "+18135419843",
+              "additionalInfo": "LOOKING FORWARD TO WORKING WITH GOGO & HER TEAM DIRECTLY TO BUILD MY BUSINES IN 2026!"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "CNvBLjwyo8lxCxs7ofwA",
+            "status": "Showed",
+            "state": "completed",
+            "oldStatus": "showed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "showed",
@@ -43045,7 +43208,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "custom",
+            "defaultFormDetails": {
+              "email": "gabriela@mcphersonsisters.com",
+              "phone": "+584122012343",
+              "lastName": "Rengifo",
+              "firstName": "Gabriela"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "CNvBLjwyo8lxCxs7ofwA",
+            "status": "Showed",
+            "state": "completed",
+            "oldStatus": "showed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -43067,7 +43246,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Lisa",
+              "email": "lisa@kwboise.com",
+              "lastName": "Desilet",
+              "phone": "+12088698924"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -43089,7 +43284,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "lastName": "Kenna",
+              "phone": "+19414623321",
+              "email": "jennifer.kenna@kennahometeam.com",
+              "firstName": "Jennifer"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -43111,7 +43322,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "lastName": "Bialek",
+              "phone": "+17034990535",
+              "email": "ana.bialek@exprealty.com",
+              "firstName": "Ana"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "showed",
@@ -43133,7 +43360,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "firstName": "eugenia",
+              "phone": "+17043303743",
+              "email": "re4genia@gmail.com",
+              "lastName": "Mantuc"
+            },
+            "slotType": "custom"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "CNvBLjwyo8lxCxs7ofwA",
+            "status": "Showed",
+            "state": "completed",
+            "oldStatus": "showed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -43155,7 +43398,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "lastName": "Clinton",
+              "phone": "+15307180227",
+              "email": "nicoleclintonrealestate@gmail.com",
+              "firstName": "Nicole"
+            },
+            "slotType": "custom"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -43179,7 +43438,24 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "phone": "+13036184237",
+              "additionalInfo": "I am a member of Team GoGo",
+              "lastName": "Carrington",
+              "firstName": "Tasha",
+              "email": "tashacarringtonrealtor@gmail.com"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -43201,7 +43477,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "email": "ariesescobar91@live.com",
+              "lastName": "Escobar",
+              "firstName": "Aries",
+              "phone": "+17342626383"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -43223,7 +43515,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "email": "jen@jenniferaparicio.com",
+              "phone": "+13133503731",
+              "lastName": "Aparicio",
+              "firstName": "Jennifer"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "showed",
@@ -43245,7 +43553,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "custom",
+            "defaultFormDetails": {
+              "email": "cherryann.bryant@exprealty.com",
+              "phone": "+13866311283",
+              "lastName": "Bryant",
+              "firstName": "Cherry"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "CNvBLjwyo8lxCxs7ofwA",
+            "status": "Showed",
+            "state": "completed",
+            "oldStatus": "showed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "showed",
@@ -43267,7 +43591,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "custom",
+            "defaultFormDetails": {
+              "email": "info@donebyone.ai",
+              "lastName": "Damianov",
+              "firstName": "Danielle",
+              "phone": "+17863597976"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "CNvBLjwyo8lxCxs7ofwA",
+            "status": "Showed",
+            "state": "completed",
+            "oldStatus": "showed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "showed",
@@ -43289,7 +43629,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "email": "jennifer.kenna@kennahometeam.com",
+              "lastName": "Kenna",
+              "firstName": "Jennifer",
+              "phone": "+13217209869"
+            },
+            "slotType": "custom"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "CNvBLjwyo8lxCxs7ofwA",
+            "status": "Showed",
+            "state": "completed",
+            "oldStatus": "showed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -43311,7 +43667,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Amanda",
+              "lastName": "Richards",
+              "email": "amandarealestatebroker@gmail.com",
+              "phone": "+15418684618"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -43333,7 +43705,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Savannah",
+              "lastName": "Gutierrez",
+              "phone": "+19792774056",
+              "email": "savannah.gutierrez.realtor@gmail.com"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -43355,7 +43743,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "firstName": "Jennifer",
+              "phone": "+13133503731",
+              "email": "jen@jenniferaparicio.com",
+              "lastName": "Aparicio"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -43377,7 +43781,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "firstName": "Cherry",
+              "phone": "+13866311283",
+              "email": "cherryann.bryant@exprealty.com",
+              "lastName": "Bryant"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -43399,7 +43819,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "phone": "+13217209869",
+              "firstName": "Jennifer",
+              "email": "jennifer.kenna@kennahometeam.com",
+              "lastName": "Kenna"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -43423,7 +43859,24 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "additionalInfo": "Good morning thank you for allowing me to reschedule. Looking forward to this meeting.",
+              "lastName": "Norris",
+              "firstName": "Patricia",
+              "phone": "+18135419843",
+              "email": "patricianorrisexp@gmail.com"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -43445,7 +43898,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "email": "gabriela@mcphersonsisters.com",
+              "phone": "+584122012343",
+              "lastName": "Rengifo",
+              "firstName": "Gabriela"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -43467,7 +43936,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "phone": "+16127438669",
+              "email": "kfalker@gmail.com",
+              "lastName": "Falker",
+              "firstName": "Kimberly"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -43489,7 +43974,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "email": "danielapattonrealtor@gmail.com",
+              "lastName": "Patton",
+              "phone": "+14072191068",
+              "firstName": "Daniela"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -43511,7 +44012,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "email": "hartrebekah27@gmail.com",
+              "firstName": "Rebekah",
+              "phone": "+16782384493",
+              "lastName": "Hart"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -43533,7 +44050,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "lastName": "Kenna",
+              "phone": "+19414623321",
+              "email": "jennifer.kenna@kennahometeam.com",
+              "firstName": "Jennifer"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -43555,7 +44088,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "phone": "+15127739609",
+              "email": "lynette_f@hotmail.com",
+              "lastName": "Freitag",
+              "firstName": "Lynette"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -43577,7 +44126,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "phone": "+17034990535",
+              "firstName": "Ana",
+              "email": "ana.bialek@exprealty.com",
+              "lastName": "Bialek"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -43599,7 +44164,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "phone": "+17863597976",
+              "email": "info@donebyone.ai",
+              "lastName": "Damianov",
+              "firstName": "Danielle"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -43623,7 +44204,24 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "lastName": "Carrington",
+              "additionalInfo": "I am a member of Team GoGo",
+              "firstName": "Tasha",
+              "email": "tashacarringtonrealtor@gmail.com",
+              "phone": "+13036184237"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -43645,7 +44243,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "phone": "+17043303743",
+              "firstName": "eugenia",
+              "lastName": "Mantuc",
+              "email": "re4genia@gmail.com"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -43667,7 +44281,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "lastName": "Richards",
+              "phone": "+15418684618",
+              "firstName": "Amanda",
+              "email": "amandarealestatebroker@gmail.com"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -43689,7 +44319,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "phone": "+16318136100",
+              "email": "jennifernyxrealtor@gmail.com",
+              "lastName": "NYX",
+              "firstName": "JENNIFER"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -43713,8 +44359,25 @@
             "source": "booking_widget",
             "userId": null
           },
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "additionalInfo": "I am a member of Team GoGo",
+              "firstName": "Tasha",
+              "phone": "+13036184237",
+              "lastName": "Carrington",
+              "email": "tashacarringtonrealtor@gmail.com"
+            },
+            "slotType": "default"
+          },
           "deleted": false,
-          "rescheduledAt": "2026-01-07T16:18:17.000Z"
+          "rescheduledAt": "2026-01-07T16:18:17.000Z",
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -43738,7 +44401,24 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Stacie",
+              "lastName": "Peterson",
+              "email": "stacie@staciepeterson.com",
+              "phone": "+16059400867"
+            },
+            "cancellationReason": "I’ve went through the welcome videos so I think I’m good"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -43760,7 +44440,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Norma",
+              "lastName": "Vargas",
+              "email": "normavargasrealtor@gmail.com",
+              "phone": "+17273329199"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -43782,7 +44478,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Pamela",
+              "lastName": "English",
+              "email": "pamela.english@exprealty.com",
+              "phone": "+12056432265"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -43804,7 +44516,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "tia",
+              "lastName": "moses",
+              "email": "trustintia@gmail.com",
+              "phone": "+12252874146"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -43826,7 +44554,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Joyce",
+              "lastName": "Sanders",
+              "email": "jsanders@joycesandersrealtor.com",
+              "phone": "+13136089890"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -43848,7 +44592,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "firstName": "Danielle",
+              "email": "info@donebyone.ai",
+              "phone": "+17863597976",
+              "lastName": "Damianov"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -43870,7 +44630,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "email": "lisa@kwboise.com",
+              "lastName": "Desilet",
+              "phone": "+12088698924",
+              "firstName": "Lisa"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -43892,7 +44668,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "lastName": "Richards",
+              "firstName": "Amanda",
+              "phone": "+15418684618",
+              "email": "amandarealestatebroker@gmail.com"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -43914,7 +44706,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "phone": "+19058090022",
+              "email": "angela@angelacain.ca",
+              "firstName": "Angela",
+              "lastName": "Cain"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -43936,7 +44744,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "lastName": "Mantuc",
+              "firstName": "eugenia",
+              "phone": "+17043303743",
+              "email": "re4genia@gmail.com"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -43958,7 +44782,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "phone": "+13217209869",
+              "email": "jennifer.kenna@kennahometeam.com",
+              "lastName": "Kenna",
+              "firstName": "Jennifer"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -43980,7 +44820,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Norma",
+              "lastName": "Vargas",
+              "email": "normavargasrealtor@gmail.com",
+              "phone": "+17273329199"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -44002,7 +44858,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Elizabeth",
+              "lastName": "Partida",
+              "email": "elizabethpartida@comcast.net",
+              "phone": "+19256984389"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -44024,7 +44896,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Steven",
+              "lastName": "Norris",
+              "email": "steven@legacypropertiesint.com",
+              "phone": "+13037177291"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -44046,7 +44934,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "lastName": "Tucker",
+              "firstName": "Sheri",
+              "phone": "+14802999775",
+              "email": "sheri@480az.com"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -44068,7 +44972,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "phone": "+584122012343",
+              "lastName": "Rengifo",
+              "firstName": "Gabriela",
+              "email": "gabriela@mcphersonsisters.com"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -44090,7 +45010,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "phone": "+14072191068",
+              "lastName": "Patton",
+              "email": "danielapattonrealtor@gmail.com",
+              "firstName": "Daniela"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -44112,7 +45048,22 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "lastName": "Reece",
+              "email": "reeceeins@gmail.com",
+              "firstName": "Amanda"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -44134,7 +45085,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "phone": "+17196411402",
+              "email": "cmdevenyns@gmail.com",
+              "lastName": "Moore-Devenyns",
+              "firstName": "Cimberley"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -44156,7 +45123,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Courtney",
+              "lastName": "Wilde",
+              "email": "realtorcourtneywilde@gmail.com",
+              "phone": "+18054064506"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -44178,7 +45161,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "email": "savannah.gutierrez.realtor@gmail.com",
+              "lastName": "Gutierrez",
+              "firstName": "Savannah",
+              "phone": "+19792774056"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -44200,7 +45199,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "email": "hartrebekah27@gmail.com",
+              "firstName": "Rebekah",
+              "phone": "+16782384493",
+              "lastName": "Hart"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -44222,7 +45237,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "phone": "+16318136100",
+              "email": "jennifernyxrealtor@gmail.com",
+              "lastName": "NYX",
+              "firstName": "JENNIFER"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -44244,7 +45275,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "email": "homesbyashley298@gmail.com",
+              "firstName": "Ashley ",
+              "phone": "+12089414206",
+              "lastName": "Davis"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -44268,7 +45315,24 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Ronda",
+              "lastName": "White",
+              "email": "ronda@whitecres.com",
+              "phone": "+19134864470",
+              "additionalInfo": "my client appointments ran long and i had to miss today"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -44290,7 +45354,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "phone": "+15127739609",
+              "email": "lynette_f@hotmail.com",
+              "lastName": "Freitag",
+              "firstName": "Lynette"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -44312,7 +45392,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "phone": "+19736524828",
+              "email": "reeceeins@gmail.com",
+              "lastName": "Reece",
+              "firstName": "Amanda"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -44334,7 +45430,22 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Laura",
+              "lastName": "Garcia",
+              "email": "lauragarciarealestate@gmail.com"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -44356,7 +45467,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "email": "cherryann.bryant@exprealty.com",
+              "lastName": "Bryant",
+              "phone": "+13866311283",
+              "firstName": "Cherry"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -44378,7 +45505,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "firstName": "Norma",
+              "phone": "+17273329199",
+              "email": "normavargasrealtor@gmail.com",
+              "lastName": "Vargas"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -44400,7 +45543,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "lastName": "Bialek",
+              "firstName": "Ana",
+              "phone": "+17034990535",
+              "email": "ana.bialek@exprealty.com"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -44422,7 +45581,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Kimberly",
+              "email": "kfalker@gmail.com",
+              "phone": "+16127438669",
+              "lastName": "Falker"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -44446,7 +45621,24 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "GiGi",
+              "lastName": "Lindberg",
+              "email": "gigi@gigindberg.com",
+              "phone": "+16507734373",
+              "additionalInfo": "Connecting LoftyCRMs with Calendars, my personal website and IG Facebook for agent attraction "
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -44468,7 +45660,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Jason",
+              "lastName": "Dillon",
+              "email": "jason.dillon@jeffborham.com",
+              "phone": "+18455377776"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -44490,7 +45698,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Kellie",
+              "lastName": "Martinez",
+              "email": "socalkellie@gmail.com",
+              "phone": "+16199945437"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -44512,7 +45736,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Elizabeth",
+              "lastName": "Partida",
+              "email": "elizabethpartida@comcast.net",
+              "phone": "+19256984389"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -44534,8 +45774,24 @@
             "source": "booking_widget",
             "userId": null
           },
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Denise",
+              "lastName": "Hoebee",
+              "email": "denise@hoebeehomes.com",
+              "phone": "+19736524777"
+            }
+          },
           "deleted": false,
-          "rescheduledAt": "2026-01-23T10:36:06.000Z"
+          "rescheduledAt": "2026-01-23T10:36:06.000Z",
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -44557,7 +45813,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "LaCretia",
+              "lastName": "Baldwin",
+              "email": "lacretiabaldwin@yahoo.com",
+              "phone": "+13137275625"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -44579,7 +45851,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "lastName": "Steele",
+              "firstName": "Jeannie",
+              "phone": "+14069490954",
+              "email": "jsteelerealty@gmail.com"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -44601,7 +45889,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "lastName": "Jenkins",
+              "email": "allurevacationsnc@gmail.com",
+              "phone": "+18287198412",
+              "firstName": "Melissa"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -44623,7 +45927,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "email": "kfalker@gmail.com",
+              "lastName": "Falker",
+              "phone": "+16127438669",
+              "firstName": "Kimberly"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -44647,8 +45967,24 @@
             "source": "booking_widget",
             "userId": null
           },
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "lastName": "Millan",
+              "additionalInfo": "I truly appreciate the 14-day trial opportunity. While I wasn't able to log in and navigate the community during the trial due to my delay in scheduling. I appreciate the access ",
+              "firstName": "Shirley",
+              "email": "managinghomesfl@gmail.com"
+            },
+            "slotType": "default"
+          },
           "deleted": false,
-          "rescheduledAt": "2026-01-07T04:47:47.000Z"
+          "rescheduledAt": "2026-01-07T04:47:47.000Z",
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -44670,7 +46006,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "email": "re4genia@gmail.com",
+              "phone": "+17043303743",
+              "lastName": "Mantuc",
+              "firstName": "eugenia"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -44692,7 +46044,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Migdalia",
+              "lastName": "Figueroa",
+              "email": "migdalia.figueroa@ushadvisors.com",
+              "phone": "+18134333170"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -44714,7 +46082,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "lastName": "NYX",
+              "email": "jennifernyxrealtor@gmail.com",
+              "firstName": "JENNIFER",
+              "phone": "+16318136100"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -44736,7 +46120,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "email": "gabriela@mcphersonsisters.com",
+              "firstName": "Gabriela",
+              "lastName": "Rengifo",
+              "phone": "+584122012343"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -44758,7 +46158,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Alyssa",
+              "lastName": "Guillermo",
+              "email": "alyssaguillermo.realtor@gmail.com",
+              "phone": "+19545587475"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -44780,7 +46196,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "lastName": "Tompkins",
+              "phone": "+16513385180",
+              "email": "amy@teampemberton.com",
+              "firstName": "Amy"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -44802,7 +46234,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "phone": "+16782384493",
+              "email": "hartrebekah27@gmail.com",
+              "lastName": "Hart",
+              "firstName": "Rebekah"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -44824,7 +46272,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "firstName": "Carmalita",
+              "email": "ctkeith@nexamortgage.com",
+              "phone": "+12408820079",
+              "lastName": "Keith"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -44846,7 +46310,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "phone": "+13866311283",
+              "lastName": "Bryant",
+              "email": "cherryann.bryant@exprealty.com",
+              "firstName": "Cherry"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -44868,7 +46348,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "email": "lisa@kwboise.com",
+              "firstName": "Lisa",
+              "phone": "+12088698924",
+              "lastName": "Desilet"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -44890,7 +46386,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "phone": "+17863597976",
+              "email": "info@donebyone.ai",
+              "lastName": "Damianov",
+              "firstName": "Danielle"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -44912,7 +46424,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "phone": "+13217209869",
+              "lastName": "Kenna",
+              "firstName": "Jennifer",
+              "email": "jennifer.kenna@kennahometeam.com"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -44934,7 +46462,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "phone": "+15867189431",
+              "lastName": "Simpson",
+              "email": "stacyssimpson@yahoo.com",
+              "firstName": "Stacy"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -44956,7 +46500,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "email": "lynette_f@hotmail.com",
+              "lastName": "Freitag",
+              "phone": "+15127739609",
+              "firstName": "Lynette"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -44978,7 +46538,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "email": "monicaschartz@rocketmail.com",
+              "firstName": "Monica",
+              "lastName": "Schartz",
+              "phone": "+16154232969"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -45000,7 +46576,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "lastName": "Norris",
+              "firstName": "Steven",
+              "phone": "+19709775397",
+              "email": "steven@legacypropertiesint.com"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -45022,7 +46614,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "email": "ariesescobar91@live.com",
+              "firstName": "Aries",
+              "phone": "+17342626383",
+              "lastName": "Escobar"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -45046,8 +46654,24 @@
             "source": "booking_widget",
             "userId": null
           },
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Jennifer",
+              "lastName": "Worthington",
+              "email": "jenn@communityrealtyllc.com",
+              "phone": "+15177984035"
+            }
+          },
           "deleted": false,
-          "rescheduledAt": "2026-02-05T16:18:33.000Z"
+          "rescheduledAt": "2026-02-05T16:18:33.000Z",
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -45069,7 +46693,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Tonya",
+              "lastName": "Foreman",
+              "email": "movingwithtonya@yahoo.com",
+              "phone": "+14787335855"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -45091,7 +46731,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Sarah",
+              "lastName": "Wagner",
+              "email": "sarahsellssun@gmail.com",
+              "phone": "+12399108734"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -45113,7 +46769,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Lindsay",
+              "lastName": "Prewitt",
+              "email": "llprewitt1219@gmail.com",
+              "phone": "+13098385794"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -45137,8 +46809,25 @@
             "source": "booking_widget",
             "userId": null
           },
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Elias",
+              "lastName": "Rodriguez",
+              "email": "eliasrexprealty@gmail.com",
+              "phone": "+19174175018"
+            },
+            "cancellationReason": "I rejoin the community "
+          },
           "deleted": false,
-          "rescheduledAt": "2026-01-29T15:59:51.000Z"
+          "rescheduledAt": "2026-01-29T15:59:51.000Z",
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -45160,7 +46849,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Bronda",
+              "lastName": "Bowery",
+              "email": "threeforksrealestate@gmail.com",
+              "phone": "+14062142886"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -45182,7 +46887,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Ashley",
+              "lastName": "Davis",
+              "email": "homesbyashley208@gmail.com",
+              "phone": "+19498993314"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -45206,7 +46927,24 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Stacie",
+              "lastName": "Peterson",
+              "email": "stacie@staciepeterson.com",
+              "phone": "+16059400867"
+            },
+            "cancellationReason": "My son’s flight is delayed and I will pick him up at the airport during this."
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -45230,8 +46968,25 @@
             "source": "booking_widget",
             "userId": null
           },
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Sara Marie",
+              "lastName": "Brenner",
+              "email": "sara@saramariebrenner.com",
+              "phone": "+17408169339",
+              "additionalInfo": "I may have my chief of staff (VA) attend"
+            }
+          },
           "deleted": false,
-          "rescheduledAt": "2026-01-08T20:02:51.000Z"
+          "rescheduledAt": "2026-01-08T20:02:51.000Z",
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -45253,8 +47008,24 @@
             "source": "booking_widget",
             "userId": null
           },
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "email": "hartrebekah27@gmail.com",
+              "lastName": "Hart",
+              "firstName": "Rebekah",
+              "phone": "+16782384493"
+            },
+            "slotType": "default"
+          },
           "deleted": false,
-          "rescheduledAt": "2026-01-08T19:30:30.000Z"
+          "rescheduledAt": "2026-01-08T19:30:30.000Z",
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -45276,7 +47047,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "phone": "+19256984389",
+              "email": "elizabethpartida@comcast.net",
+              "lastName": "Partida",
+              "firstName": "Elizabeth"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -45298,7 +47085,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Migdalia",
+              "lastName": "Figueroa",
+              "email": "migdalia.figueroa@ushadvisors.com",
+              "phone": "+18134333170"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -45322,7 +47125,24 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "lastName": "Perry Grinkevich",
+              "firstName": "Gail",
+              "additionalInfo": "I signed up on 12/27/25 and I kept looking for an email providing access to the Social Media Challenge 2026 program, but I never received an email that really indicated how I access the membership area.  I finally went back through all of the emails and I saw at the bottom the GoGetUmCommunity.com domain, so I clicked on that and then I found a Login Button at the top, and I was finally able to login there today.  I'm mentioning this because there might be others also having an issue trying to find out how to access the community.  I checked back on every email I received, and couldn't fine anything except in 1 email it mentioned accessing the app, which probably would have taken me to the sign up area, but I thought there would be an email detailing access and I prefer to work on my computer.  OK, I just wanted to share that with you.  Looking forward to learning more during the upcoming call.",
+              "phone": "+19736703450",
+              "email": "theinvestorre@gmail.com"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -45344,7 +47164,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Lisa",
+              "lastName": "Flores",
+              "email": "lisatherealtor1@gmail.com",
+              "phone": "+13612120773"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -45368,7 +47204,24 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "additionalInfo": "I’m so sorry I missed my time in January - my new puppy made a mess and I forgot. ",
+              "lastName": "Bialek",
+              "firstName": "Ana",
+              "phone": "+17034990535",
+              "email": "ana.bialek@exprealty.com"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -45390,7 +47243,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Aries",
+              "lastName": "Escobar",
+              "email": "aries@movewitharies.com",
+              "phone": "+17342626383"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -45412,7 +47281,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Jennifer",
+              "lastName": "Scott",
+              "email": "jrscotthomes@gmail.com",
+              "phone": "+17202992673"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -45436,8 +47321,25 @@
             "source": "booking_widget",
             "userId": null
           },
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "additionalInfo": "Good morning thank you for allowing me to reschedule. Looking forward to this meeting.",
+              "firstName": "Patricia",
+              "email": "patricianorrisexp@gmail.com",
+              "phone": "+18135419843",
+              "lastName": "Norris"
+            }
+          },
           "deleted": false,
-          "rescheduledAt": "2026-01-08T19:46:03.000Z"
+          "rescheduledAt": "2026-01-08T19:46:03.000Z",
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -45461,8 +47363,25 @@
             "source": "booking_widget",
             "userId": null
           },
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "lastName": "Falker",
+              "email": "kfalker@gmail.com",
+              "phone": "+16127438669",
+              "firstName": "Kimberly"
+            },
+            "cancellationReason": "I have a conflicting appt.",
+            "slotType": "default"
+          },
           "deleted": false,
-          "rescheduledAt": "2026-01-07T20:20:05.000Z"
+          "rescheduledAt": "2026-01-07T20:20:05.000Z",
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -45484,7 +47403,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Krista",
+              "lastName": "Johnson",
+              "email": "kristajohnson@fathomrealty.com",
+              "phone": "+19163002947"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -45506,7 +47441,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Ceila",
+              "lastName": "Morales",
+              "email": "ceila.broker@gmail.com",
+              "phone": "+14078327652"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -45528,7 +47479,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Renee",
+              "lastName": "Friedrich",
+              "email": "renee@thefriedrichteam.com",
+              "phone": "+17075925227"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -45550,7 +47517,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Jennifer",
+              "lastName": "Worthington",
+              "email": "jenn@communityrealtyllc.com",
+              "phone": "+15177984035"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -45572,7 +47555,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Monika",
+              "lastName": "Doyle",
+              "email": "monikamdoyle@gmail.com",
+              "phone": "+17576208308"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -45596,7 +47595,24 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "jana",
+              "lastName": "Hickey",
+              "email": "janahickey@gmail.com",
+              "phone": "+13373569917",
+              "additionalInfo": "I owe a team of 29 agents and looking to grow my business and help my agents grow as well.  Social Media is my weakness "
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -45618,7 +47634,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Heather",
+              "lastName": "Brookey",
+              "email": "heather@heatherbrookey.com",
+              "phone": "+16149494446"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -45640,7 +47672,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Carmen",
+              "lastName": "Cordova-Spina",
+              "email": "cspina09@yahoo.com",
+              "phone": "+19739869123"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -45662,7 +47710,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Carmen",
+              "lastName": "Cordova-Spina",
+              "email": "cspina09@yahoo.com",
+              "phone": "+19739869123"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -45686,7 +47750,24 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Kevin",
+              "lastName": "Couture",
+              "email": "kevinintheusa@gmail.com",
+              "phone": "+13522931741",
+              "additionalInfo": "My social media experience is (OJT) On the Job Training and nothing strategic. I'm eager get this machine moving forward and fast!"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -45708,7 +47789,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Jamey",
+              "lastName": "Prezzi",
+              "email": "jameyprezzi@gmail.com",
+              "phone": "+13057938965"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -45730,8 +47827,24 @@
             "source": "booking_widget",
             "userId": null
           },
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "email": "angel.zaper@exprealty.com",
+              "lastName": "Zaper",
+              "phone": "+17737426060",
+              "firstName": "Angel"
+            },
+            "slotType": "default"
+          },
           "deleted": false,
-          "rescheduledAt": "2026-01-15T19:31:03.000Z"
+          "rescheduledAt": "2026-01-15T19:31:03.000Z",
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -45753,7 +47866,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Beatriz",
+              "lastName": "Ribeiro",
+              "email": "hello@bethmanningrealestate.com",
+              "phone": "+5511974049779"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -45775,7 +47904,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Olga",
+              "lastName": "Persinger",
+              "email": "persingerolga@gmail.com",
+              "phone": "+19073100641"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -45799,7 +47944,24 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Reggie",
+              "lastName": "Hilton",
+              "email": "reggiehilton12@gmail.com",
+              "phone": "+18634195908",
+              "additionalInfo": "I want to onboard myself with the platform, and I need help in setting up a few things. "
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -45821,7 +47983,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Halina",
+              "lastName": "Zdanowski",
+              "email": "jkrealestate16@gmail.com",
+              "phone": "+17087815253"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -45843,7 +48021,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Gina",
+              "lastName": "Tran",
+              "email": "gina.tran@sdrsells.com",
+              "phone": "+18327218193"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -45865,7 +48059,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Christine",
+              "lastName": "Hinton",
+              "email": "chinton@columbushouseteam.com",
+              "phone": "+16143230747"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -45887,7 +48097,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Anthony",
+              "lastName": "Suarez",
+              "email": "anthony@nllfl.com",
+              "phone": "+18135099222"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -45909,7 +48135,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "LaCretia",
+              "lastName": "Baldwin",
+              "email": "lacretiabaldwin@yahoo.com",
+              "phone": "+13137275625"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -45931,7 +48173,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Elizabeth",
+              "lastName": "Partida",
+              "email": "elizabeth@elizabethpartidahomes.com",
+              "phone": "+19256984389"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -45953,7 +48211,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Eliza",
+              "lastName": "Silver",
+              "email": "elizasilver18@yahoo.com",
+              "phone": "+19148422935"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -45975,8 +48249,24 @@
             "source": "booking_widget",
             "userId": null
           },
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Katerina",
+              "lastName": "Veteskova",
+              "email": "katerina.vtskv@gmail.com",
+              "phone": "+17206464685"
+            }
+          },
           "deleted": false,
-          "rescheduledAt": "2026-02-12T15:39:27.000Z"
+          "rescheduledAt": "2026-02-12T15:39:27.000Z",
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -45998,7 +48288,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "natalia",
+              "lastName": "duraes",
+              "email": "nataliasduraes@gmail.com",
+              "phone": "+5538984282928"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -46020,7 +48326,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "natalia",
+              "lastName": "duraes",
+              "email": "support@gogetemcommunity.com",
+              "phone": "+555712050055"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -46042,7 +48364,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Carmen",
+              "lastName": "Cordova",
+              "email": "cspinaq09@yahooc.om",
+              "phone": "+19739869123"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -46064,7 +48402,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Eliza",
+              "lastName": "Silver",
+              "email": "elizasilver18@yahoo.com",
+              "phone": "+19148422935"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -46086,7 +48440,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Sarah",
+              "lastName": "Wagner",
+              "email": "sarahsellssun@gmail.com",
+              "phone": "+12399108734"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -46108,8 +48478,24 @@
             "source": "booking_widget",
             "userId": null
           },
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Eric",
+              "lastName": "Hudson",
+              "email": "vegasrealtor@eric-hudson.com",
+              "phone": "+17027065841"
+            }
+          },
           "deleted": false,
-          "rescheduledAt": "2026-02-05T04:01:03.000Z"
+          "rescheduledAt": "2026-02-05T04:01:03.000Z",
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -46131,7 +48517,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Manuel",
+              "lastName": "Vargas",
+              "email": "manuelvargasrealtor@gmail.com",
+              "phone": "+12398220937"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -46155,7 +48557,24 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Rhonda",
+              "lastName": "Sabatino-Leonard",
+              "email": "rhondasellssuburbia@gmail.com",
+              "phone": "+19194341075"
+            },
+            "cancellationReason": "Last minute schedule change. "
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -46177,7 +48596,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Karisa",
+              "lastName": "Langley",
+              "email": "karisa@soldbykarisa.com",
+              "phone": "+18067817054"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -46199,7 +48634,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Eliza",
+              "lastName": "Silver",
+              "email": "elizasilver18@yahoo.com",
+              "phone": "+19148422935"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -46223,8 +48674,25 @@
             "source": "booking_widget",
             "userId": null
           },
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "email": "angiemikularealestate@gmail.com",
+              "firstName": "Angie",
+              "additionalInfo": "Looking forward to meeting you! :)",
+              "phone": "+12487520016",
+              "lastName": "Mikula"
+            }
+          },
           "deleted": false,
-          "rescheduledAt": "2026-02-19T18:37:55.000Z"
+          "rescheduledAt": "2026-02-19T18:37:55.000Z",
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -46246,7 +48714,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Kathleen",
+              "lastName": "Benavides",
+              "email": "kathleenisarealtor@gmail.com",
+              "phone": "+12107243854"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -46268,7 +48752,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Ariella",
+              "lastName": "Valente 🤍",
+              "email": "ariellahr@gmail.com",
+              "phone": "+14072832250"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -46290,7 +48790,22 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Samuel",
+              "lastName": "Akinwande",
+              "email": "tech@gogosrealestate.com"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -46314,8 +48829,25 @@
             "source": "booking_widget",
             "userId": null
           },
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Julie",
+              "lastName": "Nguyen-Santos",
+              "email": "team@mtcteam.com",
+              "phone": "+13213130331",
+              "additionalInfo": "Im a tc and I learned about this from GoGo at the tc conference "
+            }
+          },
           "deleted": false,
-          "rescheduledAt": "2026-03-05T19:07:33.000Z"
+          "rescheduledAt": "2026-03-05T19:07:33.000Z",
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -46337,7 +48869,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Tiffany",
+              "lastName": "Wright",
+              "email": "tiffanyw@ascensiontc.com",
+              "phone": "+16363626817"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -46359,8 +48907,24 @@
             "source": "booking_widget",
             "userId": null
           },
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Jessica",
+              "lastName": "Gonzalez",
+              "email": "yourstrulyrealty@gmail.com",
+              "phone": "+12394627776"
+            }
+          },
           "deleted": false,
-          "rescheduledAt": "2026-03-05T21:30:09.000Z"
+          "rescheduledAt": "2026-03-05T21:30:09.000Z",
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -46382,7 +48946,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Kristi",
+              "lastName": "Ramella",
+              "email": "ramellagroup@exprealty.com",
+              "phone": "+15612062507"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -46404,7 +48984,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Michael",
+              "lastName": "Strutt",
+              "email": "michaelstrutt9@gmail.com",
+              "phone": "+19147555613"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -46426,7 +49022,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "natalia",
+              "lastName": "duraes",
+              "email": "assistant@teamgogo.team",
+              "phone": "+15712050505"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -46448,7 +49060,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Terrence",
+              "lastName": "Alexander",
+              "email": "terryakenator@gmail.com",
+              "phone": "+19295247278"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -46470,8 +49098,24 @@
             "source": "booking_widget",
             "userId": null
           },
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Randi",
+              "lastName": "Quigley",
+              "email": "randi@randilynn.info",
+              "phone": "+17084460328"
+            }
+          },
           "deleted": false,
-          "rescheduledAt": "2026-03-06T10:35:41.000Z"
+          "rescheduledAt": "2026-03-06T10:35:41.000Z",
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -46493,7 +49137,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Michelle",
+              "lastName": "Martinez",
+              "email": "michelle@hometowntc.com",
+              "phone": "+17547152193"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -46515,8 +49175,24 @@
             "source": "booking_widget",
             "userId": null
           },
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Holly",
+              "lastName": "Maloney",
+              "email": "hollymaloney3@gmail.com",
+              "phone": "+15136071986"
+            }
+          },
           "deleted": false,
-          "rescheduledAt": "2026-03-12T12:33:20.000Z"
+          "rescheduledAt": "2026-03-12T12:33:20.000Z",
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -46538,7 +49214,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Terrence",
+              "lastName": "Alexander",
+              "email": "terrence.alexander@exprealty.com",
+              "phone": "+19295247278"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -46560,7 +49252,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Angela",
+              "lastName": "DeBlois",
+              "email": "angela@angeladebloisrealty.com",
+              "phone": "+17802896416"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -46582,7 +49290,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Shayna",
+              "lastName": "Yasinian",
+              "email": "sy@get2closetc.com",
+              "phone": "+19549558489"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -46604,7 +49328,22 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Denise",
+              "lastName": "Morken",
+              "email": "denise.exprealtypro@gmail.com"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -46626,7 +49365,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Chasadee",
+              "lastName": "Davis",
+              "email": "chasadee@rainingleverage.com",
+              "phone": "+19139808511"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -46648,7 +49403,17 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -46670,7 +49435,17 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -46694,7 +49469,18 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "cancellationReason": "Hopped on a call today"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -46716,7 +49502,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Ashley",
+              "lastName": "Davis",
+              "email": "homesbyashley208@gmail.com",
+              "phone": "+19498993314"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -46740,7 +49542,24 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Melanie",
+              "lastName": "Sanders",
+              "email": "melanie@sandersrealestateaz.com",
+              "phone": "+14805705203",
+              "additionalInfo": "I’ve had the membership for awhile just not fully using it never did onboarding, "
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -46764,8 +49583,26 @@
             "source": "booking_widget",
             "userId": null
           },
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Allison",
+              "lastName": "Miller",
+              "email": "ally@allysesllsvegas.com",
+              "phone": "+17025920488",
+              "additionalInfo": "I cant find the log in password email, if that can be resent to me please."
+            },
+            "cancellationReason": "Already on boarded"
+          },
           "deleted": false,
-          "rescheduledAt": "2026-04-02T15:29:43.000Z"
+          "rescheduledAt": "2026-04-02T15:29:43.000Z",
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -46787,7 +49624,17 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -46809,7 +49656,17 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -46831,7 +49688,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Holly",
+              "lastName": "Reed",
+              "email": "rightsizewithholly@gmail.com",
+              "phone": "+19716783549"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -46853,7 +49726,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Daisy",
+              "lastName": "Aguirre",
+              "email": "elphomegirl@gmail.com",
+              "phone": "+19158209504"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -46875,7 +49764,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Denise",
+              "lastName": "Morken",
+              "email": "denise.morken@exprealty.com",
+              "phone": "+14068856551"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -46897,7 +49802,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Christina",
+              "lastName": "Fryzel",
+              "email": "cfryzel20@gmail.com",
+              "phone": "+13124937373"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -46921,7 +49842,24 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Casey",
+              "lastName": "Breitenbach",
+              "email": "caseybreitenbach@gmail.com",
+              "phone": "+18648098805",
+              "additionalInfo": "I want to pay someone to set up go high level "
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -46943,7 +49881,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Sabby",
+              "lastName": "bagga",
+              "email": "sabby@agentontube.com",
+              "phone": "+916475407599"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -46965,8 +49919,24 @@
             "source": "booking_widget",
             "userId": null
           },
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Heather",
+              "lastName": "Kelsey-Zumbrunnen",
+              "email": "hkz@fullcircleregroup.com",
+              "phone": "+18108695243"
+            }
+          },
           "deleted": false,
-          "rescheduledAt": "2026-04-02T12:18:40.000Z"
+          "rescheduledAt": "2026-04-02T12:18:40.000Z",
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -46988,7 +49958,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Jodi",
+              "lastName": "Harstine",
+              "email": "jodi.harstine@exprealty.com",
+              "phone": "+19125579975"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47010,7 +49996,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Daisy",
+              "lastName": "Aguirre",
+              "email": "daisy@ushomegirl.com",
+              "phone": "+19158209504"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47032,7 +50034,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Kathleen",
+              "lastName": "Benavides",
+              "email": "kathleenisarealtor@gmail.com",
+              "phone": "+12107243854"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47056,8 +50074,24 @@
             "source": "booking_widget",
             "userId": null
           },
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Debbie",
+              "lastName": "Brannon",
+              "email": "deb2buyorsellhomes@aol.com",
+              "phone": "+14088321362"
+            }
+          },
           "deleted": false,
-          "rescheduledAt": "2026-04-17T16:41:21.000Z"
+          "rescheduledAt": "2026-04-17T16:41:21.000Z",
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47079,8 +50113,24 @@
             "source": "booking_widget",
             "userId": null
           },
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Raminta",
+              "lastName": "Urla",
+              "email": "uraminta@yahoo.com",
+              "phone": "+17082532679"
+            }
+          },
           "deleted": false,
-          "rescheduledAt": "2026-04-13T19:14:21.000Z"
+          "rescheduledAt": "2026-04-13T19:14:21.000Z",
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47102,7 +50152,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Ashley",
+              "lastName": "Carman",
+              "email": "ashley@alignrealty.group",
+              "phone": "+16788955075"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47124,7 +50190,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Eliza",
+              "lastName": "Silver",
+              "email": "eliza.silver@exprealty.com",
+              "phone": "+19178422935"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47146,8 +50228,24 @@
             "source": "booking_widget",
             "userId": null
           },
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Shellie",
+              "lastName": "Heinen",
+              "email": "shellie.heinen@exprealty.com",
+              "phone": "+15634846341"
+            }
+          },
           "deleted": false,
-          "rescheduledAt": "2026-04-27T17:45:45.000Z"
+          "rescheduledAt": "2026-04-27T17:45:45.000Z",
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47169,7 +50267,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Raminta",
+              "lastName": "Urla",
+              "email": "soldbyurla@gmail.com",
+              "phone": "+17082532679"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47193,7 +50307,24 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "MIchael",
+              "lastName": "Byrd",
+              "email": "mike@michaelbyrdrealtor.com",
+              "phone": "+13864511448",
+              "additionalInfo": "N/A"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47215,7 +50346,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Bea",
+              "lastName": "Wolfe",
+              "email": "realtorbeaw@gmail.com",
+              "phone": "+16306427797"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47237,7 +50384,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "BRENDA",
+              "lastName": "N HUELLE",
+              "email": "huelleb@gmail.com",
+              "phone": "+17039157685"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -47261,7 +50424,24 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Alisha",
+              "lastName": "Ryan",
+              "email": "alisha@yellowbirdcage.com",
+              "phone": "+12147342664"
+            },
+            "cancellationReason": "I have showings and need to reschedule "
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47283,7 +50463,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Shellie",
+              "lastName": "Heinen",
+              "email": "shellie.heinen@exprealty.com",
+              "phone": "+15634846341"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47305,7 +50501,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "BRENDA",
+              "lastName": "HUELLE",
+              "email": "huelleb@gmail.com",
+              "phone": "+17039157685"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47327,7 +50539,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Allison",
+              "lastName": "McClintick",
+              "email": "allison@allisonmcclintick.com",
+              "phone": "+12488971038"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47349,7 +50577,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Douglas",
+              "lastName": "Gilmore",
+              "email": "douggilmorerealty@gmail.com",
+              "phone": "+18135455949"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47371,7 +50615,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Mary",
+              "lastName": "Harmon",
+              "email": "info@maryharmon.com",
+              "phone": "+12058862792"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47393,7 +50653,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Dorothy",
+              "lastName": "Larson",
+              "email": "dorothylarson10@outlook.com",
+              "phone": "+16089634205"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -47415,7 +50691,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Trish",
+              "lastName": "Todd",
+              "email": "trish@trishtodd.com",
+              "phone": "+17053414573"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47439,8 +50731,24 @@
             "source": "booking_widget",
             "userId": null
           },
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "lastName": "Oluyemi",
+              "phone": "+12049623708",
+              "email": "jumokeoluyemi01@gmail.com",
+              "firstName": "Jumoke"
+            },
+            "slotType": "default"
+          },
           "deleted": false,
-          "rescheduledAt": "2026-05-26T15:01:29.000Z"
+          "rescheduledAt": "2026-05-26T15:01:29.000Z",
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47462,7 +50770,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Tammy",
+              "lastName": "Crawford",
+              "email": "tammy@alwaysyourrealtor.com",
+              "phone": "+16614789526"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47484,7 +50808,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "email": "kathycsells@gmail.com",
+              "lastName": "Casarin",
+              "phone": "+15703511444",
+              "firstName": "Kathy"
+            },
+            "slotType": "default"
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "cancelled",
@@ -47508,7 +50848,24 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "defaultFormDetails": {
+              "phone": "+17604192202",
+              "email": "michelleseymourhomes@gmail.com",
+              "lastName": "Seymour",
+              "firstName": "Michelle"
+            },
+            "slotType": "default",
+            "cancellationReason": "I don't want to waste your time - my focus right now is reigning in costs and hiring a VA. "
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "6VsKZtt6oig3uQIvXet4",
+            "status": "Cancelled",
+            "state": "cancelled",
+            "oldStatus": "cancelled",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47530,7 +50887,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Kathy",
+              "lastName": "Casarin",
+              "email": "kathycsells@gmail.com",
+              "phone": "+15703511444"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47552,7 +50925,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Alexis",
+              "lastName": "Carrera",
+              "email": "alexiscarrerarealestate@gmail.com",
+              "phone": "+12488601992"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47574,7 +50963,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Hollie",
+              "lastName": "Garvey",
+              "email": "hollie.garvey@exprealty.com",
+              "phone": "+16035837622"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47596,7 +51001,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Yvonne",
+              "lastName": "Zielinski",
+              "email": "yzielinski72@gmail.com",
+              "phone": "+15867385543"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47618,7 +51039,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Hollie",
+              "lastName": "Garvey",
+              "email": "hollie.garvey@exprealty.com",
+              "phone": "+16035837622"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47640,7 +51077,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Pam",
+              "lastName": "Tapp",
+              "email": "pam.tapp@exprealty.com",
+              "phone": "+19412329496"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47662,7 +51115,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Trish",
+              "lastName": "Todd",
+              "email": "trish@trishtodd.com",
+              "phone": "+17053414573"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47684,7 +51153,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Melissa",
+              "lastName": "Roel",
+              "email": "melissacroel@gmail.com",
+              "phone": "+12103790396"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47706,7 +51191,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Norma",
+              "lastName": "Vargas",
+              "email": "normavargasrealtor@gmail.com",
+              "phone": "+17273329199"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47728,7 +51229,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Abi",
+              "lastName": "Merkle",
+              "email": "abi.merkle@amdesignservice.com",
+              "phone": "+18133098320"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47752,7 +51269,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Pam",
+              "lastName": "Tapp",
+              "email": "pam.tapp@exprealty.com",
+              "phone": "+19412329496"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47776,8 +51309,24 @@
             "source": "booking_widget",
             "userId": null
           },
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Charmayne",
+              "lastName": "Deshon",
+              "email": "hello@charmaynedeshon.com",
+              "phone": "+12105408258"
+            }
+          },
           "deleted": false,
-          "rescheduledAt": "2026-07-21T18:59:03.000Z"
+          "rescheduledAt": "2026-07-21T18:59:03.000Z",
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47799,7 +51348,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Pam",
+              "lastName": "Tapp",
+              "email": "pam.tapp@exprealty.com",
+              "phone": "+19412329496"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47821,7 +51386,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Krystal",
+              "lastName": "Thomas",
+              "email": "krystal@krystalthomaskeywest.com",
+              "phone": "+13053944073"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47845,7 +51426,24 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Melissa",
+              "lastName": "Roel",
+              "email": "melissacroel@gmail.com",
+              "phone": "+12103790396",
+              "additionalInfo": "I am also interested in information on the go high-level. I believe it’s the CRM?"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47867,7 +51465,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Sara",
+              "lastName": "Brenner",
+              "email": "sara@oneplaceglobal.com",
+              "phone": "+17408169339"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47889,7 +51503,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Eliza",
+              "lastName": "Silver",
+              "email": "elizasilver18@yahoo.com",
+              "phone": "+19178422935"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47911,7 +51541,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Nathan",
+              "lastName": "Graham",
+              "email": "nathan@syntheticecho.com",
+              "phone": "+12899282288"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47933,7 +51579,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Savannah",
+              "lastName": "Gutierrez",
+              "email": "savannah.gutierrez.realtor@gmail.com",
+              "phone": "+19792774056"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47955,7 +51617,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Florence",
+              "lastName": "Darko",
+              "email": "fadarko@msn.com",
+              "phone": "+14803360656"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -47979,7 +51657,24 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "CHRISTINE",
+              "lastName": "IVES POLIZZI",
+              "email": "chrissi.polizzi@exprealty.com",
+              "phone": "+15705617189",
+              "additionalInfo": "Not exactly sure I’m definitely looking to start utilizing virtual assistance that Gogo uses"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -48001,7 +51696,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Jennifer",
+              "lastName": "Nyx",
+              "email": "jennifernyxrealtor@gmail.com",
+              "phone": "+16318136100"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -48025,8 +51736,25 @@
             "source": "booking_widget",
             "userId": null
           },
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "annie",
+              "lastName": "yeo",
+              "email": "resuccess88@aol.com",
+              "phone": "+17607502828",
+              "additionalInfo": "need to start as was distracted by a scam and now homeless.  Ready to start work now.\nThank you"
+            }
+          },
           "deleted": false,
-          "rescheduledAt": "2026-09-07T13:49:54.000Z"
+          "rescheduledAt": "2026-09-07T13:49:54.000Z",
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -48050,7 +51778,24 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Kathy",
+              "lastName": "Casarin",
+              "email": "kathycsells@gmail.com",
+              "phone": "+15703511444",
+              "additionalInfo": "This is my second onboarding call. I’m in the program but feel lost.  "
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -48074,7 +51819,24 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Hector",
+              "lastName": "Aguilar",
+              "email": "hector.aguilar@exprealty.com",
+              "phone": "+16262552783",
+              "additionalInfo": "Been a long-time member, could use a refresher on how to navigate."
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -48098,7 +51860,24 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Hector",
+              "lastName": "Aguilar",
+              "email": "hector.aguilar@exprealty.com",
+              "phone": "+16262552783",
+              "additionalInfo": "Sorry, I have a listing appointment in Temecula, about an hour and a half away, and I need to reschedule for next week.  Thanks. "
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -48120,8 +51899,24 @@
             "source": "booking_widget",
             "userId": null
           },
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Miranda",
+              "lastName": "Ureche",
+              "email": "urechemiranda@gmail.com",
+              "phone": "+15869405557"
+            }
+          },
           "deleted": false,
-          "rescheduledAt": "2026-09-10T17:23:49.000Z"
+          "rescheduledAt": "2026-09-10T17:23:49.000Z",
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -48143,7 +51938,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Kate",
+              "lastName": "Howard",
+              "email": "katehasthekey@gmail.com",
+              "phone": "+15639403383"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -48165,7 +51976,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "CHRISTINE",
+              "lastName": "IVES POLIZZI",
+              "email": "christine1polizzi1@gmail.com",
+              "phone": "+15705617189"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -48189,8 +52016,25 @@
             "source": "booking_widget",
             "userId": null
           },
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Sheri",
+              "lastName": "Tucker",
+              "email": "sheri@480az.com",
+              "phone": "+14802999775",
+              "additionalInfo": "Hello, I am redoing my Onboarding because I have spent the better part of this year with a pneumonia that had me so tired and worn down I haven’t been working much. I’m healed and need to jump back in!! "
+            }
+          },
           "deleted": false,
-          "rescheduledAt": "2026-09-24T13:23:04.000Z"
+          "rescheduledAt": "2026-09-24T13:23:04.000Z",
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         }
       ],
       "conversationsAll": [
@@ -73398,7 +77242,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Marian",
+              "lastName": "Alim Bangura",
+              "email": "mariamalim98@gmail.com",
+              "phone": "+16177928505"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -73420,7 +77280,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Marian",
+              "lastName": "Alim Bangura",
+              "email": "mariamalim98@gmail.com",
+              "phone": "+16177928505"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -73442,7 +77318,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Marian",
+              "lastName": "Alim Bangura",
+              "email": "mariamalim98@gmail.com",
+              "phone": "+16177928505"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -73464,7 +77356,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Gena",
+              "lastName": "Schaublin",
+              "email": "gena@genaschaublin.com",
+              "phone": "+16023177610"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         },
         {
           "appointmentStatus": "confirmed",
@@ -73486,7 +77394,23 @@
             "source": "booking_widget",
             "userId": null
           },
-          "deleted": false
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Robert",
+              "lastName": "Adams",
+              "email": "rparealty@gmail.com",
+              "phone": "+19163339833"
+            }
+          },
+          "deleted": false,
+          "statusDetails": {
+            "id": "noajVfGIH8TGrjfQ6B3m",
+            "status": "Confirmed",
+            "state": "active",
+            "oldStatus": "confirmed",
+            "translatable": true
+          }
         }
       ],
       "conversationsAll": [
