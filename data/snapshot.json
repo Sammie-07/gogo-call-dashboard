@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-29T14:49:20.292Z",
+  "syncedAt": "2026-09-29T19:50:49.126Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -8,7 +8,7 @@
       "manualSms": 330,
       "autoSms": 452,
       "manualEmail": 100,
-      "autoEmail": 3254,
+      "autoEmail": 3256,
       "byDay": [
         {
           "date": "2024-02-23",
@@ -1248,7 +1248,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 10
+          "autoEmail": 12
         }
       ],
       "opportunities": [
@@ -14600,7 +14600,7 @@
                 "clarity_call_approved",
                 "clarity_call_booked",
                 "circle_member_approved",
-                "⭕ signed - $3k/$30k",
+                "⭕ sent - $3k/$30k",
                 "keyword:social",
                 "assigned to natalia",
                 "lead called",
@@ -14622,7 +14622,7 @@
               "clarity_call_approved",
               "clarity_call_booked",
               "circle_member_approved",
-              "⭕ signed - $3k/$30k",
+              "⭕ sent - $3k/$30k",
               "keyword:social",
               "assigned to natalia",
               "lead called",
@@ -52073,6 +52073,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "XnKQ3RHmWMLL8lzoph54",
+          "lastMessageDate": 1790711009533,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "uvgOPHs71JOdee8UABwv",
           "lastMessageDate": 1790691203627,
           "type": "TYPE_PHONE"
@@ -52280,11 +52285,6 @@
         {
           "id": "f1f5C7y68F2PavMWSDhi",
           "lastMessageDate": 1790265510685,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "XnKQ3RHmWMLL8lzoph54",
-          "lastMessageDate": 1790106207084,
           "type": "TYPE_PHONE"
         },
         {
@@ -52573,6 +52573,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "XnKQ3RHmWMLL8lzoph54",
+          "lastMessageDate": 1790711009533,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "uvgOPHs71JOdee8UABwv",
           "lastMessageDate": 1790691203627,
           "type": "TYPE_PHONE"
@@ -52780,11 +52785,6 @@
         {
           "id": "f1f5C7y68F2PavMWSDhi",
           "lastMessageDate": 1790265510685,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "XnKQ3RHmWMLL8lzoph54",
-          "lastMessageDate": 1790106207084,
           "type": "TYPE_PHONE"
         },
         {
