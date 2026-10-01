@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-01T08:27:19.051Z",
+  "syncedAt": "2026-10-01T16:07:02.562Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -8,7 +8,7 @@
       "manualSms": 330,
       "autoSms": 452,
       "manualEmail": 100,
-      "autoEmail": 3256,
+      "autoEmail": 3260,
       "byDay": [
         {
           "date": "2024-02-23",
@@ -1257,6 +1257,14 @@
           "autoSms": 0,
           "manualEmail": 0,
           "autoEmail": 2
+        },
+        {
+          "date": "2026-10-01",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 0,
+          "manualEmail": 0,
+          "autoEmail": 4
         }
       ],
       "opportunities": [
@@ -52044,13 +52052,13 @@
           "calendarId": "8kLbo3OukoeNXebq8B4b",
           "contactId": "5Pd2POMb1wNbgRYLls3I",
           "dateAdded": "2026-09-19T22:37:20.000Z",
-          "dateUpdated": "2026-09-24T13:23:53.000Z",
-          "endTime": "2026-10-01T16:00:00-04:00",
+          "dateUpdated": "2026-10-01T13:42:08.000Z",
+          "endTime": "2026-10-08T16:00:00-04:00",
           "id": "rmJNZ1xqwh5Hrqj0xz8E",
           "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
           "notes": "Hello, I am redoing my Onboarding because I have spent the better part of this year with a pneumonia that had me so tired and worn down I haven’t been working much. I’m healed and need to jump back in!! ",
           "description": "Hello, I am redoing my Onboarding because I have spent the better part of this year with a pneumonia that had me so tired and worn down I haven’t been working much. I’m healed and need to jump back in!! ",
-          "startTime": "2026-10-01T15:00:00-04:00",
+          "startTime": "2026-10-08T15:00:00-04:00",
           "title": "GGTC Onboarding Call - Sheri Tucker",
           "assignedResources": [],
           "isRecurring": false,
@@ -52069,7 +52077,7 @@
             }
           },
           "deleted": false,
-          "rescheduledAt": "2026-09-24T13:23:04.000Z",
+          "rescheduledAt": "2026-10-01T13:42:06.000Z",
           "statusDetails": {
             "id": "noajVfGIH8TGrjfQ6B3m",
             "status": "Confirmed",
@@ -52080,6 +52088,16 @@
         }
       ],
       "conversationsAll": [
+        {
+          "id": "f1f5C7y68F2PavMWSDhi",
+          "lastMessageDate": 1790870338582,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "74UEejSjbnCQgyn2un4o",
+          "lastMessageDate": 1790860389134,
+          "type": "TYPE_PHONE"
+        },
         {
           "id": "qDKbcRwB2fZTY7P9hQNo",
           "lastMessageDate": 1790806466737,
@@ -52241,11 +52259,6 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "74UEejSjbnCQgyn2un4o",
-          "lastMessageDate": 1790601381317,
-          "type": "TYPE_PHONE"
-        },
-        {
           "id": "WedB9tgtEyY66MNZ0rwk",
           "lastMessageDate": 1790601369916,
           "type": "TYPE_PHONE"
@@ -52288,11 +52301,6 @@
         {
           "id": "Jh8kIMc3EmYp3rCP6sd7",
           "lastMessageDate": 1790274320497,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "f1f5C7y68F2PavMWSDhi",
-          "lastMessageDate": 1790265510685,
           "type": "TYPE_PHONE"
         },
         {
@@ -52581,6 +52589,16 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "f1f5C7y68F2PavMWSDhi",
+          "lastMessageDate": 1790870338582,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "74UEejSjbnCQgyn2un4o",
+          "lastMessageDate": 1790860389134,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "qDKbcRwB2fZTY7P9hQNo",
           "lastMessageDate": 1790806466737,
           "type": "TYPE_PHONE"
@@ -52741,11 +52759,6 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "74UEejSjbnCQgyn2un4o",
-          "lastMessageDate": 1790601381317,
-          "type": "TYPE_PHONE"
-        },
-        {
           "id": "WedB9tgtEyY66MNZ0rwk",
           "lastMessageDate": 1790601369916,
           "type": "TYPE_PHONE"
@@ -52788,11 +52801,6 @@
         {
           "id": "Jh8kIMc3EmYp3rCP6sd7",
           "lastMessageDate": 1790274320497,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "f1f5C7y68F2PavMWSDhi",
-          "lastMessageDate": 1790265510685,
           "type": "TYPE_PHONE"
         },
         {
