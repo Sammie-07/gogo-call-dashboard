@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-06T23:45:51.581Z",
+  "syncedAt": "2026-10-07T04:47:43.767Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -53324,7 +53324,7 @@
       "talkTimeMinutes": 15,
       "manualSms": 45,
       "autoSms": 51,
-      "manualEmail": 6,
+      "manualEmail": 7,
       "autoEmail": 159,
       "byDay": [
         {
@@ -54014,6 +54014,14 @@
           "autoSms": 2,
           "manualEmail": 0,
           "autoEmail": 1
+        },
+        {
+          "date": "2026-10-07",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 0,
+          "manualEmail": 1,
+          "autoEmail": 0
         }
       ],
       "opportunities": [
@@ -77871,7 +77879,7 @@
       "conversationsAll": [
         {
           "id": "kJSieuKNSVTaYROkzh0D",
-          "lastMessageDate": 1791317220864,
+          "lastMessageDate": 1791347404187,
           "type": "TYPE_PHONE"
         },
         {
