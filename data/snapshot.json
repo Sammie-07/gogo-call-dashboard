@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-07T23:30:07.664Z",
+  "syncedAt": "2026-10-08T04:58:07.951Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -1293,6 +1293,90 @@
       ],
       "opportunities": [
         {
+          "id": "HVS2nuraxqgm2mS6usgg",
+          "name": "Cherie Hogan",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "assignedTo": "C7PplofCN88pv8MTTiZT",
+          "status": "open",
+          "source": "GGTC Blocker Quiz",
+          "lastStatusChangeAt": "2026-10-08T02:31:08.705Z",
+          "lastStageChangeAt": "2026-10-08T02:32:13.930Z",
+          "createdAt": "2026-10-08T02:31:08.705Z",
+          "updatedAt": "2026-10-08T02:32:13.999Z",
+          "forecastProbability": null,
+          "effectiveProbability": 31.25,
+          "contactId": "XeBMQfzImxb2XMk85EUw",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "HVS2nuraxqgm2mS6usgg",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "XeBMQfzImxb2XMk85EUw",
+              "fullName": "Cherie Hogan",
+              "contactName": "Cherie Hogan",
+              "companyName": null,
+              "email": "cherie.hogan@gmail.com",
+              "phone": "+15129986838",
+              "tags": [
+                "first crm import",
+                "#teamgogo",
+                "texas",
+                "blocker quiz",
+                "new lead",
+                "assigned to natalia"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "XeBMQfzImxb2XMk85EUw",
+            "name": "Cherie Hogan",
+            "companyName": null,
+            "email": "cherie.hogan@gmail.com",
+            "phone": "+15129986838",
+            "tags": [
+              "first crm import",
+              "#teamgogo",
+              "texas",
+              "blocker quiz",
+              "new lead",
+              "assigned to natalia"
+            ],
+            "score": []
+          },
+          "sort": [
+            1791426668705,
+            "HVS2nuraxqgm2mS6usgg"
+          ],
+          "attributions": [
+            {
+              "utmSessionSource": "CRM UI",
+              "isFirst": true,
+              "medium": "csv_import"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/growth-blocker.html?utm_source=manychat&mcp_token=eyJwaWQiOjMyODA5MDcsInNpZCI6MTE2NTE2MzExMywiYXgiOiI1NGQ4YTQzYzViNTc5YjYxZGQ2YzcxMGZiOTY2NzM2NSIsInRzIjoxNzkxNDI2MDMxLCJleHAiOjE3OTM4NDUyMzF9.ETAnH3Ta9jVigbRuiAKgC7uoNx_CiNVV7OmaVleD3ZI",
+              "referrer": "https://instagram.com",
+              "utmSessionSource": "Social media",
+              "isLast": true,
+              "ip": "2600:383:b40:a004:1da2:2fe7:b381:ddc2",
+              "medium": "form",
+              "mediumId": "muiUniGFhCNqBm9Ak62g",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23G83 Instagram 448.0.0.39.66 (iPhone18,1; iOS 26_6_1; en_US; en; scale=3.00; 1206x2622; IABMV/1; 1072661960) Safari/604.1",
+              "url": "https://gogetemcommunity.com/growth-blocker.html",
+              "utmSource": "manychat"
+            }
+          ]
+        },
+        {
           "id": "Uo4jmdtOXtakkHI1Xjr2",
           "name": "Natalia Duraes",
           "monetaryValue": 78,
@@ -2513,31 +2597,33 @@
               "primary": true,
               "objectKey": "contact",
               "recordId": "7MH4y71uogGat5BfQg3B",
-              "fullName": "Kara Byrnes",
-              "contactName": "Kara Byrnes",
+              "fullName": "Kara B",
+              "contactName": "Kara B",
               "companyName": null,
               "email": "karajbyrnes@gmail.com",
-              "phone": "+12143855977",
+              "phone": "+12143562536",
               "tags": [
                 "smc",
                 "new lead",
                 "assigned to natalia",
-                "lead called"
+                "lead called",
+                "blocker quiz"
               ],
               "attributed": true
             }
           ],
           "contact": {
             "id": "7MH4y71uogGat5BfQg3B",
-            "name": "Kara Byrnes",
+            "name": "Kara B",
             "companyName": null,
             "email": "karajbyrnes@gmail.com",
-            "phone": "+12143855977",
+            "phone": "+12143562536",
             "tags": [
               "smc",
               "new lead",
               "assigned to natalia",
-              "lead called"
+              "lead called",
+              "blocker quiz"
             ],
             "score": []
           },
@@ -28164,10 +28250,10 @@
               "primary": true,
               "objectKey": "contact",
               "recordId": "lWzfCJQAeA3zrFB9rJ2F",
-              "fullName": "Naureen Stack-Frierdich",
-              "contactName": "Naureen Stack-Frierdich",
+              "fullName": "Naureen Frierdich",
+              "contactName": "Naureen Frierdich",
               "companyName": null,
-              "email": "naureen@crossroads-realtygroup.com",
+              "email": "naureen@crossroads-realty.com",
               "phone": "+16189725928",
               "tags": [
                 "retreat",
@@ -28178,16 +28264,17 @@
                 "smc",
                 "keyword:social",
                 "assigned to natalia",
-                "lead called"
+                "lead called",
+                "blocker quiz"
               ],
               "attributed": true
             }
           ],
           "contact": {
             "id": "lWzfCJQAeA3zrFB9rJ2F",
-            "name": "Naureen Stack-Frierdich",
+            "name": "Naureen Frierdich",
             "companyName": null,
-            "email": "naureen@crossroads-realtygroup.com",
+            "email": "naureen@crossroads-realty.com",
             "phone": "+16189725928",
             "tags": [
               "retreat",
@@ -28198,7 +28285,8 @@
               "smc",
               "keyword:social",
               "assigned to natalia",
-              "lead called"
+              "lead called",
+              "blocker quiz"
             ],
             "score": []
           },
@@ -52130,7 +52218,7 @@
       "manualSms": 45,
       "autoSms": 47,
       "manualEmail": 8,
-      "autoEmail": 152,
+      "autoEmail": 156,
       "byDay": [
         {
           "date": "2026-04-27",
@@ -52810,10 +52898,91 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 2,
-          "autoEmail": 1
+          "autoEmail": 3
+        },
+        {
+          "date": "2026-10-08",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 0,
+          "manualEmail": 0,
+          "autoEmail": 2
         }
       ],
       "opportunities": [
+        {
+          "id": "JK13S2Eb4Yj1hTLbGdvj",
+          "name": "Erika Kauzlarich-Bird",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "61ee0fbd-d136-4069-8222-c95ab05ce746",
+          "pipelineStageUId": "61ee0fbd-d136-4069-8222-c95ab05ce746",
+          "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
+          "status": "open",
+          "source": null,
+          "lastStatusChangeAt": "2026-10-08T02:33:12.905Z",
+          "lastStageChangeAt": "2026-10-08T02:33:12.905Z",
+          "createdAt": "2026-10-08T02:33:12.905Z",
+          "updatedAt": "2026-10-08T02:33:15.501Z",
+          "forecastProbability": null,
+          "effectiveProbability": 18.75,
+          "contactId": "VVK3qqPqNNxUllSjJwEj",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "JK13S2Eb4Yj1hTLbGdvj",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "VVK3qqPqNNxUllSjJwEj",
+              "fullName": "Erika Kauzlarich-Bird",
+              "contactName": "Erika Kauzlarich-Bird",
+              "companyName": null,
+              "email": "erikabird@outlook.com",
+              "phone": null,
+              "tags": [
+                "keyword:community",
+                "new lead",
+                "sales: no show"
+              ],
+              "attributed": null
+            }
+          ],
+          "contact": {
+            "id": "VVK3qqPqNNxUllSjJwEj",
+            "name": "Erika Kauzlarich-Bird",
+            "companyName": null,
+            "email": "erikabird@outlook.com",
+            "phone": null,
+            "tags": [
+              "keyword:community",
+              "new lead",
+              "sales: no show"
+            ],
+            "score": []
+          },
+          "sort": [
+            1791426792905,
+            "JK13S2Eb4Yj1hTLbGdvj"
+          ],
+          "attributions": [
+            {
+              "utmSessionSource": "Social media",
+              "isFirst": true,
+              "medium": "instagram",
+              "mediumId": "1821498615552521"
+            },
+            {
+              "utmSessionSource": "Social media",
+              "isLast": true,
+              "medium": "instagram",
+              "mediumId": "1821498615552521"
+            }
+          ]
+        },
         {
           "id": "dTdhxMWBolWkAYjQSQbV",
           "name": "Natalia Duraes",
@@ -76643,7 +76812,12 @@
       "conversationsAll": [
         {
           "id": "kJSieuKNSVTaYROkzh0D",
-          "lastMessageDate": 1791391241963,
+          "lastMessageDate": 1791426733872,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "7k1pN7AeYCuapt9CpI0e",
+          "lastMessageDate": 1791424920642,
           "type": "TYPE_PHONE"
         },
         {
