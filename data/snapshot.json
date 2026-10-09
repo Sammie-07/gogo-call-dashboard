@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-10-08T23:41:21.619Z",
+  "syncedAt": "2026-10-09T05:01:23.587Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 170,
       "talkTimeMinutes": 144,
-      "manualSms": 324,
-      "autoSms": 436,
-      "manualEmail": 100,
-      "autoEmail": 3170,
+      "manualSms": 330,
+      "autoSms": 430,
+      "manualEmail": 102,
+      "autoEmail": 3172,
       "byDay": [
         {
           "date": "2024-02-23",
@@ -101,15 +101,15 @@
         {
           "date": "2026-03-24",
           "calls": 2,
-          "manualSms": 0,
-          "autoSms": 2,
+          "manualSms": 4,
+          "autoSms": 0,
           "manualEmail": 0,
           "autoEmail": 0
         },
         {
           "date": "2026-03-26",
           "calls": 2,
-          "manualSms": 2,
+          "manualSms": 4,
           "autoSms": 0,
           "manualEmail": 0,
           "autoEmail": 0
@@ -118,15 +118,7 @@
           "date": "2026-03-27",
           "calls": 2,
           "manualSms": 2,
-          "autoSms": 2,
-          "manualEmail": 0,
-          "autoEmail": 0
-        },
-        {
-          "date": "2026-04-03",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 2,
+          "autoSms": 0,
           "manualEmail": 0,
           "autoEmail": 0
         },
@@ -167,14 +159,6 @@
           "calls": 0,
           "manualSms": 2,
           "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 0
-        },
-        {
-          "date": "2026-04-17",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 2,
           "manualEmail": 0,
           "autoEmail": 0
         },
@@ -1249,6 +1233,14 @@
           "autoSms": 26,
           "manualEmail": 4,
           "autoEmail": 40
+        },
+        {
+          "date": "2026-10-09",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 2,
+          "manualEmail": 2,
+          "autoEmail": 2
         }
       ],
       "opportunities": [
@@ -8415,18 +8407,19 @@
         {
           "id": "bOanToc1UYdv5PNJjPDL",
           "name": "Michelle McGill",
-          "monetaryValue": 0,
+          "monetaryValue": 78,
           "pipelineId": "4ODbBsC9MIjSBtnIOETl",
-          "pipelineStageId": "71028263-9714-45b3-91aa-dda01d4bb4a6",
-          "pipelineStageUId": "71028263-9714-45b3-91aa-dda01d4bb4a6",
+          "pipelineStageId": "4e0dc282-03f6-480e-b4f1-9e966ec0a179",
+          "pipelineStageUId": "4e0dc282-03f6-480e-b4f1-9e966ec0a179",
           "assignedTo": "C7PplofCN88pv8MTTiZT",
-          "status": "open",
+          "status": "won",
           "source": "RETARGETING | SMC Website Variants Testing",
-          "lastStatusChangeAt": "2026-03-24T05:48:52.588Z",
-          "lastStageChangeAt": "2026-04-01T18:59:48.191Z",
+          "lastStatusChangeAt": "2026-10-09T04:59:02.442Z",
+          "lastStageChangeAt": "2026-10-09T04:58:59.321Z",
           "createdAt": "2026-03-24T05:48:52.588Z",
-          "updatedAt": "2026-04-01T18:59:48.204Z",
-          "effectiveProbability": 62.5,
+          "updatedAt": "2026-10-09T04:59:02.442Z",
+          "forecastProbability": null,
+          "effectiveProbability": 81.25,
           "contactId": "fmcjVoTSX3Hi4A2d9fSr",
           "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
           "customFields": [],
@@ -8447,9 +8440,9 @@
               "tags": [
                 "keyword:social",
                 "smc",
-                "new lead",
                 "assigned to natalia",
-                "sales: not interested"
+                "gogetem affiliate",
+                "goget'em member; new"
               ],
               "attributed": true
             }
@@ -8463,9 +8456,9 @@
             "tags": [
               "keyword:social",
               "smc",
-              "new lead",
               "assigned to natalia",
-              "sales: not interested"
+              "gogetem affiliate",
+              "goget'em member; new"
             ],
             "score": []
           },
@@ -8481,21 +8474,18 @@
               "mediumId": "3716036095324924"
             },
             {
-              "pageUrl": "https://gogetemcommunity.com/socialmedia/?utm_source=Meta+ads&utm_medium=Weekly+Training+Image+Ads+|+With+Popup&utm_campaign=RETARGETING+|+SMC+Website+Variants+Testing&utm_content=Week+3+Image+-+With+Popup&audience=new_audience&utm_id=120238873507440250_v2_s03&utm_term=120238873507440250&fbclid=PAZXh0bgNhZW0BMABhZGlkAassnlTa8xpzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAaeTxeYq0C-YtnGFJG-atPQKgSF4eL1tE_jDZEDx_MLXMuugTEP0mREz76CwQw_aem_7fKotVbA-04SS7Xs76MK0A",
-              "utmSessionSource": "Social media",
-              "utmCampaign": "RETARGETING | SMC Website Variants Testing",
-              "utmMedium": "Weekly Training Image Ads | With Popup",
+              "pageUrl": "https://checkout.gogetemcommunity.com/join?_gl=1*ex78f9*_ga*MTA3ODI3NzA0NS4xNzkxNTIxMzc4*_ga_C26RW61R3S*czE3OTE1MjEzNTckbzEkZzEkdDE3OTE1MjE3NzAkajUzJGwwJGgxNDI0NDU5MTI2*_ga_2S7MBM331W*czE3OTE1MjEzNTckbzEkZzEkdDE3OTE1MjE3NzAkajUzJGwwJGgxOTE2Mzg4NzY2",
+              "referrer": "https://gogetemcommunity.com",
+              "utmSessionSource": "Referral",
+              "isLast": true,
+              "fbp": "fb.1.1791521373754.971377209778673561",
+              "fbc": "fb.1.1791521868348.PAZXh0bgNhZW0CMTAAcGRvZgJmZGlkFlD_pkFMWekLtgyK14j5cto9n3oHk6pzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAacTI0xhcjDyM3SnBvyAuA8I_PYknhvVPrv-Zb7A9_0nAmr9fcX9tdmZn_nVOQ_aem__gBQmujwJtJPfMQ0xevBag",
               "ip": "96.19.161.74",
               "medium": "form",
-              "url": "https://gogetemcommunity.com/socialmedia/",
-              "utmTerm": "120238873507440250",
-              "referrer": "https://instagram.com",
-              "isLast": true,
-              "utmFbclid": "PAZXh0bgNhZW0BMABhZGlkAassnlTa8xpzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAaeTxeYq0C-YtnGFJG-atPQKgSF4eL1tE_jDZEDx_MLXMuugTEP0mREz76CwQw_aem_7fKotVbA-04SS7Xs76MK0A",
-              "mediumId": "rtTNrLeOuDNq53WY7xwd",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23D8133 Instagram 421.1.6.39.52 (iPhone17,2; iOS 26_3_1; en_US; en; scale=3.00; 1320x2868; IABMV/1; 910922286) Safari/604.1",
-              "utmSource": "Meta ads",
-              "utmContent": "Week 3 Image - With Popup"
+              "mediumId": "oNPhc6YRZ3qFiXQjEfpd",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23G90 Instagram 450.1.0.35.61 (iPhone17,2; iOS 26_6_2; en_US; en; scale=3.00; 1320x2868; IABMV/1; 1084815185) Safari/604.1",
+              "gaClientId": "GA1.1.1078277045.1791521378",
+              "url": "https://checkout.gogetemcommunity.com/join"
             }
           ]
         },
@@ -43686,39 +43676,6 @@
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://us02web.zoom.us/j/86737515122",
           "calendarId": "zbG86VGfQk5VYP8cibec",
-          "contactId": "g8YN6ipa4UCWUcO7JOsj",
-          "dateAdded": "2025-09-25T18:19:12.000Z",
-          "dateUpdated": "2025-09-25T18:19:12.000Z",
-          "endTime": "2025-10-08T21:30:00-04:00",
-          "id": "jfIsxjH3tgy3CQXd4jVq",
-          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
-          "startTime": "2025-10-08T20:00:00-04:00",
-          "title": "Rafael Makino - Wine Nit Millionaire",
-          "assignedResources": [],
-          "isRecurring": false,
-          "createdBy": {
-            "source": "booking_widget",
-            "userId": null
-          },
-          "appointmentMeta": {
-            "slotType": "default",
-            "defaultFormDetails": {
-              "firstName": "Rafael",
-              "lastName": "Makino",
-              "email": "support@teamgogo.team",
-              "phone": "+5561999091580"
-            }
-          },
-          "deleted": false
-        },
-        {
-          "appointmentStatus": "confirmed",
-          "appoinmentStatus": "confirmed",
-          "statusId": "noajVfGIH8TGrjfQ6B3m",
-          "state": "active",
-          "assignedUserId": "C7PplofCN88pv8MTTiZT",
-          "address": "https://us02web.zoom.us/j/86737515122",
-          "calendarId": "zbG86VGfQk5VYP8cibec",
           "contactId": "NSHviWgME1vMEgktfmrd",
           "dateAdded": "2025-10-09T16:21:19.000Z",
           "dateUpdated": "2026-06-15T20:26:27.000Z",
@@ -51786,6 +51743,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "5TSubUq1mBzXMF2D2f2K",
+          "lastMessageDate": 1791521945934,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "al1wBj6R2qeD1CusaJmQ",
           "lastMessageDate": 1791490054257,
           "type": "TYPE_PHONE"
@@ -52281,8 +52243,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "NzWiH2rrvV1HvrMxUldT",
-          "lastMessageDate": 1787146866554,
+          "id": "5TSubUq1mBzXMF2D2f2K",
+          "lastMessageDate": 1791521945934,
           "type": "TYPE_PHONE"
         },
         {
@@ -52778,11 +52740,6 @@
         {
           "id": "8nixkbEWmHSUyuD2S3Ze",
           "lastMessageDate": 1787256978703,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "NzWiH2rrvV1HvrMxUldT",
-          "lastMessageDate": 1787146866554,
           "type": "TYPE_PHONE"
         }
       ]
@@ -77747,6 +77704,16 @@
       ],
       "conversationsAll": [
         {
+          "id": "7k1pN7AeYCuapt9CpI0e",
+          "lastMessageDate": 1791507723923,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "NHt6fKBJPTCqF3boaaNY",
+          "lastMessageDate": 1791506747755,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "Ks9ffTZ6wodkBcgJi9xE",
           "lastMessageDate": 1791493815521,
           "type": "TYPE_PHONE"
@@ -77769,16 +77736,6 @@
         {
           "id": "nU1OwZTJ3dOFlPUA3XQA",
           "lastMessageDate": 1791452152170,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "NHt6fKBJPTCqF3boaaNY",
-          "lastMessageDate": 1791437207982,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "7k1pN7AeYCuapt9CpI0e",
-          "lastMessageDate": 1791424920642,
           "type": "TYPE_PHONE"
         },
         {
