@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-10T04:46:32.980Z",
+  "syncedAt": "2026-10-10T11:00:31.876Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -1268,6 +1268,91 @@
         }
       ],
       "opportunities": [
+        {
+          "id": "VdgGrXoBStwvFV0pIctC",
+          "name": "Loredana Gramaglia",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "assignedTo": "C7PplofCN88pv8MTTiZT",
+          "status": "open",
+          "source": "GGTC Blocker Quiz",
+          "lastStatusChangeAt": "2026-10-10T09:06:57.773Z",
+          "lastStageChangeAt": "2026-10-10T09:08:03.775Z",
+          "createdAt": "2026-10-10T09:06:57.773Z",
+          "updatedAt": "2026-10-10T09:08:03.831Z",
+          "forecastProbability": null,
+          "effectiveProbability": 31.25,
+          "contactId": "FkQEGpbkot7jlVsm20Aq",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "VdgGrXoBStwvFV0pIctC",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "FkQEGpbkot7jlVsm20Aq",
+              "fullName": "Loredana Gramaglia",
+              "contactName": "Loredana Gramaglia",
+              "companyName": null,
+              "email": "loredana.gramaglia@expglobalspain.com",
+              "phone": "+34614295762",
+              "tags": [
+                "blocker quiz",
+                "new lead",
+                "assigned to natalia"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "FkQEGpbkot7jlVsm20Aq",
+            "name": "Loredana Gramaglia",
+            "companyName": null,
+            "email": "loredana.gramaglia@expglobalspain.com",
+            "phone": "+34614295762",
+            "tags": [
+              "blocker quiz",
+              "new lead",
+              "assigned to natalia"
+            ],
+            "score": []
+          },
+          "sort": [
+            1791623217773,
+            "VdgGrXoBStwvFV0pIctC"
+          ],
+          "attributions": [
+            {
+              "pageUrl": "https://gogetemcommunity.com/growth-blocker.html?utm_source=manychat&mcp_token=eyJwaWQiOjMyODA5MDcsInNpZCI6NDM4MzQ2NTcxLCJheCI6IjdiYzY4ODI3Y2YyMWI4ZjY5ZjlhZWM4MDBhNGEzNTQzIiwidHMiOjE3OTE2MjI1NjQsImV4cCI6MTc5NDA0MTc2NH0.KljgQhWMpb1FDt10pFl8Wa7Sc2vivZ1Cj84lwkV9AoY",
+              "referrer": "https://instagram.com",
+              "utmSessionSource": "Social media",
+              "ip": "90.174.194.59",
+              "isFirst": true,
+              "medium": "form",
+              "mediumId": "muiUniGFhCNqBm9Ak62g",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23G90 Instagram 450.1.0.35.61 (iPhone18,1; iOS 26_6_2; es_ES; es-ES; scale=3.00; 1206x2622; IABMV/1; 1084815185) Safari/604.1",
+              "url": "https://gogetemcommunity.com/growth-blocker.html",
+              "utmSource": "manychat"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/growth-blocker.html?utm_source=manychat&mcp_token=eyJwaWQiOjMyODA5MDcsInNpZCI6NDM4MzQ2NTcxLCJheCI6IjdiYzY4ODI3Y2YyMWI4ZjY5ZjlhZWM4MDBhNGEzNTQzIiwidHMiOjE3OTE2MjI1NjQsImV4cCI6MTc5NDA0MTc2NH0.KljgQhWMpb1FDt10pFl8Wa7Sc2vivZ1Cj84lwkV9AoY",
+              "referrer": "https://instagram.com",
+              "utmSessionSource": "Social media",
+              "isLast": true,
+              "ip": "90.174.194.59",
+              "medium": "form",
+              "mediumId": "muiUniGFhCNqBm9Ak62g",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23G90 Instagram 450.1.0.35.61 (iPhone18,1; iOS 26_6_2; es_ES; es-ES; scale=3.00; 1206x2622; IABMV/1; 1084815185) Safari/604.1",
+              "url": "https://gogetemcommunity.com/growth-blocker.html",
+              "utmSource": "manychat"
+            }
+          ]
+        },
         {
           "id": "A8m4X0jIE7I5JTMKeNk8",
           "name": "Denise Lopez | REALTOR® In Tucson, AZ",
@@ -51767,6 +51852,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "b9tw1v9v7Djb3dQLHGL8",
+          "lastMessageDate": 1791623218964,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "5TSubUq1mBzXMF2D2f2K",
           "lastMessageDate": 1791604856627,
           "type": "TYPE_PHONE"
@@ -52262,8 +52352,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "Wp1g1izj7ionRO3SzijW",
-          "lastMessageDate": 1787261207259,
+          "id": "b9tw1v9v7Djb3dQLHGL8",
+          "lastMessageDate": 1791623218964,
           "type": "TYPE_PHONE"
         },
         {
@@ -52759,11 +52849,6 @@
         {
           "id": "q8xZZ7IpVx2xT9cMuQCn",
           "lastMessageDate": 1787317418785,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "Wp1g1izj7ionRO3SzijW",
-          "lastMessageDate": 1787261207259,
           "type": "TYPE_PHONE"
         }
       ]
