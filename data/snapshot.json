@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-10T16:12:39.425Z",
+  "syncedAt": "2026-10-10T20:31:53.590Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -51860,6 +51860,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "SpDI5Q81tUHuxpLvRfqk",
+          "lastMessageDate": 1791664139490,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "6UZ9c8jkpRLzP3lRbusZ",
           "lastMessageDate": 1791641551114,
           "type": "TYPE_PHONE"
@@ -52267,11 +52272,6 @@
         {
           "id": "HSM37CeoIX8ztXX84rqw",
           "lastMessageDate": 1788323090787,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "SpDI5Q81tUHuxpLvRfqk",
-          "lastMessageDate": 1788193930224,
           "type": "TYPE_PHONE"
         },
         {
@@ -52360,6 +52360,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "SpDI5Q81tUHuxpLvRfqk",
+          "lastMessageDate": 1791664139490,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "6UZ9c8jkpRLzP3lRbusZ",
           "lastMessageDate": 1791641551114,
           "type": "TYPE_PHONE"
@@ -52767,11 +52772,6 @@
         {
           "id": "HSM37CeoIX8ztXX84rqw",
           "lastMessageDate": 1788323090787,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "SpDI5Q81tUHuxpLvRfqk",
-          "lastMessageDate": 1788193930224,
           "type": "TYPE_PHONE"
         },
         {
@@ -53591,6 +53591,91 @@
         }
       ],
       "opportunities": [
+        {
+          "id": "hyio8wlnJklqcY7VFwwB",
+          "name": "Victoria Froehlich",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "80949724-7894-4a42-8028-746a06208f9e",
+          "pipelineStageUId": "80949724-7894-4a42-8028-746a06208f9e",
+          "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
+          "status": "open",
+          "source": "GGTC Blocker Quiz",
+          "lastStatusChangeAt": "2026-10-10T19:06:49.013Z",
+          "lastStageChangeAt": "2026-10-10T19:07:54.228Z",
+          "createdAt": "2026-10-10T19:06:49.013Z",
+          "updatedAt": "2026-10-10T19:07:54.292Z",
+          "forecastProbability": null,
+          "effectiveProbability": 25,
+          "contactId": "TeZ8THg2aW54vBktCgNK",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "hyio8wlnJklqcY7VFwwB",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "TeZ8THg2aW54vBktCgNK",
+              "fullName": "Victoria Froehlich",
+              "contactName": "Victoria Froehlich",
+              "companyName": null,
+              "email": "vikkif300@gmail.com",
+              "phone": "+19122509119",
+              "tags": [
+                "blocker quiz",
+                "new lead",
+                "assigned to ferny"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "TeZ8THg2aW54vBktCgNK",
+            "name": "Victoria Froehlich",
+            "companyName": null,
+            "email": "vikkif300@gmail.com",
+            "phone": "+19122509119",
+            "tags": [
+              "blocker quiz",
+              "new lead",
+              "assigned to ferny"
+            ],
+            "score": []
+          },
+          "sort": [
+            1791659209013,
+            "hyio8wlnJklqcY7VFwwB"
+          ],
+          "attributions": [
+            {
+              "pageUrl": "https://gogetemcommunity.com/growth-blocker.html?utm_source=manychat&mcp_token=eyJwaWQiOjMyODA5MDcsInNpZCI6OTg1MzQ3MjE0LCJheCI6IjdiYzY4ODI3Y2YyMWI4ZjY5ZjlhZWM4MDBhNGEzNTQzIiwidHMiOjE3OTE2NTg1NjcsImV4cCI6MTc5NDA3Nzc2N30.e__yK9VeIpNu7AXeU1OqN2VCLWz3M3MD8CdQW7q36Ow",
+              "referrer": "https://instagram.com",
+              "utmSessionSource": "Social media",
+              "ip": "2607:fb90:be9a:c8d7:cde3:9073:85df:a687",
+              "isFirst": true,
+              "medium": "form",
+              "mediumId": "muiUniGFhCNqBm9Ak62g",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23G90 Instagram 450.1.0.35.61 (iPhone17,1; iOS 26_6_2; en_US; en; scale=3.00; 1206x2622; IABMV/1; 1084815185) Safari/604.1",
+              "url": "https://gogetemcommunity.com/growth-blocker.html",
+              "utmSource": "manychat"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/growth-blocker.html?utm_source=manychat&mcp_token=eyJwaWQiOjMyODA5MDcsInNpZCI6OTg1MzQ3MjE0LCJheCI6IjdiYzY4ODI3Y2YyMWI4ZjY5ZjlhZWM4MDBhNGEzNTQzIiwidHMiOjE3OTE2NTg1NjcsImV4cCI6MTc5NDA3Nzc2N30.e__yK9VeIpNu7AXeU1OqN2VCLWz3M3MD8CdQW7q36Ow",
+              "referrer": "https://instagram.com",
+              "utmSessionSource": "Social media",
+              "isLast": true,
+              "ip": "2607:fb90:be9a:c8d7:cde3:9073:85df:a687",
+              "medium": "form",
+              "mediumId": "muiUniGFhCNqBm9Ak62g",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23G90 Instagram 450.1.0.35.61 (iPhone17,1; iOS 26_6_2; en_US; en; scale=3.00; 1206x2622; IABMV/1; 1084815185) Safari/604.1",
+              "url": "https://gogetemcommunity.com/growth-blocker.html",
+              "utmSource": "manychat"
+            }
+          ]
+        },
         {
           "id": "wvq3KqPwB6Bgwo1fdFPh",
           "name": "Shreed Test",
@@ -77832,6 +77917,11 @@
         }
       ],
       "conversationsAll": [
+        {
+          "id": "rfMWnEuAYXiumYNBxame",
+          "lastMessageDate": 1791659209466,
+          "type": "TYPE_PHONE"
+        },
         {
           "id": "Ks9ffTZ6wodkBcgJi9xE",
           "lastMessageDate": 1791576261578,
