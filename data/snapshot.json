@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-10-11T00:09:28.718Z",
+  "syncedAt": "2026-10-11T06:53:32.170Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 172,
       "talkTimeMinutes": 145,
-      "manualSms": 328,
+      "manualSms": 326,
       "autoSms": 438,
       "manualEmail": 102,
-      "autoEmail": 3222,
+      "autoEmail": 3224,
       "byDay": [
         {
           "date": "2024-02-23",
@@ -941,7 +941,7 @@
         {
           "date": "2026-08-21",
           "calls": 0,
-          "manualSms": 10,
+          "manualSms": 8,
           "autoSms": 8,
           "manualEmail": 2,
           "autoEmail": 56
@@ -1273,9 +1273,90 @@
           "autoSms": 0,
           "manualEmail": 0,
           "autoEmail": 2
+        },
+        {
+          "date": "2026-10-11",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 0,
+          "manualEmail": 0,
+          "autoEmail": 2
         }
       ],
       "opportunities": [
+        {
+          "id": "VIijZxn4OPVgtm8nj31k",
+          "name": "Amanda Bolduc | Estero & SW Florida REALTOR®",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "assignedTo": "C7PplofCN88pv8MTTiZT",
+          "status": "open",
+          "source": null,
+          "lastStatusChangeAt": "2026-10-11T03:25:32.853Z",
+          "lastStageChangeAt": "2026-10-11T03:25:32.853Z",
+          "createdAt": "2026-10-11T03:25:32.853Z",
+          "updatedAt": "2026-10-11T03:25:32.853Z",
+          "forecastProbability": null,
+          "effectiveProbability": 31.25,
+          "contactId": "vba8SG2LB6quWVx2tcFp",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "VIijZxn4OPVgtm8nj31k",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "vba8SG2LB6quWVx2tcFp",
+              "fullName": "Amanda Bolduc | Estero & SW Florida REALTOR®",
+              "contactName": "Amanda Bolduc | Estero & SW Florida REALTOR®",
+              "companyName": null,
+              "email": "amandasellsswfl@gmail.com",
+              "phone": null,
+              "tags": [
+                "keyword:social",
+                "new lead",
+                "assigned to natalia"
+              ],
+              "attributed": null
+            }
+          ],
+          "contact": {
+            "id": "vba8SG2LB6quWVx2tcFp",
+            "name": "Amanda Bolduc | Estero & SW Florida REALTOR®",
+            "companyName": null,
+            "email": "amandasellsswfl@gmail.com",
+            "phone": null,
+            "tags": [
+              "keyword:social",
+              "new lead",
+              "assigned to natalia"
+            ],
+            "score": []
+          },
+          "sort": [
+            1791689132853,
+            "VIijZxn4OPVgtm8nj31k"
+          ],
+          "attributions": [
+            {
+              "utmSessionSource": "Social media",
+              "medium": "instagram",
+              "mediumId": "1621806066264822",
+              "isFirst": true
+            },
+            {
+              "utmSessionSource": "Social media",
+              "medium": "instagram",
+              "mediumId": "1621806066264822",
+              "isLast": true
+            }
+          ]
+        },
         {
           "id": "VdgGrXoBStwvFV0pIctC",
           "name": "Loredana Gramaglia",
@@ -51860,6 +51941,16 @@
       ],
       "conversationsAll": [
         {
+          "id": "5TSubUq1mBzXMF2D2f2K",
+          "lastMessageDate": 1791698363738,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "fzaG8my8JKeh6xiUNrOs",
+          "lastMessageDate": 1791687246279,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "SpDI5Q81tUHuxpLvRfqk",
           "lastMessageDate": 1791664139490,
           "type": "TYPE_PHONE"
@@ -51872,11 +51963,6 @@
         {
           "id": "b9tw1v9v7Djb3dQLHGL8",
           "lastMessageDate": 1791623218964,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "5TSubUq1mBzXMF2D2f2K",
-          "lastMessageDate": 1791604856627,
           "type": "TYPE_PHONE"
         },
         {
@@ -52355,8 +52441,13 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "q8xZZ7IpVx2xT9cMuQCn",
-          "lastMessageDate": 1787317418785,
+          "id": "5TSubUq1mBzXMF2D2f2K",
+          "lastMessageDate": 1791698363738,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "fzaG8my8JKeh6xiUNrOs",
+          "lastMessageDate": 1791687246279,
           "type": "TYPE_PHONE"
         },
         {
@@ -52372,11 +52463,6 @@
         {
           "id": "b9tw1v9v7Djb3dQLHGL8",
           "lastMessageDate": 1791623218964,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "5TSubUq1mBzXMF2D2f2K",
-          "lastMessageDate": 1791604856627,
           "type": "TYPE_PHONE"
         },
         {
@@ -52852,11 +52938,6 @@
         {
           "id": "EzrhOzHYPQTSZD9xxFI3",
           "lastMessageDate": 1787324263696,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "q8xZZ7IpVx2xT9cMuQCn",
-          "lastMessageDate": 1787317418785,
           "type": "TYPE_PHONE"
         }
       ]
