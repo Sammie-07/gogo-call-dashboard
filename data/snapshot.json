@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-10T20:31:53.590Z",
+  "syncedAt": "2026-10-11T00:09:28.718Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -53592,6 +53592,81 @@
       ],
       "opportunities": [
         {
+          "id": "G6UZ147DZWtK3gbWHtBK",
+          "name": "Sarah Simmons | Realtor North Atlanta Suburbs",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "61ee0fbd-d136-4069-8222-c95ab05ce746",
+          "pipelineStageUId": "61ee0fbd-d136-4069-8222-c95ab05ce746",
+          "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
+          "status": "open",
+          "source": "[[source]]",
+          "lastStatusChangeAt": "2026-10-10T21:09:30.078Z",
+          "lastStageChangeAt": "2026-10-10T21:09:30.078Z",
+          "createdAt": "2026-10-10T21:09:30.078Z",
+          "updatedAt": "2026-10-10T21:09:30.078Z",
+          "forecastProbability": null,
+          "effectiveProbability": 18.75,
+          "contactId": "69awBh71Tea5ZgcDDhhI",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "G6UZ147DZWtK3gbWHtBK",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "69awBh71Tea5ZgcDDhhI",
+              "fullName": "Sarah Simmons | Realtor North Atlanta Suburbs",
+              "contactName": "Sarah Simmons | Realtor North Atlanta Suburbs",
+              "companyName": null,
+              "email": "sarah@discoverotpliving.com",
+              "phone": null,
+              "tags": [
+                "keyword:social",
+                "keyword:community",
+                "new lead",
+                "sales: no show"
+              ],
+              "attributed": null
+            }
+          ],
+          "contact": {
+            "id": "69awBh71Tea5ZgcDDhhI",
+            "name": "Sarah Simmons | Realtor North Atlanta Suburbs",
+            "companyName": null,
+            "email": "sarah@discoverotpliving.com",
+            "phone": null,
+            "tags": [
+              "keyword:social",
+              "keyword:community",
+              "new lead",
+              "sales: no show"
+            ],
+            "score": []
+          },
+          "sort": [
+            1791666570078,
+            "G6UZ147DZWtK3gbWHtBK"
+          ],
+          "attributions": [
+            {
+              "utmSessionSource": "Social media",
+              "medium": "facebook",
+              "mediumId": "25828162183535762",
+              "isFirst": true
+            },
+            {
+              "utmSessionSource": "Social media",
+              "medium": "facebook",
+              "mediumId": "25828162183535762",
+              "isLast": true
+            }
+          ]
+        },
+        {
           "id": "hyio8wlnJklqcY7VFwwB",
           "name": "Victoria Froehlich",
           "monetaryValue": 0,
@@ -77917,6 +77992,11 @@
         }
       ],
       "conversationsAll": [
+        {
+          "id": "DWeq0gjH1R08vd7UvDnB",
+          "lastMessageDate": 1791664700612,
+          "type": "TYPE_PHONE"
+        },
         {
           "id": "rfMWnEuAYXiumYNBxame",
           "lastMessageDate": 1791659209466,
