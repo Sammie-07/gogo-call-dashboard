@@ -1,11 +1,11 @@
 {
-  "syncedAt": "2026-10-13T18:00:39.348Z",
+  "syncedAt": "2026-10-13T22:37:09.165Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 170,
       "talkTimeMinutes": 143,
-      "manualSms": 322,
+      "manualSms": 316,
       "autoSms": 446,
       "manualEmail": 96,
       "autoEmail": 3246,
@@ -389,7 +389,7 @@
         {
           "date": "2026-05-25",
           "calls": 0,
-          "manualSms": 6,
+          "manualSms": 4,
           "autoSms": 0,
           "manualEmail": 0,
           "autoEmail": 16
@@ -573,7 +573,7 @@
         {
           "date": "2026-06-24",
           "calls": 0,
-          "manualSms": 6,
+          "manualSms": 4,
           "autoSms": 0,
           "manualEmail": 0,
           "autoEmail": 20
@@ -661,7 +661,7 @@
         {
           "date": "2026-07-07",
           "calls": 2,
-          "manualSms": 4,
+          "manualSms": 2,
           "autoSms": 0,
           "manualEmail": 0,
           "autoEmail": 16
@@ -52190,6 +52190,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "xJBmuq6cAoiW3j2IZgld",
+          "lastMessageDate": 1791924505705,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "qDKbcRwB2fZTY7P9hQNo",
           "lastMessageDate": 1791907655526,
           "type": "TYPE_PHONE"
@@ -52257,11 +52262,6 @@
         {
           "id": "4OZvGFu9QVDPtZCRVGDV",
           "lastMessageDate": 1791896806640,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "xJBmuq6cAoiW3j2IZgld",
-          "lastMessageDate": 1791851784200,
           "type": "TYPE_PHONE"
         },
         {
@@ -52690,6 +52690,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "xJBmuq6cAoiW3j2IZgld",
+          "lastMessageDate": 1791924505705,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "qDKbcRwB2fZTY7P9hQNo",
           "lastMessageDate": 1791907655526,
           "type": "TYPE_PHONE"
@@ -52757,11 +52762,6 @@
         {
           "id": "4OZvGFu9QVDPtZCRVGDV",
           "lastMessageDate": 1791896806640,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "xJBmuq6cAoiW3j2IZgld",
-          "lastMessageDate": 1791851784200,
           "type": "TYPE_PHONE"
         },
         {
@@ -53197,7 +53197,7 @@
       "manualSms": 46,
       "autoSms": 51,
       "manualEmail": 9,
-      "autoEmail": 180,
+      "autoEmail": 172,
       "byDay": [
         {
           "date": "2026-04-27",
@@ -53213,7 +53213,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 4
+          "autoEmail": 3
         },
         {
           "date": "2026-05-05",
@@ -53221,7 +53221,7 @@
           "manualSms": 0,
           "autoSms": 1,
           "manualEmail": 0,
-          "autoEmail": 5
+          "autoEmail": 4
         },
         {
           "date": "2026-05-08",
@@ -53237,7 +53237,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 3
+          "autoEmail": 2
         },
         {
           "date": "2026-05-12",
@@ -53253,7 +53253,7 @@
           "manualSms": 0,
           "autoSms": 1,
           "manualEmail": 0,
-          "autoEmail": 4
+          "autoEmail": 3
         },
         {
           "date": "2026-05-18",
@@ -53261,7 +53261,7 @@
           "manualSms": 1,
           "autoSms": 1,
           "manualEmail": 0,
-          "autoEmail": 4
+          "autoEmail": 3
         },
         {
           "date": "2026-05-19",
@@ -53277,7 +53277,7 @@
           "manualSms": 0,
           "autoSms": 1,
           "manualEmail": 0,
-          "autoEmail": 4
+          "autoEmail": 3
         },
         {
           "date": "2026-05-22",
@@ -53301,7 +53301,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 4
+          "autoEmail": 3
         },
         {
           "date": "2026-05-28",
@@ -53317,7 +53317,7 @@
           "manualSms": 0,
           "autoSms": 1,
           "manualEmail": 0,
-          "autoEmail": 4
+          "autoEmail": 3
         },
         {
           "date": "2026-06-01",
@@ -53929,6 +53929,79 @@
         }
       ],
       "opportunities": [
+        {
+          "id": "LCVXJOLqsZN0RyQPL6vJ",
+          "name": "Fernando Dias",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "61ee0fbd-d136-4069-8222-c95ab05ce746",
+          "pipelineStageUId": "61ee0fbd-d136-4069-8222-c95ab05ce746",
+          "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
+          "status": "open",
+          "source": null,
+          "lastStatusChangeAt": "2026-10-13T19:39:00.805Z",
+          "lastStageChangeAt": "2026-10-13T19:39:00.806Z",
+          "createdAt": "2026-10-13T19:39:00.805Z",
+          "updatedAt": "2026-10-13T19:39:00.805Z",
+          "forecastProbability": null,
+          "effectiveProbability": 18.75,
+          "contactId": "AfO43Zb28KPLKzDGaQW5",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "LCVXJOLqsZN0RyQPL6vJ",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "AfO43Zb28KPLKzDGaQW5",
+              "fullName": "Fernando Dias",
+              "contactName": "Fernando Dias",
+              "companyName": null,
+              "email": "fernando4properties@gmail.com",
+              "phone": null,
+              "tags": [
+                "keyword:social",
+                "new lead",
+                "sales: no show"
+              ],
+              "attributed": null
+            }
+          ],
+          "contact": {
+            "id": "AfO43Zb28KPLKzDGaQW5",
+            "name": "Fernando Dias",
+            "companyName": null,
+            "email": "fernando4properties@gmail.com",
+            "phone": null,
+            "tags": [
+              "keyword:social",
+              "new lead",
+              "sales: no show"
+            ],
+            "score": []
+          },
+          "sort": [
+            1791920340805,
+            "LCVXJOLqsZN0RyQPL6vJ"
+          ],
+          "attributions": [
+            {
+              "utmSessionSource": "Social media",
+              "medium": "instagram",
+              "mediumId": "1117535603993769",
+              "isFirst": true
+            },
+            {
+              "utmSessionSource": "Social media",
+              "medium": "instagram",
+              "mediumId": "1117535603993769",
+              "isLast": true
+            }
+          ]
+        },
         {
           "id": "G6UZ147DZWtK3gbWHtBK",
           "name": "Sarah Simmons | Realtor North Atlanta Suburbs",
@@ -78248,6 +78321,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "urrvHjPTkU7U4NdrJjGS",
+          "lastMessageDate": 1791918448085,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "SIYkNu0CtU4eJC5Kbo7j",
           "lastMessageDate": 1791907660457,
           "type": "TYPE_PHONE"
@@ -78415,11 +78493,6 @@
         {
           "id": "csPmrnAwXiYXw0j2pfj4",
           "lastMessageDate": 1784169857177,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "BlzcdaIgt0thULY5RwNF",
-          "lastMessageDate": 1784152653859,
           "type": "TYPE_PHONE"
         }
       ]
