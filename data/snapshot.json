@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-10-13T02:28:56.409Z",
+  "syncedAt": "2026-10-13T10:13:50.090Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
-      "calls": 172,
-      "talkTimeMinutes": 145,
+      "calls": 170,
+      "talkTimeMinutes": 143,
       "manualSms": 324,
-      "autoSms": 458,
+      "autoSms": 446,
       "manualEmail": 96,
-      "autoEmail": 3250,
+      "autoEmail": 3230,
       "byDay": [
         {
           "date": "2024-02-23",
@@ -780,19 +780,19 @@
         },
         {
           "date": "2026-07-28",
-          "calls": 6,
+          "calls": 4,
           "manualSms": 0,
-          "autoSms": 8,
+          "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 28
+          "autoEmail": 24
         },
         {
           "date": "2026-07-29",
           "calls": 0,
           "manualSms": 2,
-          "autoSms": 4,
+          "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 10
+          "autoEmail": 8
         },
         {
           "date": "2026-07-30",
@@ -806,9 +806,9 @@
           "date": "2026-07-31",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 6,
+          "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 6
+          "autoEmail": 4
         },
         {
           "date": "2026-08-01",
@@ -840,7 +840,7 @@
           "manualSms": 2,
           "autoSms": 8,
           "manualEmail": 0,
-          "autoEmail": 32
+          "autoEmail": 30
         },
         {
           "date": "2026-08-05",
@@ -862,9 +862,9 @@
           "date": "2026-08-07",
           "calls": 0,
           "manualSms": 2,
-          "autoSms": 10,
+          "autoSms": 8,
           "manualEmail": 0,
-          "autoEmail": 10
+          "autoEmail": 8
         },
         {
           "date": "2026-08-10",
@@ -880,7 +880,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 30
+          "autoEmail": 28
         },
         {
           "date": "2026-08-12",
@@ -904,7 +904,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 48
+          "autoEmail": 46
         },
         {
           "date": "2026-08-17",
@@ -920,7 +920,7 @@
           "manualSms": 0,
           "autoSms": 6,
           "manualEmail": 0,
-          "autoEmail": 36
+          "autoEmail": 34
         },
         {
           "date": "2026-08-19",
@@ -942,9 +942,9 @@
           "date": "2026-08-21",
           "calls": 0,
           "manualSms": 8,
-          "autoSms": 8,
+          "autoSms": 6,
           "manualEmail": 2,
-          "autoEmail": 52
+          "autoEmail": 50
         },
         {
           "date": "2026-08-24",
@@ -1292,6 +1292,87 @@
         }
       ],
       "opportunities": [
+        {
+          "id": "4YnxZixSmGzqfIndhwkz",
+          "name": "Traci Malson",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "assignedTo": "C7PplofCN88pv8MTTiZT",
+          "status": "open",
+          "source": "GGTC Blocker Quiz",
+          "lastStatusChangeAt": "2026-10-13T02:31:35.807Z",
+          "lastStageChangeAt": "2026-10-13T02:32:40.640Z",
+          "createdAt": "2026-10-13T02:31:35.807Z",
+          "updatedAt": "2026-10-13T02:32:40.697Z",
+          "forecastProbability": null,
+          "effectiveProbability": 31.25,
+          "contactId": "cTBJ7loerSJM5gjuHXh4",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "4YnxZixSmGzqfIndhwkz",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "cTBJ7loerSJM5gjuHXh4",
+              "fullName": "Traci Malson",
+              "contactName": "Traci Malson",
+              "companyName": null,
+              "email": "realtywithtraci@gmail.com",
+              "phone": "+19165471675",
+              "tags": [
+                "blocker quiz",
+                "new lead",
+                "assigned to natalia"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "cTBJ7loerSJM5gjuHXh4",
+            "name": "Traci Malson",
+            "companyName": null,
+            "email": "realtywithtraci@gmail.com",
+            "phone": "+19165471675",
+            "tags": [
+              "blocker quiz",
+              "new lead",
+              "assigned to natalia"
+            ],
+            "score": []
+          },
+          "sort": [
+            1791858695807,
+            "4YnxZixSmGzqfIndhwkz"
+          ],
+          "attributions": [
+            {
+              "pageUrl": "https://gogetemcommunity.com/",
+              "utmSessionSource": "Direct traffic",
+              "ip": "173.218.27.109",
+              "isFirst": true,
+              "medium": "form",
+              "mediumId": "muiUniGFhCNqBm9Ak62g",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23G71 [FBAN/FBIOS;FBAV/582.0.0.26.106;FBBV/1084662339;FBDV/iPhone17,3;FBMD/iPhone;FBSN/iOS;FBSV/26.6;FBSS/3;FBCR/;FBID/phone;FBLC/en_US;FBOP/80]",
+              "url": "https://gogetemcommunity.com/"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/",
+              "utmSessionSource": "Direct traffic",
+              "isLast": true,
+              "ip": "173.218.27.109",
+              "medium": "form",
+              "mediumId": "muiUniGFhCNqBm9Ak62g",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23G71 [FBAN/FBIOS;FBAV/582.0.0.26.106;FBBV/1084662339;FBDV/iPhone17,3;FBMD/iPhone;FBSN/iOS;FBSV/26.6;FBSS/3;FBCR/;FBID/phone;FBLC/en_US;FBOP/80]",
+              "url": "https://gogetemcommunity.com/"
+            }
+          ]
+        },
         {
           "id": "VIijZxn4OPVgtm8nj31k",
           "name": "Amanda Bolduc | Estero & SW Florida REALTOR®",
@@ -52065,6 +52146,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "4OZvGFu9QVDPtZCRVGDV",
+          "lastMessageDate": 1791858696282,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "qDKbcRwB2fZTY7P9hQNo",
           "lastMessageDate": 1791855982304,
           "type": "TYPE_PHONE"
@@ -52560,8 +52646,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "Ah0mkqPCdSzUbH87Tc93",
-          "lastMessageDate": 1787327214122,
+          "id": "4OZvGFu9QVDPtZCRVGDV",
+          "lastMessageDate": 1791858696282,
           "type": "TYPE_PHONE"
         },
         {
@@ -53057,11 +53143,6 @@
         {
           "id": "NLwSesIpK9Nk902nazwf",
           "lastMessageDate": 1787328430539,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "Ah0mkqPCdSzUbH87Tc93",
-          "lastMessageDate": 1787327214122,
           "type": "TYPE_PHONE"
         }
       ]
