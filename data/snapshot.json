@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-13T22:37:09.165Z",
+  "syncedAt": "2026-10-14T01:40:17.489Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -7,7 +7,7 @@
       "talkTimeMinutes": 143,
       "manualSms": 316,
       "autoSms": 446,
-      "manualEmail": 96,
+      "manualEmail": 98,
       "autoEmail": 3246,
       "byDay": [
         {
@@ -1297,6 +1297,14 @@
           "autoSms": 0,
           "manualEmail": 0,
           "autoEmail": 28
+        },
+        {
+          "date": "2026-10-14",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 0,
+          "manualEmail": 2,
+          "autoEmail": 0
         }
       ],
       "opportunities": [
@@ -41942,7 +41950,7 @@
               "contactName": "Tabitha Bartel",
               "companyName": null,
               "email": "tabitha@homewithimpact.com",
-              "phone": "+17205731534",
+              "phone": "+13035266317",
               "tags": [
                 "smc",
                 "new lead",
@@ -41957,7 +41965,7 @@
             "name": "Tabitha Bartel",
             "companyName": null,
             "email": "tabitha@homewithimpact.com",
-            "phone": "+17205731534",
+            "phone": "+13035266317",
             "tags": [
               "smc",
               "new lead",
@@ -52160,6 +52168,39 @@
           "statusId": "noajVfGIH8TGrjfQ6B3m",
           "state": "active",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
+          "address": "https://zoom.us/j/6684356793",
+          "calendarId": "vn5ozDQQe0DQUJYuEw9b",
+          "contactId": "7hZTGTyg8G0JEkTpjepy",
+          "dateAdded": "2026-10-14T00:51:45.000Z",
+          "dateUpdated": "2026-10-14T00:51:45.000Z",
+          "endTime": "2026-10-19T17:00:00-04:00",
+          "id": "d3D4CWLQhaHnt7uBjUQ0",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "startTime": "2026-10-19T16:30:00-04:00",
+          "title": "GoGet'Em Community Intro Call - Tabitha Bartel & Natalia",
+          "assignedResources": [],
+          "isRecurring": false,
+          "createdBy": {
+            "source": "booking_widget",
+            "userId": null
+          },
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Tabitha",
+              "lastName": "Bartel",
+              "email": "tabitha@homewithimpact.com",
+              "phone": "+13035266317"
+            }
+          },
+          "deleted": false
+        },
+        {
+          "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
+          "statusId": "noajVfGIH8TGrjfQ6B3m",
+          "state": "active",
+          "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
           "contactId": "I7kY6Lrhv0Hq6CHDrUat",
@@ -52189,6 +52230,11 @@
         }
       ],
       "conversationsAll": [
+        {
+          "id": "vbzYjb1QUpEUBWfs1sKK",
+          "lastMessageDate": 1791939108702,
+          "type": "TYPE_PHONE"
+        },
         {
           "id": "xJBmuq6cAoiW3j2IZgld",
           "lastMessageDate": 1791924505705,
@@ -52277,11 +52323,6 @@
         {
           "id": "sdr4JrcETVuWuFoCaEWS",
           "lastMessageDate": 1791826158758,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "vbzYjb1QUpEUBWfs1sKK",
-          "lastMessageDate": 1791818012154,
           "type": "TYPE_PHONE"
         },
         {
@@ -52690,6 +52731,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "vbzYjb1QUpEUBWfs1sKK",
+          "lastMessageDate": 1791939108702,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "xJBmuq6cAoiW3j2IZgld",
           "lastMessageDate": 1791924505705,
           "type": "TYPE_PHONE"
@@ -52777,11 +52823,6 @@
         {
           "id": "sdr4JrcETVuWuFoCaEWS",
           "lastMessageDate": 1791826158758,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "vbzYjb1QUpEUBWfs1sKK",
-          "lastMessageDate": 1791818012154,
           "type": "TYPE_PHONE"
         },
         {
