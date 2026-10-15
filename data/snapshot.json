@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-10-15T07:05:35.785Z",
+  "syncedAt": "2026-10-15T13:09:32.481Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 170,
       "talkTimeMinutes": 143,
-      "manualSms": 322,
+      "manualSms": 326,
       "autoSms": 446,
       "manualEmail": 106,
-      "autoEmail": 3272,
+      "autoEmail": 3273,
       "byDay": [
         {
           "date": "2024-02-23",
@@ -1305,6 +1305,14 @@
           "autoSms": 2,
           "manualEmail": 12,
           "autoEmail": 34
+        },
+        {
+          "date": "2026-10-15",
+          "calls": 0,
+          "manualSms": 4,
+          "autoSms": 0,
+          "manualEmail": 0,
+          "autoEmail": 1
         }
       ],
       "opportunities": [
@@ -52271,6 +52279,16 @@
       ],
       "conversationsAll": [
         {
+          "id": "4OZvGFu9QVDPtZCRVGDV",
+          "lastMessageDate": 1792069216730,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "6UZ9c8jkpRLzP3lRbusZ",
+          "lastMessageDate": 1792069215654,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "uvW4XLUWCvcsn0WP9l4c",
           "lastMessageDate": 1792020787217,
           "type": "TYPE_PHONE"
@@ -52278,16 +52296,6 @@
         {
           "id": "qDKbcRwB2fZTY7P9hQNo",
           "lastMessageDate": 1792015666476,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "6UZ9c8jkpRLzP3lRbusZ",
-          "lastMessageDate": 1792004423178,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "4OZvGFu9QVDPtZCRVGDV",
-          "lastMessageDate": 1792004418621,
           "type": "TYPE_PHONE"
         },
         {
@@ -52771,6 +52779,16 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "4OZvGFu9QVDPtZCRVGDV",
+          "lastMessageDate": 1792069216730,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "6UZ9c8jkpRLzP3lRbusZ",
+          "lastMessageDate": 1792069215654,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "uvW4XLUWCvcsn0WP9l4c",
           "lastMessageDate": 1792020787217,
           "type": "TYPE_PHONE"
@@ -52778,16 +52796,6 @@
         {
           "id": "qDKbcRwB2fZTY7P9hQNo",
           "lastMessageDate": 1792015666476,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "6UZ9c8jkpRLzP3lRbusZ",
-          "lastMessageDate": 1792004423178,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "4OZvGFu9QVDPtZCRVGDV",
-          "lastMessageDate": 1792004418621,
           "type": "TYPE_PHONE"
         },
         {
