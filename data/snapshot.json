@@ -1,12 +1,12 @@
 {
-  "syncedAt": "2026-10-16T10:54:21.363Z",
+  "syncedAt": "2026-10-16T15:17:36.878Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 170,
       "talkTimeMinutes": 143,
-      "manualSms": 326,
-      "autoSms": 448,
+      "manualSms": 328,
+      "autoSms": 450,
       "manualEmail": 106,
       "autoEmail": 3298,
       "byDay": [
@@ -1313,6 +1313,14 @@
           "autoSms": 2,
           "manualEmail": 0,
           "autoEmail": 28
+        },
+        {
+          "date": "2026-10-16",
+          "calls": 0,
+          "manualSms": 2,
+          "autoSms": 2,
+          "manualEmail": 0,
+          "autoEmail": 0
         }
       ],
       "opportunities": [
@@ -2406,17 +2414,17 @@
           "name": "Cayla McHaney, REALTOR®️",
           "monetaryValue": 0,
           "pipelineId": "4ODbBsC9MIjSBtnIOETl",
-          "pipelineStageId": "9af4ce40-5d59-4bbc-bb7a-a035ad6c0a46",
-          "pipelineStageUId": "9af4ce40-5d59-4bbc-bb7a-a035ad6c0a46",
+          "pipelineStageId": "71028263-9714-45b3-91aa-dda01d4bb4a6",
+          "pipelineStageUId": "71028263-9714-45b3-91aa-dda01d4bb4a6",
           "assignedTo": "C7PplofCN88pv8MTTiZT",
           "status": "open",
           "source": "GoGet'Em Comunity Check Out",
           "lastStatusChangeAt": "2026-10-05T16:48:12.541Z",
-          "lastStageChangeAt": "2026-10-05T17:29:07.941Z",
+          "lastStageChangeAt": "2026-10-16T14:48:28.391Z",
           "createdAt": "2026-10-05T16:48:12.541Z",
-          "updatedAt": "2026-10-05T17:29:07.992Z",
+          "updatedAt": "2026-10-16T14:48:28.401Z",
           "forecastProbability": null,
-          "effectiveProbability": 43.75,
+          "effectiveProbability": 62.5,
           "contactId": "dMZXPWSogftsH0LOFdfB",
           "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
           "customFields": [],
@@ -2441,7 +2449,8 @@
                 "keyword:social",
                 "new lead",
                 "assigned to natalia",
-                "lead called"
+                "lead called",
+                "sales: not interested"
               ],
               "attributed": true
             }
@@ -2459,7 +2468,8 @@
               "keyword:social",
               "new lead",
               "assigned to natalia",
-              "lead called"
+              "lead called",
+              "sales: not interested"
             ],
             "score": []
           },
@@ -52187,13 +52197,13 @@
           "calendarId": "8kLbo3OukoeNXebq8B4b",
           "contactId": "2KwAYlRoA3SptfIzkbJX",
           "dateAdded": "2026-10-05T18:24:03.000Z",
-          "dateUpdated": "2026-10-15T18:55:20.000Z",
-          "endTime": "2026-10-16T09:00:00-04:00",
+          "dateUpdated": "2026-10-16T12:09:18.000Z",
+          "endTime": "2026-10-16T10:00:00-04:00",
           "id": "lcv1utzllAlV1zsl1oBj",
           "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
           "notes": "",
           "description": "",
-          "startTime": "2026-10-16T08:00:00-04:00",
+          "startTime": "2026-10-16T09:00:00-04:00",
           "title": "GGTC Onboarding Call - Hayley Chambers",
           "assignedResources": [],
           "isRecurring": false,
@@ -52211,7 +52221,7 @@
             }
           },
           "deleted": false,
-          "rescheduledAt": "2026-10-15T18:55:20.000Z"
+          "rescheduledAt": "2026-10-16T12:09:18.000Z"
         },
         {
           "appointmentStatus": "confirmed",
@@ -52348,6 +52358,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "5TSubUq1mBzXMF2D2f2K",
+          "lastMessageDate": 1792161794511,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "igFsirsUqRFuYQSTVAJX",
           "lastMessageDate": 1792094551212,
           "type": "TYPE_PHONE"
@@ -52360,11 +52375,6 @@
         {
           "id": "HD5jLwef0rEfOO4FyS1L",
           "lastMessageDate": 1792094498640,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "5TSubUq1mBzXMF2D2f2K",
-          "lastMessageDate": 1792094497615,
           "type": "TYPE_PHONE"
         },
         {
@@ -52848,6 +52858,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "5TSubUq1mBzXMF2D2f2K",
+          "lastMessageDate": 1792161794511,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "igFsirsUqRFuYQSTVAJX",
           "lastMessageDate": 1792094551212,
           "type": "TYPE_PHONE"
@@ -52860,11 +52875,6 @@
         {
           "id": "HD5jLwef0rEfOO4FyS1L",
           "lastMessageDate": 1792094498640,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "5TSubUq1mBzXMF2D2f2K",
-          "lastMessageDate": 1792094497615,
           "type": "TYPE_PHONE"
         },
         {
@@ -53355,7 +53365,7 @@
       "manualSms": 48,
       "autoSms": 54,
       "manualEmail": 13,
-      "autoEmail": 175,
+      "autoEmail": 176,
       "byDay": [
         {
           "date": "2026-04-27",
@@ -54108,6 +54118,14 @@
           "autoSms": 2,
           "manualEmail": 2,
           "autoEmail": 6
+        },
+        {
+          "date": "2026-10-16",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 0,
+          "manualEmail": 0,
+          "autoEmail": 1
         }
       ],
       "opportunities": [
@@ -78510,6 +78528,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "HS9GFcdqfEyV4myBBEcW",
+          "lastMessageDate": 1792156186868,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "lxETiUCZ8R5zx4pVuATz",
           "lastMessageDate": 1792106365079,
           "type": "TYPE_PHONE"
@@ -78562,11 +78585,6 @@
         {
           "id": "ewgQdxysAGoMkyrbB97T",
           "lastMessageDate": 1791569248800,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "HS9GFcdqfEyV4myBBEcW",
-          "lastMessageDate": 1791551181032,
           "type": "TYPE_PHONE"
         },
         {
