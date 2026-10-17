@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-17T18:15:10.225Z",
+  "syncedAt": "2026-10-17T21:18:26.004Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -53436,9 +53436,9 @@
       "calls": 16,
       "talkTimeMinutes": 14,
       "manualSms": 48,
-      "autoSms": 54,
+      "autoSms": 55,
       "manualEmail": 13,
-      "autoEmail": 177,
+      "autoEmail": 178,
       "byDay": [
         {
           "date": "2026-04-27",
@@ -54204,9 +54204,9 @@
           "date": "2026-10-17",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 0,
+          "autoSms": 1,
           "manualEmail": 0,
-          "autoEmail": 1
+          "autoEmail": 2
         }
       ],
       "opportunities": [
@@ -55700,7 +55700,8 @@
                 "goget'em member; new",
                 "new lead",
                 "assigned to ferny",
-                "not on ggtc whatsapp chat"
+                "not on ggtc whatsapp chat",
+                "goget'em canceled"
               ],
               "attributed": true
             }
@@ -55718,7 +55719,8 @@
               "goget'em member; new",
               "new lead",
               "assigned to ferny",
-              "not on ggtc whatsapp chat"
+              "not on ggtc whatsapp chat",
+              "goget'em canceled"
             ],
             "score": []
           },
@@ -78613,6 +78615,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "SIYkNu0CtU4eJC5Kbo7j",
+          "lastMessageDate": 1792261557518,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "IQk8OxB7HW0S9Cir2U84",
           "lastMessageDate": 1792239110688,
           "type": "TYPE_PHONE"
@@ -78630,11 +78637,6 @@
         {
           "id": "ptaMvVokq0wxjlFCpwfE",
           "lastMessageDate": 1792200699361,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "SIYkNu0CtU4eJC5Kbo7j",
-          "lastMessageDate": 1792170031565,
           "type": "TYPE_PHONE"
         },
         {
