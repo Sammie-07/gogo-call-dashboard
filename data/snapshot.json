@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-17T06:41:28.116Z",
+  "syncedAt": "2026-10-17T11:27:45.693Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -53438,7 +53438,7 @@
       "manualSms": 48,
       "autoSms": 54,
       "manualEmail": 13,
-      "autoEmail": 176,
+      "autoEmail": 177,
       "byDay": [
         {
           "date": "2026-04-27",
@@ -54199,6 +54199,14 @@
           "autoSms": 0,
           "manualEmail": 0,
           "autoEmail": 1
+        },
+        {
+          "date": "2026-10-17",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 0,
+          "manualEmail": 0,
+          "autoEmail": 1
         }
       ],
       "opportunities": [
@@ -54382,7 +54390,7 @@
               "contactName": "Shreed Test",
               "companyName": null,
               "email": "emarketingkingsofficial@gmail.com",
-              "phone": "+912341234567",
+              "phone": "+13692581235",
               "tags": [
                 "5daylive",
                 "circle_active_member",
@@ -54392,7 +54400,8 @@
                 "ggtc_free_training_signup",
                 "new lead",
                 "assigned to ferny",
-                "blocker quiz"
+                "blocker quiz",
+                "stan-ggtc-live"
               ],
               "attributed": true
             }
@@ -54402,7 +54411,7 @@
             "name": "Shreed Test",
             "companyName": null,
             "email": "emarketingkingsofficial@gmail.com",
-            "phone": "+912341234567",
+            "phone": "+13692581235",
             "tags": [
               "5daylive",
               "circle_active_member",
@@ -54412,7 +54421,8 @@
               "ggtc_free_training_signup",
               "new lead",
               "assigned to ferny",
-              "blocker quiz"
+              "blocker quiz",
+              "stan-ggtc-live"
             ],
             "score": []
           },
@@ -78603,6 +78613,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "HS9GFcdqfEyV4myBBEcW",
+          "lastMessageDate": 1792235150997,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "ptaMvVokq0wxjlFCpwfE",
           "lastMessageDate": 1792200699361,
           "type": "TYPE_PHONE"
@@ -78630,11 +78645,6 @@
         {
           "id": "kJSieuKNSVTaYROkzh0D",
           "lastMessageDate": 1792170016333,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "HS9GFcdqfEyV4myBBEcW",
-          "lastMessageDate": 1792156186868,
           "type": "TYPE_PHONE"
         },
         {
