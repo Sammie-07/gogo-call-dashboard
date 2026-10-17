@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-10-17T01:08:50.641Z",
+  "syncedAt": "2026-10-17T06:41:28.116Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
-      "calls": 170,
-      "talkTimeMinutes": 143,
+      "calls": 168,
+      "talkTimeMinutes": 141,
       "manualSms": 328,
-      "autoSms": 446,
+      "autoSms": 438,
       "manualEmail": 106,
-      "autoEmail": 3324,
+      "autoEmail": 3288,
       "byDay": [
         {
           "date": "2024-02-23",
@@ -168,7 +168,7 @@
           "manualSms": 0,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 72
+          "autoEmail": 70
         },
         {
           "date": "2026-04-25",
@@ -184,7 +184,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 94
+          "autoEmail": 92
         },
         {
           "date": "2026-04-28",
@@ -224,7 +224,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 86
+          "autoEmail": 84
         },
         {
           "date": "2026-05-04",
@@ -240,7 +240,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 82
+          "autoEmail": 80
         },
         {
           "date": "2026-05-06",
@@ -272,7 +272,7 @@
           "manualSms": 0,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 82
+          "autoEmail": 80
         },
         {
           "date": "2026-05-11",
@@ -312,7 +312,7 @@
           "manualSms": 2,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 80
+          "autoEmail": 78
         },
         {
           "date": "2026-05-16",
@@ -336,7 +336,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 96
+          "autoEmail": 94
         },
         {
           "date": "2026-05-19",
@@ -360,7 +360,7 @@
           "manualSms": 0,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 82
+          "autoEmail": 80
         },
         {
           "date": "2026-05-22",
@@ -400,7 +400,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 2,
-          "autoEmail": 86
+          "autoEmail": 84
         },
         {
           "date": "2026-05-27",
@@ -424,7 +424,7 @@
           "manualSms": 8,
           "autoSms": 6,
           "manualEmail": 0,
-          "autoEmail": 82
+          "autoEmail": 80
         },
         {
           "date": "2026-05-30",
@@ -780,11 +780,11 @@
         },
         {
           "date": "2026-07-28",
-          "calls": 4,
+          "calls": 2,
           "manualSms": 0,
-          "autoSms": 4,
+          "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 24
+          "autoEmail": 22
         },
         {
           "date": "2026-07-29",
@@ -806,9 +806,9 @@
           "date": "2026-07-31",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 4,
+          "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 4
+          "autoEmail": 2
         },
         {
           "date": "2026-08-01",
@@ -840,7 +840,7 @@
           "manualSms": 2,
           "autoSms": 8,
           "manualEmail": 0,
-          "autoEmail": 30
+          "autoEmail": 28
         },
         {
           "date": "2026-08-05",
@@ -862,9 +862,9 @@
           "date": "2026-08-07",
           "calls": 0,
           "manualSms": 2,
-          "autoSms": 8,
+          "autoSms": 6,
           "manualEmail": 0,
-          "autoEmail": 8
+          "autoEmail": 6
         },
         {
           "date": "2026-08-10",
@@ -880,7 +880,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 28
+          "autoEmail": 26
         },
         {
           "date": "2026-08-12",
@@ -904,7 +904,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 46
+          "autoEmail": 44
         },
         {
           "date": "2026-08-17",
@@ -920,7 +920,7 @@
           "manualSms": 0,
           "autoSms": 6,
           "manualEmail": 0,
-          "autoEmail": 34
+          "autoEmail": 32
         },
         {
           "date": "2026-08-19",
@@ -942,9 +942,9 @@
           "date": "2026-08-21",
           "calls": 0,
           "manualSms": 8,
-          "autoSms": 6,
+          "autoSms": 4,
           "manualEmail": 2,
-          "autoEmail": 50
+          "autoEmail": 48
         },
         {
           "date": "2026-08-24",
@@ -1324,6 +1324,79 @@
         }
       ],
       "opportunities": [
+        {
+          "id": "sPXp8QvXMy7iNqt9e7q7",
+          "name": "Brian Hill",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "assignedTo": "C7PplofCN88pv8MTTiZT",
+          "status": "open",
+          "source": null,
+          "lastStatusChangeAt": "2026-10-17T01:13:12.603Z",
+          "lastStageChangeAt": "2026-10-17T01:13:12.603Z",
+          "createdAt": "2026-10-17T01:13:12.603Z",
+          "updatedAt": "2026-10-17T01:13:14.467Z",
+          "forecastProbability": null,
+          "effectiveProbability": 31.25,
+          "contactId": "tBj9H8VqNeClxxsWUvyd",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "sPXp8QvXMy7iNqt9e7q7",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "tBj9H8VqNeClxxsWUvyd",
+              "fullName": "Brian Hill",
+              "contactName": "Brian Hill",
+              "companyName": null,
+              "email": "brian@wardmanre.com",
+              "phone": null,
+              "tags": [
+                "keyword:community",
+                "new lead",
+                "assigned to natalia"
+              ],
+              "attributed": null
+            }
+          ],
+          "contact": {
+            "id": "tBj9H8VqNeClxxsWUvyd",
+            "name": "Brian Hill",
+            "companyName": null,
+            "email": "brian@wardmanre.com",
+            "phone": null,
+            "tags": [
+              "keyword:community",
+              "new lead",
+              "assigned to natalia"
+            ],
+            "score": []
+          },
+          "sort": [
+            1792199592603,
+            "sPXp8QvXMy7iNqt9e7q7"
+          ],
+          "attributions": [
+            {
+              "utmSessionSource": "Social media",
+              "isFirst": true,
+              "medium": "instagram",
+              "mediumId": "1123555130023829"
+            },
+            {
+              "utmSessionSource": "Social media",
+              "isLast": true,
+              "medium": "instagram",
+              "mediumId": "1123555130023829"
+            }
+          ]
+        },
         {
           "id": "4YnxZixSmGzqfIndhwkz",
           "name": "Traci Malson",
@@ -52358,6 +52431,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "9oFelDLOhGhLm6K7SOqP",
+          "lastMessageDate": 1792197721646,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "qDKbcRwB2fZTY7P9hQNo",
           "lastMessageDate": 1792181715575,
           "type": "TYPE_PHONE"
@@ -52853,8 +52931,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "NLwSesIpK9Nk902nazwf",
-          "lastMessageDate": 1787328430539,
+          "id": "9oFelDLOhGhLm6K7SOqP",
+          "lastMessageDate": 1792197721646,
           "type": "TYPE_PHONE"
         },
         {
@@ -53350,11 +53428,6 @@
         {
           "id": "xul5uXO0kTcyK1Cb6Z9v",
           "lastMessageDate": 1787577515636,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "NLwSesIpK9Nk902nazwf",
-          "lastMessageDate": 1787328430539,
           "type": "TYPE_PHONE"
         }
       ]
@@ -56103,8 +56176,8 @@
               "primary": true,
               "objectKey": "contact",
               "recordId": "tw1tXfQzGL0iwUrlaxiG",
-              "fullName": "Jenny Jun",
-              "contactName": "Jenny Jun",
+              "fullName": "Jenny Jun ✝️",
+              "contactName": "Jenny Jun ✝️",
               "companyName": null,
               "email": "jenny@junresidential.com",
               "phone": "+19727306640",
@@ -56113,14 +56186,15 @@
                 "new lead",
                 "assigned to ferny",
                 "lead called",
-                "sales: not interested"
+                "sales: not interested",
+                "keyword:social"
               ],
               "attributed": true
             }
           ],
           "contact": {
             "id": "tw1tXfQzGL0iwUrlaxiG",
-            "name": "Jenny Jun",
+            "name": "Jenny Jun ✝️",
             "companyName": null,
             "email": "jenny@junresidential.com",
             "phone": "+19727306640",
@@ -56129,7 +56203,8 @@
               "new lead",
               "assigned to ferny",
               "lead called",
-              "sales: not interested"
+              "sales: not interested",
+              "keyword:social"
             ],
             "score": []
           },
@@ -78528,6 +78603,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "ptaMvVokq0wxjlFCpwfE",
+          "lastMessageDate": 1792200699361,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "SIYkNu0CtU4eJC5Kbo7j",
           "lastMessageDate": 1792170031565,
           "type": "TYPE_PHONE"
@@ -78700,11 +78780,6 @@
         {
           "id": "MCKsrrDyNsKWJGrHJseI",
           "lastMessageDate": 1785338724291,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "ptaMvVokq0wxjlFCpwfE",
-          "lastMessageDate": 1785179203512,
           "type": "TYPE_PHONE"
         }
       ]
