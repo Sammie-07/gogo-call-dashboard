@@ -1,13 +1,13 @@
 {
-  "syncedAt": "2026-10-18T13:02:58.950Z",
+  "syncedAt": "2026-10-18T17:08:03.006Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 168,
       "talkTimeMinutes": 141,
-      "manualSms": 328,
+      "manualSms": 326,
       "autoSms": 438,
-      "manualEmail": 106,
+      "manualEmail": 108,
       "autoEmail": 3280,
       "byDay": [
         {
@@ -461,7 +461,7 @@
         {
           "date": "2026-06-04",
           "calls": 0,
-          "manualSms": 16,
+          "manualSms": 14,
           "autoSms": 0,
           "manualEmail": 2,
           "autoEmail": 16
@@ -1321,6 +1321,14 @@
           "autoSms": 2,
           "manualEmail": 0,
           "autoEmail": 28
+        },
+        {
+          "date": "2026-10-18",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 0,
+          "manualEmail": 2,
+          "autoEmail": 0
         }
       ],
       "opportunities": [
@@ -52431,6 +52439,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "jkU93bNach7ZHahfxbaH",
+          "lastMessageDate": 1792338470524,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "9oFelDLOhGhLm6K7SOqP",
           "lastMessageDate": 1792280525569,
           "type": "TYPE_PHONE"
@@ -52463,11 +52476,6 @@
         {
           "id": "gdH7zEuaXLk30YSsKBa1",
           "lastMessageDate": 1792170027929,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "jkU93bNach7ZHahfxbaH",
-          "lastMessageDate": 1792170020903,
           "type": "TYPE_PHONE"
         },
         {
@@ -52931,6 +52939,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "jkU93bNach7ZHahfxbaH",
+          "lastMessageDate": 1792338470524,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "9oFelDLOhGhLm6K7SOqP",
           "lastMessageDate": 1792280525569,
           "type": "TYPE_PHONE"
@@ -52963,11 +52976,6 @@
         {
           "id": "gdH7zEuaXLk30YSsKBa1",
           "lastMessageDate": 1792170027929,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "jkU93bNach7ZHahfxbaH",
-          "lastMessageDate": 1792170020903,
           "type": "TYPE_PHONE"
         },
         {
