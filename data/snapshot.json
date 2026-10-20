@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-20T19:00:26.591Z",
+  "syncedAt": "2026-10-20T22:14:34.013Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -51835,7 +51835,7 @@
           "calendarId": "8kLbo3OukoeNXebq8B4b",
           "contactId": "c8LQ0zFQKba4V0ZYk30o",
           "dateAdded": "2026-08-26T19:57:17.000Z",
-          "dateUpdated": "2026-09-30T17:34:24.000Z",
+          "dateUpdated": "2026-10-20T20:20:53.000Z",
           "endTime": "2026-09-03T16:00:00-04:00",
           "id": "JBmzVzQdMauEUXHX3CbY",
           "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
@@ -52116,7 +52116,7 @@
           "calendarId": "8kLbo3OukoeNXebq8B4b",
           "contactId": "c8LQ0zFQKba4V0ZYk30o",
           "dateAdded": "2026-09-21T21:35:02.000Z",
-          "dateUpdated": "2026-09-30T17:34:24.000Z",
+          "dateUpdated": "2026-10-20T20:20:53.000Z",
           "endTime": "2026-09-24T16:00:00-04:00",
           "id": "g2Sd1Ge6pPu3NdtFvs62",
           "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
@@ -78695,6 +78695,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "NHt6fKBJPTCqF3boaaNY",
+          "lastMessageDate": 1792532377701,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "kJSieuKNSVTaYROkzh0D",
           "lastMessageDate": 1792512113533,
           "type": "TYPE_PHONE"
@@ -78767,11 +78772,6 @@
         {
           "id": "7k1pN7AeYCuapt9CpI0e",
           "lastMessageDate": 1791507723923,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "NHt6fKBJPTCqF3boaaNY",
-          "lastMessageDate": 1791506747755,
           "type": "TYPE_PHONE"
         },
         {
