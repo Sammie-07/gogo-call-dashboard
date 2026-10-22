@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-21T22:11:02.306Z",
+  "syncedAt": "2026-10-22T01:19:05.123Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -6276,8 +6276,8 @@
               "primary": true,
               "objectKey": "contact",
               "recordId": "10J5xA22RORPfEtILu4f",
-              "fullName": "Mary Harmon",
-              "contactName": "Mary Harmon",
+              "fullName": "Mary Harmon Young",
+              "contactName": "Mary Harmon Young",
               "companyName": null,
               "email": "info@maryharmon.com",
               "phone": "+12058862792",
@@ -6288,14 +6288,15 @@
                 "assigned to natalia",
                 "lead called",
                 "sales: follow up",
-                "sales: booked appointment"
+                "sales: booked appointment",
+                "blocker quiz"
               ],
               "attributed": true
             }
           ],
           "contact": {
             "id": "10J5xA22RORPfEtILu4f",
-            "name": "Mary Harmon",
+            "name": "Mary Harmon Young",
             "companyName": null,
             "email": "info@maryharmon.com",
             "phone": "+12058862792",
@@ -6306,7 +6307,8 @@
               "assigned to natalia",
               "lead called",
               "sales: follow up",
-              "sales: booked appointment"
+              "sales: booked appointment",
+              "blocker quiz"
             ],
             "score": []
           },
@@ -52717,6 +52719,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "xJBmuq6cAoiW3j2IZgld",
+          "lastMessageDate": 1792622525279,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "a3KZyVkUZO8EFuDMs5iS",
           "lastMessageDate": 1792617084660,
           "type": "TYPE_PHONE"
@@ -52824,11 +52831,6 @@
         {
           "id": "9oFelDLOhGhLm6K7SOqP",
           "lastMessageDate": 1792280525569,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "xJBmuq6cAoiW3j2IZgld",
-          "lastMessageDate": 1792244130664,
           "type": "TYPE_PHONE"
         },
         {
@@ -53217,6 +53219,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "xJBmuq6cAoiW3j2IZgld",
+          "lastMessageDate": 1792622525279,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "a3KZyVkUZO8EFuDMs5iS",
           "lastMessageDate": 1792617084660,
           "type": "TYPE_PHONE"
@@ -53324,11 +53331,6 @@
         {
           "id": "9oFelDLOhGhLm6K7SOqP",
           "lastMessageDate": 1792280525569,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "xJBmuq6cAoiW3j2IZgld",
-          "lastMessageDate": 1792244130664,
           "type": "TYPE_PHONE"
         },
         {
