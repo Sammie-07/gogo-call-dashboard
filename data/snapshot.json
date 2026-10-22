@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-22T13:33:42.241Z",
+  "syncedAt": "2026-10-22T18:23:46.415Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -53833,28 +53833,52 @@
       ]
     },
     "Z6C8jEN8ccsSWv70qBr1": {
-      "calls": 16,
-      "talkTimeMinutes": 14,
-      "manualSms": 48,
-      "autoSms": 56,
-      "manualEmail": 13,
-      "autoEmail": 179,
+      "calls": 10,
+      "talkTimeMinutes": 23,
+      "manualSms": 6,
+      "autoSms": 218,
+      "manualEmail": 0,
+      "autoEmail": 1538,
       "byDay": [
         {
-          "date": "2026-04-27",
-          "calls": 1,
+          "date": "2026-04-21",
+          "calls": 8,
           "manualSms": 0,
-          "autoSms": 1,
+          "autoSms": 6,
           "manualEmail": 0,
-          "autoEmail": 2
+          "autoEmail": 0
         },
         {
-          "date": "2026-04-30",
+          "date": "2026-04-24",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 1,
+          "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 1
+          "autoEmail": 26
+        },
+        {
+          "date": "2026-04-27",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 0,
+          "manualEmail": 0,
+          "autoEmail": 64
+        },
+        {
+          "date": "2026-04-28",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 0,
+          "manualEmail": 0,
+          "autoEmail": 4
+        },
+        {
+          "date": "2026-05-01",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 4,
+          "manualEmail": 0,
+          "autoEmail": 4
         },
         {
           "date": "2026-05-02",
@@ -53862,15 +53886,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 2
-        },
-        {
-          "date": "2026-05-04",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 1
+          "autoEmail": 174
         },
         {
           "date": "2026-05-05",
@@ -53878,15 +53894,15 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 2
+          "autoEmail": 178
         },
         {
-          "date": "2026-05-07",
+          "date": "2026-05-08",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 1,
+          "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 1
+          "autoEmail": 4
         },
         {
           "date": "2026-05-10",
@@ -53894,55 +53910,55 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 2
+          "autoEmail": 174
         },
         {
-          "date": "2026-05-11",
+          "date": "2026-05-12",
           "calls": 0,
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 1
-        },
-        {
-          "date": "2026-05-14",
-          "calls": 0,
-          "manualSms": 1,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 1
+          "autoEmail": 4
         },
         {
           "date": "2026-05-15",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 0,
+          "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 2
+          "autoEmail": 178
         },
         {
           "date": "2026-05-18",
-          "calls": 1,
-          "manualSms": 1,
-          "autoSms": 1,
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 4
+          "autoEmail": 172
         },
         {
           "date": "2026-05-21",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 2,
+          "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 4
+          "autoEmail": 174
         },
         {
-          "date": "2026-05-25",
+          "date": "2026-05-22",
           "calls": 0,
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 1
+          "autoEmail": 0
+        },
+        {
+          "date": "2026-05-25",
+          "calls": 0,
+          "manualSms": 4,
+          "autoSms": 0,
+          "manualEmail": 0,
+          "autoEmail": 0
         },
         {
           "date": "2026-05-26",
@@ -53950,15 +53966,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 2
-        },
-        {
-          "date": "2026-05-28",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 1,
-          "manualEmail": 0,
-          "autoEmail": 1
+          "autoEmail": 174
         },
         {
           "date": "2026-05-29",
@@ -53966,54 +53974,22 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 2
+          "autoEmail": 174
         },
         {
-          "date": "2026-06-01",
+          "date": "2026-06-02",
           "calls": 0,
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 1
-        },
-        {
-          "date": "2026-06-04",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 1
-        },
-        {
-          "date": "2026-06-08",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 1
-        },
-        {
-          "date": "2026-06-11",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 1,
-          "manualEmail": 0,
-          "autoEmail": 2
+          "autoEmail": 0
         },
         {
           "date": "2026-06-18",
           "calls": 0,
-          "manualSms": 3,
+          "manualSms": 2,
           "autoSms": 0,
-          "manualEmail": 2,
-          "autoEmail": 1
-        },
-        {
-          "date": "2026-06-19",
-          "calls": 0,
-          "manualSms": 3,
-          "autoSms": 0,
-          "manualEmail": 1,
+          "manualEmail": 0,
           "autoEmail": 0
         },
         {
@@ -54022,7 +53998,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 1
+          "autoEmail": 2
         },
         {
           "date": "2026-06-23",
@@ -54030,23 +54006,15 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 1
+          "autoEmail": 2
         },
         {
           "date": "2026-06-24",
           "calls": 0,
-          "manualSms": 1,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 1
-        },
-        {
-          "date": "2026-06-25",
-          "calls": 0,
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 1
+          "autoEmail": 2
         },
         {
           "date": "2026-06-26",
@@ -54054,7 +54022,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 1
+          "autoEmail": 2
         },
         {
           "date": "2026-06-28",
@@ -54062,7 +54030,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 1
+          "autoEmail": 2
         },
         {
           "date": "2026-06-30",
@@ -54073,7 +54041,7 @@
           "autoEmail": 2
         },
         {
-          "date": "2026-07-02",
+          "date": "2026-07-07",
           "calls": 0,
           "manualSms": 0,
           "autoSms": 0,
@@ -54081,52 +54049,12 @@
           "autoEmail": 2
         },
         {
-          "date": "2026-07-04",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 1
-        },
-        {
-          "date": "2026-07-06",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 1
-        },
-        {
-          "date": "2026-07-07",
-          "calls": 3,
-          "manualSms": 1,
-          "autoSms": 3,
-          "manualEmail": 0,
-          "autoEmail": 4
-        },
-        {
-          "date": "2026-07-09",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 1
-        },
-        {
           "date": "2026-07-10",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 2,
+          "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 3
-        },
-        {
-          "date": "2026-07-14",
-          "calls": 2,
-          "manualSms": 0,
-          "autoSms": 2,
-          "manualEmail": 0,
-          "autoEmail": 4
+          "autoEmail": 2
         },
         {
           "date": "2026-07-15",
@@ -54134,23 +54062,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 1
-        },
-        {
-          "date": "2026-07-16",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 1
-        },
-        {
-          "date": "2026-07-17",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 3,
-          "manualEmail": 0,
-          "autoEmail": 3
+          "autoEmail": 2
         },
         {
           "date": "2026-07-18",
@@ -54158,7 +54070,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 1
+          "autoEmail": 2
         },
         {
           "date": "2026-07-21",
@@ -54166,71 +54078,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 4
-        },
-        {
-          "date": "2026-07-23",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 1
-        },
-        {
-          "date": "2026-07-24",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 1,
-          "manualEmail": 0,
-          "autoEmail": 3
-        },
-        {
-          "date": "2026-07-27",
-          "calls": 4,
-          "manualSms": 0,
-          "autoSms": 4,
-          "manualEmail": 0,
-          "autoEmail": 3
-        },
-        {
-          "date": "2026-07-28",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 3
-        },
-        {
-          "date": "2026-07-30",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 3,
-          "manualEmail": 0,
-          "autoEmail": 3
-        },
-        {
-          "date": "2026-07-31",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 2,
-          "manualEmail": 0,
-          "autoEmail": 3
-        },
-        {
-          "date": "2026-08-03",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 0,
           "autoEmail": 2
-        },
-        {
-          "date": "2026-08-04",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 1
         },
         {
           "date": "2026-08-05",
@@ -54238,290 +54086,10 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 1
-        },
-        {
-          "date": "2026-08-06",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 3,
-          "manualEmail": 0,
-          "autoEmail": 3
-        },
-        {
-          "date": "2026-08-07",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 1,
-          "manualEmail": 0,
-          "autoEmail": 1
-        },
-        {
-          "date": "2026-08-10",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 0,
           "autoEmail": 2
-        },
-        {
-          "date": "2026-08-12",
-          "calls": 4,
-          "manualSms": 4,
-          "autoSms": 3,
-          "manualEmail": 0,
-          "autoEmail": 2
-        },
-        {
-          "date": "2026-08-13",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 4
-        },
-        {
-          "date": "2026-08-14",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 1
-        },
-        {
-          "date": "2026-08-16",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 1,
-          "manualEmail": 0,
-          "autoEmail": 1
-        },
-        {
-          "date": "2026-08-17",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 2,
-          "manualEmail": 0,
-          "autoEmail": 3
-        },
-        {
-          "date": "2026-08-18",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 2,
-          "manualEmail": 0,
-          "autoEmail": 2
-        },
-        {
-          "date": "2026-08-19",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 1
-        },
-        {
-          "date": "2026-08-20",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 3,
-          "manualEmail": 0,
-          "autoEmail": 6
-        },
-        {
-          "date": "2026-08-21",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 1
-        },
-        {
-          "date": "2026-08-23",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 1,
-          "manualEmail": 0,
-          "autoEmail": 1
-        },
-        {
-          "date": "2026-08-24",
-          "calls": 0,
-          "manualSms": 1,
-          "autoSms": 1,
-          "manualEmail": 1,
-          "autoEmail": 1
-        },
-        {
-          "date": "2026-08-25",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 2
-        },
-        {
-          "date": "2026-08-27",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 3
-        },
-        {
-          "date": "2026-08-28",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 1
-        },
-        {
-          "date": "2026-08-30",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 1
-        },
-        {
-          "date": "2026-08-31",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 1
-        },
-        {
-          "date": "2026-09-01",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 1
-        },
-        {
-          "date": "2026-09-02",
-          "calls": 0,
-          "manualSms": 1,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 0
-        },
-        {
-          "date": "2026-09-03",
-          "calls": 0,
-          "manualSms": 7,
-          "autoSms": 0,
-          "manualEmail": 1,
-          "autoEmail": 3
-        },
-        {
-          "date": "2026-09-04",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 1
         },
         {
           "date": "2026-09-05",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 1
-        },
-        {
-          "date": "2026-09-06",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 1,
-          "manualEmail": 0,
-          "autoEmail": 1
-        },
-        {
-          "date": "2026-09-07",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 1,
-          "manualEmail": 0,
-          "autoEmail": 1
-        },
-        {
-          "date": "2026-09-08",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 1
-        },
-        {
-          "date": "2026-09-10",
-          "calls": 0,
-          "manualSms": 1,
-          "autoSms": 0,
-          "manualEmail": 1,
-          "autoEmail": 2
-        },
-        {
-          "date": "2026-09-14",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 1,
-          "manualEmail": 0,
-          "autoEmail": 0
-        },
-        {
-          "date": "2026-09-15",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 1
-        },
-        {
-          "date": "2026-09-16",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 1,
-          "manualEmail": 0,
-          "autoEmail": 0
-        },
-        {
-          "date": "2026-09-17",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 2
-        },
-        {
-          "date": "2026-09-22",
-          "calls": 0,
-          "manualSms": 20,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 0
-        },
-        {
-          "date": "2026-09-23",
-          "calls": 0,
-          "manualSms": 2,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 0
-        },
-        {
-          "date": "2026-09-24",
-          "calls": 0,
-          "manualSms": 1,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 2
-        },
-        {
-          "date": "2026-10-01",
           "calls": 0,
           "manualSms": 0,
           "autoSms": 0,
@@ -54534,98 +54102,129 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 1
-        },
-        {
-          "date": "2026-10-06",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 2,
-          "manualEmail": 0,
-          "autoEmail": 1
-        },
-        {
-          "date": "2026-10-07",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 2,
-          "autoEmail": 3
+          "autoEmail": 2
         },
         {
           "date": "2026-10-08",
-          "calls": 1,
+          "calls": 2,
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 17
+          "autoEmail": 0
         },
         {
           "date": "2026-10-09",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 1,
+          "autoSms": 2,
           "manualEmail": 0,
           "autoEmail": 2
-        },
-        {
-          "date": "2026-10-12",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 1,
-          "autoEmail": 0
-        },
-        {
-          "date": "2026-10-14",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 2,
-          "autoEmail": 0
         },
         {
           "date": "2026-10-15",
           "calls": 0,
-          "manualSms": 1,
-          "autoSms": 2,
-          "manualEmail": 2,
-          "autoEmail": 6
-        },
-        {
-          "date": "2026-10-16",
-          "calls": 0,
           "manualSms": 0,
           "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 1
-        },
-        {
-          "date": "2026-10-17",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 1,
           "manualEmail": 0,
           "autoEmail": 2
         },
         {
-          "date": "2026-10-19",
+          "date": "2026-10-22",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 1,
+          "autoSms": 198,
           "manualEmail": 0,
-          "autoEmail": 1
-        },
-        {
-          "date": "2026-10-21",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 1
+          "autoEmail": 2
         }
       ],
       "opportunities": [
+        {
+          "id": "qh4Y54SoMaeiMZFCdpSi",
+          "name": "Kortney Leavitt",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "80949724-7894-4a42-8028-746a06208f9e",
+          "pipelineStageUId": "80949724-7894-4a42-8028-746a06208f9e",
+          "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
+          "status": "open",
+          "source": "GGTC Blocker Quiz",
+          "lastStatusChangeAt": "2026-10-22T14:40:25.944Z",
+          "lastStageChangeAt": "2026-10-22T14:41:30.396Z",
+          "createdAt": "2026-10-22T14:40:25.944Z",
+          "updatedAt": "2026-10-22T14:41:30.481Z",
+          "forecastProbability": null,
+          "effectiveProbability": 25,
+          "contactId": "VbeOHTn6CE86XAAHa5Wc",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "qh4Y54SoMaeiMZFCdpSi",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "VbeOHTn6CE86XAAHa5Wc",
+              "fullName": "Kortney Leavitt",
+              "contactName": "Kortney Leavitt",
+              "companyName": null,
+              "email": "homesbykortney@gmail.com",
+              "phone": "+16193073299",
+              "tags": [
+                "blocker quiz",
+                "new lead",
+                "assigned to ferny",
+                "ggtc-revive-oct26"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "VbeOHTn6CE86XAAHa5Wc",
+            "name": "Kortney Leavitt",
+            "companyName": null,
+            "email": "homesbykortney@gmail.com",
+            "phone": "+16193073299",
+            "tags": [
+              "blocker quiz",
+              "new lead",
+              "assigned to ferny",
+              "ggtc-revive-oct26"
+            ],
+            "score": []
+          },
+          "sort": [
+            1792680025944,
+            "qh4Y54SoMaeiMZFCdpSi"
+          ],
+          "attributions": [
+            {
+              "pageUrl": "https://gogetemcommunity.com/growth-blocker.html?utm_source=manychat&mcp_token=eyJwaWQiOjE2OTQ4NTIzNjQ0NTU3Nywic2lkIjoxOTc1NjA5ODQ2LCJheCI6ImYyM2VmYmVjNGYxYWExNTM4YTBlZjg5NGZiZTA0YWY1IiwidHMiOjE3OTI2NzkzNzIsImV4cCI6MTc5NTA5ODU3Mn0.46rpe_SNHU_awmoymSdQteybMaGogFJeCYEgLb02zyA",
+              "referrer": "https://instagram.com",
+              "utmSessionSource": "Social media",
+              "ip": "2605:59ca:3496:3010:d83d:f856:664f:9d90",
+              "isFirst": true,
+              "medium": "form",
+              "mediumId": "muiUniGFhCNqBm9Ak62g",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23G90 Instagram 452.0.1.39.54 (iPhone15,2; iOS 26_6_2; en_US; en; scale=3.00; 1179x2556; IABMV/1; 1093431980) Safari/604.1",
+              "url": "https://gogetemcommunity.com/growth-blocker.html",
+              "utmSource": "manychat"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/growth-blocker.html?utm_source=manychat&mcp_token=eyJwaWQiOjE2OTQ4NTIzNjQ0NTU3Nywic2lkIjoxOTc1NjA5ODQ2LCJheCI6ImYyM2VmYmVjNGYxYWExNTM4YTBlZjg5NGZiZTA0YWY1IiwidHMiOjE3OTI2NzkzNzIsImV4cCI6MTc5NTA5ODU3Mn0.46rpe_SNHU_awmoymSdQteybMaGogFJeCYEgLb02zyA",
+              "referrer": "https://instagram.com",
+              "utmSessionSource": "Social media",
+              "isLast": true,
+              "ip": "2605:59ca:3496:3010:d83d:f856:664f:9d90",
+              "medium": "form",
+              "mediumId": "muiUniGFhCNqBm9Ak62g",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23G90 Instagram 452.0.1.39.54 (iPhone15,2; iOS 26_6_2; en_US; en; scale=3.00; 1179x2556; IABMV/1; 1093431980) Safari/604.1",
+              "url": "https://gogetemcommunity.com/growth-blocker.html",
+              "utmSource": "manychat"
+            }
+          ]
+        },
         {
           "id": "iwOTrQo3mDq2TnezXZLj",
           "name": "Mihai Molnar",
@@ -57564,7 +57163,8 @@
               "tags": [
                 "smc",
                 "new lead",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -57578,7 +57178,8 @@
             "tags": [
               "smc",
               "new lead",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -57730,7 +57331,8 @@
                 "goget'em canceled",
                 "smc",
                 "new lead",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -57745,7 +57347,8 @@
               "goget'em canceled",
               "smc",
               "new lead",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -57807,7 +57410,8 @@
               "tags": [
                 "smc",
                 "new lead",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -57821,7 +57425,8 @@
             "tags": [
               "smc",
               "new lead",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -57899,7 +57504,8 @@
               "tags": [
                 "smc",
                 "new lead",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -57913,7 +57519,8 @@
             "tags": [
               "smc",
               "new lead",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -57986,7 +57593,8 @@
               "tags": [
                 "smc",
                 "new lead",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -58000,7 +57608,8 @@
             "tags": [
               "smc",
               "new lead",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -58072,7 +57681,8 @@
                 "stimulus package",
                 "smc",
                 "new lead",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -58087,7 +57697,8 @@
               "stimulus package",
               "smc",
               "new lead",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -58157,7 +57768,8 @@
                 "smc",
                 "new lead",
                 "assigned to ferny",
-                "ggtc_free_training_signup"
+                "ggtc_free_training_signup",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -58174,7 +57786,8 @@
               "smc",
               "new lead",
               "assigned to ferny",
-              "ggtc_free_training_signup"
+              "ggtc_free_training_signup",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -58736,7 +58349,8 @@
               "tags": [
                 "keyword:social",
                 "new lead",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": null
             }
@@ -58750,7 +58364,8 @@
             "tags": [
               "keyword:social",
               "new lead",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -58988,7 +58603,8 @@
                 "smc",
                 "new lead",
                 "assigned to ferny",
-                "lead called"
+                "lead called",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -59003,7 +58619,8 @@
               "smc",
               "new lead",
               "assigned to ferny",
-              "lead called"
+              "lead called",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -59072,7 +58689,8 @@
                 "smc",
                 "new lead",
                 "assigned to laura",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -59087,7 +58705,8 @@
               "smc",
               "new lead",
               "assigned to laura",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -59163,7 +58782,8 @@
               "tags": [
                 "keyword:social",
                 "new lead",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": null
             }
@@ -59177,7 +58797,8 @@
             "tags": [
               "keyword:social",
               "new lead",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -60240,7 +59861,8 @@
               "phone": "+12098292669",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -60253,7 +59875,8 @@
             "phone": "+12098292669",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -60319,7 +59942,8 @@
               "phone": "+19016536195",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -60332,7 +59956,8 @@
             "phone": "+19016536195",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -60397,7 +60022,8 @@
               "phone": "+17032068702",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -60410,7 +60036,8 @@
             "phone": "+17032068702",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -60556,7 +60183,8 @@
               "phone": "+16504250250",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -60569,7 +60197,8 @@
             "phone": "+16504250250",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -60634,7 +60263,8 @@
               "phone": "+17863383387",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -60647,7 +60277,8 @@
             "phone": "+17863383387",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -60724,7 +60355,8 @@
                 "wine not millionaire",
                 "wine not millionaire_09_10_25",
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -60739,7 +60371,8 @@
               "wine not millionaire",
               "wine not millionaire_09_10_25",
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -60814,7 +60447,8 @@
                 "wine not millionaire_10_08_25",
                 "smc",
                 "keyword:social",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -60829,7 +60463,8 @@
               "wine not millionaire_10_08_25",
               "smc",
               "keyword:social",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -60967,7 +60602,8 @@
               "tags": [
                 "goget'em canceled",
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -60981,7 +60617,8 @@
             "tags": [
               "goget'em canceled",
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -61044,7 +60681,8 @@
               "tags": [
                 "ai advantage atendees",
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -61058,7 +60696,8 @@
             "tags": [
               "ai advantage atendees",
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -61120,7 +60759,8 @@
               "tags": [
                 "smc",
                 "new lead",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -61134,7 +60774,8 @@
             "tags": [
               "smc",
               "new lead",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -61206,7 +60847,8 @@
               "phone": "+13609818901",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -61219,7 +60861,8 @@
             "phone": "+13609818901",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -61285,7 +60928,8 @@
               "phone": "+16127205171",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -61298,7 +60942,8 @@
             "phone": "+16127205171",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -61369,7 +61014,8 @@
                 "clarity_call_approved",
                 "smc",
                 "assigned to ferny",
-                "new lead"
+                "new lead",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -61385,7 +61031,8 @@
               "clarity_call_approved",
               "smc",
               "assigned to ferny",
-              "new lead"
+              "new lead",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -61454,7 +61101,8 @@
               "tags": [
                 "smc",
                 "keyword:social",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -61468,7 +61116,8 @@
             "tags": [
               "smc",
               "keyword:social",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -61615,7 +61264,8 @@
               "phone": "+18506420234",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -61628,7 +61278,8 @@
             "phone": "+18506420234",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -61695,7 +61346,8 @@
               "tags": [
                 "smc",
                 "keyword:social",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -61709,7 +61361,8 @@
             "tags": [
               "smc",
               "keyword:social",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -61773,7 +61426,8 @@
               "phone": "+17206906447",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -61786,7 +61440,8 @@
             "phone": "+17206906447",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -61852,7 +61507,8 @@
               "phone": "+13365129568",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -61865,7 +61521,8 @@
             "phone": "+13365129568",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -61932,7 +61589,8 @@
               "phone": "+18058448484",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -61945,7 +61603,8 @@
             "phone": "+18058448484",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -62011,7 +61670,8 @@
               "phone": "+17274203628",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -62024,7 +61684,8 @@
             "phone": "+17274203628",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -62092,7 +61753,8 @@
               "tags": [
                 "smc",
                 "assigned to ferny",
-                "lead called"
+                "lead called",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -62106,7 +61768,8 @@
             "tags": [
               "smc",
               "assigned to ferny",
-              "lead called"
+              "lead called",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -62172,7 +61835,8 @@
               "phone": "+15126454000",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -62185,7 +61849,8 @@
             "phone": "+15126454000",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -62251,7 +61916,8 @@
               "phone": "+16316646611",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -62264,7 +61930,8 @@
             "phone": "+16316646611",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -62330,7 +61997,8 @@
               "phone": "+16822386716",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -62343,7 +62011,8 @@
             "phone": "+16822386716",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -62409,7 +62078,8 @@
               "phone": "+17602851438",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -62422,7 +62092,8 @@
             "phone": "+17602851438",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -62488,7 +62159,8 @@
               "phone": "+17705707601",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -62501,7 +62173,8 @@
             "phone": "+17705707601",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -62567,7 +62240,8 @@
               "phone": "+14694947326",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -62580,7 +62254,8 @@
             "phone": "+14694947326",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -62646,7 +62321,8 @@
               "phone": "+12293470465",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -62659,7 +62335,8 @@
             "phone": "+12293470465",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -62727,7 +62404,8 @@
               "tags": [
                 "smc",
                 "assigned to ferny",
-                "lead called"
+                "lead called",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -62741,7 +62419,8 @@
             "tags": [
               "smc",
               "assigned to ferny",
-              "lead called"
+              "lead called",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -62807,7 +62486,8 @@
               "phone": "+12027632483",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -62820,7 +62500,8 @@
             "phone": "+12027632483",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -62888,7 +62569,8 @@
               "tags": [
                 "smc",
                 "keyword:social",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -62902,7 +62584,8 @@
             "tags": [
               "smc",
               "keyword:social",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -62966,7 +62649,8 @@
               "phone": "+16479363523",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -62979,7 +62663,8 @@
             "phone": "+16479363523",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -63045,7 +62730,8 @@
               "phone": "+19254138211",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -63058,7 +62744,8 @@
             "phone": "+19254138211",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -63124,7 +62811,8 @@
               "phone": "+19519706613",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -63137,7 +62825,8 @@
             "phone": "+19519706613",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -63203,7 +62892,8 @@
               "phone": "+5716178422088",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -63216,7 +62906,8 @@
             "phone": "+5716178422088",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -63365,7 +63056,8 @@
               "phone": "+17133206556",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -63378,7 +63070,8 @@
             "phone": "+17133206556",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -63444,7 +63137,8 @@
               "phone": "+12406742626",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -63457,7 +63151,8 @@
             "phone": "+12406742626",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -63525,7 +63220,8 @@
               "phone": "+19379564949",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -63538,7 +63234,8 @@
             "phone": "+19379564949",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -63604,7 +63301,8 @@
               "phone": "+19739305252",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -63617,7 +63315,8 @@
             "phone": "+19739305252",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -63685,7 +63384,8 @@
               "phone": "+15043823324",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -63698,7 +63398,8 @@
             "phone": "+15043823324",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -63764,7 +63465,8 @@
               "phone": "+12817855710",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -63777,7 +63479,8 @@
             "phone": "+12817855710",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -63844,7 +63547,8 @@
               "tags": [
                 "smc",
                 "keyword:social",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -63858,7 +63562,8 @@
             "tags": [
               "smc",
               "keyword:social",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -63918,7 +63623,8 @@
               "phone": "+15134853505",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -63931,7 +63637,8 @@
             "phone": "+15134853505",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -64083,7 +63790,8 @@
               "phone": "+18133937442",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -64096,7 +63804,8 @@
             "phone": "+18133937442",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -64252,7 +63961,8 @@
                 "smc",
                 "assigned to ferny",
                 "lead called",
-                "sales: follow up"
+                "sales: follow up",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -64267,7 +63977,8 @@
               "smc",
               "assigned to ferny",
               "lead called",
-              "sales: follow up"
+              "sales: follow up",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -64333,7 +64044,8 @@
               "phone": "+19892953062",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -64346,7 +64058,8 @@
             "phone": "+19892953062",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -64412,7 +64125,8 @@
               "phone": "+18564720333",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -64425,7 +64139,8 @@
             "phone": "+18564720333",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -64491,7 +64206,8 @@
               "phone": "+18327071496",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -64504,7 +64220,8 @@
             "phone": "+18327071496",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -64570,7 +64287,8 @@
               "phone": "+18506872542",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -64583,7 +64301,8 @@
             "phone": "+18506872542",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -64649,7 +64368,8 @@
               "phone": "+18139349013",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -64662,7 +64382,8 @@
             "phone": "+18139349013",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -64728,7 +64449,8 @@
               "phone": "+12026073969",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -64741,7 +64463,8 @@
             "phone": "+12026073969",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -64809,7 +64532,8 @@
               "phone": "+16093644934",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -64822,7 +64546,8 @@
             "phone": "+16093644934",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -64890,7 +64615,8 @@
               "phone": "+15172827166",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -64903,7 +64629,8 @@
             "phone": "+15172827166",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -64969,7 +64696,8 @@
               "phone": "+18083398589",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -64982,7 +64710,8 @@
             "phone": "+18083398589",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -65622,7 +65351,8 @@
               "phone": "+12543824035",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -65635,7 +65365,8 @@
             "phone": "+12543824035",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -65703,7 +65434,8 @@
               "phone": "+19044608664",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -65716,7 +65448,8 @@
             "phone": "+19044608664",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -65782,7 +65515,8 @@
               "phone": "+17146257267",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -65795,7 +65529,8 @@
             "phone": "+17146257267",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -65861,7 +65596,8 @@
               "phone": "+15623202678",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -65874,7 +65610,8 @@
             "phone": "+15623202678",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -65940,7 +65677,8 @@
               "phone": "+12248481705",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -65953,7 +65691,8 @@
             "phone": "+12248481705",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -66019,7 +65758,8 @@
               "phone": "+13307012467",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -66032,7 +65772,8 @@
             "phone": "+13307012467",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -66102,7 +65843,8 @@
                 "keyword:social",
                 "assigned to ferny",
                 "lead called",
-                "sales: follow up"
+                "sales: follow up",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -66118,7 +65860,8 @@
               "keyword:social",
               "assigned to ferny",
               "lead called",
-              "sales: follow up"
+              "sales: follow up",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -66182,7 +65925,8 @@
               "tags": [
                 "smc",
                 "assigned to ferny",
-                "lead called"
+                "lead called",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -66196,7 +65940,8 @@
             "tags": [
               "smc",
               "assigned to ferny",
-              "lead called"
+              "lead called",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -66262,7 +66007,8 @@
               "phone": "+19254374195",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -66275,7 +66021,8 @@
             "phone": "+19254374195",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -66337,7 +66084,8 @@
               "phone": "+13169932416",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -66350,7 +66098,8 @@
             "phone": "+13169932416",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -66417,7 +66166,8 @@
               "phone": "+17062154382",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -66430,7 +66180,8 @@
             "phone": "+17062154382",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -66492,7 +66243,8 @@
               "phone": "+16128760274",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -66505,7 +66257,8 @@
             "phone": "+16128760274",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -66567,7 +66320,8 @@
               "phone": "+13302070688",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -66580,7 +66334,8 @@
             "phone": "+13302070688",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -66646,7 +66401,8 @@
               "phone": "+19177105891",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -66659,7 +66415,8 @@
             "phone": "+19177105891",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -66725,7 +66482,8 @@
               "phone": "+16268063141",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -66738,7 +66496,8 @@
             "phone": "+16268063141",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -66804,7 +66563,8 @@
               "phone": "+19787716680",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -66817,7 +66577,8 @@
             "phone": "+19787716680",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -67053,7 +66814,8 @@
               "phone": "+14084442074",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -67066,7 +66828,8 @@
             "phone": "+14084442074",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -67132,7 +66895,8 @@
               "phone": "+16262605466",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -67145,7 +66909,8 @@
             "phone": "+16262605466",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -67213,7 +66978,8 @@
               "tags": [
                 "smc",
                 "assigned to ferny",
-                "lead called"
+                "lead called",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -67227,7 +66993,8 @@
             "tags": [
               "smc",
               "assigned to ferny",
-              "lead called"
+              "lead called",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -67293,7 +67060,8 @@
               "phone": "+12565084063",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -67306,7 +67074,8 @@
             "phone": "+12565084063",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -67373,7 +67142,8 @@
               "phone": "+923232311247",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -67386,7 +67156,8 @@
             "phone": "+923232311247",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -67463,7 +67234,8 @@
               "phone": "+13214435582",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -67476,7 +67248,8 @@
             "phone": "+13214435582",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -67551,7 +67324,8 @@
               "phone": "+16146000428",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -67564,7 +67338,8 @@
             "phone": "+16146000428",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -67630,7 +67405,8 @@
               "phone": "+36706001086",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -67643,7 +67419,8 @@
             "phone": "+36706001086",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -67710,7 +67487,8 @@
               "tags": [
                 "smc",
                 "keyword:social",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -67724,7 +67502,8 @@
             "tags": [
               "smc",
               "keyword:social",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -67787,7 +67566,8 @@
               "tags": [
                 "aa webby opt-in",
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -67801,7 +67581,8 @@
             "tags": [
               "aa webby opt-in",
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -67872,7 +67653,8 @@
               "tags": [
                 "stimulus package",
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -67886,7 +67668,8 @@
             "tags": [
               "stimulus package",
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -67955,7 +67738,8 @@
                 "bootcamp",
                 "wine not millionaire",
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -67970,7 +67754,8 @@
               "bootcamp",
               "wine not millionaire",
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -68036,7 +67821,8 @@
                 "bootcamp application",
                 "aa webby opt-in",
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -68052,7 +67838,8 @@
               "bootcamp application",
               "aa webby opt-in",
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -68119,7 +67906,8 @@
                 "fremm - kajabi",
                 "gbc social media - kajabi",
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -68136,7 +67924,8 @@
               "fremm - kajabi",
               "gbc social media - kajabi",
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -68208,7 +67997,8 @@
                 "keyword:social",
                 "assigned to ferny",
                 "niche-finder-paid",
-                "niche-finder"
+                "niche-finder",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -68225,7 +68015,8 @@
               "keyword:social",
               "assigned to ferny",
               "niche-finder-paid",
-              "niche-finder"
+              "niche-finder",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -68295,7 +68086,8 @@
                 "aa apply",
                 "re stimulus pkg",
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -68315,7 +68107,8 @@
               "aa apply",
               "re stimulus pkg",
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -68381,7 +68174,8 @@
                 "fremm - kajabi",
                 "re stimulus pkg",
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -68401,7 +68195,8 @@
               "fremm - kajabi",
               "re stimulus pkg",
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -68466,7 +68261,8 @@
                 "aa webby opt-in",
                 "general application",
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -68481,7 +68277,8 @@
               "aa webby opt-in",
               "general application",
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -68544,7 +68341,8 @@
                 "stimulus package",
                 "re stimulus pkg",
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -68559,7 +68357,8 @@
               "stimulus package",
               "re stimulus pkg",
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -68626,7 +68425,8 @@
                 "stimulus package",
                 "re stimulus pkg",
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -68643,7 +68443,8 @@
               "stimulus package",
               "re stimulus pkg",
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -68711,7 +68512,8 @@
                 "goget'em canceled",
                 "aa apply",
                 "aa call booked",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -68731,7 +68533,8 @@
               "goget'em canceled",
               "aa apply",
               "aa call booked",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -68791,7 +68594,8 @@
               "tags": [
                 "gbc webby opt-in",
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -68805,7 +68609,8 @@
             "tags": [
               "gbc webby opt-in",
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -68867,7 +68672,8 @@
               "tags": [
                 "aa apply",
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -68881,7 +68687,8 @@
             "tags": [
               "aa apply",
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -68946,7 +68753,8 @@
               "tags": [
                 "bootcamp application",
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -68960,7 +68768,8 @@
             "tags": [
               "bootcamp application",
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -69024,7 +68833,8 @@
                 "aa apply",
                 "aa call booked",
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -69039,7 +68849,8 @@
               "aa apply",
               "aa call booked",
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -69103,7 +68914,8 @@
                 "aa - kajabi",
                 "re stimulus pkg",
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -69119,7 +68931,8 @@
               "aa - kajabi",
               "re stimulus pkg",
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -69191,7 +69004,8 @@
                 "aa call booked",
                 "carol",
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -69208,7 +69022,8 @@
               "aa call booked",
               "carol",
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -69277,7 +69092,8 @@
               "tags": [
                 "smc",
                 "keyword:social",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -69291,7 +69107,8 @@
             "tags": [
               "smc",
               "keyword:social",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -69353,7 +69170,8 @@
               "phone": "+14802328614",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -69366,7 +69184,8 @@
             "phone": "+14802328614",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -69523,7 +69342,8 @@
               "phone": "+14843314275",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -69536,7 +69356,8 @@
             "phone": "+14843314275",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -69617,7 +69438,8 @@
               "phone": "+19122305115",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -69630,7 +69452,8 @@
             "phone": "+19122305115",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -69696,7 +69519,8 @@
               "phone": "+19736077191",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -69709,7 +69533,8 @@
             "phone": "+19736077191",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -69775,7 +69600,8 @@
               "phone": "+16785219231",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -69788,7 +69614,8 @@
             "phone": "+16785219231",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -69856,7 +69683,8 @@
               "phone": "+12489144118",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -69869,7 +69697,8 @@
             "phone": "+12489144118",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -69936,7 +69765,8 @@
               "phone": "+19412102062",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -69949,7 +69779,8 @@
             "phone": "+19412102062",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -70015,7 +69846,8 @@
               "phone": "+18312461956",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -70028,7 +69860,8 @@
             "phone": "+18312461956",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -70094,7 +69927,8 @@
               "phone": "+14049336818",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -70107,7 +69941,8 @@
             "phone": "+14049336818",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -70175,7 +70010,8 @@
               "phone": "+18185161964",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -70188,7 +70024,8 @@
             "phone": "+18185161964",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -70254,7 +70091,8 @@
               "phone": "+17035957827",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -70267,7 +70105,8 @@
             "phone": "+17035957827",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -70333,7 +70172,8 @@
               "phone": "+14084447221",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -70346,7 +70186,8 @@
             "phone": "+14084447221",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -70412,7 +70253,8 @@
               "phone": "+18327216306",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -70425,7 +70267,8 @@
             "phone": "+18327216306",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -70493,7 +70336,8 @@
               "phone": "+15163051799",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -70506,7 +70350,8 @@
             "phone": "+15163051799",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -70572,7 +70417,8 @@
               "phone": "+12314200231",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -70585,7 +70431,8 @@
             "phone": "+12314200231",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -70652,7 +70499,8 @@
               "phone": "+19412999007",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -70665,7 +70513,8 @@
             "phone": "+19412999007",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -70731,7 +70580,8 @@
               "phone": "+18097239878",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -70744,7 +70594,8 @@
             "phone": "+18097239878",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -70810,7 +70661,8 @@
               "phone": "+18034511633",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -70823,7 +70675,8 @@
             "phone": "+18034511633",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -70972,7 +70825,8 @@
               "phone": "+16023999710",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -70985,7 +70839,8 @@
             "phone": "+16023999710",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -71051,7 +70906,8 @@
               "phone": "+12083156244",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -71064,7 +70920,8 @@
             "phone": "+12083156244",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -71201,7 +71058,8 @@
               "phone": "+19145731922",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -71214,7 +71072,8 @@
             "phone": "+19145731922",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -71280,7 +71139,8 @@
               "phone": "+12393397117",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -71293,7 +71153,8 @@
             "phone": "+12393397117",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -71361,7 +71222,8 @@
               "phone": "+19105085754",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -71374,7 +71236,8 @@
             "phone": "+19105085754",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -71440,7 +71303,8 @@
               "phone": "+12088163469",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -71453,7 +71317,8 @@
             "phone": "+12088163469",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -71527,7 +71392,8 @@
               "phone": "+19315801145",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -71540,7 +71406,8 @@
             "phone": "+19315801145",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -71608,7 +71475,8 @@
               "phone": "+12143855685",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -71621,7 +71489,8 @@
             "phone": "+12143855685",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -71687,7 +71556,8 @@
               "phone": "+19192299308",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -71700,7 +71570,8 @@
             "phone": "+19192299308",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -71766,7 +71637,8 @@
               "phone": "+12152005138",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -71779,7 +71651,8 @@
             "phone": "+12152005138",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -71845,7 +71718,8 @@
               "phone": "+18438588152",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -71858,7 +71732,8 @@
             "phone": "+18438588152",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -71924,7 +71799,8 @@
               "phone": "+13144584704",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -71937,7 +71813,8 @@
             "phone": "+13144584704",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -72003,7 +71880,8 @@
               "phone": "+12606689417",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -72016,7 +71894,8 @@
             "phone": "+12606689417",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -72082,7 +71961,8 @@
               "phone": "+16122802646",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -72095,7 +71975,8 @@
             "phone": "+16122802646",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -72163,7 +72044,8 @@
               "phone": "+19492797211",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -72176,7 +72058,8 @@
             "phone": "+19492797211",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -72242,7 +72125,8 @@
               "phone": "+16514919061",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -72255,7 +72139,8 @@
             "phone": "+16514919061",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -72322,7 +72207,8 @@
               "tags": [
                 "smc",
                 "circle_waitlist",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -72336,7 +72222,8 @@
             "tags": [
               "smc",
               "circle_waitlist",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -72400,7 +72287,8 @@
               "phone": "+17049891538",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -72413,7 +72301,8 @@
             "phone": "+17049891538",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -72479,7 +72368,8 @@
               "phone": "+19103200830",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -72492,7 +72382,8 @@
             "phone": "+19103200830",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -72558,7 +72449,8 @@
               "phone": "+13164091221",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -72571,7 +72463,8 @@
             "phone": "+13164091221",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -72639,7 +72532,8 @@
               "phone": "+15402222100",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -72652,7 +72546,8 @@
             "phone": "+15402222100",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -72718,7 +72613,8 @@
               "phone": "+15187272457",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -72731,7 +72627,8 @@
             "phone": "+15187272457",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -72797,7 +72694,8 @@
               "phone": "+14023202756",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -72810,7 +72708,8 @@
             "phone": "+14023202756",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -72877,7 +72776,8 @@
               "phone": "+17329478328",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -72890,7 +72790,8 @@
             "phone": "+17329478328",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -72956,7 +72857,8 @@
               "phone": "+18505298081",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -72969,7 +72871,8 @@
             "phone": "+18505298081",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -73035,7 +72938,8 @@
               "phone": "+19148157657",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -73048,7 +72952,8 @@
             "phone": "+19148157657",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -73114,7 +73019,8 @@
               "phone": "+15306059218",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -73127,7 +73033,8 @@
             "phone": "+15306059218",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -73276,7 +73183,8 @@
               "phone": "+17874020322",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -73289,7 +73197,8 @@
             "phone": "+17874020322",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -73356,7 +73265,8 @@
               "tags": [
                 "smc",
                 "keyword:social",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -73370,7 +73280,8 @@
             "tags": [
               "smc",
               "keyword:social",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -73432,7 +73343,8 @@
               "phone": "+16235706954",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -73445,7 +73357,8 @@
             "phone": "+16235706954",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -73511,7 +73424,8 @@
               "phone": "+12019896949",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -73524,7 +73438,8 @@
             "phone": "+12019896949",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -73592,7 +73507,8 @@
               "phone": "+15094390045",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -73605,7 +73521,8 @@
             "phone": "+15094390045",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -73671,7 +73588,8 @@
               "phone": "+18013188770",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -73684,7 +73602,8 @@
             "phone": "+18013188770",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -73750,7 +73669,8 @@
               "phone": "+13463813908",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -73763,7 +73683,8 @@
             "phone": "+13463813908",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -73829,7 +73750,8 @@
               "phone": "+14406234811",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -73842,7 +73764,8 @@
             "phone": "+14406234811",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -73908,7 +73831,8 @@
               "phone": "+13139325330",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -73921,7 +73845,8 @@
             "phone": "+13139325330",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -73988,7 +73913,8 @@
               "tags": [
                 "smc",
                 "keyword:social",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -74002,7 +73928,8 @@
             "tags": [
               "smc",
               "keyword:social",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -74064,7 +73991,8 @@
               "phone": "+19252339061",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -74077,7 +74005,8 @@
             "phone": "+19252339061",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -74145,7 +74074,8 @@
               "phone": "+14077214146",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -74158,7 +74088,8 @@
             "phone": "+14077214146",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -74224,7 +74155,8 @@
               "phone": "+19095227426",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -74237,7 +74169,8 @@
             "phone": "+19095227426",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -74305,7 +74238,8 @@
               "tags": [
                 "smc",
                 "assigned to ferny",
-                "lead called"
+                "lead called",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -74319,7 +74253,8 @@
             "tags": [
               "smc",
               "assigned to ferny",
-              "lead called"
+              "lead called",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -74396,7 +74331,8 @@
               "phone": "+17272442680",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -74409,7 +74345,8 @@
             "phone": "+17272442680",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -74475,7 +74412,8 @@
               "phone": "+18135392085",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -74488,7 +74426,8 @@
             "phone": "+18135392085",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -74554,7 +74493,8 @@
               "phone": "+61401796091",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -74567,7 +74507,8 @@
             "phone": "+61401796091",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -74635,7 +74576,8 @@
               "phone": "+18434416272",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -74648,7 +74590,8 @@
             "phone": "+18434416272",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -74799,7 +74742,8 @@
               "phone": "+15124267108",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -74812,7 +74756,8 @@
             "phone": "+15124267108",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -74878,7 +74823,8 @@
               "phone": "+12514844698",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -74891,7 +74837,8 @@
             "phone": "+12514844698",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -74957,7 +74904,8 @@
               "phone": "+18132202970",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -74970,7 +74918,8 @@
             "phone": "+18132202970",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -75036,7 +74985,8 @@
               "phone": "+13122525652",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -75049,7 +74999,8 @@
             "phone": "+13122525652",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -75115,7 +75066,8 @@
               "phone": "+17047786387",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -75128,7 +75080,8 @@
             "phone": "+17047786387",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -75194,7 +75147,8 @@
               "phone": "+18027353924",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -75207,7 +75161,8 @@
             "phone": "+18027353924",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -75274,7 +75229,8 @@
               "tags": [
                 "smc",
                 "keyword:social",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -75288,7 +75244,8 @@
             "tags": [
               "smc",
               "keyword:social",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -75350,7 +75307,8 @@
               "phone": "+12569904860",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -75363,7 +75321,8 @@
             "phone": "+12569904860",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -75429,7 +75388,8 @@
               "phone": "+15742481110",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -75442,7 +75402,8 @@
             "phone": "+15742481110",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -75508,7 +75469,8 @@
               "phone": "+18182097171",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -75521,7 +75483,8 @@
             "phone": "+18182097171",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -75593,7 +75556,8 @@
               "phone": "+17347359249",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -75606,7 +75570,8 @@
             "phone": "+17347359249",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -75683,7 +75648,8 @@
               "phone": "+17274328878",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -75696,7 +75662,8 @@
             "phone": "+17274328878",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -75760,7 +75727,8 @@
               "phone": "+12089165001",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -75773,7 +75741,8 @@
             "phone": "+12089165001",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -75841,7 +75810,8 @@
               "phone": "+18139172992",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -75854,7 +75824,8 @@
             "phone": "+18139172992",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -75920,7 +75891,8 @@
               "phone": "+15514044347",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -75933,7 +75905,8 @@
             "phone": "+15514044347",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -76016,7 +75989,8 @@
               "phone": "+13124040580",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -76029,7 +76003,8 @@
             "phone": "+13124040580",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -76110,7 +76085,8 @@
               "phone": "+14438001676",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -76123,7 +76099,8 @@
             "phone": "+14438001676",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -76189,7 +76166,8 @@
               "phone": "+19418960270",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -76202,7 +76180,8 @@
             "phone": "+19418960270",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -76279,7 +76258,8 @@
               "phone": "+19106337041",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -76292,7 +76272,8 @@
             "phone": "+19106337041",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -76373,7 +76354,8 @@
               "phone": "+16138162651",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -76386,7 +76368,8 @@
             "phone": "+16138162651",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -76449,7 +76432,8 @@
               "phone": "+15627082145",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -76462,7 +76446,8 @@
             "phone": "+15627082145",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -76541,7 +76526,8 @@
               "phone": "+13018751284",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -76554,7 +76540,8 @@
             "phone": "+13018751284",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -76637,7 +76624,8 @@
               "phone": "+18016877788",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -76650,7 +76638,8 @@
             "phone": "+18016877788",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -76731,7 +76720,8 @@
               "phone": "+15026041008",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -76744,7 +76734,8 @@
             "phone": "+15026041008",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -76812,7 +76803,8 @@
               "phone": "+19493329880",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -76825,7 +76817,8 @@
             "phone": "+19493329880",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -76985,7 +76978,8 @@
               "phone": "+16133051586",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -76998,7 +76992,8 @@
             "phone": "+16133051586",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -77077,7 +77072,8 @@
               "phone": "+33627782167",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -77090,7 +77086,8 @@
             "phone": "+33627782167",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -77158,7 +77155,8 @@
               "phone": "+12086164083",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -77171,7 +77169,8 @@
             "phone": "+12086164083",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -77235,7 +77234,8 @@
               "phone": "+17633070639",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -77248,7 +77248,8 @@
             "phone": "+17633070639",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -77314,7 +77315,8 @@
               "phone": "+13302723700",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -77327,7 +77329,8 @@
             "phone": "+13302723700",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -77393,7 +77396,8 @@
               "phone": "+13473342185",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -77406,7 +77410,8 @@
             "phone": "+13473342185",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -77472,7 +77477,8 @@
               "phone": "+17727770394",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -77485,7 +77491,8 @@
             "phone": "+17727770394",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -77565,7 +77572,8 @@
               "phone": "+14102066263",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -77578,7 +77586,8 @@
             "phone": "+14102066263",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -77659,7 +77668,8 @@
               "phone": "+15618007520",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -77672,7 +77682,8 @@
             "phone": "+15618007520",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -77755,7 +77766,8 @@
                 "smc",
                 "keyword:social",
                 "sales: booked appointment",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -77770,7 +77782,8 @@
               "smc",
               "keyword:social",
               "sales: booked appointment",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -77832,7 +77845,8 @@
               "phone": "+13607985773",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -77845,7 +77859,8 @@
             "phone": "+13607985773",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -77926,7 +77941,8 @@
               "phone": "+14127704344",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -77939,7 +77955,8 @@
             "phone": "+14127704344",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -78020,7 +78037,8 @@
               "phone": "+12409190573",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -78033,7 +78051,8 @@
             "phone": "+12409190573",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -78103,7 +78122,8 @@
               "phone": "+12193088168",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -78116,7 +78136,8 @@
             "phone": "+12193088168",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -78196,7 +78217,8 @@
               "phone": "+13219601676",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -78209,7 +78231,8 @@
             "phone": "+13219601676",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -78288,7 +78311,8 @@
               "phone": "+13163700402",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -78301,7 +78325,8 @@
             "phone": "+13163700402",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -78380,7 +78405,8 @@
               "phone": "+12244323547",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -78393,7 +78419,8 @@
             "phone": "+12244323547",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -78472,7 +78499,8 @@
               "phone": "+14146149052",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -78485,7 +78513,8 @@
             "phone": "+14146149052",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -78551,7 +78580,8 @@
               "phone": "+13868641388",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -78564,7 +78594,8 @@
             "phone": "+13868641388",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -78632,7 +78663,8 @@
               "phone": "+13149153014",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -78645,7 +78677,8 @@
             "phone": "+13149153014",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -78711,7 +78744,8 @@
               "phone": "+19255773902",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -78724,7 +78758,8 @@
             "phone": "+19255773902",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -78805,7 +78840,8 @@
               "phone": "+15808890679",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -78818,7 +78854,8 @@
             "phone": "+15808890679",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -78899,7 +78936,8 @@
               "phone": "+15043881739",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -78912,7 +78950,8 @@
             "phone": "+15043881739",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -78995,7 +79034,8 @@
               "phone": "+12482553899",
               "tags": [
                 "smc",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -79008,7 +79048,8 @@
             "phone": "+12482553899",
             "tags": [
               "smc",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -79074,7 +79115,8 @@
               "tags": [
                 "smc",
                 "keyword:social",
-                "assigned to ferny"
+                "assigned to ferny",
+                "ggtc-revive-oct26"
               ],
               "attributed": true
             }
@@ -79088,7 +79130,8 @@
             "tags": [
               "smc",
               "keyword:social",
-              "assigned to ferny"
+              "assigned to ferny",
+              "ggtc-revive-oct26"
             ],
             "score": []
           },
@@ -79290,183 +79333,1003 @@
       ],
       "conversationsAll": [
         {
-          "id": "sLmWnRXhvhXvU0LlmY20",
-          "lastMessageDate": 1792590329251,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "kJSieuKNSVTaYROkzh0D",
-          "lastMessageDate": 1792590326106,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "SKrS5R4VQtp86Jlp9KnF",
-          "lastMessageDate": 1792590325913,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "uWSWZCvYXV7TvcguK9jH",
-          "lastMessageDate": 1792590325307,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "HS9GFcdqfEyV4myBBEcW",
-          "lastMessageDate": 1792580756038,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "NHt6fKBJPTCqF3boaaNY",
-          "lastMessageDate": 1792532377701,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "SIYkNu0CtU4eJC5Kbo7j",
-          "lastMessageDate": 1792261557518,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "IQk8OxB7HW0S9Cir2U84",
-          "lastMessageDate": 1792239110688,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "lxETiUCZ8R5zx4pVuATz",
-          "lastMessageDate": 1792239020983,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "ptaMvVokq0wxjlFCpwfE",
-          "lastMessageDate": 1792200699361,
-          "type": "TYPE_PHONE"
-        },
-        {
           "id": "Ks9ffTZ6wodkBcgJi9xE",
-          "lastMessageDate": 1792086422833,
+          "lastMessageDate": 1792691225070,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "DWeq0gjH1R08vd7UvDnB",
-          "lastMessageDate": 1792002756653,
+          "id": "dEssopU9Fkf1Y7T36cbo",
+          "lastMessageDate": 1792689407466,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "urrvHjPTkU7U4NdrJjGS",
-          "lastMessageDate": 1792002611925,
+          "id": "uBRc368BtMI74o0W1wye",
+          "lastMessageDate": 1792689024149,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "CitPYtzKjfsBLiEEsat6",
+          "lastMessageDate": 1792687714072,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "CPBCgBCHRPYTXdFqCLSL",
+          "lastMessageDate": 1792687242462,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "7hmkhmseqWa9RcgCEy0B",
+          "lastMessageDate": 1792686022994,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "6RT48PiV3MBjQUtuTiyA",
+          "lastMessageDate": 1792685877033,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "ceZJKvgdHa6MYOizMvWF",
+          "lastMessageDate": 1792685767126,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "1Nw1SXy8ZWAPo4pxrOJT",
+          "lastMessageDate": 1792685689680,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "r6S31fSkgcPbFPbdWKlf",
+          "lastMessageDate": 1792685518670,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "lfruIhcowLssBZqRtRfF",
+          "lastMessageDate": 1792685516556,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "kGYpGur416jA5p5SGC9L",
+          "lastMessageDate": 1792685463887,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "1JvMEyPJh4hnmfZkywlW",
+          "lastMessageDate": 1792685457830,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "cOdPnubL1snryM8XlobC",
+          "lastMessageDate": 1792685456821,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "MHg9RLdVUoxkdqp3VGAd",
+          "lastMessageDate": 1792685444098,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "WQR5R0SayCivf0JLhtTI",
+          "lastMessageDate": 1792685442147,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "BlzcdaIgt0thULY5RwNF",
+          "lastMessageDate": 1792685441067,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "ZB4MoisPHeWg5bJgLVf7",
+          "lastMessageDate": 1792685440973,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "On3iVRKROoFtH6NJcpkL",
+          "lastMessageDate": 1792685440183,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "qXEWHA43wWM8xXCxcYyB",
+          "lastMessageDate": 1792685440092,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "xKMpvMvMnwgmWM11ydJm",
+          "lastMessageDate": 1792685440054,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "fGNTTrZxOk9sD0CIM1cM",
+          "lastMessageDate": 1792685440048,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "d37gt9hYcihBnuHUJc5Y",
+          "lastMessageDate": 1792685439611,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "h1nxlvCSHZ6yHwa0pnuU",
+          "lastMessageDate": 1792685439598,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "rWefIm0io4fsFQTm6rsw",
+          "lastMessageDate": 1792685439480,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "T3S3ry3rCrbuFFvn3Zg6",
+          "lastMessageDate": 1792685439364,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "wk2wY0uRdeASgghlTu7X",
+          "lastMessageDate": 1792685438295,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "cRjCz26997CG07yLy5Sk",
+          "lastMessageDate": 1792685437754,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "Arj0zE8gGJUMFVLgtTn0",
+          "lastMessageDate": 1792685437656,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "cPVnxGS1xdCba3Kizamh",
+          "lastMessageDate": 1792685436866,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "mWrZHPzfSx1o9lrl1paz",
+          "lastMessageDate": 1792685435912,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "ZprxcD3FN3g0DJt6p6wI",
+          "lastMessageDate": 1792685435903,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "816gLKitqASZiOgzdWM6",
+          "lastMessageDate": 1792685435760,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "DRzBWLeeLFdAJyxWxf8Q",
+          "lastMessageDate": 1792685435724,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "N2uydFYDAXgN6wwgTLU9",
+          "lastMessageDate": 1792685435574,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "GAcPSkQgmFOolmKXwgKf",
+          "lastMessageDate": 1792685435568,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "hJzS2z1MRwfDZI4VBtdI",
+          "lastMessageDate": 1792685435291,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "tub3NjkFoilWa6mJ0C9O",
+          "lastMessageDate": 1792685435243,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "KcIP6cd2hEjderZnrJxp",
+          "lastMessageDate": 1792685435220,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "OMVsMBiJcQVHrN83P5Hz",
+          "lastMessageDate": 1792685435189,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "VWOZ54BoXUDZZYXyGMr7",
+          "lastMessageDate": 1792685435148,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "mr6tKqER2Li1RBdqt5mx",
+          "lastMessageDate": 1792685434850,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "G1l8f6RXJZlPC5mpR4hF",
+          "lastMessageDate": 1792685434803,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "wBgKKBNRxBn4mYKj2QVS",
+          "lastMessageDate": 1792685434726,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "SQsi0xEsFVkgYWAmvlZR",
+          "lastMessageDate": 1792685434597,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "NlMP3IFKanWN9H6UNenB",
+          "lastMessageDate": 1792685434288,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "KF0ws2i3Pd4TX5u0bTcb",
+          "lastMessageDate": 1792685433848,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "NfmJKVdAPeig1ZPyerCn",
+          "lastMessageDate": 1792685433598,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "Ih25a42D7dOB8Mch9a93",
+          "lastMessageDate": 1792685433387,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "Y8mmv63hWqLBlBQbzgeO",
+          "lastMessageDate": 1792685433319,
           "type": "TYPE_PHONE"
         },
         {
           "id": "ewgQdxysAGoMkyrbB97T",
-          "lastMessageDate": 1791569248800,
+          "lastMessageDate": 1792685433286,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "nU1OwZTJ3dOFlPUA3XQA",
-          "lastMessageDate": 1791534956382,
+          "id": "lKejUoGJVBQcFGjHDcsE",
+          "lastMessageDate": 1792685433117,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "7k1pN7AeYCuapt9CpI0e",
-          "lastMessageDate": 1791507723923,
+          "id": "P5oNsRLkjADkqN1p1gW2",
+          "lastMessageDate": 1792685433051,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "o8YrTxvwWptPRw0Sz62A",
+          "lastMessageDate": 1792685432959,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "ERwBFcZMdpBt7jvp0VY7",
+          "lastMessageDate": 1792685432757,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "sS647GthK0STX6ebohHt",
+          "lastMessageDate": 1792685432356,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "ZBIes5vUP41bAry7P35D",
+          "lastMessageDate": 1792685432319,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "cCbOoWVXone5mXy4FzQ7",
+          "lastMessageDate": 1792685432278,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "lUEdkn0n9NUnWyzGFrDo",
+          "lastMessageDate": 1792685432112,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "2St5Xjqmh12aaTDr366n",
+          "lastMessageDate": 1792685432091,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "l1KKaaLNFxsGd7SnJDhx",
+          "lastMessageDate": 1792685432070,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "BSyDAdcDiWS1ffeQVajF",
+          "lastMessageDate": 1792685432055,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "Od78NVrWDXEbqEZvKuSC",
+          "lastMessageDate": 1792685432010,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "4rSJHmH3gWzuWqC60FHz",
+          "lastMessageDate": 1792685431938,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "OqE0clUwuw12IZFs9hh4",
+          "lastMessageDate": 1792685431861,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "M7NLsbrAbbzz5REfdsEi",
+          "lastMessageDate": 1792685431846,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "AiWvcLdmtmOKSVdrLqM5",
+          "lastMessageDate": 1792685431810,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "eFUazMBpVFfI0IyhVAAU",
+          "lastMessageDate": 1792685431790,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "lFuAqX0B8dYiG9yXvMdp",
+          "lastMessageDate": 1792685431768,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "vIrhzbbQPJY5Zvxnvx0T",
+          "lastMessageDate": 1792685431762,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "4pFYmS6bTw8bfta9L5GL",
+          "lastMessageDate": 1792685431717,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "T6wQUs9h0OIv8WKiyj3I",
+          "lastMessageDate": 1792685431664,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "OQQ827eCNWAO0OdcqlPx",
+          "lastMessageDate": 1792685431634,
           "type": "TYPE_PHONE"
         },
         {
           "id": "3yR6Y2EBfRpn2XfUagw4",
-          "lastMessageDate": 1791205288818,
+          "lastMessageDate": 1792685431611,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "zmU7bZCAnjvQNkWBdEM1",
-          "lastMessageDate": 1791201306140,
+          "id": "2WoZlGSmcsqePduaD75q",
+          "lastMessageDate": 1792685431593,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "rYZB2NbTOoUKBFi9uHjh",
-          "lastMessageDate": 1790130792971,
+          "id": "ehAkWeeNMhJ5bFXyCb0e",
+          "lastMessageDate": 1792685431473,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "bKSvdxzMMgvg0H3EKlYf",
-          "lastMessageDate": 1789578484600,
+          "id": "Sh2vwi4qqYcgQGZCxNI3",
+          "lastMessageDate": 1792685431372,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "rPqr6pLHdVCtIgDvXrVO",
-          "lastMessageDate": 1789149187860,
+          "id": "gtnQUhuAICrLUcqLM8Cm",
+          "lastMessageDate": 1792685431310,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "Uy8Y0tEhAUCGhMxpeBQf",
-          "lastMessageDate": 1788790679608,
+          "id": "PCVHc5b2LUufyoWCOdtj",
+          "lastMessageDate": 1792685431303,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "joel5AcrkpNNXyYokuWk",
-          "lastMessageDate": 1788735822123,
+          "id": "T7bgwFdmOjqK0FiydcaI",
+          "lastMessageDate": 1792685431290,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "eW3wS3yVAJRFXQEj9YwC",
-          "lastMessageDate": 1788184393682,
+          "id": "gkpPHteUzTn5N85Wq8o3",
+          "lastMessageDate": 1792685431283,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "ixTWgtRFQGu1C2p3geKU",
-          "lastMessageDate": 1787343252770,
+          "id": "7bHrnJKT7keteaiYHfcF",
+          "lastMessageDate": 1792685431278,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "aqZyfZqjeZXqvVcF8JM4",
-          "lastMessageDate": 1787253195574,
+          "id": "otEYJyl5GJbnXjBiUUxK",
+          "lastMessageDate": 1792685431275,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "DeT4Lea8OvIL2HkFa5mG",
-          "lastMessageDate": 1787252906267,
+          "id": "Hy9JygBLICPcxlqMpbY9",
+          "lastMessageDate": 1792685431266,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "qnXFtrmo0pzxZmlSE7eB",
-          "lastMessageDate": 1787252864301,
+          "id": "IfhyYRTdEdFlvHH9ARhE",
+          "lastMessageDate": 1792685431264,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "0JEEXKg9VPCQ7bDIOPk8",
-          "lastMessageDate": 1786730929510,
+          "id": "wR8CPAGT3Sqwloed4Kb8",
+          "lastMessageDate": 1792685431139,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "nHDtIekpX5M3R7b0gcJX",
-          "lastMessageDate": 1786615887857,
+          "id": "3H5BI9yQFbsJoZtqABqK",
+          "lastMessageDate": 1792685431114,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "ADaWvmYMVSyWANSQNeK6",
-          "lastMessageDate": 1786118562883,
+          "id": "OFcBqyzyerADHqkMv7Fb",
+          "lastMessageDate": 1792685431086,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "9fRpEFAjNWWjLbh8Y8e1",
-          "lastMessageDate": 1785525880843,
+          "id": "HWYNeXOPATrGS62g6c7p",
+          "lastMessageDate": 1792685431083,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "O5edgDN0VHepyMHOQeIY",
-          "lastMessageDate": 1785525596309,
+          "id": "mI7ps3yrYpcGlXluA7Gc",
+          "lastMessageDate": 1792685431050,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "FF7TCufs2qh2knvUB0UI",
-          "lastMessageDate": 1785374708183,
+          "id": "DYojC04EGlJaqQm8y4e1",
+          "lastMessageDate": 1792685431046,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "wgrsHxuNZXemkBtnFYQF",
+          "lastMessageDate": 1792685430917,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "AdYT6Ey25gjhDUOL1DCE",
+          "lastMessageDate": 1792685430850,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "1CMWsbO9GYcY9gppX06N",
+          "lastMessageDate": 1792685430791,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "hkvIpctF3I1LQTw9mUv9",
+          "lastMessageDate": 1792685430785,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "IYxrzYrYi3vBHkPI0lgF",
+          "lastMessageDate": 1792685430751,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "jrdxD1qScEe4gqO2wHn9",
+          "lastMessageDate": 1792685430714,
           "type": "TYPE_PHONE"
         },
         {
           "id": "m8eCy5pSMdar9PcmT2Ls",
-          "lastMessageDate": 1785339358552,
+          "lastMessageDate": 1792685430713,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "MCKsrrDyNsKWJGrHJseI",
-          "lastMessageDate": 1785338724291,
+          "id": "pYCyezUl0mCYXrCeLyhU",
+          "lastMessageDate": 1792685430691,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "OJybw4iXHl48Z2GqkWhf",
+          "lastMessageDate": 1792685430648,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "Ks9ffTZ6wodkBcgJi9xE",
+          "lastMessageDate": 1792691225070,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "dEssopU9Fkf1Y7T36cbo",
+          "lastMessageDate": 1792689407466,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "uBRc368BtMI74o0W1wye",
+          "lastMessageDate": 1792689024149,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "CitPYtzKjfsBLiEEsat6",
+          "lastMessageDate": 1792687714072,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "CPBCgBCHRPYTXdFqCLSL",
+          "lastMessageDate": 1792687242462,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "7hmkhmseqWa9RcgCEy0B",
+          "lastMessageDate": 1792686022994,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "6RT48PiV3MBjQUtuTiyA",
+          "lastMessageDate": 1792685877033,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "ceZJKvgdHa6MYOizMvWF",
+          "lastMessageDate": 1792685767126,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "1Nw1SXy8ZWAPo4pxrOJT",
+          "lastMessageDate": 1792685689680,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "r6S31fSkgcPbFPbdWKlf",
+          "lastMessageDate": 1792685518670,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "lfruIhcowLssBZqRtRfF",
+          "lastMessageDate": 1792685516556,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "kGYpGur416jA5p5SGC9L",
+          "lastMessageDate": 1792685463887,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "1JvMEyPJh4hnmfZkywlW",
+          "lastMessageDate": 1792685457830,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "cOdPnubL1snryM8XlobC",
+          "lastMessageDate": 1792685456821,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "MHg9RLdVUoxkdqp3VGAd",
+          "lastMessageDate": 1792685444098,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "WQR5R0SayCivf0JLhtTI",
+          "lastMessageDate": 1792685442147,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "BlzcdaIgt0thULY5RwNF",
+          "lastMessageDate": 1792685441067,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "ZB4MoisPHeWg5bJgLVf7",
+          "lastMessageDate": 1792685440973,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "On3iVRKROoFtH6NJcpkL",
+          "lastMessageDate": 1792685440183,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "qXEWHA43wWM8xXCxcYyB",
+          "lastMessageDate": 1792685440092,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "xKMpvMvMnwgmWM11ydJm",
+          "lastMessageDate": 1792685440054,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "fGNTTrZxOk9sD0CIM1cM",
+          "lastMessageDate": 1792685440048,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "d37gt9hYcihBnuHUJc5Y",
+          "lastMessageDate": 1792685439611,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "h1nxlvCSHZ6yHwa0pnuU",
+          "lastMessageDate": 1792685439598,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "rWefIm0io4fsFQTm6rsw",
+          "lastMessageDate": 1792685439480,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "T3S3ry3rCrbuFFvn3Zg6",
+          "lastMessageDate": 1792685439364,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "wk2wY0uRdeASgghlTu7X",
+          "lastMessageDate": 1792685438295,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "cRjCz26997CG07yLy5Sk",
+          "lastMessageDate": 1792685437754,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "Arj0zE8gGJUMFVLgtTn0",
+          "lastMessageDate": 1792685437656,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "cPVnxGS1xdCba3Kizamh",
+          "lastMessageDate": 1792685436866,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "mWrZHPzfSx1o9lrl1paz",
+          "lastMessageDate": 1792685435912,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "ZprxcD3FN3g0DJt6p6wI",
+          "lastMessageDate": 1792685435903,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "816gLKitqASZiOgzdWM6",
+          "lastMessageDate": 1792685435760,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "DRzBWLeeLFdAJyxWxf8Q",
+          "lastMessageDate": 1792685435724,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "N2uydFYDAXgN6wwgTLU9",
+          "lastMessageDate": 1792685435574,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "GAcPSkQgmFOolmKXwgKf",
+          "lastMessageDate": 1792685435568,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "hJzS2z1MRwfDZI4VBtdI",
+          "lastMessageDate": 1792685435291,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "tub3NjkFoilWa6mJ0C9O",
+          "lastMessageDate": 1792685435243,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "KcIP6cd2hEjderZnrJxp",
+          "lastMessageDate": 1792685435220,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "OMVsMBiJcQVHrN83P5Hz",
+          "lastMessageDate": 1792685435189,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "VWOZ54BoXUDZZYXyGMr7",
+          "lastMessageDate": 1792685435148,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "mr6tKqER2Li1RBdqt5mx",
+          "lastMessageDate": 1792685434850,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "G1l8f6RXJZlPC5mpR4hF",
+          "lastMessageDate": 1792685434803,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "wBgKKBNRxBn4mYKj2QVS",
+          "lastMessageDate": 1792685434726,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "SQsi0xEsFVkgYWAmvlZR",
+          "lastMessageDate": 1792685434597,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "NlMP3IFKanWN9H6UNenB",
+          "lastMessageDate": 1792685434288,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "KF0ws2i3Pd4TX5u0bTcb",
+          "lastMessageDate": 1792685433848,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "NfmJKVdAPeig1ZPyerCn",
+          "lastMessageDate": 1792685433598,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "Ih25a42D7dOB8Mch9a93",
+          "lastMessageDate": 1792685433387,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "Y8mmv63hWqLBlBQbzgeO",
+          "lastMessageDate": 1792685433319,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "ewgQdxysAGoMkyrbB97T",
+          "lastMessageDate": 1792685433286,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "lKejUoGJVBQcFGjHDcsE",
+          "lastMessageDate": 1792685433117,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "P5oNsRLkjADkqN1p1gW2",
+          "lastMessageDate": 1792685433051,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "o8YrTxvwWptPRw0Sz62A",
+          "lastMessageDate": 1792685432959,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "ERwBFcZMdpBt7jvp0VY7",
+          "lastMessageDate": 1792685432757,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "sS647GthK0STX6ebohHt",
+          "lastMessageDate": 1792685432356,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "ZBIes5vUP41bAry7P35D",
+          "lastMessageDate": 1792685432319,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "cCbOoWVXone5mXy4FzQ7",
+          "lastMessageDate": 1792685432278,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "lUEdkn0n9NUnWyzGFrDo",
+          "lastMessageDate": 1792685432112,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "2St5Xjqmh12aaTDr366n",
+          "lastMessageDate": 1792685432091,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "l1KKaaLNFxsGd7SnJDhx",
+          "lastMessageDate": 1792685432070,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "BSyDAdcDiWS1ffeQVajF",
+          "lastMessageDate": 1792685432055,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "Od78NVrWDXEbqEZvKuSC",
+          "lastMessageDate": 1792685432010,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "4rSJHmH3gWzuWqC60FHz",
+          "lastMessageDate": 1792685431938,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "OqE0clUwuw12IZFs9hh4",
+          "lastMessageDate": 1792685431861,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "M7NLsbrAbbzz5REfdsEi",
+          "lastMessageDate": 1792685431846,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "AiWvcLdmtmOKSVdrLqM5",
+          "lastMessageDate": 1792685431810,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "eFUazMBpVFfI0IyhVAAU",
+          "lastMessageDate": 1792685431790,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "lFuAqX0B8dYiG9yXvMdp",
+          "lastMessageDate": 1792685431768,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "vIrhzbbQPJY5Zvxnvx0T",
+          "lastMessageDate": 1792685431762,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "4pFYmS6bTw8bfta9L5GL",
+          "lastMessageDate": 1792685431717,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "T6wQUs9h0OIv8WKiyj3I",
+          "lastMessageDate": 1792685431664,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "OQQ827eCNWAO0OdcqlPx",
+          "lastMessageDate": 1792685431634,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "3yR6Y2EBfRpn2XfUagw4",
+          "lastMessageDate": 1792685431611,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "2WoZlGSmcsqePduaD75q",
+          "lastMessageDate": 1792685431593,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "ehAkWeeNMhJ5bFXyCb0e",
+          "lastMessageDate": 1792685431473,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "Sh2vwi4qqYcgQGZCxNI3",
+          "lastMessageDate": 1792685431372,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "gtnQUhuAICrLUcqLM8Cm",
+          "lastMessageDate": 1792685431310,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "PCVHc5b2LUufyoWCOdtj",
+          "lastMessageDate": 1792685431303,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "T7bgwFdmOjqK0FiydcaI",
+          "lastMessageDate": 1792685431290,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "gkpPHteUzTn5N85Wq8o3",
+          "lastMessageDate": 1792685431283,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "7bHrnJKT7keteaiYHfcF",
+          "lastMessageDate": 1792685431278,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "otEYJyl5GJbnXjBiUUxK",
+          "lastMessageDate": 1792685431275,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "Hy9JygBLICPcxlqMpbY9",
+          "lastMessageDate": 1792685431266,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "IfhyYRTdEdFlvHH9ARhE",
+          "lastMessageDate": 1792685431264,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "wR8CPAGT3Sqwloed4Kb8",
+          "lastMessageDate": 1792685431139,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "3H5BI9yQFbsJoZtqABqK",
+          "lastMessageDate": 1792685431114,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "OFcBqyzyerADHqkMv7Fb",
+          "lastMessageDate": 1792685431086,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "HWYNeXOPATrGS62g6c7p",
+          "lastMessageDate": 1792685431083,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "mI7ps3yrYpcGlXluA7Gc",
+          "lastMessageDate": 1792685431050,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "DYojC04EGlJaqQm8y4e1",
+          "lastMessageDate": 1792685431046,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "wgrsHxuNZXemkBtnFYQF",
+          "lastMessageDate": 1792685430917,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "AdYT6Ey25gjhDUOL1DCE",
+          "lastMessageDate": 1792685430850,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "1CMWsbO9GYcY9gppX06N",
+          "lastMessageDate": 1792685430791,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "hkvIpctF3I1LQTw9mUv9",
+          "lastMessageDate": 1792685430785,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "IYxrzYrYi3vBHkPI0lgF",
+          "lastMessageDate": 1792685430751,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "jrdxD1qScEe4gqO2wHn9",
+          "lastMessageDate": 1792685430714,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "m8eCy5pSMdar9PcmT2Ls",
+          "lastMessageDate": 1792685430713,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "pYCyezUl0mCYXrCeLyhU",
+          "lastMessageDate": 1792685430691,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "OJybw4iXHl48Z2GqkWhf",
+          "lastMessageDate": 1792685430648,
           "type": "TYPE_PHONE"
         }
       ]
