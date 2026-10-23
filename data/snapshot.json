@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-23T01:19:20.569Z",
+  "syncedAt": "2026-10-23T07:06:46.602Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -16361,7 +16361,8 @@
                 "assigned to natalia",
                 "lead called",
                 "sales: no show",
-                "new lead"
+                "new lead",
+                "blocker quiz"
               ],
               "attributed": true
             }
@@ -16383,7 +16384,8 @@
               "assigned to natalia",
               "lead called",
               "sales: no show",
-              "new lead"
+              "new lead",
+              "blocker quiz"
             ],
             "score": []
           },
@@ -53976,10 +53978,10 @@
     "Z6C8jEN8ccsSWv70qBr1": {
       "calls": 10,
       "talkTimeMinutes": 23,
-      "manualSms": 6,
-      "autoSms": 214,
-      "manualEmail": 6,
-      "autoEmail": 1588,
+      "manualSms": 18,
+      "autoSms": 212,
+      "manualEmail": 12,
+      "autoEmail": 1540,
       "byDay": [
         {
           "date": "2026-04-21",
@@ -54003,7 +54005,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 64
+          "autoEmail": 60
         },
         {
           "date": "2026-04-28",
@@ -54027,7 +54029,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 170
+          "autoEmail": 166
         },
         {
           "date": "2026-05-05",
@@ -54035,7 +54037,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 174
+          "autoEmail": 170
         },
         {
           "date": "2026-05-08",
@@ -54051,7 +54053,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 170
+          "autoEmail": 166
         },
         {
           "date": "2026-05-12",
@@ -54067,7 +54069,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 174
+          "autoEmail": 170
         },
         {
           "date": "2026-05-18",
@@ -54075,7 +54077,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 168
+          "autoEmail": 164
         },
         {
           "date": "2026-05-21",
@@ -54083,7 +54085,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 170
+          "autoEmail": 166
         },
         {
           "date": "2026-05-22",
@@ -54107,7 +54109,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 170
+          "autoEmail": 166
         },
         {
           "date": "2026-05-29",
@@ -54115,7 +54117,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 170
+          "autoEmail": 166
         },
         {
           "date": "2026-06-02",
@@ -54128,61 +54130,21 @@
         {
           "date": "2026-06-18",
           "calls": 0,
-          "manualSms": 2,
+          "manualSms": 8,
           "autoSms": 0,
-          "manualEmail": 0,
+          "manualEmail": 4,
           "autoEmail": 2
         },
         {
-          "date": "2026-06-22",
+          "date": "2026-06-19",
           "calls": 0,
-          "manualSms": 0,
+          "manualSms": 6,
           "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 2
-        },
-        {
-          "date": "2026-06-23",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 2
-        },
-        {
-          "date": "2026-06-24",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 2
+          "manualEmail": 2,
+          "autoEmail": 0
         },
         {
           "date": "2026-06-25",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 2
-        },
-        {
-          "date": "2026-06-26",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 2
-        },
-        {
-          "date": "2026-06-28",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 2
-        },
-        {
-          "date": "2026-06-30",
           "calls": 0,
           "manualSms": 0,
           "autoSms": 0,
@@ -54425,12 +54387,102 @@
           "date": "2026-10-22",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 194,
+          "autoSms": 192,
           "manualEmail": 0,
           "autoEmail": 6
         }
       ],
       "opportunities": [
+        {
+          "id": "klvcxsquoZh8Bl48qGjO",
+          "name": "Yashmit Gutierrez",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "80949724-7894-4a42-8028-746a06208f9e",
+          "pipelineStageUId": "80949724-7894-4a42-8028-746a06208f9e",
+          "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
+          "status": "open",
+          "source": "[[source]]",
+          "lastStatusChangeAt": "2026-10-23T01:26:13.853Z",
+          "lastStageChangeAt": "2026-10-23T01:27:19.016Z",
+          "createdAt": "2026-10-23T01:26:13.853Z",
+          "updatedAt": "2026-10-23T01:27:19.074Z",
+          "forecastProbability": null,
+          "effectiveProbability": 25,
+          "contactId": "5ekDe4R4Jndlo23MRJus",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "klvcxsquoZh8Bl48qGjO",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "5ekDe4R4Jndlo23MRJus",
+              "fullName": "Yashmit Gutierrez",
+              "contactName": "Yashmit Gutierrez",
+              "companyName": null,
+              "email": "elitebyyashmit@gmail.com",
+              "phone": "+14077065274",
+              "tags": [
+                "circle_waitlist",
+                "clarity_call_approved",
+                "keyword:social",
+                "blocker quiz",
+                "new lead",
+                "assigned to ferny"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "5ekDe4R4Jndlo23MRJus",
+            "name": "Yashmit Gutierrez",
+            "companyName": null,
+            "email": "elitebyyashmit@gmail.com",
+            "phone": "+14077065274",
+            "tags": [
+              "circle_waitlist",
+              "clarity_call_approved",
+              "keyword:social",
+              "blocker quiz",
+              "new lead",
+              "assigned to ferny"
+            ],
+            "score": []
+          },
+          "sort": [
+            1792718773853,
+            "klvcxsquoZh8Bl48qGjO"
+          ],
+          "attributions": [
+            {
+              "pageUrl": "https://api.leadconnectorhq.com/widget/form/fo3bDO5t2wIs7TgF8m6m",
+              "referrer": "https://gogobethke.com",
+              "utmSessionSource": "Referral",
+              "ip": "2603:9001:48f0:6bd0:4948:9a92:f877:e95",
+              "isFirst": true,
+              "medium": "form",
+              "mediumId": "fo3bDO5t2wIs7TgF8m6m",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22D72 Instagram 373.0.0.27.70 (iPhone15,3; iOS 18_3_1; en_US; en; scale=3.00; 1290x2796; 711772837; IABMV/1)",
+              "url": "https://api.leadconnectorhq.com/widget/form/fo3bDO5t2wIs7TgF8m6m"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/growth-blocker.html?utm_source=manychat&mcp_token=eyJwaWQiOjE2OTQ4NTIzNjQ0NTU3Nywic2lkIjoxMDQ4ODI5MjQsImF4IjoiZjIzZWZiZWM0ZjFhYTE1MzhhMGVmODk0ZmJlMDRhZjUiLCJ0cyI6MTc5MjcxODE0NiwiZXhwIjoxNzk1MTM3MzQ2fQ.XhoEziXzB4-DaJbZ7QKo5C_8lPoQqUgTnRJHafV6pRk",
+              "referrer": "https://instagram.com",
+              "utmSessionSource": "Social media",
+              "isLast": true,
+              "ip": "71.214.195.22",
+              "medium": "form",
+              "mediumId": "muiUniGFhCNqBm9Ak62g",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23G83 Instagram 452.0.1.39.54 (iPhone18,2; iOS 26_6_1; en_US; en; scale=3.00; 1320x2868; IABMV/1; 1093431980) Safari/604.1",
+              "url": "https://gogetemcommunity.com/growth-blocker.html",
+              "utmSource": "manychat"
+            }
+          ]
+        },
         {
           "id": "qh4Y54SoMaeiMZFCdpSi",
           "name": "Kortney Leavitt",
@@ -79626,6 +79678,16 @@
       ],
       "conversationsAll": [
         {
+          "id": "FF7TCufs2qh2knvUB0UI",
+          "lastMessageDate": 1792734743550,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "Qy4fa1mlDBdGV0LKTJWN",
+          "lastMessageDate": 1792718144379,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "sLmWnRXhvhXvU0LlmY20",
           "lastMessageDate": 1792699353907,
           "type": "TYPE_PHONE"
@@ -80116,13 +80178,13 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "jrdxD1qScEe4gqO2wHn9",
-          "lastMessageDate": 1792685430714,
+          "id": "FF7TCufs2qh2knvUB0UI",
+          "lastMessageDate": 1792734743550,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "m8eCy5pSMdar9PcmT2Ls",
-          "lastMessageDate": 1792685430713,
+          "id": "Qy4fa1mlDBdGV0LKTJWN",
+          "lastMessageDate": 1792718144379,
           "type": "TYPE_PHONE"
         },
         {
@@ -80613,16 +80675,6 @@
         {
           "id": "IYxrzYrYi3vBHkPI0lgF",
           "lastMessageDate": 1792685430751,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "jrdxD1qScEe4gqO2wHn9",
-          "lastMessageDate": 1792685430714,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "m8eCy5pSMdar9PcmT2Ls",
-          "lastMessageDate": 1792685430713,
           "type": "TYPE_PHONE"
         }
       ]
