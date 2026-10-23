@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-23T18:10:27.113Z",
+  "syncedAt": "2026-10-23T21:55:35.090Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -4421,7 +4421,8 @@
                 "lead called",
                 "blocker quiz",
                 "gogetem affiliate",
-                "goget'em member; new"
+                "goget'em member; new",
+                "gc link clicked"
               ],
               "attributed": true
             }
@@ -4438,7 +4439,8 @@
               "lead called",
               "blocker quiz",
               "gogetem affiliate",
-              "goget'em member; new"
+              "goget'em member; new",
+              "gc link clicked"
             ],
             "score": []
           },
@@ -53071,6 +53073,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "qDKbcRwB2fZTY7P9hQNo",
+          "lastMessageDate": 1792782403082,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "BJYdsjGMWO6Or4Gpe6cy",
           "lastMessageDate": 1792772713684,
           "type": "TYPE_PHONE"
@@ -53143,11 +53150,6 @@
         {
           "id": "gdH7zEuaXLk30YSsKBa1",
           "lastMessageDate": 1792768128835,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "qDKbcRwB2fZTY7P9hQNo",
-          "lastMessageDate": 1792768126464,
           "type": "TYPE_PHONE"
         },
         {
@@ -53571,6 +53573,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "qDKbcRwB2fZTY7P9hQNo",
+          "lastMessageDate": 1792782403082,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "BJYdsjGMWO6Or4Gpe6cy",
           "lastMessageDate": 1792772713684,
           "type": "TYPE_PHONE"
@@ -53643,11 +53650,6 @@
         {
           "id": "gdH7zEuaXLk30YSsKBa1",
           "lastMessageDate": 1792768128835,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "qDKbcRwB2fZTY7P9hQNo",
-          "lastMessageDate": 1792768126464,
           "type": "TYPE_PHONE"
         },
         {
