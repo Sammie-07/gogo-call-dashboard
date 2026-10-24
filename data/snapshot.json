@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-24T05:29:43.825Z",
+  "syncedAt": "2026-10-24T10:28:26.088Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -8,7 +8,7 @@
       "manualSms": 306,
       "autoSms": 372,
       "manualEmail": 102,
-      "autoEmail": 3052,
+      "autoEmail": 3046,
       "byDay": [
         {
           "date": "2024-02-23",
@@ -888,7 +888,7 @@
           "manualSms": 2,
           "autoSms": 6,
           "manualEmail": 0,
-          "autoEmail": 24
+          "autoEmail": 22
         },
         {
           "date": "2026-08-05",
@@ -896,7 +896,7 @@
           "manualSms": 4,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 26
+          "autoEmail": 22
         },
         {
           "date": "2026-08-06",
@@ -53073,6 +53073,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "KHRW5tErGPbvBL8tDZwv",
+          "lastMessageDate": 1792823282325,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "qDKbcRwB2fZTY7P9hQNo",
           "lastMessageDate": 1792782403082,
           "type": "TYPE_PHONE"
@@ -53150,11 +53155,6 @@
         {
           "id": "gdH7zEuaXLk30YSsKBa1",
           "lastMessageDate": 1792768128835,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "KHRW5tErGPbvBL8tDZwv",
-          "lastMessageDate": 1792768114356,
           "type": "TYPE_PHONE"
         },
         {
@@ -53573,6 +53573,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "KHRW5tErGPbvBL8tDZwv",
+          "lastMessageDate": 1792823282325,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "qDKbcRwB2fZTY7P9hQNo",
           "lastMessageDate": 1792782403082,
           "type": "TYPE_PHONE"
@@ -53650,11 +53655,6 @@
         {
           "id": "gdH7zEuaXLk30YSsKBa1",
           "lastMessageDate": 1792768128835,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "KHRW5tErGPbvBL8tDZwv",
-          "lastMessageDate": 1792768114356,
           "type": "TYPE_PHONE"
         },
         {
