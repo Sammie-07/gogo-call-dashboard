@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-24T10:28:26.088Z",
+  "syncedAt": "2026-10-24T14:20:03.912Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -2034,29 +2034,31 @@
               "primary": true,
               "objectKey": "contact",
               "recordId": "vba8SG2LB6quWVx2tcFp",
-              "fullName": "Amanda Bolduc | Estero & SW Florida REALTOR®",
-              "contactName": "Amanda Bolduc | Estero & SW Florida REALTOR®",
+              "fullName": "Amanda Bolduc",
+              "contactName": "Amanda Bolduc",
               "companyName": null,
               "email": "amandasellsswfl@gmail.com",
-              "phone": null,
+              "phone": "+12074745370",
               "tags": [
                 "keyword:social",
                 "new lead",
-                "assigned to natalia"
+                "assigned to natalia",
+                "blocker quiz"
               ],
-              "attributed": null
+              "attributed": true
             }
           ],
           "contact": {
             "id": "vba8SG2LB6quWVx2tcFp",
-            "name": "Amanda Bolduc | Estero & SW Florida REALTOR®",
+            "name": "Amanda Bolduc",
             "companyName": null,
             "email": "amandasellsswfl@gmail.com",
-            "phone": null,
+            "phone": "+12074745370",
             "tags": [
               "keyword:social",
               "new lead",
-              "assigned to natalia"
+              "assigned to natalia",
+              "blocker quiz"
             ],
             "score": []
           },
@@ -53073,6 +53075,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "fzaG8my8JKeh6xiUNrOs",
+          "lastMessageDate": 1792842493743,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "KHRW5tErGPbvBL8tDZwv",
           "lastMessageDate": 1792823282325,
           "type": "TYPE_PHONE"
@@ -53285,11 +53292,6 @@
         {
           "id": "uvW4XLUWCvcsn0WP9l4c",
           "lastMessageDate": 1792020787217,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "fzaG8my8JKeh6xiUNrOs",
-          "lastMessageDate": 1791835081051,
           "type": "TYPE_PHONE"
         },
         {
@@ -53573,6 +53575,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "fzaG8my8JKeh6xiUNrOs",
+          "lastMessageDate": 1792842493743,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "KHRW5tErGPbvBL8tDZwv",
           "lastMessageDate": 1792823282325,
           "type": "TYPE_PHONE"
@@ -53785,11 +53792,6 @@
         {
           "id": "uvW4XLUWCvcsn0WP9l4c",
           "lastMessageDate": 1792020787217,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "fzaG8my8JKeh6xiUNrOs",
-          "lastMessageDate": 1791835081051,
           "type": "TYPE_PHONE"
         },
         {
