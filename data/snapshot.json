@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-25T05:48:36.996Z",
+  "syncedAt": "2026-10-25T10:56:13.188Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -54149,7 +54149,7 @@
       "calls": 14,
       "talkTimeMinutes": 28,
       "manualSms": 40,
-      "autoSms": 234,
+      "autoSms": 232,
       "manualEmail": 22,
       "autoEmail": 1556,
       "byDay": [
@@ -54717,7 +54717,7 @@
           "date": "2026-10-22",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 190,
+          "autoSms": 188,
           "manualEmail": 0,
           "autoEmail": 6
         },
@@ -54731,6 +54731,79 @@
         }
       ],
       "opportunities": [
+        {
+          "id": "pinpDMiWqIG8amkVJkgV",
+          "name": "Filipa D A Lourenço - REMAX",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "61ee0fbd-d136-4069-8222-c95ab05ce746",
+          "pipelineStageUId": "61ee0fbd-d136-4069-8222-c95ab05ce746",
+          "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
+          "status": "open",
+          "source": null,
+          "lastStatusChangeAt": "2026-10-25T09:35:24.364Z",
+          "lastStageChangeAt": "2026-10-25T09:35:24.364Z",
+          "createdAt": "2026-10-25T09:35:24.364Z",
+          "updatedAt": "2026-10-25T09:35:24.364Z",
+          "forecastProbability": null,
+          "effectiveProbability": 18.75,
+          "contactId": "W9vhRHjUhC7XLAMu9kAz",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "pinpDMiWqIG8amkVJkgV",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "W9vhRHjUhC7XLAMu9kAz",
+              "fullName": "Filipa D A Lourenço - REMAX",
+              "contactName": "Filipa D A Lourenço - REMAX",
+              "companyName": null,
+              "email": "fdamlo33@gmail.com",
+              "phone": null,
+              "tags": [
+                "keyword:community",
+                "new lead",
+                "sales: no show"
+              ],
+              "attributed": null
+            }
+          ],
+          "contact": {
+            "id": "W9vhRHjUhC7XLAMu9kAz",
+            "name": "Filipa D A Lourenço - REMAX",
+            "companyName": null,
+            "email": "fdamlo33@gmail.com",
+            "phone": null,
+            "tags": [
+              "keyword:community",
+              "new lead",
+              "sales: no show"
+            ],
+            "score": []
+          },
+          "sort": [
+            1792920924364,
+            "pinpDMiWqIG8amkVJkgV"
+          ],
+          "attributions": [
+            {
+              "utmSessionSource": "Social media",
+              "medium": "instagram",
+              "mediumId": "29205983762370878",
+              "isFirst": true
+            },
+            {
+              "utmSessionSource": "Social media",
+              "medium": "instagram",
+              "mediumId": "29205983762370878",
+              "isLast": true
+            }
+          ]
+        },
         {
           "id": "klvcxsquoZh8Bl48qGjO",
           "name": "Yashmit Gutierrez",
@@ -79957,6 +80030,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "4io7wMJLlsivYCv1gLUu",
+          "lastMessageDate": 1792919053718,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "sLmWnRXhvhXvU0LlmY20",
           "lastMessageDate": 1792768181411,
           "type": "TYPE_PHONE"
@@ -80452,8 +80530,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "1CMWsbO9GYcY9gppX06N",
-          "lastMessageDate": 1792685430791,
+          "id": "4io7wMJLlsivYCv1gLUu",
+          "lastMessageDate": 1792919053718,
           "type": "TYPE_PHONE"
         },
         {
@@ -80949,11 +81027,6 @@
         {
           "id": "AdYT6Ey25gjhDUOL1DCE",
           "lastMessageDate": 1792685430850,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "1CMWsbO9GYcY9gppX06N",
-          "lastMessageDate": 1792685430791,
           "type": "TYPE_PHONE"
         }
       ]
