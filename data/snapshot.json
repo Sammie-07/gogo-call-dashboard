@@ -1,12 +1,12 @@
 {
-  "syncedAt": "2026-10-26T16:36:59.353Z",
+  "syncedAt": "2026-10-26T21:27:33.946Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
-      "calls": 156,
-      "talkTimeMinutes": 134,
-      "manualSms": 302,
-      "autoSms": 366,
+      "calls": 166,
+      "talkTimeMinutes": 144,
+      "manualSms": 318,
+      "autoSms": 368,
       "manualEmail": 96,
       "autoEmail": 3072,
       "byDay": [
@@ -944,7 +944,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 40
+          "autoEmail": 38
         },
         {
           "date": "2026-08-18",
@@ -1412,11 +1412,11 @@
         },
         {
           "date": "2026-10-26",
-          "calls": 10,
-          "manualSms": 6,
-          "autoSms": 0,
+          "calls": 20,
+          "manualSms": 22,
+          "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 40
+          "autoEmail": 42
         }
       ],
       "opportunities": [
@@ -1695,17 +1695,17 @@
           "name": "Heidy Adams",
           "monetaryValue": 0,
           "pipelineId": "4ODbBsC9MIjSBtnIOETl",
-          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
-          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "pipelineStageId": "5ab71bd0-0254-44b8-9a73-c92ca538e7fb",
+          "pipelineStageUId": "5ab71bd0-0254-44b8-9a73-c92ca538e7fb",
           "assignedTo": "C7PplofCN88pv8MTTiZT",
           "status": "open",
           "source": "GGTC Blocker Quiz",
           "lastStatusChangeAt": "2026-10-22T06:07:39.534Z",
-          "lastStageChangeAt": "2026-10-22T06:08:44.723Z",
+          "lastStageChangeAt": "2026-10-26T17:13:10.640Z",
           "createdAt": "2026-10-22T06:07:39.534Z",
-          "updatedAt": "2026-10-22T06:08:44.792Z",
+          "updatedAt": "2026-10-26T17:13:10.667Z",
           "forecastProbability": null,
-          "effectiveProbability": 31.25,
+          "effectiveProbability": 93.75,
           "contactId": "yfMPbrmFmECmO5ungS8T",
           "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
           "customFields": [],
@@ -1770,6 +1770,97 @@
               "medium": "form",
               "mediumId": "muiUniGFhCNqBm9Ak62g",
               "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-S931U Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/155.0.8059.73 Mobile Safari/537.36 Instagram 451.0.0.53.80 Android (35/15; 420dpi; 1080x2340; samsung; SM-S931U; pa1q; qcom; en_US; 1094829673; IABMV/1)",
+              "url": "https://gogetemcommunity.com/growth-blocker.html",
+              "utmSource": "manychat"
+            }
+          ]
+        },
+        {
+          "id": "iwOTrQo3mDq2TnezXZLj",
+          "name": "Mihai Molnar",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "47f17781-3c7e-42f1-b731-cea3c1a954ab",
+          "pipelineStageUId": "47f17781-3c7e-42f1-b731-cea3c1a954ab",
+          "assignedTo": "C7PplofCN88pv8MTTiZT",
+          "status": "open",
+          "source": "manychat",
+          "lastStatusChangeAt": "2026-10-22T04:43:25.598Z",
+          "lastStageChangeAt": "2026-10-26T17:18:40.922Z",
+          "createdAt": "2026-10-22T04:43:25.598Z",
+          "updatedAt": "2026-10-26T17:18:40.966Z",
+          "forecastProbability": null,
+          "effectiveProbability": 56.25,
+          "contactId": "xDd0YjGf4yLHTjNvYmAs",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "iwOTrQo3mDq2TnezXZLj",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "xDd0YjGf4yLHTjNvYmAs",
+              "fullName": "Mihai Molnar",
+              "contactName": "Mihai Molnar",
+              "companyName": null,
+              "email": "mihai.molnar@acasaarad.ro",
+              "phone": "+40761899230",
+              "tags": [
+                "blocker quiz",
+                "new lead",
+                "assigned to ferny",
+                "assigned to natalia",
+                "lead called",
+                "sales: follow up"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "xDd0YjGf4yLHTjNvYmAs",
+            "name": "Mihai Molnar",
+            "companyName": null,
+            "email": "mihai.molnar@acasaarad.ro",
+            "phone": "+40761899230",
+            "tags": [
+              "blocker quiz",
+              "new lead",
+              "assigned to ferny",
+              "assigned to natalia",
+              "lead called",
+              "sales: follow up"
+            ],
+            "score": []
+          },
+          "sort": [
+            1792644205598,
+            "iwOTrQo3mDq2TnezXZLj"
+          ],
+          "attributions": [
+            {
+              "pageUrl": "https://gogetemcommunity.com/growth-blocker.html?utm_source=manychat&mcp_token=eyJwaWQiOjE2OTQ4NTIzNjQ0NTU3Nywic2lkIjoyMDc1MTg3OTk0LCJheCI6ImYyM2VmYmVjNGYxYWExNTM4YTBlZjg5NGZiZTA0YWY1IiwidHMiOjE3OTI2NDM1NTQsImV4cCI6MTc5NTA2Mjc1NH0.zBkjnpVHCxHQ-LPzDyncAbr7hfahXn3J7OiiJjohknQ",
+              "referrer": "https://instagram.com",
+              "utmSessionSource": "Social media",
+              "ip": "82.78.85.104",
+              "isFirst": true,
+              "medium": "form",
+              "mediumId": "muiUniGFhCNqBm9Ak62g",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23G90 Instagram 452.0.1.39.54 (iPhone17,2; iOS 26_6_2; en_GB; en-GB; scale=3.00; 1320x2868; IABMV/1; 1093431980) Safari/604.1",
+              "url": "https://gogetemcommunity.com/growth-blocker.html",
+              "utmSource": "manychat"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/growth-blocker.html?utm_source=manychat&mcp_token=eyJwaWQiOjE2OTQ4NTIzNjQ0NTU3Nywic2lkIjoyMDc1MTg3OTk0LCJheCI6ImYyM2VmYmVjNGYxYWExNTM4YTBlZjg5NGZiZTA0YWY1IiwidHMiOjE3OTI2NDM1NTQsImV4cCI6MTc5NTA2Mjc1NH0.zBkjnpVHCxHQ-LPzDyncAbr7hfahXn3J7OiiJjohknQ",
+              "referrer": "https://instagram.com",
+              "utmSessionSource": "Social media",
+              "isLast": true,
+              "ip": "82.78.85.104",
+              "medium": "form",
+              "mediumId": "muiUniGFhCNqBm9Ak62g",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23G90 Instagram 452.0.1.39.54 (iPhone17,2; iOS 26_6_2; en_GB; en-GB; scale=3.00; 1320x2868; IABMV/1; 1093431980) Safari/604.1",
               "url": "https://gogetemcommunity.com/growth-blocker.html",
               "utmSource": "manychat"
             }
@@ -1855,6 +1946,97 @@
               "medium": "form",
               "mediumId": "muiUniGFhCNqBm9Ak62g",
               "userAgent": "Mozilla/5.0 (Linux; Android 10; K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/156.0.0.0 Mobile Safari/537.36 Instagram 452.0.0.48.64 Android (37/17; 420dpi; 1080x2424; Google/google; Pixel 9; tokay; tokay; en_US; 1094829897; IABMV/1)",
+              "url": "https://gogetemcommunity.com/growth-blocker.html",
+              "utmSource": "manychat"
+            }
+          ]
+        },
+        {
+          "id": "2ddVsoZyRanBMhPvyYfv",
+          "name": "Ellen Pitts",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "71028263-9714-45b3-91aa-dda01d4bb4a6",
+          "pipelineStageUId": "71028263-9714-45b3-91aa-dda01d4bb4a6",
+          "assignedTo": "C7PplofCN88pv8MTTiZT",
+          "status": "open",
+          "source": "manychat",
+          "lastStatusChangeAt": "2026-10-21T20:53:12.936Z",
+          "lastStageChangeAt": "2026-10-26T17:28:33.038Z",
+          "createdAt": "2026-10-21T20:53:12.935Z",
+          "updatedAt": "2026-10-26T17:28:33.095Z",
+          "forecastProbability": null,
+          "effectiveProbability": 62.5,
+          "contactId": "ZAxraPZnBlmbNWGCziim",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "2ddVsoZyRanBMhPvyYfv",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "ZAxraPZnBlmbNWGCziim",
+              "fullName": "Ellen Pitts",
+              "contactName": "Ellen Pitts",
+              "companyName": null,
+              "email": "cellenpitts@gmail.com",
+              "phone": "+19197251885",
+              "tags": [
+                "blocker quiz",
+                "new lead",
+                "assigned to ferny",
+                "assigned to natalia",
+                "lead called",
+                "sales: not interested"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "ZAxraPZnBlmbNWGCziim",
+            "name": "Ellen Pitts",
+            "companyName": null,
+            "email": "cellenpitts@gmail.com",
+            "phone": "+19197251885",
+            "tags": [
+              "blocker quiz",
+              "new lead",
+              "assigned to ferny",
+              "assigned to natalia",
+              "lead called",
+              "sales: not interested"
+            ],
+            "score": []
+          },
+          "sort": [
+            1792615992935,
+            "2ddVsoZyRanBMhPvyYfv"
+          ],
+          "attributions": [
+            {
+              "pageUrl": "https://gogetemcommunity.com/growth-blocker.html?utm_source=manychat&mcp_token=eyJwaWQiOjE2OTQ4NTIzNjQ0NTU3Nywic2lkIjoxNjkyNTQ2MTU1LCJheCI6ImYyM2VmYmVjNGYxYWExNTM4YTBlZjg5NGZiZTA0YWY1IiwidHMiOjE3OTI2MTUzNTgsImV4cCI6MTc5NTAzNDU1OH0.y4zfuUdLNdSysnYJ1hGWGmEBaO4Dz8rPUzDUKYyfd1U",
+              "referrer": "https://instagram.com",
+              "utmSessionSource": "Social media",
+              "ip": "2600:1004:b2bc:3778:1983:7335:81d2:e07f",
+              "isFirst": true,
+              "medium": "form",
+              "mediumId": "muiUniGFhCNqBm9Ak62g",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23G83 Instagram 452.0.1.39.54 (iPhone16,1; iOS 26_6_1; en_US; en; scale=3.00; 1179x2556; IABMV/1; 1093431980) Safari/604.1",
+              "url": "https://gogetemcommunity.com/growth-blocker.html",
+              "utmSource": "manychat"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/growth-blocker.html?utm_source=manychat&mcp_token=eyJwaWQiOjE2OTQ4NTIzNjQ0NTU3Nywic2lkIjoxNjkyNTQ2MTU1LCJheCI6ImYyM2VmYmVjNGYxYWExNTM4YTBlZjg5NGZiZTA0YWY1IiwidHMiOjE3OTI2MTUzNTgsImV4cCI6MTc5NTAzNDU1OH0.y4zfuUdLNdSysnYJ1hGWGmEBaO4Dz8rPUzDUKYyfd1U",
+              "referrer": "https://instagram.com",
+              "utmSessionSource": "Social media",
+              "isLast": true,
+              "ip": "2600:1004:b2bc:3778:1983:7335:81d2:e07f",
+              "medium": "form",
+              "mediumId": "muiUniGFhCNqBm9Ak62g",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23G83 Instagram 452.0.1.39.54 (iPhone16,1; iOS 26_6_1; en_US; en; scale=3.00; 1179x2556; IABMV/1; 1093431980) Safari/604.1",
               "url": "https://gogetemcommunity.com/growth-blocker.html",
               "utmSource": "manychat"
             }
@@ -16608,6 +16790,97 @@
               "mediumId": "rtTNrLeOuDNq53WY7xwd",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Mobile/15E148 Safari/604.1",
               "url": "https://gogetemcommunity.com/"
+            }
+          ]
+        },
+        {
+          "id": "EXsbCpQSuHGGrsGp0ulw",
+          "name": "Nadia Grijalva",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "9af4ce40-5d59-4bbc-bb7a-a035ad6c0a46",
+          "pipelineStageUId": "9af4ce40-5d59-4bbc-bb7a-a035ad6c0a46",
+          "assignedTo": "C7PplofCN88pv8MTTiZT",
+          "status": "open",
+          "source": "manychat",
+          "lastStatusChangeAt": "2026-02-27T20:03:52.907Z",
+          "lastStageChangeAt": "2026-10-26T17:22:28.558Z",
+          "createdAt": "2026-02-27T20:03:52.907Z",
+          "updatedAt": "2026-10-26T17:22:28.609Z",
+          "forecastProbability": null,
+          "effectiveProbability": 43.75,
+          "contactId": "0gJTqzatYs3CB4zFAX6H",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "EXsbCpQSuHGGrsGp0ulw",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "0gJTqzatYs3CB4zFAX6H",
+              "fullName": "Nadia Grijalva",
+              "contactName": "Nadia Grijalva",
+              "companyName": null,
+              "email": "nadiasellsaz@gmail.com",
+              "phone": "+15208502687",
+              "tags": [
+                "wine not millionaire",
+                "goget'em canceled",
+                "smc",
+                "assigned to ferny",
+                "lead called",
+                "blocker quiz",
+                "assigned to natalia"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "0gJTqzatYs3CB4zFAX6H",
+            "name": "Nadia Grijalva",
+            "companyName": null,
+            "email": "nadiasellsaz@gmail.com",
+            "phone": "+15208502687",
+            "tags": [
+              "wine not millionaire",
+              "goget'em canceled",
+              "smc",
+              "assigned to ferny",
+              "lead called",
+              "blocker quiz",
+              "assigned to natalia"
+            ],
+            "score": []
+          },
+          "sort": [
+            1772222632907,
+            "EXsbCpQSuHGGrsGp0ulw"
+          ],
+          "attributions": [
+            {
+              "pageUrl": "https://gogetemcommunity.com/",
+              "utmSessionSource": "Direct traffic",
+              "ip": "2a09:bac2:a3c9:78::c:34f",
+              "isFirst": true,
+              "medium": "form",
+              "mediumId": "et7nfyX2zx3ffnpvvBly",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1",
+              "url": "https://gogetemcommunity.com/"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/growth-blocker.html?utm_source=manychat&mcp_token=eyJwaWQiOjE2OTQ4NTIzNjQ0NTU3Nywic2lkIjo0OTUwNTMyODMsImF4IjoiZjIzZWZiZWM0ZjFhYTE1MzhhMGVmODk0ZmJlMDRhZjUiLCJ0cyI6MTc5MjY0MzQzNiwiZXhwIjoxNzk1MDYyNjM2fQ.KbJSLX_OapEatOq7J9YL2iFjckewNxE3b15UDnxQ6aM",
+              "referrer": "https://instagram.com",
+              "utmSessionSource": "Social media",
+              "isLast": true,
+              "ip": "2600:8800:7f0a:4700:2400:aee4:d6ae:f1a5",
+              "medium": "form",
+              "mediumId": "muiUniGFhCNqBm9Ak62g",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23H30 Instagram 452.0.1.39.54 (iPhone17,1; iOS 26_7_1; en_US; en; scale=3.00; 1206x2622; IABMV/1; 1093431980) Safari/604.1",
+              "url": "https://gogetemcommunity.com/growth-blocker.html",
+              "utmSource": "manychat"
             }
           ]
         },
@@ -53268,13 +53541,43 @@
       ],
       "conversationsAll": [
         {
-          "id": "KHRW5tErGPbvBL8tDZwv",
-          "lastMessageDate": 1793031647559,
+          "id": "Q9LfdjdnEzhv2S8lPK4a",
+          "lastMessageDate": 1793036548558,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "KLp8bXTnsBZAumbbrZpS",
+          "lastMessageDate": 1793035657968,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "a3KZyVkUZO8EFuDMs5iS",
+          "lastMessageDate": 1793035635523,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "xJBmuq6cAoiW3j2IZgld",
+          "lastMessageDate": 1793035529685,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "kGoCzLVeT2aiDYSk8USC",
+          "lastMessageDate": 1793035427607,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "QrQBL9pbyT2Pu8dGEVfw",
+          "lastMessageDate": 1793034644666,
           "type": "TYPE_PHONE"
         },
         {
           "id": "Pkq82uO7uYaDXScNFwQg",
-          "lastMessageDate": 1793024653052,
+          "lastMessageDate": 1793033915108,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "KHRW5tErGPbvBL8tDZwv",
+          "lastMessageDate": 1793033333796,
           "type": "TYPE_PHONE"
         },
         {
@@ -53438,38 +53741,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "xJBmuq6cAoiW3j2IZgld",
-          "lastMessageDate": 1792674640901,
-          "type": "TYPE_PHONE"
-        },
-        {
           "id": "pXdontGoK64ulGy9fzU2",
           "lastMessageDate": 1792674613958,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "a3KZyVkUZO8EFuDMs5iS",
-          "lastMessageDate": 1792674601628,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "kGoCzLVeT2aiDYSk8USC",
-          "lastMessageDate": 1792674589253,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "QrQBL9pbyT2Pu8dGEVfw",
-          "lastMessageDate": 1792674560150,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "Q9LfdjdnEzhv2S8lPK4a",
-          "lastMessageDate": 1792674505858,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "KLp8bXTnsBZAumbbrZpS",
-          "lastMessageDate": 1792615547093,
           "type": "TYPE_PHONE"
         },
         {
@@ -53768,13 +54041,43 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "KHRW5tErGPbvBL8tDZwv",
-          "lastMessageDate": 1793031647559,
+          "id": "Q9LfdjdnEzhv2S8lPK4a",
+          "lastMessageDate": 1793036548558,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "KLp8bXTnsBZAumbbrZpS",
+          "lastMessageDate": 1793035657968,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "a3KZyVkUZO8EFuDMs5iS",
+          "lastMessageDate": 1793035635523,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "xJBmuq6cAoiW3j2IZgld",
+          "lastMessageDate": 1793035529685,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "kGoCzLVeT2aiDYSk8USC",
+          "lastMessageDate": 1793035427607,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "QrQBL9pbyT2Pu8dGEVfw",
+          "lastMessageDate": 1793034644666,
           "type": "TYPE_PHONE"
         },
         {
           "id": "Pkq82uO7uYaDXScNFwQg",
-          "lastMessageDate": 1793024653052,
+          "lastMessageDate": 1793033915108,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "KHRW5tErGPbvBL8tDZwv",
+          "lastMessageDate": 1793033333796,
           "type": "TYPE_PHONE"
         },
         {
@@ -53938,38 +54241,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "xJBmuq6cAoiW3j2IZgld",
-          "lastMessageDate": 1792674640901,
-          "type": "TYPE_PHONE"
-        },
-        {
           "id": "pXdontGoK64ulGy9fzU2",
           "lastMessageDate": 1792674613958,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "a3KZyVkUZO8EFuDMs5iS",
-          "lastMessageDate": 1792674601628,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "kGoCzLVeT2aiDYSk8USC",
-          "lastMessageDate": 1792674589253,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "QrQBL9pbyT2Pu8dGEVfw",
-          "lastMessageDate": 1792674560150,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "Q9LfdjdnEzhv2S8lPK4a",
-          "lastMessageDate": 1792674505858,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "KLp8bXTnsBZAumbbrZpS",
-          "lastMessageDate": 1792615547093,
           "type": "TYPE_PHONE"
         },
         {
@@ -54270,12 +54543,12 @@
       ]
     },
     "Z6C8jEN8ccsSWv70qBr1": {
-      "calls": 12,
+      "calls": 14,
       "talkTimeMinutes": 23,
-      "manualSms": 14,
-      "autoSms": 426,
+      "manualSms": 18,
+      "autoSms": 424,
       "manualEmail": 6,
-      "autoEmail": 1486,
+      "autoEmail": 1456,
       "byDay": [
         {
           "date": "2026-04-21",
@@ -54299,7 +54572,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 60
+          "autoEmail": 56
         },
         {
           "date": "2026-04-28",
@@ -54323,7 +54596,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 172
+          "autoEmail": 168
         },
         {
           "date": "2026-05-05",
@@ -54331,7 +54604,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 176
+          "autoEmail": 172
         },
         {
           "date": "2026-05-08",
@@ -54347,7 +54620,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 172
+          "autoEmail": 168
         },
         {
           "date": "2026-05-12",
@@ -54363,7 +54636,7 @@
           "manualSms": 0,
           "autoSms": 6,
           "manualEmail": 0,
-          "autoEmail": 176
+          "autoEmail": 172
         },
         {
           "date": "2026-05-18",
@@ -54371,7 +54644,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 170
+          "autoEmail": 166
         },
         {
           "date": "2026-05-21",
@@ -54379,7 +54652,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 172
+          "autoEmail": 168
         },
         {
           "date": "2026-05-22",
@@ -54390,12 +54663,20 @@
           "autoEmail": 0
         },
         {
+          "date": "2026-05-25",
+          "calls": 0,
+          "manualSms": 4,
+          "autoSms": 0,
+          "manualEmail": 0,
+          "autoEmail": 0
+        },
+        {
           "date": "2026-05-26",
           "calls": 0,
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 172
+          "autoEmail": 168
         },
         {
           "date": "2026-05-29",
@@ -54403,7 +54684,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 172
+          "autoEmail": 168
         },
         {
           "date": "2026-06-18",
@@ -54470,18 +54751,42 @@
           "autoEmail": 2
         },
         {
+          "date": "2026-10-08",
+          "calls": 2,
+          "manualSms": 0,
+          "autoSms": 0,
+          "manualEmail": 0,
+          "autoEmail": 0
+        },
+        {
+          "date": "2026-10-09",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 2,
+          "manualEmail": 0,
+          "autoEmail": 2
+        },
+        {
+          "date": "2026-10-15",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 0,
+          "manualEmail": 0,
+          "autoEmail": 2
+        },
+        {
           "date": "2026-10-22",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 200,
+          "autoSms": 198,
           "manualEmail": 0,
-          "autoEmail": 0
+          "autoEmail": 2
         },
         {
           "date": "2026-10-26",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 200,
+          "autoSms": 198,
           "manualEmail": 0,
           "autoEmail": 0
         }
@@ -54644,180 +54949,6 @@
               "medium": "form",
               "mediumId": "muiUniGFhCNqBm9Ak62g",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23G90 Instagram 452.0.1.39.54 (iPhone15,2; iOS 26_6_2; en_US; en; scale=3.00; 1179x2556; IABMV/1; 1093431980) Safari/604.1",
-              "url": "https://gogetemcommunity.com/growth-blocker.html",
-              "utmSource": "manychat"
-            }
-          ]
-        },
-        {
-          "id": "iwOTrQo3mDq2TnezXZLj",
-          "name": "Mihai Molnar",
-          "monetaryValue": 0,
-          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
-          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
-          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
-          "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
-          "status": "open",
-          "source": "GGTC Blocker Quiz",
-          "lastStatusChangeAt": "2026-10-22T04:43:25.598Z",
-          "lastStageChangeAt": "2026-10-22T13:19:20.760Z",
-          "createdAt": "2026-10-22T04:43:25.598Z",
-          "updatedAt": "2026-10-22T13:19:20.775Z",
-          "forecastProbability": null,
-          "effectiveProbability": 31.25,
-          "contactId": "xDd0YjGf4yLHTjNvYmAs",
-          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
-          "customFields": [],
-          "lostReasonId": null,
-          "followers": [],
-          "relations": [
-            {
-              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
-              "relationId": "iwOTrQo3mDq2TnezXZLj",
-              "primary": true,
-              "objectKey": "contact",
-              "recordId": "xDd0YjGf4yLHTjNvYmAs",
-              "fullName": "Mihai Molnar",
-              "contactName": "Mihai Molnar",
-              "companyName": null,
-              "email": "mihai.molnar@acasaarad.ro",
-              "phone": "+40761899230",
-              "tags": [
-                "blocker quiz",
-                "new lead",
-                "assigned to ferny",
-                "assigned to natalia"
-              ],
-              "attributed": true
-            }
-          ],
-          "contact": {
-            "id": "xDd0YjGf4yLHTjNvYmAs",
-            "name": "Mihai Molnar",
-            "companyName": null,
-            "email": "mihai.molnar@acasaarad.ro",
-            "phone": "+40761899230",
-            "tags": [
-              "blocker quiz",
-              "new lead",
-              "assigned to ferny",
-              "assigned to natalia"
-            ],
-            "score": []
-          },
-          "sort": [
-            1792644205598,
-            "iwOTrQo3mDq2TnezXZLj"
-          ],
-          "attributions": [
-            {
-              "pageUrl": "https://gogetemcommunity.com/growth-blocker.html?utm_source=manychat&mcp_token=eyJwaWQiOjE2OTQ4NTIzNjQ0NTU3Nywic2lkIjoyMDc1MTg3OTk0LCJheCI6ImYyM2VmYmVjNGYxYWExNTM4YTBlZjg5NGZiZTA0YWY1IiwidHMiOjE3OTI2NDM1NTQsImV4cCI6MTc5NTA2Mjc1NH0.zBkjnpVHCxHQ-LPzDyncAbr7hfahXn3J7OiiJjohknQ",
-              "referrer": "https://instagram.com",
-              "utmSessionSource": "Social media",
-              "ip": "82.78.85.104",
-              "isFirst": true,
-              "medium": "form",
-              "mediumId": "muiUniGFhCNqBm9Ak62g",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23G90 Instagram 452.0.1.39.54 (iPhone17,2; iOS 26_6_2; en_GB; en-GB; scale=3.00; 1320x2868; IABMV/1; 1093431980) Safari/604.1",
-              "url": "https://gogetemcommunity.com/growth-blocker.html",
-              "utmSource": "manychat"
-            },
-            {
-              "pageUrl": "https://gogetemcommunity.com/growth-blocker.html?utm_source=manychat&mcp_token=eyJwaWQiOjE2OTQ4NTIzNjQ0NTU3Nywic2lkIjoyMDc1MTg3OTk0LCJheCI6ImYyM2VmYmVjNGYxYWExNTM4YTBlZjg5NGZiZTA0YWY1IiwidHMiOjE3OTI2NDM1NTQsImV4cCI6MTc5NTA2Mjc1NH0.zBkjnpVHCxHQ-LPzDyncAbr7hfahXn3J7OiiJjohknQ",
-              "referrer": "https://instagram.com",
-              "utmSessionSource": "Social media",
-              "isLast": true,
-              "ip": "82.78.85.104",
-              "medium": "form",
-              "mediumId": "muiUniGFhCNqBm9Ak62g",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23G90 Instagram 452.0.1.39.54 (iPhone17,2; iOS 26_6_2; en_GB; en-GB; scale=3.00; 1320x2868; IABMV/1; 1093431980) Safari/604.1",
-              "url": "https://gogetemcommunity.com/growth-blocker.html",
-              "utmSource": "manychat"
-            }
-          ]
-        },
-        {
-          "id": "2ddVsoZyRanBMhPvyYfv",
-          "name": "Ellen Pitts",
-          "monetaryValue": 0,
-          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
-          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
-          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
-          "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
-          "status": "open",
-          "source": "GGTC Blocker Quiz",
-          "lastStatusChangeAt": "2026-10-21T20:53:12.936Z",
-          "lastStageChangeAt": "2026-10-22T13:24:28.659Z",
-          "createdAt": "2026-10-21T20:53:12.935Z",
-          "updatedAt": "2026-10-22T13:24:28.675Z",
-          "forecastProbability": null,
-          "effectiveProbability": 31.25,
-          "contactId": "ZAxraPZnBlmbNWGCziim",
-          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
-          "customFields": [],
-          "lostReasonId": null,
-          "followers": [],
-          "relations": [
-            {
-              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
-              "relationId": "2ddVsoZyRanBMhPvyYfv",
-              "primary": true,
-              "objectKey": "contact",
-              "recordId": "ZAxraPZnBlmbNWGCziim",
-              "fullName": "Ellen Pitts",
-              "contactName": "Ellen Pitts",
-              "companyName": null,
-              "email": "cellenpitts@gmail.com",
-              "phone": "+19197251885",
-              "tags": [
-                "blocker quiz",
-                "new lead",
-                "assigned to ferny",
-                "assigned to natalia"
-              ],
-              "attributed": true
-            }
-          ],
-          "contact": {
-            "id": "ZAxraPZnBlmbNWGCziim",
-            "name": "Ellen Pitts",
-            "companyName": null,
-            "email": "cellenpitts@gmail.com",
-            "phone": "+19197251885",
-            "tags": [
-              "blocker quiz",
-              "new lead",
-              "assigned to ferny",
-              "assigned to natalia"
-            ],
-            "score": []
-          },
-          "sort": [
-            1792615992935,
-            "2ddVsoZyRanBMhPvyYfv"
-          ],
-          "attributions": [
-            {
-              "pageUrl": "https://gogetemcommunity.com/growth-blocker.html?utm_source=manychat&mcp_token=eyJwaWQiOjE2OTQ4NTIzNjQ0NTU3Nywic2lkIjoxNjkyNTQ2MTU1LCJheCI6ImYyM2VmYmVjNGYxYWExNTM4YTBlZjg5NGZiZTA0YWY1IiwidHMiOjE3OTI2MTUzNTgsImV4cCI6MTc5NTAzNDU1OH0.y4zfuUdLNdSysnYJ1hGWGmEBaO4Dz8rPUzDUKYyfd1U",
-              "referrer": "https://instagram.com",
-              "utmSessionSource": "Social media",
-              "ip": "2600:1004:b2bc:3778:1983:7335:81d2:e07f",
-              "isFirst": true,
-              "medium": "form",
-              "mediumId": "muiUniGFhCNqBm9Ak62g",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23G83 Instagram 452.0.1.39.54 (iPhone16,1; iOS 26_6_1; en_US; en; scale=3.00; 1179x2556; IABMV/1; 1093431980) Safari/604.1",
-              "url": "https://gogetemcommunity.com/growth-blocker.html",
-              "utmSource": "manychat"
-            },
-            {
-              "pageUrl": "https://gogetemcommunity.com/growth-blocker.html?utm_source=manychat&mcp_token=eyJwaWQiOjE2OTQ4NTIzNjQ0NTU3Nywic2lkIjoxNjkyNTQ2MTU1LCJheCI6ImYyM2VmYmVjNGYxYWExNTM4YTBlZjg5NGZiZTA0YWY1IiwidHMiOjE3OTI2MTUzNTgsImV4cCI6MTc5NTAzNDU1OH0.y4zfuUdLNdSysnYJ1hGWGmEBaO4Dz8rPUzDUKYyfd1U",
-              "referrer": "https://instagram.com",
-              "utmSessionSource": "Social media",
-              "isLast": true,
-              "ip": "2600:1004:b2bc:3778:1983:7335:81d2:e07f",
-              "medium": "form",
-              "mediumId": "muiUniGFhCNqBm9Ak62g",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23G83 Instagram 452.0.1.39.54 (iPhone16,1; iOS 26_6_1; en_US; en; scale=3.00; 1179x2556; IABMV/1; 1093431980) Safari/604.1",
               "url": "https://gogetemcommunity.com/growth-blocker.html",
               "utmSource": "manychat"
             }
@@ -57986,17 +58117,17 @@
           "name": "Angela Perez",
           "monetaryValue": 0,
           "pipelineId": "4ODbBsC9MIjSBtnIOETl",
-          "pipelineStageId": "80949724-7894-4a42-8028-746a06208f9e",
-          "pipelineStageUId": "80949724-7894-4a42-8028-746a06208f9e",
+          "pipelineStageId": "71028263-9714-45b3-91aa-dda01d4bb4a6",
+          "pipelineStageUId": "71028263-9714-45b3-91aa-dda01d4bb4a6",
           "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
           "status": "open",
           "source": "GoGet'Em Sign Up Form w/@IG handle",
           "lastStatusChangeAt": "2026-05-25T19:54:33.291Z",
-          "lastStageChangeAt": "2026-05-25T19:55:37.995Z",
+          "lastStageChangeAt": "2026-10-26T18:57:35.984Z",
           "createdAt": "2026-05-25T19:54:33.291Z",
-          "updatedAt": "2026-05-25T19:55:38.123Z",
+          "updatedAt": "2026-10-26T18:57:35.993Z",
           "forecastProbability": null,
-          "effectiveProbability": 25,
+          "effectiveProbability": 62.5,
           "contactId": "hMU7uQTAWiDXF75JtpDe",
           "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
           "customFields": [],
@@ -58019,7 +58150,8 @@
                 "smc",
                 "new lead",
                 "assigned to ferny",
-                "ggtc-revive-oct26"
+                "ggtc-revive-oct26",
+                "sales: not interested"
               ],
               "attributed": true
             }
@@ -58035,7 +58167,8 @@
               "smc",
               "new lead",
               "assigned to ferny",
-              "ggtc-revive-oct26"
+              "ggtc-revive-oct26",
+              "sales: not interested"
             ],
             "score": []
           },
@@ -60069,97 +60202,6 @@
               "isLast": true,
               "medium": "instagram",
               "mediumId": "1886911215232767"
-            }
-          ]
-        },
-        {
-          "id": "EXsbCpQSuHGGrsGp0ulw",
-          "name": "Nadia Grijalva",
-          "monetaryValue": 0,
-          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
-          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
-          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
-          "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
-          "status": "open",
-          "source": null,
-          "lastStatusChangeAt": "2026-02-27T20:03:52.907Z",
-          "lastStageChangeAt": "2026-10-22T13:19:49.422Z",
-          "createdAt": "2026-02-27T20:03:52.907Z",
-          "updatedAt": "2026-10-22T13:19:49.431Z",
-          "forecastProbability": null,
-          "effectiveProbability": 31.25,
-          "contactId": "0gJTqzatYs3CB4zFAX6H",
-          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
-          "customFields": [],
-          "lostReasonId": null,
-          "followers": [],
-          "relations": [
-            {
-              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
-              "relationId": "EXsbCpQSuHGGrsGp0ulw",
-              "primary": true,
-              "objectKey": "contact",
-              "recordId": "0gJTqzatYs3CB4zFAX6H",
-              "fullName": "Nadia Grijalva",
-              "contactName": "Nadia Grijalva",
-              "companyName": null,
-              "email": "nadiasellsaz@gmail.com",
-              "phone": "+15208502687",
-              "tags": [
-                "wine not millionaire",
-                "goget'em canceled",
-                "smc",
-                "assigned to ferny",
-                "lead called",
-                "blocker quiz",
-                "assigned to natalia"
-              ],
-              "attributed": true
-            }
-          ],
-          "contact": {
-            "id": "0gJTqzatYs3CB4zFAX6H",
-            "name": "Nadia Grijalva",
-            "companyName": null,
-            "email": "nadiasellsaz@gmail.com",
-            "phone": "+15208502687",
-            "tags": [
-              "wine not millionaire",
-              "goget'em canceled",
-              "smc",
-              "assigned to ferny",
-              "lead called",
-              "blocker quiz",
-              "assigned to natalia"
-            ],
-            "score": []
-          },
-          "sort": [
-            1772222632907,
-            "EXsbCpQSuHGGrsGp0ulw"
-          ],
-          "attributions": [
-            {
-              "pageUrl": "https://gogetemcommunity.com/",
-              "utmSessionSource": "Direct traffic",
-              "ip": "2a09:bac2:a3c9:78::c:34f",
-              "isFirst": true,
-              "medium": "form",
-              "mediumId": "et7nfyX2zx3ffnpvvBly",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1",
-              "url": "https://gogetemcommunity.com/"
-            },
-            {
-              "pageUrl": "https://gogetemcommunity.com/growth-blocker.html?utm_source=manychat&mcp_token=eyJwaWQiOjE2OTQ4NTIzNjQ0NTU3Nywic2lkIjo0OTUwNTMyODMsImF4IjoiZjIzZWZiZWM0ZjFhYTE1MzhhMGVmODk0ZmJlMDRhZjUiLCJ0cyI6MTc5MjY0MzQzNiwiZXhwIjoxNzk1MDYyNjM2fQ.KbJSLX_OapEatOq7J9YL2iFjckewNxE3b15UDnxQ6aM",
-              "referrer": "https://instagram.com",
-              "utmSessionSource": "Social media",
-              "isLast": true,
-              "ip": "2600:8800:7f0a:4700:2400:aee4:d6ae:f1a5",
-              "medium": "form",
-              "mediumId": "muiUniGFhCNqBm9Ak62g",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23H30 Instagram 452.0.1.39.54 (iPhone17,1; iOS 26_7_1; en_US; en; scale=3.00; 1206x2622; IABMV/1; 1093431980) Safari/604.1",
-              "url": "https://gogetemcommunity.com/growth-blocker.html",
-              "utmSource": "manychat"
             }
           ]
         },
@@ -63776,17 +63818,17 @@
           "name": "Anna Bierman",
           "monetaryValue": 0,
           "pipelineId": "4ODbBsC9MIjSBtnIOETl",
-          "pipelineStageId": "80949724-7894-4a42-8028-746a06208f9e",
-          "pipelineStageUId": "80949724-7894-4a42-8028-746a06208f9e",
+          "pipelineStageId": "71028263-9714-45b3-91aa-dda01d4bb4a6",
+          "pipelineStageUId": "71028263-9714-45b3-91aa-dda01d4bb4a6",
           "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
           "status": "open",
           "source": null,
           "lastStatusChangeAt": "2026-02-27T20:03:43.311Z",
-          "lastStageChangeAt": "2026-04-27T20:18:02.296Z",
+          "lastStageChangeAt": "2026-10-26T16:36:14.605Z",
           "createdAt": "2026-02-27T20:03:43.311Z",
-          "updatedAt": "2026-04-27T20:19:06.364Z",
+          "updatedAt": "2026-10-26T16:36:14.637Z",
           "forecastProbability": null,
-          "effectiveProbability": 25,
+          "effectiveProbability": 62.5,
           "contactId": "GPBOkkvh8gN9J77XlBJt",
           "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
           "customFields": [],
@@ -63807,7 +63849,8 @@
               "tags": [
                 "smc",
                 "assigned to ferny",
-                "ggtc-revive-oct26"
+                "ggtc-revive-oct26",
+                "sales: not interested"
               ],
               "attributed": true
             }
@@ -63821,7 +63864,8 @@
             "tags": [
               "smc",
               "assigned to ferny",
-              "ggtc-revive-oct26"
+              "ggtc-revive-oct26",
+              "sales: not interested"
             ],
             "score": []
           },
@@ -64517,17 +64561,17 @@
           "name": "Stacy Brown",
           "monetaryValue": 0,
           "pipelineId": "4ODbBsC9MIjSBtnIOETl",
-          "pipelineStageId": "80949724-7894-4a42-8028-746a06208f9e",
-          "pipelineStageUId": "80949724-7894-4a42-8028-746a06208f9e",
+          "pipelineStageId": "71028263-9714-45b3-91aa-dda01d4bb4a6",
+          "pipelineStageUId": "71028263-9714-45b3-91aa-dda01d4bb4a6",
           "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
           "status": "open",
           "source": null,
           "lastStatusChangeAt": "2026-02-27T20:03:43.302Z",
-          "lastStageChangeAt": "2026-04-27T20:11:47.371Z",
+          "lastStageChangeAt": "2026-10-26T16:37:19.703Z",
           "createdAt": "2026-02-27T20:03:43.302Z",
-          "updatedAt": "2026-04-27T20:12:52.079Z",
+          "updatedAt": "2026-10-26T16:37:19.715Z",
           "forecastProbability": null,
-          "effectiveProbability": 25,
+          "effectiveProbability": 62.5,
           "contactId": "TpTseUhIgdg6q899k6mJ",
           "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
           "customFields": [],
@@ -64548,7 +64592,8 @@
               "tags": [
                 "smc",
                 "assigned to ferny",
-                "ggtc-revive-oct26"
+                "ggtc-revive-oct26",
+                "sales: not interested"
               ],
               "attributed": true
             }
@@ -64562,7 +64607,8 @@
             "tags": [
               "smc",
               "assigned to ferny",
-              "ggtc-revive-oct26"
+              "ggtc-revive-oct26",
+              "sales: not interested"
             ],
             "score": []
           },
@@ -67637,17 +67683,17 @@
           "name": "Chirley Lima",
           "monetaryValue": 0,
           "pipelineId": "4ODbBsC9MIjSBtnIOETl",
-          "pipelineStageId": "80949724-7894-4a42-8028-746a06208f9e",
-          "pipelineStageUId": "80949724-7894-4a42-8028-746a06208f9e",
+          "pipelineStageId": "71028263-9714-45b3-91aa-dda01d4bb4a6",
+          "pipelineStageUId": "71028263-9714-45b3-91aa-dda01d4bb4a6",
           "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
           "status": "open",
           "source": null,
           "lastStatusChangeAt": "2026-02-27T20:03:43.251Z",
-          "lastStageChangeAt": "2026-04-27T20:11:47.941Z",
+          "lastStageChangeAt": "2026-10-26T16:41:48.272Z",
           "createdAt": "2026-02-27T20:03:43.251Z",
-          "updatedAt": "2026-04-27T20:12:52.431Z",
+          "updatedAt": "2026-10-26T16:41:48.295Z",
           "forecastProbability": null,
-          "effectiveProbability": 25,
+          "effectiveProbability": 62.5,
           "contactId": "e3p2UjeG6mjphwEP11dw",
           "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
           "customFields": [],
@@ -67670,7 +67716,8 @@
               "tags": [
                 "smc",
                 "assigned to ferny",
-                "ggtc-revive-oct26"
+                "ggtc-revive-oct26",
+                "sales: not interested"
               ],
               "attributed": true
             }
@@ -67684,7 +67731,8 @@
             "tags": [
               "smc",
               "assigned to ferny",
-              "ggtc-revive-oct26"
+              "ggtc-revive-oct26",
+              "sales: not interested"
             ],
             "score": []
           },
@@ -68133,17 +68181,17 @@
           "name": "Lisa Bowman",
           "monetaryValue": 0,
           "pipelineId": "4ODbBsC9MIjSBtnIOETl",
-          "pipelineStageId": "80949724-7894-4a42-8028-746a06208f9e",
-          "pipelineStageUId": "80949724-7894-4a42-8028-746a06208f9e",
+          "pipelineStageId": "71028263-9714-45b3-91aa-dda01d4bb4a6",
+          "pipelineStageUId": "71028263-9714-45b3-91aa-dda01d4bb4a6",
           "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
           "status": "open",
           "source": null,
           "lastStatusChangeAt": "2026-02-27T20:03:42.784Z",
-          "lastStageChangeAt": "2026-04-27T20:11:48.506Z",
+          "lastStageChangeAt": "2026-10-26T18:58:21.126Z",
           "createdAt": "2026-02-27T20:03:42.784Z",
-          "updatedAt": "2026-04-27T20:12:53.110Z",
+          "updatedAt": "2026-10-26T18:58:21.134Z",
           "forecastProbability": null,
-          "effectiveProbability": 25,
+          "effectiveProbability": 62.5,
           "contactId": "eaHa2edHAYnAVHoe4xmQ",
           "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
           "customFields": [],
@@ -68169,7 +68217,8 @@
                 "aa webby opt-in",
                 "smc",
                 "assigned to ferny",
-                "ggtc-revive-oct26"
+                "ggtc-revive-oct26",
+                "sales: not interested"
               ],
               "attributed": true
             }
@@ -68186,7 +68235,8 @@
               "aa webby opt-in",
               "smc",
               "assigned to ferny",
-              "ggtc-revive-oct26"
+              "ggtc-revive-oct26",
+              "sales: not interested"
             ],
             "score": []
           },
@@ -68310,17 +68360,17 @@
           "name": "April Martin",
           "monetaryValue": 0,
           "pipelineId": "4ODbBsC9MIjSBtnIOETl",
-          "pipelineStageId": "80949724-7894-4a42-8028-746a06208f9e",
-          "pipelineStageUId": "80949724-7894-4a42-8028-746a06208f9e",
+          "pipelineStageId": "71028263-9714-45b3-91aa-dda01d4bb4a6",
+          "pipelineStageUId": "71028263-9714-45b3-91aa-dda01d4bb4a6",
           "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
           "status": "open",
           "source": null,
           "lastStatusChangeAt": "2026-02-27T20:03:42.776Z",
-          "lastStageChangeAt": "2026-04-27T20:11:47.829Z",
+          "lastStageChangeAt": "2026-10-26T17:31:54.595Z",
           "createdAt": "2026-02-27T20:03:42.776Z",
-          "updatedAt": "2026-04-27T20:12:52.848Z",
+          "updatedAt": "2026-10-26T17:31:54.621Z",
           "forecastProbability": null,
-          "effectiveProbability": 25,
+          "effectiveProbability": 62.5,
           "contactId": "hCfDEVnu0x18Td1DY7cc",
           "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
           "customFields": [],
@@ -68345,7 +68395,8 @@
                 "assigned to ferny",
                 "niche-finder-paid",
                 "niche-finder",
-                "ggtc-revive-oct26"
+                "ggtc-revive-oct26",
+                "sales: not interested"
               ],
               "attributed": true
             }
@@ -68363,7 +68414,8 @@
               "assigned to ferny",
               "niche-finder-paid",
               "niche-finder",
-              "ggtc-revive-oct26"
+              "ggtc-revive-oct26",
+              "sales: not interested"
             ],
             "score": []
           },
@@ -68378,15 +68430,15 @@
               "medium": "csv_import"
             },
             {
-              "pageUrl": "https://gogetemcommunity.com/socialmedia/?mcp_token=eyJwaWQiOjE2OTQ4NTIzNjQ0NTU3Nywic2lkIjo3MjMwMzM5MzQsImF4IjoiMzgwMGNmOGE2MTI1MTRlNjM0MTNlYjZmMmFiM2I2YzEiLCJ0cyI6MTc3MDI2MTUxNiwiZXhwIjoxNzcyNjgwNzE2fQ.Wa3C_PxWcDN5kDLDwtaLjJmzSOivBaSb6Yogvt7rKho",
-              "referrer": "https://www.facebook.com",
+              "pageUrl": "https://checkout.gogetemcommunity.com/niche-finder?mcp_token=eyJwaWQiOjE2OTQ4NTIzNjQ0NTU3Nywic2lkIjo3MjMwMzM5MzQsImF4IjoiMWYzNTkyM2VjMjA5ZWZlNjliYmYxNjY5NzI5NzU2NzMiLCJ0cyI6MTc4MjEyODU1MSwiZXhwIjoxNzg0NTQ3NzUxfQ.DzYXZIE3XIy15m8NzcBKv1NnjtZIGCXyeZAeS07XRPo",
+              "referrer": "http://m.facebook.com",
               "utmSessionSource": "Social media",
               "isLast": true,
-              "ip": "208.118.203.212",
-              "medium": "form",
-              "mediumId": "rtTNrLeOuDNq53WY7xwd",
-              "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0",
-              "url": "https://gogetemcommunity.com/socialmedia/"
+              "ip": "2601:700:4100:63d0:c314:8479:312b:f665",
+              "medium": "order_form",
+              "mediumId": "9108d949-094b-4236-a4f5-fc2d37fbdc0f",
+              "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S948U1 Build/BP4A.251205.006; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/149.0.7827.91 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/566.0.0.57.86;]",
+              "url": "https://checkout.gogetemcommunity.com/niche-finder"
             }
           ]
         },
@@ -68822,17 +68874,17 @@
           "name": "Lauren Adair",
           "monetaryValue": 0,
           "pipelineId": "4ODbBsC9MIjSBtnIOETl",
-          "pipelineStageId": "80949724-7894-4a42-8028-746a06208f9e",
-          "pipelineStageUId": "80949724-7894-4a42-8028-746a06208f9e",
+          "pipelineStageId": "71028263-9714-45b3-91aa-dda01d4bb4a6",
+          "pipelineStageUId": "71028263-9714-45b3-91aa-dda01d4bb4a6",
           "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
           "status": "open",
           "source": null,
           "lastStatusChangeAt": "2026-02-27T20:03:42.770Z",
-          "lastStageChangeAt": "2026-04-27T20:11:47.669Z",
+          "lastStageChangeAt": "2026-10-26T17:29:13.958Z",
           "createdAt": "2026-02-27T20:03:42.770Z",
-          "updatedAt": "2026-04-27T20:12:52.434Z",
+          "updatedAt": "2026-10-26T17:29:13.980Z",
           "forecastProbability": null,
-          "effectiveProbability": 25,
+          "effectiveProbability": 62.5,
           "contactId": "CqutuQaNuiyqSl1F6zaZ",
           "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
           "customFields": [],
@@ -68860,7 +68912,8 @@
                 "aa apply",
                 "aa call booked",
                 "assigned to ferny",
-                "ggtc-revive-oct26"
+                "ggtc-revive-oct26",
+                "sales: not interested"
               ],
               "attributed": true
             }
@@ -68881,7 +68934,8 @@
               "aa apply",
               "aa call booked",
               "assigned to ferny",
-              "ggtc-revive-oct26"
+              "ggtc-revive-oct26",
+              "sales: not interested"
             ],
             "score": []
           },
@@ -69228,17 +69282,17 @@
           "name": "Tia Parker",
           "monetaryValue": 0,
           "pipelineId": "4ODbBsC9MIjSBtnIOETl",
-          "pipelineStageId": "80949724-7894-4a42-8028-746a06208f9e",
-          "pipelineStageUId": "80949724-7894-4a42-8028-746a06208f9e",
+          "pipelineStageId": "71028263-9714-45b3-91aa-dda01d4bb4a6",
+          "pipelineStageUId": "71028263-9714-45b3-91aa-dda01d4bb4a6",
           "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
           "status": "open",
           "source": null,
           "lastStatusChangeAt": "2026-02-27T20:03:42.760Z",
-          "lastStageChangeAt": "2026-04-27T20:11:47.967Z",
+          "lastStageChangeAt": "2026-10-26T16:40:54.860Z",
           "createdAt": "2026-02-27T20:03:42.760Z",
-          "updatedAt": "2026-04-27T20:19:06.832Z",
+          "updatedAt": "2026-10-26T16:40:54.873Z",
           "forecastProbability": null,
-          "effectiveProbability": 25,
+          "effectiveProbability": 62.5,
           "contactId": "kmPJ65b8FR9DOlwytnTT",
           "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
           "customFields": [],
@@ -69262,7 +69316,8 @@
                 "re stimulus pkg",
                 "smc",
                 "assigned to ferny",
-                "ggtc-revive-oct26"
+                "ggtc-revive-oct26",
+                "sales: not interested"
               ],
               "attributed": true
             }
@@ -69279,7 +69334,8 @@
               "re stimulus pkg",
               "smc",
               "assigned to ferny",
-              "ggtc-revive-oct26"
+              "ggtc-revive-oct26",
+              "sales: not interested"
             ],
             "score": []
           },
@@ -72363,17 +72419,17 @@
           "name": "Kendall",
           "monetaryValue": 0,
           "pipelineId": "4ODbBsC9MIjSBtnIOETl",
-          "pipelineStageId": "80949724-7894-4a42-8028-746a06208f9e",
-          "pipelineStageUId": "80949724-7894-4a42-8028-746a06208f9e",
+          "pipelineStageId": "71028263-9714-45b3-91aa-dda01d4bb4a6",
+          "pipelineStageUId": "71028263-9714-45b3-91aa-dda01d4bb4a6",
           "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
           "status": "open",
           "source": null,
           "lastStatusChangeAt": "2026-02-27T20:03:34.462Z",
-          "lastStageChangeAt": "2026-04-27T20:11:49.322Z",
+          "lastStageChangeAt": "2026-10-26T17:16:16.200Z",
           "createdAt": "2026-02-27T20:03:34.462Z",
-          "updatedAt": "2026-04-27T20:12:52.993Z",
+          "updatedAt": "2026-10-26T17:16:16.223Z",
           "forecastProbability": null,
-          "effectiveProbability": 25,
+          "effectiveProbability": 62.5,
           "contactId": "kXLqzwEXiwFJIh7UC7Jj",
           "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
           "customFields": [],
@@ -72396,7 +72452,8 @@
               "tags": [
                 "smc",
                 "assigned to ferny",
-                "ggtc-revive-oct26"
+                "ggtc-revive-oct26",
+                "sales: not interested"
               ],
               "attributed": true
             }
@@ -72410,7 +72467,8 @@
             "tags": [
               "smc",
               "assigned to ferny",
-              "ggtc-revive-oct26"
+              "ggtc-revive-oct26",
+              "sales: not interested"
             ],
             "score": []
           },
@@ -78095,17 +78153,17 @@
           "name": "Lefkios Antoniou",
           "monetaryValue": 0,
           "pipelineId": "4ODbBsC9MIjSBtnIOETl",
-          "pipelineStageId": "80949724-7894-4a42-8028-746a06208f9e",
-          "pipelineStageUId": "80949724-7894-4a42-8028-746a06208f9e",
+          "pipelineStageId": "71028263-9714-45b3-91aa-dda01d4bb4a6",
+          "pipelineStageUId": "71028263-9714-45b3-91aa-dda01d4bb4a6",
           "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
           "status": "open",
           "source": null,
           "lastStatusChangeAt": "2026-02-27T20:03:32.850Z",
-          "lastStageChangeAt": "2026-04-27T20:11:46.413Z",
+          "lastStageChangeAt": "2026-10-26T17:17:00.276Z",
           "createdAt": "2026-02-27T20:03:32.850Z",
-          "updatedAt": "2026-04-27T20:12:50.581Z",
+          "updatedAt": "2026-10-26T17:17:00.288Z",
           "forecastProbability": null,
-          "effectiveProbability": 25,
+          "effectiveProbability": 62.5,
           "contactId": "jXFaoiPLmFoL3tzYD9zo",
           "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
           "customFields": [],
@@ -78130,7 +78188,8 @@
                 "keyword:social",
                 "sales: booked appointment",
                 "assigned to ferny",
-                "ggtc-revive-oct26"
+                "ggtc-revive-oct26",
+                "sales: not interested"
               ],
               "attributed": true
             }
@@ -78146,7 +78205,8 @@
               "keyword:social",
               "sales: booked appointment",
               "assigned to ferny",
-              "ggtc-revive-oct26"
+              "ggtc-revive-oct26",
+              "sales: not interested"
             ],
             "score": []
           },
@@ -78830,17 +78890,17 @@
           "name": "Azure Hevesy",
           "monetaryValue": 0,
           "pipelineId": "4ODbBsC9MIjSBtnIOETl",
-          "pipelineStageId": "80949724-7894-4a42-8028-746a06208f9e",
-          "pipelineStageUId": "80949724-7894-4a42-8028-746a06208f9e",
+          "pipelineStageId": "71028263-9714-45b3-91aa-dda01d4bb4a6",
+          "pipelineStageUId": "71028263-9714-45b3-91aa-dda01d4bb4a6",
           "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
           "status": "open",
           "source": null,
           "lastStatusChangeAt": "2026-02-27T20:03:32.837Z",
-          "lastStageChangeAt": "2026-04-27T20:11:46.051Z",
+          "lastStageChangeAt": "2026-10-26T16:42:55.542Z",
           "createdAt": "2026-02-27T20:03:32.836Z",
-          "updatedAt": "2026-04-27T20:12:50.643Z",
+          "updatedAt": "2026-10-26T16:42:55.563Z",
           "forecastProbability": null,
-          "effectiveProbability": 25,
+          "effectiveProbability": 62.5,
           "contactId": "EHf1XAmPPKsApYmqyHJb",
           "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
           "customFields": [],
@@ -78863,7 +78923,8 @@
               "tags": [
                 "smc",
                 "assigned to ferny",
-                "ggtc-revive-oct26"
+                "ggtc-revive-oct26",
+                "sales: not interested"
               ],
               "attributed": true
             }
@@ -78877,7 +78938,8 @@
             "tags": [
               "smc",
               "assigned to ferny",
-              "ggtc-revive-oct26"
+              "ggtc-revive-oct26",
+              "sales: not interested"
             ],
             "score": []
           },
@@ -79696,6 +79758,51 @@
       ],
       "conversationsAll": [
         {
+          "id": "NlMP3IFKanWN9H6UNenB",
+          "lastMessageDate": 1793040648449,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "GAcPSkQgmFOolmKXwgKf",
+          "lastMessageDate": 1793039319534,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "Ks9ffTZ6wodkBcgJi9xE",
+          "lastMessageDate": 1793036517208,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "m8eCy5pSMdar9PcmT2Ls",
+          "lastMessageDate": 1793035734950,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "eW3wS3yVAJRFXQEj9YwC",
+          "lastMessageDate": 1793035104609,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "GyMZl6StuqpcUCe1ZJFs",
+          "lastMessageDate": 1793034578804,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "mVIteFL5SFtt6Pzh6DeH",
+          "lastMessageDate": 1793034137986,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "4g3vmm1WMijvlceP32xa",
+          "lastMessageDate": 1793033516602,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "xdDpvNLrkdOVi07TO4Jr",
+          "lastMessageDate": 1793032841748,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "RKgvDARSLYBqxrVhjiUS",
           "lastMessageDate": 1793031853977,
           "type": "TYPE_PHONE"
@@ -79831,18 +79938,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "4g3vmm1WMijvlceP32xa",
-          "lastMessageDate": 1793031055534,
-          "type": "TYPE_PHONE"
-        },
-        {
           "id": "rfJnS1XQg9J0D48EUR7n",
           "lastMessageDate": 1793031054797,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "m8eCy5pSMdar9PcmT2Ls",
-          "lastMessageDate": 1793031054615,
           "type": "TYPE_PHONE"
         },
         {
@@ -79853,11 +79950,6 @@
         {
           "id": "ZB4MoisPHeWg5bJgLVf7",
           "lastMessageDate": 1793031053637,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "NlMP3IFKanWN9H6UNenB",
-          "lastMessageDate": 1793031053319,
           "type": "TYPE_PHONE"
         },
         {
@@ -79873,11 +79965,6 @@
         {
           "id": "HWYNeXOPATrGS62g6c7p",
           "lastMessageDate": 1793031052853,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "GyMZl6StuqpcUCe1ZJFs",
-          "lastMessageDate": 1793031052603,
           "type": "TYPE_PHONE"
         },
         {
@@ -80091,11 +80178,6 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "mVIteFL5SFtt6Pzh6DeH",
-          "lastMessageDate": 1793031048153,
-          "type": "TYPE_PHONE"
-        },
-        {
           "id": "v17mZM9oCYlaSFWNLeUu",
           "lastMessageDate": 1793031048123,
           "type": "TYPE_PHONE"
@@ -80176,23 +80258,48 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "zge2kjZU2IcszDf8Vrze",
-          "lastMessageDate": 1793031047446,
+          "id": "NlMP3IFKanWN9H6UNenB",
+          "lastMessageDate": 1793040648449,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "cCbOoWVXone5mXy4FzQ7",
-          "lastMessageDate": 1793031047319,
+          "id": "GAcPSkQgmFOolmKXwgKf",
+          "lastMessageDate": 1793039319534,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "FQyHMjdjWvWYV2FHVB6J",
-          "lastMessageDate": 1793031047317,
+          "id": "Ks9ffTZ6wodkBcgJi9xE",
+          "lastMessageDate": 1793036517208,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "8nDDzmSTu9TmmhCpXpd9",
-          "lastMessageDate": 1793031047252,
+          "id": "m8eCy5pSMdar9PcmT2Ls",
+          "lastMessageDate": 1793035734950,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "eW3wS3yVAJRFXQEj9YwC",
+          "lastMessageDate": 1793035104609,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "GyMZl6StuqpcUCe1ZJFs",
+          "lastMessageDate": 1793034578804,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "mVIteFL5SFtt6Pzh6DeH",
+          "lastMessageDate": 1793034137986,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "4g3vmm1WMijvlceP32xa",
+          "lastMessageDate": 1793033516602,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "xdDpvNLrkdOVi07TO4Jr",
+          "lastMessageDate": 1793032841748,
           "type": "TYPE_PHONE"
         },
         {
@@ -80331,18 +80438,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "4g3vmm1WMijvlceP32xa",
-          "lastMessageDate": 1793031055534,
-          "type": "TYPE_PHONE"
-        },
-        {
           "id": "rfJnS1XQg9J0D48EUR7n",
           "lastMessageDate": 1793031054797,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "m8eCy5pSMdar9PcmT2Ls",
-          "lastMessageDate": 1793031054615,
           "type": "TYPE_PHONE"
         },
         {
@@ -80353,11 +80450,6 @@
         {
           "id": "ZB4MoisPHeWg5bJgLVf7",
           "lastMessageDate": 1793031053637,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "NlMP3IFKanWN9H6UNenB",
-          "lastMessageDate": 1793031053319,
           "type": "TYPE_PHONE"
         },
         {
@@ -80373,11 +80465,6 @@
         {
           "id": "HWYNeXOPATrGS62g6c7p",
           "lastMessageDate": 1793031052853,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "GyMZl6StuqpcUCe1ZJFs",
-          "lastMessageDate": 1793031052603,
           "type": "TYPE_PHONE"
         },
         {
@@ -80506,12 +80593,12 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "P1Le6dFw4DpKIHAxgaJf",
+          "id": "NfmJKVdAPeig1ZPyerCn",
           "lastMessageDate": 1793031049795,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "NfmJKVdAPeig1ZPyerCn",
+          "id": "P1Le6dFw4DpKIHAxgaJf",
           "lastMessageDate": 1793031049795,
           "type": "TYPE_PHONE"
         },
@@ -80588,11 +80675,6 @@
         {
           "id": "X7T394xRPIjW6ubNSHvb",
           "lastMessageDate": 1793031048187,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "mVIteFL5SFtt6Pzh6DeH",
-          "lastMessageDate": 1793031048153,
           "type": "TYPE_PHONE"
         },
         {
@@ -80673,26 +80755,6 @@
         {
           "id": "sS647GthK0STX6ebohHt",
           "lastMessageDate": 1793031047469,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "zge2kjZU2IcszDf8Vrze",
-          "lastMessageDate": 1793031047446,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "cCbOoWVXone5mXy4FzQ7",
-          "lastMessageDate": 1793031047319,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "FQyHMjdjWvWYV2FHVB6J",
-          "lastMessageDate": 1793031047317,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "8nDDzmSTu9TmmhCpXpd9",
-          "lastMessageDate": 1793031047252,
           "type": "TYPE_PHONE"
         }
       ]
