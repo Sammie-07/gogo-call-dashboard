@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-27T14:06:27.377Z",
+  "syncedAt": "2026-10-27T19:54:17.121Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -1451,7 +1451,7 @@
               "fullName": "Jamie J Schroder",
               "contactName": "Jamie J Schroder",
               "companyName": null,
-              "email": "simplifywithjame@gmail.com",
+              "email": "simplifywithjamie@gmail.com",
               "phone": null,
               "tags": [
                 "keyword:social",
@@ -1465,7 +1465,7 @@
             "id": "m5qopV49GWBGoFL9K4x4",
             "name": "Jamie J Schroder",
             "companyName": null,
-            "email": "simplifywithjame@gmail.com",
+            "email": "simplifywithjamie@gmail.com",
             "phone": null,
             "tags": [
               "keyword:social",
@@ -53614,6 +53614,16 @@
       ],
       "conversationsAll": [
         {
+          "id": "qDKbcRwB2fZTY7P9hQNo",
+          "lastMessageDate": 1793124190569,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "pIAb3KYSDAMlHqYMZaqG",
+          "lastMessageDate": 1793122092057,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "Q9LfdjdnEzhv2S8lPK4a",
           "lastMessageDate": 1793109823547,
           "type": "TYPE_PHONE"
@@ -53621,16 +53631,6 @@
         {
           "id": "92OBB4LBCRAq0iGeVj8p",
           "lastMessageDate": 1793109067618,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "qDKbcRwB2fZTY7P9hQNo",
-          "lastMessageDate": 1793100190915,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "pIAb3KYSDAMlHqYMZaqG",
-          "lastMessageDate": 1793064134374,
           "type": "TYPE_PHONE"
         },
         {
@@ -54114,6 +54114,16 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "qDKbcRwB2fZTY7P9hQNo",
+          "lastMessageDate": 1793124190569,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "pIAb3KYSDAMlHqYMZaqG",
+          "lastMessageDate": 1793122092057,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "Q9LfdjdnEzhv2S8lPK4a",
           "lastMessageDate": 1793109823547,
           "type": "TYPE_PHONE"
@@ -54121,16 +54131,6 @@
         {
           "id": "92OBB4LBCRAq0iGeVj8p",
           "lastMessageDate": 1793109067618,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "qDKbcRwB2fZTY7P9hQNo",
-          "lastMessageDate": 1793100190915,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "pIAb3KYSDAMlHqYMZaqG",
-          "lastMessageDate": 1793064134374,
           "type": "TYPE_PHONE"
         },
         {
@@ -54619,7 +54619,7 @@
       "calls": 14,
       "talkTimeMinutes": 23,
       "manualSms": 18,
-      "autoSms": 422,
+      "autoSms": 418,
       "manualEmail": 6,
       "autoEmail": 1466,
       "byDay": [
@@ -54915,7 +54915,7 @@
           "date": "2026-10-22",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 196,
+          "autoSms": 194,
           "manualEmail": 0,
           "autoEmail": 2
         },
@@ -54939,7 +54939,7 @@
           "date": "2026-10-26",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 196,
+          "autoSms": 194,
           "manualEmail": 0,
           "autoEmail": 0
         },
@@ -54953,6 +54953,79 @@
         }
       ],
       "opportunities": [
+        {
+          "id": "sqil8IQyW9Df7MxrsLPy",
+          "name": "Your_biz_growth",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "61ee0fbd-d136-4069-8222-c95ab05ce746",
+          "pipelineStageUId": "61ee0fbd-d136-4069-8222-c95ab05ce746",
+          "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
+          "status": "open",
+          "source": null,
+          "lastStatusChangeAt": "2026-10-27T17:26:35.870Z",
+          "lastStageChangeAt": "2026-10-27T17:26:35.870Z",
+          "createdAt": "2026-10-27T17:26:35.870Z",
+          "updatedAt": "2026-10-27T17:26:35.870Z",
+          "forecastProbability": null,
+          "effectiveProbability": 18.75,
+          "contactId": "HqXcTSaUb58Zh1gbZ9eM",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "sqil8IQyW9Df7MxrsLPy",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "HqXcTSaUb58Zh1gbZ9eM",
+              "fullName": "your_biz_growth",
+              "contactName": "your_biz_growth",
+              "companyName": null,
+              "email": "nicostuart.perth@gmail.com",
+              "phone": null,
+              "tags": [
+                "keyword:social",
+                "new lead",
+                "sales: no show"
+              ],
+              "attributed": null
+            }
+          ],
+          "contact": {
+            "id": "HqXcTSaUb58Zh1gbZ9eM",
+            "name": "your_biz_growth",
+            "companyName": null,
+            "email": "nicostuart.perth@gmail.com",
+            "phone": null,
+            "tags": [
+              "keyword:social",
+              "new lead",
+              "sales: no show"
+            ],
+            "score": []
+          },
+          "sort": [
+            1793121995870,
+            "sqil8IQyW9Df7MxrsLPy"
+          ],
+          "attributions": [
+            {
+              "utmSessionSource": "Social media",
+              "medium": "instagram",
+              "mediumId": "1136510175383235",
+              "isFirst": true
+            },
+            {
+              "utmSessionSource": "Social media",
+              "medium": "instagram",
+              "mediumId": "1136510175383235",
+              "isLast": true
+            }
+          ]
+        },
         {
           "id": "pinpDMiWqIG8amkVJkgV",
           "name": "Filipa D A Lourenço - REMAX",
@@ -79919,6 +79992,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "GmF7ZVpQQ2F0ba7MW6yR",
+          "lastMessageDate": 1793120114595,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "HS9GFcdqfEyV4myBBEcW",
           "lastMessageDate": 1793099187825,
           "type": "TYPE_PHONE"
@@ -80414,8 +80492,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "1CMWsbO9GYcY9gppX06N",
-          "lastMessageDate": 1793031047588,
+          "id": "GmF7ZVpQQ2F0ba7MW6yR",
+          "lastMessageDate": 1793120114595,
           "type": "TYPE_PHONE"
         },
         {
@@ -80911,11 +80989,6 @@
         {
           "id": "T3S3ry3rCrbuFFvn3Zg6",
           "lastMessageDate": 1793031047640,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "1CMWsbO9GYcY9gppX06N",
-          "lastMessageDate": 1793031047588,
           "type": "TYPE_PHONE"
         }
       ]
