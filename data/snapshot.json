@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-02T17:57:35.082Z",
+  "syncedAt": "2026-11-03T00:40:56.490Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -8,7 +8,7 @@
       "manualSms": 314,
       "autoSms": 364,
       "manualEmail": 90,
-      "autoEmail": 3084,
+      "autoEmail": 3086,
       "byDay": [
         {
           "date": "2024-02-23",
@@ -1448,7 +1448,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 38
+          "autoEmail": 40
         }
       ],
       "opportunities": [
@@ -53683,6 +53683,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "ggnzM9TLDxFAspgLfiOC",
+          "lastMessageDate": 1793658483411,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "jkU93bNach7ZHahfxbaH",
           "lastMessageDate": 1793631685721,
           "type": "TYPE_PHONE"
@@ -53775,11 +53780,6 @@
         {
           "id": "fzaG8my8JKeh6xiUNrOs",
           "lastMessageDate": 1793629075440,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "ggnzM9TLDxFAspgLfiOC",
-          "lastMessageDate": 1793395558599,
           "type": "TYPE_PHONE"
         },
         {
@@ -54183,6 +54183,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "ggnzM9TLDxFAspgLfiOC",
+          "lastMessageDate": 1793658483411,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "jkU93bNach7ZHahfxbaH",
           "lastMessageDate": 1793631685721,
           "type": "TYPE_PHONE"
@@ -54275,11 +54280,6 @@
         {
           "id": "fzaG8my8JKeh6xiUNrOs",
           "lastMessageDate": 1793629075440,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "ggnzM9TLDxFAspgLfiOC",
-          "lastMessageDate": 1793395558599,
           "type": "TYPE_PHONE"
         },
         {
@@ -55230,6 +55230,91 @@
         }
       ],
       "opportunities": [
+        {
+          "id": "uLvLYQX1D3js8lUNY47Y",
+          "name": "Katarina Harris",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "80949724-7894-4a42-8028-746a06208f9e",
+          "pipelineStageUId": "80949724-7894-4a42-8028-746a06208f9e",
+          "assignedTo": "Z6C8jEN8ccsSWv70qBr1",
+          "status": "open",
+          "source": "Wine Not Millionaire",
+          "lastStatusChangeAt": "2026-11-02T23:18:17.689Z",
+          "lastStageChangeAt": "2026-11-02T23:19:22.501Z",
+          "createdAt": "2026-11-02T23:18:17.689Z",
+          "updatedAt": "2026-11-02T23:19:22.556Z",
+          "forecastProbability": null,
+          "effectiveProbability": 25,
+          "contactId": "oVgnNzG0hnEQKGpSqda2",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "uLvLYQX1D3js8lUNY47Y",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "oVgnNzG0hnEQKGpSqda2",
+              "fullName": "Katarina Harris",
+              "contactName": "Katarina Harris",
+              "companyName": null,
+              "email": "katarina@katarinarealty.com",
+              "phone": "+17028180509",
+              "tags": [
+                "wine not millionaire",
+                "blocker quiz",
+                "new lead",
+                "assigned to ferny"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "oVgnNzG0hnEQKGpSqda2",
+            "name": "Katarina Harris",
+            "companyName": null,
+            "email": "katarina@katarinarealty.com",
+            "phone": "+17028180509",
+            "tags": [
+              "wine not millionaire",
+              "blocker quiz",
+              "new lead",
+              "assigned to ferny"
+            ],
+            "score": []
+          },
+          "sort": [
+            1793661497689,
+            "uLvLYQX1D3js8lUNY47Y"
+          ],
+          "attributions": [
+            {
+              "pageUrl": "https://gogetemcommunity.com/",
+              "utmSessionSource": "Direct traffic",
+              "ip": "2600:8801:1096:7200:bd56:d144:a286:dab1",
+              "isFirst": true,
+              "medium": "form",
+              "mediumId": "et7nfyX2zx3ffnpvvBly",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22B91 Instagram 390.0.0.28.85 (iPhone15,3; iOS 18_1_1; en_US; en; scale=3.00; 1290x2796; IABMV/1; 765313520)",
+              "url": "https://gogetemcommunity.com/"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/growth-blocker.html?utm_source=manychat&mcp_token=eyJwaWQiOjE2OTQ4NTIzNjQ0NTU3Nywic2lkIjozNTIxMjI2MjcsImF4IjoiZjIzZWZiZWM0ZjFhYTE1MzhhMGVmODk0ZmJlMDRhZjUiLCJ0cyI6MTc5MzY2MDg0MCwiZXhwIjoxNzk2MDgwMDQwfQ.FZwla7cSU-bHIeebA3VE3bOw1FeIIPh9ZdF59qg56LM",
+              "referrer": "https://instagram.com",
+              "utmSessionSource": "Social media",
+              "isLast": true,
+              "ip": "2607:fb91:20c5:f1e4:3ccf:cf38:ab5a:38af",
+              "medium": "form",
+              "mediumId": "muiUniGFhCNqBm9Ak62g",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23E246 Instagram 452.0.1.39.54 (iPhone15,3; iOS 26_4; en_US; en; scale=3.00; 1290x2796; IABMV/1; 1093431980) Safari/604.1",
+              "url": "https://gogetemcommunity.com/growth-blocker.html",
+              "utmSource": "manychat"
+            }
+          ]
+        },
         {
           "id": "sqil8IQyW9Df7MxrsLPy",
           "name": "Your_biz_growth",
