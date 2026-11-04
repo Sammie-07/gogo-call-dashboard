@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-11-04T08:51:57.410Z",
+  "syncedAt": "2026-11-04T16:57:12.330Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 166,
       "talkTimeMinutes": 137,
       "manualSms": 312,
-      "autoSms": 364,
+      "autoSms": 360,
       "manualEmail": 90,
-      "autoEmail": 3102,
+      "autoEmail": 3094,
       "byDay": [
         {
           "date": "2024-02-23",
@@ -584,7 +584,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 6,
-          "autoEmail": 20
+          "autoEmail": 18
         },
         {
           "date": "2026-06-18",
@@ -1102,7 +1102,7 @@
           "date": "2026-09-11",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 4,
+          "autoSms": 2,
           "manualEmail": 0,
           "autoEmail": 6
         },
@@ -1112,15 +1112,15 @@
           "manualSms": 6,
           "autoSms": 22,
           "manualEmail": 2,
-          "autoEmail": 70
+          "autoEmail": 66
         },
         {
           "date": "2026-09-15",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 2,
+          "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 32
+          "autoEmail": 30
         },
         {
           "date": "2026-09-16",
@@ -1128,7 +1128,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 22
+          "autoEmail": 20
         },
         {
           "date": "2026-09-17",
@@ -1457,6 +1457,14 @@
           "autoSms": 0,
           "manualEmail": 0,
           "autoEmail": 30
+        },
+        {
+          "date": "2026-11-04",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 0,
+          "manualEmail": 0,
+          "autoEmail": 2
         }
       ],
       "opportunities": [
@@ -17611,8 +17619,8 @@
               "primary": true,
               "objectKey": "contact",
               "recordId": "AedyzxNeDkMRs9OJ9c4b",
-              "fullName": "Sharon Donnelly",
-              "contactName": "Sharon Donnelly",
+              "fullName": "Sharon D",
+              "contactName": "Sharon D",
               "companyName": null,
               "email": "agirlandhertruck21@gmail.com",
               "phone": "+12892314292",
@@ -17622,14 +17630,15 @@
                 "gogetem affiliate",
                 "goget'em - diy",
                 "assigned to natalia",
-                "blocker quiz"
+                "blocker quiz",
+                "ggtc_free_training_signup"
               ],
               "attributed": true
             }
           ],
           "contact": {
             "id": "AedyzxNeDkMRs9OJ9c4b",
-            "name": "Sharon Donnelly",
+            "name": "Sharon D",
             "companyName": null,
             "email": "agirlandhertruck21@gmail.com",
             "phone": "+12892314292",
@@ -17639,7 +17648,8 @@
               "gogetem affiliate",
               "goget'em - diy",
               "assigned to natalia",
-              "blocker quiz"
+              "blocker quiz",
+              "ggtc_free_training_signup"
             ],
             "score": []
           },
@@ -53692,17 +53702,17 @@
       "conversationsAll": [
         {
           "id": "qDKbcRwB2fZTY7P9hQNo",
-          "lastMessageDate": 1793732316774,
+          "lastMessageDate": 1793805090552,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "igFsirsUqRFuYQSTVAJX",
+          "lastMessageDate": 1793795929245,
           "type": "TYPE_PHONE"
         },
         {
           "id": "jkU93bNach7ZHahfxbaH",
           "lastMessageDate": 1793728984525,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "igFsirsUqRFuYQSTVAJX",
-          "lastMessageDate": 1793728982992,
           "type": "TYPE_PHONE"
         },
         {
@@ -54192,17 +54202,17 @@
         },
         {
           "id": "qDKbcRwB2fZTY7P9hQNo",
-          "lastMessageDate": 1793732316774,
+          "lastMessageDate": 1793805090552,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "igFsirsUqRFuYQSTVAJX",
+          "lastMessageDate": 1793795929245,
           "type": "TYPE_PHONE"
         },
         {
           "id": "jkU93bNach7ZHahfxbaH",
           "lastMessageDate": 1793728984525,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "igFsirsUqRFuYQSTVAJX",
-          "lastMessageDate": 1793728982992,
           "type": "TYPE_PHONE"
         },
         {
