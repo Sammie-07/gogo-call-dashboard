@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-06T00:51:53.729Z",
+  "syncedAt": "2026-11-06T07:45:36.045Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -53786,6 +53786,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "2R4KL01RlrQtrBnAueBq",
+          "lastMessageDate": 1793941821570,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "igFsirsUqRFuYQSTVAJX",
           "lastMessageDate": 1793912599010,
           "type": "TYPE_PHONE"
@@ -54282,7 +54287,7 @@
         },
         {
           "id": "2R4KL01RlrQtrBnAueBq",
-          "lastMessageDate": 1789392248461,
+          "lastMessageDate": 1793941821570,
           "type": "TYPE_PHONE"
         },
         {
@@ -54778,11 +54783,6 @@
         {
           "id": "sl44bwJPE3PSUdwTCVT8",
           "lastMessageDate": 1789410661994,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "2R4KL01RlrQtrBnAueBq",
-          "lastMessageDate": 1789392248461,
           "type": "TYPE_PHONE"
         }
       ]
