@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-11-07T15:31:33.717Z",
+  "syncedAt": "2026-11-07T19:58:56.956Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
-      "calls": 166,
+      "calls": 162,
       "talkTimeMinutes": 140,
       "manualSms": 310,
       "autoSms": 340,
       "manualEmail": 90,
-      "autoEmail": 3098,
+      "autoEmail": 3078,
       "byDay": [
         {
           "date": "2024-02-28",
@@ -200,7 +200,7 @@
           "manualSms": 0,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 54
+          "autoEmail": 52
         },
         {
           "date": "2026-04-25",
@@ -216,7 +216,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 68
+          "autoEmail": 66
         },
         {
           "date": "2026-04-28",
@@ -256,7 +256,7 @@
           "manualSms": 0,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 60
+          "autoEmail": 58
         },
         {
           "date": "2026-05-04",
@@ -272,7 +272,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 58
+          "autoEmail": 56
         },
         {
           "date": "2026-05-06",
@@ -312,7 +312,7 @@
           "manualSms": 0,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 56
+          "autoEmail": 54
         },
         {
           "date": "2026-05-11",
@@ -352,7 +352,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 54
+          "autoEmail": 52
         },
         {
           "date": "2026-05-16",
@@ -376,7 +376,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 62
+          "autoEmail": 60
         },
         {
           "date": "2026-05-19",
@@ -400,7 +400,7 @@
           "manualSms": 0,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 56
+          "autoEmail": 54
         },
         {
           "date": "2026-05-22",
@@ -440,7 +440,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 60
+          "autoEmail": 58
         },
         {
           "date": "2026-05-27",
@@ -464,7 +464,7 @@
           "manualSms": 8,
           "autoSms": 6,
           "manualEmail": 0,
-          "autoEmail": 62
+          "autoEmail": 60
         },
         {
           "date": "2026-05-30",
@@ -1100,7 +1100,7 @@
         },
         {
           "date": "2026-09-14",
-          "calls": 28,
+          "calls": 24,
           "manualSms": 6,
           "autoSms": 22,
           "manualEmail": 2,
@@ -1484,6 +1484,182 @@
         }
       ],
       "opportunities": [
+        {
+          "id": "mg9KQecxdAe5fo81xoxh",
+          "name": "Meghan Ruivo",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "assignedTo": "C7PplofCN88pv8MTTiZT",
+          "status": "open",
+          "source": "GGTC Blocker Quiz",
+          "lastStatusChangeAt": "2026-11-07T17:09:24.893Z",
+          "lastStageChangeAt": "2026-11-07T17:10:29.665Z",
+          "createdAt": "2026-11-07T17:09:24.893Z",
+          "updatedAt": "2026-11-07T17:10:29.734Z",
+          "forecastProbability": null,
+          "effectiveProbability": 31.25,
+          "contactId": "1uF9bBK3Tj4yASbEIIpY",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "mg9KQecxdAe5fo81xoxh",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "1uF9bBK3Tj4yASbEIIpY",
+              "fullName": "Meghan Ruivo",
+              "contactName": "Meghan Ruivo",
+              "companyName": null,
+              "email": "meg@megruivoliving.com",
+              "phone": "+14015291303",
+              "tags": [
+                "blocker quiz",
+                "new lead",
+                "assigned to natalia"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "1uF9bBK3Tj4yASbEIIpY",
+            "name": "Meghan Ruivo",
+            "companyName": null,
+            "email": "meg@megruivoliving.com",
+            "phone": "+14015291303",
+            "tags": [
+              "blocker quiz",
+              "new lead",
+              "assigned to natalia"
+            ],
+            "score": []
+          },
+          "sort": [
+            1794071364893,
+            "mg9KQecxdAe5fo81xoxh"
+          ],
+          "attributions": [
+            {
+              "pageUrl": "https://gogetemcommunity.com/growth-blocker.html?utm_source=email&mcp_token=eyJwaWQiOjMyODA5MDcsInNpZCI6MTQ0NDMwNzQ0NCwiYXgiOiI1NGQ4YTQzYzViNTc5YjYxZGQ2YzcxMGZiOTY2NzM2NSIsInRzIjoxNzg4ODExNTA5LCJleHAiOjE3OTEyMzA3MDl9.3qtzKvqMdnpFW-6C3oBo5n3_2N-uinr1W9MEVWJEQ1I&fbclid=PAVERFWAUL-E1wZG9mAmZkaWQWUN-hoMLu1RKTMK5qusmauZRj3FgGjWV4dG4DYWVtAjEwAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp7qf5zCzLd3RqryvCPOxr9RwSTxi5ROWbCgY4eiZmsNK0UmSLgbghTbnLwFU_aem_E0ndHjmjK37bUVCfyEARBg&utm_medium=email%20marketing&utm_campaign=Saturday%20Template%20(07-11-2026)",
+              "utmSessionSource": "Social media",
+              "utmFbclid": "PAVERFWAUL-E1wZG9mAmZkaWQWUN-hoMLu1RKTMK5qusmauZRj3FgGjWV4dG4DYWVtAjEwAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp7qf5zCzLd3RqryvCPOxr9RwSTxi5ROWbCgY4eiZmsNK0UmSLgbghTbnLwFU_aem_E0ndHjmjK37bUVCfyEARBg",
+              "utmCampaign": "Saturday Template (07-11-2026)",
+              "utmMedium": "email marketing",
+              "ip": "71.184.116.27",
+              "isFirst": true,
+              "medium": "form",
+              "mediumId": "muiUniGFhCNqBm9Ak62g",
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+              "url": "https://gogetemcommunity.com/growth-blocker.html",
+              "utmSource": "email"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/growth-blocker.html?utm_source=email&mcp_token=eyJwaWQiOjMyODA5MDcsInNpZCI6MTQ0NDMwNzQ0NCwiYXgiOiI1NGQ4YTQzYzViNTc5YjYxZGQ2YzcxMGZiOTY2NzM2NSIsInRzIjoxNzg4ODExNTA5LCJleHAiOjE3OTEyMzA3MDl9.3qtzKvqMdnpFW-6C3oBo5n3_2N-uinr1W9MEVWJEQ1I&fbclid=PAVERFWAUL-E1wZG9mAmZkaWQWUN-hoMLu1RKTMK5qusmauZRj3FgGjWV4dG4DYWVtAjEwAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp7qf5zCzLd3RqryvCPOxr9RwSTxi5ROWbCgY4eiZmsNK0UmSLgbghTbnLwFU_aem_E0ndHjmjK37bUVCfyEARBg&utm_medium=email marketing&utm_campaign=Saturday Template (07-11-2026)",
+              "utmSessionSource": "Social media",
+              "isLast": true,
+              "utmFbclid": "PAVERFWAUL-E1wZG9mAmZkaWQWUN-hoMLu1RKTMK5qusmauZRj3FgGjWV4dG4DYWVtAjEwAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp7qf5zCzLd3RqryvCPOxr9RwSTxi5ROWbCgY4eiZmsNK0UmSLgbghTbnLwFU_aem_E0ndHjmjK37bUVCfyEARBg",
+              "utmCampaign": "Saturday Template (07-11-2026)",
+              "utmMedium": "email marketing",
+              "ip": "71.184.116.27",
+              "medium": "form",
+              "mediumId": "muiUniGFhCNqBm9Ak62g",
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+              "url": "https://gogetemcommunity.com/growth-blocker.html",
+              "utmSource": "email"
+            }
+          ]
+        },
+        {
+          "id": "kRegvBnCGEOa92q8vbvf",
+          "name": "Colleen Sophia",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "assignedTo": "C7PplofCN88pv8MTTiZT",
+          "status": "open",
+          "source": "Wine Not Millionaire",
+          "lastStatusChangeAt": "2026-11-07T16:38:40.234Z",
+          "lastStageChangeAt": "2026-11-07T16:39:44.947Z",
+          "createdAt": "2026-11-07T16:38:40.234Z",
+          "updatedAt": "2026-11-07T16:39:44.999Z",
+          "forecastProbability": null,
+          "effectiveProbability": 31.25,
+          "contactId": "YeTbdMPgt5gMrXK3vZTx",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "kRegvBnCGEOa92q8vbvf",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "YeTbdMPgt5gMrXK3vZTx",
+              "fullName": "Colleen Sophia",
+              "contactName": "Colleen Sophia",
+              "companyName": null,
+              "email": "colleensophia@exprealty.com",
+              "phone": "+19168252299",
+              "tags": [
+                "wine not millionaire_09_10_25",
+                "blocker quiz",
+                "new lead",
+                "assigned to natalia"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "YeTbdMPgt5gMrXK3vZTx",
+            "name": "Colleen Sophia",
+            "companyName": null,
+            "email": "colleensophia@exprealty.com",
+            "phone": "+19168252299",
+            "tags": [
+              "wine not millionaire_09_10_25",
+              "blocker quiz",
+              "new lead",
+              "assigned to natalia"
+            ],
+            "score": []
+          },
+          "sort": [
+            1794069520234,
+            "kRegvBnCGEOa92q8vbvf"
+          ],
+          "attributions": [
+            {
+              "pageUrl": "https://gogetemcommunity.com/",
+              "utmSessionSource": "Direct traffic",
+              "ip": "2601:283:4f00:2870:7442:be7f:7aa4:70f0",
+              "isFirst": true,
+              "medium": "form",
+              "mediumId": "et7nfyX2zx3ffnpvvBly",
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15",
+              "url": "https://gogetemcommunity.com/"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/growth-blocker.html?utm_source=email&mcp_token=eyJwaWQiOjMyODA5MDcsInNpZCI6MTQ0NDMwNzQ0NCwiYXgiOiI1NGQ4YTQzYzViNTc5YjYxZGQ2YzcxMGZiOTY2NzM2NSIsInRzIjoxNzg4ODExNTA5LCJleHAiOjE3OTEyMzA3MDl9.3qtzKvqMdnpFW-6C3oBo5n3_2N-uinr1W9MEVWJEQ1I&fbclid=PAVERFWAUL-E1wZG9mAmZkaWQWUN-hoMLu1RKTMK5qusmauZRj3FgGjWV4dG4DYWVtAjEwAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp7qf5zCzLd3RqryvCPOxr9RwSTxi5ROWbCgY4eiZmsNK0UmSLgbghTbnLwFU_aem_E0ndHjmjK37bUVCfyEARBg&utm_medium=email marketing&utm_campaign=Saturday Template (07-11-2026)",
+              "utmSessionSource": "Social media",
+              "isLast": true,
+              "utmFbclid": "PAVERFWAUL-E1wZG9mAmZkaWQWUN-hoMLu1RKTMK5qusmauZRj3FgGjWV4dG4DYWVtAjEwAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp7qf5zCzLd3RqryvCPOxr9RwSTxi5ROWbCgY4eiZmsNK0UmSLgbghTbnLwFU_aem_E0ndHjmjK37bUVCfyEARBg",
+              "utmCampaign": "Saturday Template (07-11-2026)",
+              "utmMedium": "email marketing",
+              "ip": "98.173.134.154",
+              "medium": "form",
+              "mediumId": "muiUniGFhCNqBm9Ak62g",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/157.0.8103.37 Mobile/15E148 Safari/604.1",
+              "url": "https://gogetemcommunity.com/growth-blocker.html",
+              "utmSource": "email"
+            }
+          ]
+        },
         {
           "id": "5OMcbiYykAHQynI2S6qU",
           "name": "Donald Zappia",
@@ -30866,7 +31042,8 @@
                 "re stimulus pkg",
                 "smc",
                 "assigned to natalia",
-                "sales: not interested"
+                "sales: not interested",
+                "blocker quiz"
               ],
               "attributed": true
             }
@@ -30890,7 +31067,8 @@
               "re stimulus pkg",
               "smc",
               "assigned to natalia",
-              "sales: not interested"
+              "sales: not interested",
+              "blocker quiz"
             ],
             "score": []
           },
@@ -53978,6 +54156,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "V7KW8H6pFf7AxJnktpo3",
+          "lastMessageDate": 1794071365358,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "7BkY8xP0hmUSZIq49KV1",
           "lastMessageDate": 1794061936957,
           "type": "TYPE_PHONE"
@@ -54473,8 +54656,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "O1COh19e2CzBhvSVfED2",
-          "lastMessageDate": 1789410727395,
+          "id": "V7KW8H6pFf7AxJnktpo3",
+          "lastMessageDate": 1794071365358,
           "type": "TYPE_PHONE"
         },
         {
@@ -54970,11 +55153,6 @@
         {
           "id": "jLJJELojptvCnJrt5V3l",
           "lastMessageDate": 1789412006318,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "O1COh19e2CzBhvSVfED2",
-          "lastMessageDate": 1789410727395,
           "type": "TYPE_PHONE"
         }
       ]
