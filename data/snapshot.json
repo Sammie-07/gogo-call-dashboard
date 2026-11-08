@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-11-07T23:33:19.234Z",
+  "syncedAt": "2026-11-08T04:55:39.931Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 162,
       "talkTimeMinutes": 140,
-      "manualSms": 310,
+      "manualSms": 306,
       "autoSms": 340,
       "manualEmail": 90,
-      "autoEmail": 3078,
+      "autoEmail": 3068,
       "byDay": [
         {
           "date": "2024-02-28",
@@ -70,14 +70,6 @@
           "date": "2026-01-12",
           "calls": 0,
           "manualSms": 14,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 0
-        },
-        {
-          "date": "2026-01-29",
-          "calls": 0,
-          "manualSms": 2,
           "autoSms": 0,
           "manualEmail": 0,
           "autoEmail": 0
@@ -816,7 +808,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 16
+          "autoEmail": 14
         },
         {
           "date": "2026-07-29",
@@ -832,7 +824,7 @@
           "manualSms": 0,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 20
+          "autoEmail": 18
         },
         {
           "date": "2026-08-01",
@@ -840,7 +832,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 4
+          "autoEmail": 2
         },
         {
           "date": "2026-08-03",
@@ -848,7 +840,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 2,
-          "autoEmail": 32
+          "autoEmail": 30
         },
         {
           "date": "2026-08-04",
@@ -864,7 +856,7 @@
           "manualSms": 4,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 20
+          "autoEmail": 18
         },
         {
           "date": "2026-08-06",
@@ -1101,7 +1093,7 @@
         {
           "date": "2026-09-14",
           "calls": 24,
-          "manualSms": 6,
+          "manualSms": 4,
           "autoSms": 22,
           "manualEmail": 2,
           "autoEmail": 64
@@ -1484,6 +1476,95 @@
         }
       ],
       "opportunities": [
+        {
+          "id": "uc59Zd3e1SXtty1pV4rP",
+          "name": "Aaron Redland",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "assignedTo": "C7PplofCN88pv8MTTiZT",
+          "status": "open",
+          "source": "GGTC Blocker Quiz",
+          "lastStatusChangeAt": "2026-11-08T04:21:07.221Z",
+          "lastStageChangeAt": "2026-11-08T04:22:11.745Z",
+          "createdAt": "2026-11-08T04:21:07.221Z",
+          "updatedAt": "2026-11-08T04:22:11.808Z",
+          "forecastProbability": null,
+          "effectiveProbability": 31.25,
+          "contactId": "Ws3pnZVIjZx3kWr8nvtS",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "uc59Zd3e1SXtty1pV4rP",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "Ws3pnZVIjZx3kWr8nvtS",
+              "fullName": "Aaron Redland",
+              "contactName": "Aaron Redland",
+              "companyName": null,
+              "email": "aaron.redland@exprealty.com",
+              "phone": "+14066715606",
+              "tags": [
+                "blocker quiz",
+                "new lead",
+                "assigned to natalia"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "Ws3pnZVIjZx3kWr8nvtS",
+            "name": "Aaron Redland",
+            "companyName": null,
+            "email": "aaron.redland@exprealty.com",
+            "phone": "+14066715606",
+            "tags": [
+              "blocker quiz",
+              "new lead",
+              "assigned to natalia"
+            ],
+            "score": []
+          },
+          "sort": [
+            1794111667221,
+            "uc59Zd3e1SXtty1pV4rP"
+          ],
+          "attributions": [
+            {
+              "pageUrl": "https://gogetemcommunity.com/growth-blocker.html?utm_source=email&mcp_token=eyJwaWQiOjMyODA5MDcsInNpZCI6MTQ0NDMwNzQ0NCwiYXgiOiI1NGQ4YTQzYzViNTc5YjYxZGQ2YzcxMGZiOTY2NzM2NSIsInRzIjoxNzg4ODExNTA5LCJleHAiOjE3OTEyMzA3MDl9.3qtzKvqMdnpFW-6C3oBo5n3_2N-uinr1W9MEVWJEQ1I&fbclid=PAVERFWAUL-E1wZG9mAmZkaWQWUN-hoMLu1RKTMK5qusmauZRj3FgGjWV4dG4DYWVtAjEwAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp7qf5zCzLd3RqryvCPOxr9RwSTxi5ROWbCgY4eiZmsNK0UmSLgbghTbnLwFU_aem_E0ndHjmjK37bUVCfyEARBg&utm_medium=email%20marketing&utm_campaign=Saturday%20Template%20(07-11-2026)",
+              "utmSessionSource": "Social media",
+              "utmFbclid": "PAVERFWAUL-E1wZG9mAmZkaWQWUN-hoMLu1RKTMK5qusmauZRj3FgGjWV4dG4DYWVtAjEwAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp7qf5zCzLd3RqryvCPOxr9RwSTxi5ROWbCgY4eiZmsNK0UmSLgbghTbnLwFU_aem_E0ndHjmjK37bUVCfyEARBg",
+              "utmCampaign": "Saturday Template (07-11-2026)",
+              "utmMedium": "email marketing",
+              "ip": "146.174.122.196",
+              "isFirst": true,
+              "medium": "form",
+              "mediumId": "muiUniGFhCNqBm9Ak62g",
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+              "url": "https://gogetemcommunity.com/growth-blocker.html",
+              "utmSource": "email"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/growth-blocker.html?utm_source=email&mcp_token=eyJwaWQiOjMyODA5MDcsInNpZCI6MTQ0NDMwNzQ0NCwiYXgiOiI1NGQ4YTQzYzViNTc5YjYxZGQ2YzcxMGZiOTY2NzM2NSIsInRzIjoxNzg4ODExNTA5LCJleHAiOjE3OTEyMzA3MDl9.3qtzKvqMdnpFW-6C3oBo5n3_2N-uinr1W9MEVWJEQ1I&fbclid=PAVERFWAUL-E1wZG9mAmZkaWQWUN-hoMLu1RKTMK5qusmauZRj3FgGjWV4dG4DYWVtAjEwAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp7qf5zCzLd3RqryvCPOxr9RwSTxi5ROWbCgY4eiZmsNK0UmSLgbghTbnLwFU_aem_E0ndHjmjK37bUVCfyEARBg&utm_medium=email marketing&utm_campaign=Saturday Template (07-11-2026)",
+              "utmSessionSource": "Social media",
+              "isLast": true,
+              "utmFbclid": "PAVERFWAUL-E1wZG9mAmZkaWQWUN-hoMLu1RKTMK5qusmauZRj3FgGjWV4dG4DYWVtAjEwAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp7qf5zCzLd3RqryvCPOxr9RwSTxi5ROWbCgY4eiZmsNK0UmSLgbghTbnLwFU_aem_E0ndHjmjK37bUVCfyEARBg",
+              "utmCampaign": "Saturday Template (07-11-2026)",
+              "utmMedium": "email marketing",
+              "ip": "146.174.122.196",
+              "medium": "form",
+              "mediumId": "muiUniGFhCNqBm9Ak62g",
+              "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+              "url": "https://gogetemcommunity.com/growth-blocker.html",
+              "utmSource": "email"
+            }
+          ]
+        },
         {
           "id": "mg9KQecxdAe5fo81xoxh",
           "name": "Meghan Ruivo",
@@ -54158,6 +54239,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "7e0cklR4li5WO2kpdrez",
+          "lastMessageDate": 1794111667657,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "V7KW8H6pFf7AxJnktpo3",
           "lastMessageDate": 1794071365358,
           "type": "TYPE_PHONE"
@@ -54653,8 +54739,8 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "jLJJELojptvCnJrt5V3l",
-          "lastMessageDate": 1789412006318,
+          "id": "7e0cklR4li5WO2kpdrez",
+          "lastMessageDate": 1794111667657,
           "type": "TYPE_PHONE"
         },
         {
@@ -55150,11 +55236,6 @@
         {
           "id": "FTI98Q7PgbEpaAhKJ4kG",
           "lastMessageDate": 1789493217626,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "jLJJELojptvCnJrt5V3l",
-          "lastMessageDate": 1789412006318,
           "type": "TYPE_PHONE"
         }
       ]
