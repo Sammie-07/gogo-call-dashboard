@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-13T03:14:07.456Z",
+  "syncedAt": "2026-11-13T11:57:34.318Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -8,7 +8,7 @@
       "manualSms": 316,
       "autoSms": 344,
       "manualEmail": 80,
-      "autoEmail": 3048,
+      "autoEmail": 3046,
       "byDay": [
         {
           "date": "2024-02-28",
@@ -632,7 +632,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 14
+          "autoEmail": 12
         },
         {
           "date": "2026-06-24",
@@ -46603,75 +46603,6 @@
           "statusId": "noajVfGIH8TGrjfQ6B3m",
           "state": "active",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
-          "address": "https://us02web.zoom.us/j/86737515122",
-          "calendarId": "zbG86VGfQk5VYP8cibec",
-          "contactId": "NSHviWgME1vMEgktfmrd",
-          "dateAdded": "2025-10-09T16:21:19.000Z",
-          "dateUpdated": "2026-06-15T20:26:27.000Z",
-          "endTime": "2025-11-12T21:30:00-05:00",
-          "id": "IRxSJ7JUrodnIV5pArOL",
-          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
-          "notes": "test",
-          "description": "test",
-          "startTime": "2025-11-12T20:00:00-05:00",
-          "title": "Natalia Duraes - Wine Not Millionaire",
-          "assignedResources": [],
-          "isRecurring": false,
-          "createdBy": {
-            "source": "booking_widget",
-            "userId": null
-          },
-          "appointmentMeta": {
-            "slotType": "default",
-            "defaultFormDetails": {
-              "firstName": "natalia",
-              "lastName": "duraes",
-              "email": "support@gogetemcommunity.com",
-              "phone": "+5538984282928",
-              "additionalInfo": "test"
-            }
-          },
-          "deleted": false
-        },
-        {
-          "appointmentStatus": "confirmed",
-          "appoinmentStatus": "confirmed",
-          "statusId": "noajVfGIH8TGrjfQ6B3m",
-          "state": "active",
-          "assignedUserId": "C7PplofCN88pv8MTTiZT",
-          "address": "https://us02web.zoom.us/j/86737515122",
-          "calendarId": "zbG86VGfQk5VYP8cibec",
-          "contactId": "NSHviWgME1vMEgktfmrd",
-          "dateAdded": "2025-09-25T18:40:51.000Z",
-          "dateUpdated": "2026-06-15T20:26:27.000Z",
-          "endTime": "2025-11-12T21:30:00-05:00",
-          "id": "qUmThQgf15BEDRSH9xmA",
-          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
-          "startTime": "2025-11-12T20:00:00-05:00",
-          "title": "Natalia Duraes - Wine Not Millionaire",
-          "assignedResources": [],
-          "isRecurring": false,
-          "createdBy": {
-            "source": "booking_widget",
-            "userId": null
-          },
-          "appointmentMeta": {
-            "slotType": "default",
-            "defaultFormDetails": {
-              "firstName": "natalia",
-              "lastName": "duraes",
-              "email": "support@gogetemcommunity.com",
-              "phone": "+5516993912026"
-            }
-          },
-          "deleted": false
-        },
-        {
-          "appointmentStatus": "confirmed",
-          "appoinmentStatus": "confirmed",
-          "statusId": "noajVfGIH8TGrjfQ6B3m",
-          "state": "active",
-          "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/98827914664",
           "calendarId": "8kLbo3OukoeNXebq8B4b",
           "contactId": "4z0LUfXJ7e5eY1UvoOyz",
@@ -55043,9 +54974,47 @@
             }
           },
           "deleted": false
+        },
+        {
+          "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
+          "statusId": "noajVfGIH8TGrjfQ6B3m",
+          "state": "active",
+          "assignedUserId": "C7PplofCN88pv8MTTiZT",
+          "address": "https://zoom.us/j/98827914664",
+          "calendarId": "8kLbo3OukoeNXebq8B4b",
+          "contactId": "EQZbqNL4TXz4ERXaiP8e",
+          "dateAdded": "2026-11-13T03:31:06.000Z",
+          "dateUpdated": "2026-11-13T03:31:06.000Z",
+          "endTime": "2026-11-19T16:00:00-05:00",
+          "id": "T6zrMtRm0IPd2ineUqIO",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "startTime": "2026-11-19T15:00:00-05:00",
+          "title": "GGTC Onboarding Call - Melissa Jenkins",
+          "assignedResources": [],
+          "isRecurring": false,
+          "createdBy": {
+            "source": "booking_widget",
+            "userId": null
+          },
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Melissa",
+              "lastName": "Jenkins",
+              "email": "allurevacationsnc@gmail.com",
+              "phone": "+18287198412"
+            }
+          },
+          "deleted": false
         }
       ],
       "conversationsAll": [
+        {
+          "id": "WySZiMBMkSohTURQq930",
+          "lastMessageDate": 1794540320321,
+          "type": "TYPE_PHONE"
+        },
         {
           "id": "xJBmuq6cAoiW3j2IZgld",
           "lastMessageDate": 1794518025265,
@@ -55104,11 +55073,6 @@
         {
           "id": "6UZ9c8jkpRLzP3lRbusZ",
           "lastMessageDate": 1794506600504,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "WySZiMBMkSohTURQq930",
-          "lastMessageDate": 1794506576092,
           "type": "TYPE_PHONE"
         },
         {
@@ -55547,6 +55511,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "WySZiMBMkSohTURQq930",
+          "lastMessageDate": 1794540320321,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "xJBmuq6cAoiW3j2IZgld",
           "lastMessageDate": 1794518025265,
           "type": "TYPE_PHONE"
@@ -55604,11 +55573,6 @@
         {
           "id": "6UZ9c8jkpRLzP3lRbusZ",
           "lastMessageDate": 1794506600504,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "WySZiMBMkSohTURQq930",
-          "lastMessageDate": 1794506576092,
           "type": "TYPE_PHONE"
         },
         {
