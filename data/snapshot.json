@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-11-15T19:38:02.586Z",
+  "syncedAt": "2026-11-15T23:50:37.259Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
-      "calls": 174,
-      "talkTimeMinutes": 158,
+      "calls": 172,
+      "talkTimeMinutes": 156,
       "manualSms": 318,
-      "autoSms": 348,
+      "autoSms": 340,
       "manualEmail": 80,
-      "autoEmail": 3054,
+      "autoEmail": 3020,
       "byDay": [
         {
           "date": "2024-02-28",
@@ -232,7 +232,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 58
+          "autoEmail": 56
         },
         {
           "date": "2026-04-28",
@@ -272,7 +272,7 @@
           "manualSms": 0,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 50
+          "autoEmail": 48
         },
         {
           "date": "2026-05-04",
@@ -288,7 +288,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 48
+          "autoEmail": 46
         },
         {
           "date": "2026-05-06",
@@ -328,7 +328,7 @@
           "manualSms": 0,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 46
+          "autoEmail": 44
         },
         {
           "date": "2026-05-11",
@@ -368,7 +368,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 44
+          "autoEmail": 42
         },
         {
           "date": "2026-05-16",
@@ -392,7 +392,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 52
+          "autoEmail": 50
         },
         {
           "date": "2026-05-19",
@@ -416,7 +416,7 @@
           "manualSms": 0,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 46
+          "autoEmail": 44
         },
         {
           "date": "2026-05-22",
@@ -456,7 +456,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 46
+          "autoEmail": 44
         },
         {
           "date": "2026-05-27",
@@ -480,7 +480,7 @@
           "manualSms": 8,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 50
+          "autoEmail": 48
         },
         {
           "date": "2026-05-30",
@@ -1116,11 +1116,11 @@
         },
         {
           "date": "2026-09-14",
-          "calls": 24,
+          "calls": 22,
           "manualSms": 4,
-          "autoSms": 22,
+          "autoSms": 20,
           "manualEmail": 2,
-          "autoEmail": 60
+          "autoEmail": 58
         },
         {
           "date": "2026-09-15",
@@ -1142,9 +1142,9 @@
           "date": "2026-09-17",
           "calls": 24,
           "manualSms": 2,
-          "autoSms": 44,
+          "autoSms": 42,
           "manualEmail": 0,
-          "autoEmail": 54
+          "autoEmail": 52
         },
         {
           "date": "2026-09-18",
@@ -1160,7 +1160,7 @@
           "manualSms": 2,
           "autoSms": 24,
           "manualEmail": 0,
-          "autoEmail": 82
+          "autoEmail": 80
         },
         {
           "date": "2026-09-22",
@@ -1182,9 +1182,9 @@
           "date": "2026-09-24",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 20,
+          "autoSms": 18,
           "manualEmail": 0,
-          "autoEmail": 24
+          "autoEmail": 22
         },
         {
           "date": "2026-09-25",
@@ -1200,7 +1200,7 @@
           "manualSms": 0,
           "autoSms": 24,
           "manualEmail": 0,
-          "autoEmail": 64
+          "autoEmail": 62
         },
         {
           "date": "2026-09-29",
@@ -1216,7 +1216,7 @@
           "manualSms": 0,
           "autoSms": 0,
           "manualEmail": 0,
-          "autoEmail": 26
+          "autoEmail": 24
         },
         {
           "date": "2026-10-02",
@@ -1232,7 +1232,7 @@
           "manualSms": 0,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 68
+          "autoEmail": 66
         },
         {
           "date": "2026-10-06",
@@ -1254,9 +1254,9 @@
           "date": "2026-10-08",
           "calls": 14,
           "manualSms": 6,
-          "autoSms": 26,
+          "autoSms": 24,
           "manualEmail": 4,
-          "autoEmail": 40
+          "autoEmail": 38
         },
         {
           "date": "2026-10-09",
@@ -1516,6 +1516,87 @@
         }
       ],
       "opportunities": [
+        {
+          "id": "jO13zuyZwbftYoVHV0vP",
+          "name": "Stephanie Mckay",
+          "monetaryValue": 0,
+          "pipelineId": "4ODbBsC9MIjSBtnIOETl",
+          "pipelineStageId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "pipelineStageUId": "69d52413-33a0-41bf-a5e4-9193e06381bb",
+          "assignedTo": "C7PplofCN88pv8MTTiZT",
+          "status": "open",
+          "source": "GGTC Blocker Quiz",
+          "lastStatusChangeAt": "2026-11-15T20:07:41.116Z",
+          "lastStageChangeAt": "2026-11-15T20:08:46.431Z",
+          "createdAt": "2026-11-15T20:07:41.116Z",
+          "updatedAt": "2026-11-15T20:08:46.510Z",
+          "forecastProbability": null,
+          "effectiveProbability": 31.25,
+          "contactId": "jEZW7t7xUA9eO3pRbJ3o",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "customFields": [],
+          "lostReasonId": null,
+          "followers": [],
+          "relations": [
+            {
+              "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+              "relationId": "jO13zuyZwbftYoVHV0vP",
+              "primary": true,
+              "objectKey": "contact",
+              "recordId": "jEZW7t7xUA9eO3pRbJ3o",
+              "fullName": "Stephanie Mckay",
+              "contactName": "Stephanie Mckay",
+              "companyName": null,
+              "email": "soldbystephanienichole@gmail.com",
+              "phone": "+13133309102",
+              "tags": [
+                "blocker quiz",
+                "new lead",
+                "assigned to natalia"
+              ],
+              "attributed": true
+            }
+          ],
+          "contact": {
+            "id": "jEZW7t7xUA9eO3pRbJ3o",
+            "name": "Stephanie Mckay",
+            "companyName": null,
+            "email": "soldbystephanienichole@gmail.com",
+            "phone": "+13133309102",
+            "tags": [
+              "blocker quiz",
+              "new lead",
+              "assigned to natalia"
+            ],
+            "score": []
+          },
+          "sort": [
+            1794773261116,
+            "jO13zuyZwbftYoVHV0vP"
+          ],
+          "attributions": [
+            {
+              "utmSessionSource": "Social media",
+              "isFirst": true,
+              "medium": "instagram",
+              "mediumId": "1149176264207667"
+            },
+            {
+              "pageUrl": "https://gogetemcommunity.com/growth-blocker.html?utm_source=email&mcp_token=eyJwaWQiOjMyODA5MDcsInNpZCI6MTQ0NDMwNzQ0NCwiYXgiOiI1NGQ4YTQzYzViNTc5YjYxZGQ2YzcxMGZiOTY2NzM2NSIsInRzIjoxNzg4ODExNTA5LCJleHAiOjE3OTEyMzA3MDl9.3qtzKvqMdnpFW-6C3oBo5n3_2N-uinr1W9MEVWJEQ1I&fbclid=PAVERFWAUL-E1wZG9mAmZkaWQWUN-hoMLu1RKTMK5qusmauZRj3FgGjWV4dG4DYWVtAjEwAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp7qf5zCzLd3RqryvCPOxr9RwSTxi5ROWbCgY4eiZmsNK0UmSLgbghTbnLwFU_aem_E0ndHjmjK37bUVCfyEARBg&utm_medium=email marketing&utm_campaign=Saturday Template (07-11-2026)",
+              "utmSessionSource": "Social media",
+              "isLast": true,
+              "utmFbclid": "PAVERFWAUL-E1wZG9mAmZkaWQWUN-hoMLu1RKTMK5qusmauZRj3FgGjWV4dG4DYWVtAjEwAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp7qf5zCzLd3RqryvCPOxr9RwSTxi5ROWbCgY4eiZmsNK0UmSLgbghTbnLwFU_aem_E0ndHjmjK37bUVCfyEARBg",
+              "utmCampaign": "Saturday Template (07-11-2026)",
+              "utmMedium": "email marketing",
+              "ip": "2600:1007:b082:cace:6da5:359e:c829:3ced",
+              "medium": "form",
+              "mediumId": "muiUniGFhCNqBm9Ak62g",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 27_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/446.3.1011462875 Mobile/15E148 Safari/604.1",
+              "url": "https://gogetemcommunity.com/growth-blocker.html",
+              "utmSource": "email"
+            }
+          ]
+        },
         {
           "id": "AY1wthWhX9V3FJ0s3LDK",
           "name": "Samuel Akinwande",
@@ -55412,6 +55493,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "acPMrF2UsdbzJFWDe7K2",
+          "lastMessageDate": 1791993672178,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "XVv7CTYzyWZyh03bSWMA",
           "lastMessageDate": 1791814626652,
           "type": "TYPE_PHONE"
@@ -55519,11 +55605,6 @@
         {
           "id": "MkTWgg3Os9FIlhLVVLvk",
           "lastMessageDate": 1791483098872,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "iZJjdUstImjkqx3vy1rc",
-          "lastMessageDate": 1791481175033,
           "type": "TYPE_PHONE"
         },
         {
@@ -55912,6 +55993,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "acPMrF2UsdbzJFWDe7K2",
+          "lastMessageDate": 1791993672178,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "XVv7CTYzyWZyh03bSWMA",
           "lastMessageDate": 1791814626652,
           "type": "TYPE_PHONE"
@@ -56019,11 +56105,6 @@
         {
           "id": "MkTWgg3Os9FIlhLVVLvk",
           "lastMessageDate": 1791483098872,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "iZJjdUstImjkqx3vy1rc",
-          "lastMessageDate": 1791481175033,
           "type": "TYPE_PHONE"
         }
       ]
