@@ -1,12 +1,12 @@
 {
-  "syncedAt": "2026-11-17T17:28:27.890Z",
+  "syncedAt": "2026-11-18T00:41:15.580Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 174,
       "talkTimeMinutes": 158,
       "manualSms": 320,
-      "autoSms": 330,
+      "autoSms": 332,
       "manualEmail": 70,
       "autoEmail": 3104,
       "byDay": [
@@ -1526,7 +1526,7 @@
           "date": "2026-11-17",
           "calls": 0,
           "manualSms": 0,
-          "autoSms": 0,
+          "autoSms": 2,
           "manualEmail": 0,
           "autoEmail": 34
         }
@@ -55252,6 +55252,11 @@
       ],
       "conversationsAll": [
         {
+          "id": "xJBmuq6cAoiW3j2IZgld",
+          "lastMessageDate": 1794946403443,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "igFsirsUqRFuYQSTVAJX",
           "lastMessageDate": 1794934890244,
           "type": "TYPE_PHONE"
@@ -55304,11 +55309,6 @@
         {
           "id": "lqvtaPljoxBBCe3G1j4k",
           "lastMessageDate": 1794934864854,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "xJBmuq6cAoiW3j2IZgld",
-          "lastMessageDate": 1794934864668,
           "type": "TYPE_PHONE"
         },
         {
@@ -55752,6 +55752,11 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "xJBmuq6cAoiW3j2IZgld",
+          "lastMessageDate": 1794946403443,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "igFsirsUqRFuYQSTVAJX",
           "lastMessageDate": 1794934890244,
           "type": "TYPE_PHONE"
@@ -55804,11 +55809,6 @@
         {
           "id": "lqvtaPljoxBBCe3G1j4k",
           "lastMessageDate": 1794934864854,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "xJBmuq6cAoiW3j2IZgld",
-          "lastMessageDate": 1794934864668,
           "type": "TYPE_PHONE"
         },
         {
@@ -57393,7 +57393,7 @@
               "contactName": "Shreed P",
               "companyName": null,
               "email": "emarketingkingsofficial@gmail.com",
-              "phone": "+17883829001",
+              "phone": "+15675673457",
               "tags": [
                 "5daylive",
                 "circle_active_member",
@@ -57415,7 +57415,7 @@
             "name": "Shreed P",
             "companyName": null,
             "email": "emarketingkingsofficial@gmail.com",
-            "phone": "+17883829001",
+            "phone": "+15675673457",
             "tags": [
               "5daylive",
               "circle_active_member",
