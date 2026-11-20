@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-11-20T08:10:36.196Z",
+  "syncedAt": "2026-11-20T17:37:55.675Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 174,
       "talkTimeMinutes": 162,
       "manualSms": 328,
-      "autoSms": 314,
+      "autoSms": 316,
       "manualEmail": 68,
-      "autoEmail": 3006,
+      "autoEmail": 3008,
       "byDay": [
         {
           "date": "2024-02-28",
@@ -1216,7 +1216,7 @@
           "manualSms": 6,
           "autoSms": 18,
           "manualEmail": 4,
-          "autoEmail": 28
+          "autoEmail": 26
         },
         {
           "date": "2026-10-09",
@@ -1505,6 +1505,14 @@
           "autoSms": 2,
           "manualEmail": 0,
           "autoEmail": 18
+        },
+        {
+          "date": "2026-11-20",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 2,
+          "manualEmail": 0,
+          "autoEmail": 4
         }
       ],
       "opportunities": [
@@ -55073,6 +55081,42 @@
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/6684356793",
           "calendarId": "vEq9SEudnxMCXs4c7bJk",
+          "contactId": "R7qlpGf6eYuDGvWHd8H4",
+          "dateAdded": "2026-11-20T16:48:37.000Z",
+          "dateUpdated": "2026-11-20T16:48:37.000Z",
+          "endTime": "2026-11-24T13:30:00-05:00",
+          "id": "6gCYSQtNWZv7z6xYmzWF",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "notes": "Please turn off the auto renewal feature so I won’t be charged again. Of If I change my mind, I’ll turn it back on. Also show me where it’s located. Thanks ",
+          "description": "Please turn off the auto renewal feature so I won’t be charged again. Of If I change my mind, I’ll turn it back on. Also show me where it’s located. Thanks ",
+          "startTime": "2026-11-24T13:00:00-05:00",
+          "title": "1:1 Check-in Call GoGet'Em Community",
+          "assignedResources": [],
+          "isRecurring": false,
+          "createdBy": {
+            "source": "booking_widget",
+            "userId": null
+          },
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Michael",
+              "lastName": "Sahlman",
+              "email": "michael.sahlman@exprealty.com",
+              "phone": "+17865530697",
+              "additionalInfo": "Please turn off the auto renewal feature so I won’t be charged again. Of If I change my mind, I’ll turn it back on. Also show me where it’s located. Thanks "
+            }
+          },
+          "deleted": false
+        },
+        {
+          "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
+          "statusId": "noajVfGIH8TGrjfQ6B3m",
+          "state": "active",
+          "assignedUserId": "C7PplofCN88pv8MTTiZT",
+          "address": "https://zoom.us/j/6684356793",
+          "calendarId": "vEq9SEudnxMCXs4c7bJk",
           "contactId": "nHwap2JR4P6YeW7KKvs0",
           "dateAdded": "2026-11-16T16:36:04.000Z",
           "dateUpdated": "2026-11-16T16:36:04.000Z",
@@ -55100,6 +55144,21 @@
         }
       ],
       "conversationsAll": [
+        {
+          "id": "4OZvGFu9QVDPtZCRVGDV",
+          "lastMessageDate": 1795187436305,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "Qy4fa1mlDBdGV0LKTJWN",
+          "lastMessageDate": 1795184129452,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "Pkq82uO7uYaDXScNFwQg",
+          "lastMessageDate": 1795184076878,
+          "type": "TYPE_PHONE"
+        },
         {
           "id": "igFsirsUqRFuYQSTVAJX",
           "lastMessageDate": 1795122203687,
@@ -55231,11 +55290,6 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "4OZvGFu9QVDPtZCRVGDV",
-          "lastMessageDate": 1795015105572,
-          "type": "TYPE_PHONE"
-        },
-        {
           "id": "Vr3D8XYSvivC5bukfb88",
           "lastMessageDate": 1795005868710,
           "type": "TYPE_PHONE"
@@ -55333,16 +55387,6 @@
         {
           "id": "O86HHcQ3IVbqbGKt7ejl",
           "lastMessageDate": 1794788249073,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "Pkq82uO7uYaDXScNFwQg",
-          "lastMessageDate": 1794579122957,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "Qy4fa1mlDBdGV0LKTJWN",
-          "lastMessageDate": 1794579118715,
           "type": "TYPE_PHONE"
         },
         {
@@ -55601,6 +55645,21 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "4OZvGFu9QVDPtZCRVGDV",
+          "lastMessageDate": 1795187436305,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "Qy4fa1mlDBdGV0LKTJWN",
+          "lastMessageDate": 1795184129452,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "Pkq82uO7uYaDXScNFwQg",
+          "lastMessageDate": 1795184076878,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "igFsirsUqRFuYQSTVAJX",
           "lastMessageDate": 1795122203687,
           "type": "TYPE_PHONE"
@@ -55731,11 +55790,6 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "4OZvGFu9QVDPtZCRVGDV",
-          "lastMessageDate": 1795015105572,
-          "type": "TYPE_PHONE"
-        },
-        {
           "id": "Vr3D8XYSvivC5bukfb88",
           "lastMessageDate": 1795005868710,
           "type": "TYPE_PHONE"
@@ -55833,16 +55887,6 @@
         {
           "id": "O86HHcQ3IVbqbGKt7ejl",
           "lastMessageDate": 1794788249073,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "Pkq82uO7uYaDXScNFwQg",
-          "lastMessageDate": 1794579122957,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "Qy4fa1mlDBdGV0LKTJWN",
-          "lastMessageDate": 1794579118715,
           "type": "TYPE_PHONE"
         },
         {
