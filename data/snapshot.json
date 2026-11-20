@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-20T17:37:55.675Z",
+  "syncedAt": "2026-11-20T23:46:32.505Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
@@ -8,7 +8,7 @@
       "manualSms": 328,
       "autoSms": 316,
       "manualEmail": 68,
-      "autoEmail": 3008,
+      "autoEmail": 3004,
       "byDay": [
         {
           "date": "2024-02-28",
@@ -1027,20 +1027,12 @@
           "autoEmail": 20
         },
         {
-          "date": "2026-09-05",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 2
-        },
-        {
           "date": "2026-09-07",
           "calls": 0,
           "manualSms": 6,
           "autoSms": 0,
           "manualEmail": 4,
-          "autoEmail": 22
+          "autoEmail": 20
         },
         {
           "date": "2026-09-08",
@@ -1248,7 +1240,7 @@
           "manualSms": 2,
           "autoSms": 24,
           "manualEmail": 2,
-          "autoEmail": 78
+          "autoEmail": 76
         },
         {
           "date": "2026-10-13",
@@ -1512,7 +1504,7 @@
           "manualSms": 0,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 4
+          "autoEmail": 6
         }
       ],
       "opportunities": [
@@ -1743,7 +1735,8 @@
                 "blocker quiz",
                 "new lead",
                 "assigned to natalia",
-                "2027-checklist-submitted"
+                "2027-checklist-submitted",
+                "ceo call purchased"
               ],
               "attributed": true
             }
@@ -1773,7 +1766,8 @@
               "blocker quiz",
               "new lead",
               "assigned to natalia",
-              "2027-checklist-submitted"
+              "2027-checklist-submitted",
+              "ceo call purchased"
             ],
             "score": []
           },
@@ -55145,8 +55139,18 @@
       ],
       "conversationsAll": [
         {
+          "id": "qDKbcRwB2fZTY7P9hQNo",
+          "lastMessageDate": 1795212285054,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "KHRW5tErGPbvBL8tDZwv",
+          "lastMessageDate": 1795211835848,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "4OZvGFu9QVDPtZCRVGDV",
-          "lastMessageDate": 1795187436305,
+          "lastMessageDate": 1795203165190,
           "type": "TYPE_PHONE"
         },
         {
@@ -55162,11 +55166,6 @@
         {
           "id": "igFsirsUqRFuYQSTVAJX",
           "lastMessageDate": 1795122203687,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "qDKbcRwB2fZTY7P9hQNo",
-          "lastMessageDate": 1795122201910,
           "type": "TYPE_PHONE"
         },
         {
@@ -55232,11 +55231,6 @@
         {
           "id": "qTAMsHOZ9fYSRo4Jw5xt",
           "lastMessageDate": 1795035413599,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "KHRW5tErGPbvBL8tDZwv",
-          "lastMessageDate": 1795031734383,
           "type": "TYPE_PHONE"
         },
         {
@@ -55645,8 +55639,18 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "qDKbcRwB2fZTY7P9hQNo",
+          "lastMessageDate": 1795212285054,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "KHRW5tErGPbvBL8tDZwv",
+          "lastMessageDate": 1795211835848,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "4OZvGFu9QVDPtZCRVGDV",
-          "lastMessageDate": 1795187436305,
+          "lastMessageDate": 1795203165190,
           "type": "TYPE_PHONE"
         },
         {
@@ -55662,11 +55666,6 @@
         {
           "id": "igFsirsUqRFuYQSTVAJX",
           "lastMessageDate": 1795122203687,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "qDKbcRwB2fZTY7P9hQNo",
-          "lastMessageDate": 1795122201910,
           "type": "TYPE_PHONE"
         },
         {
@@ -55732,11 +55731,6 @@
         {
           "id": "qTAMsHOZ9fYSRo4Jw5xt",
           "lastMessageDate": 1795035413599,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "KHRW5tErGPbvBL8tDZwv",
-          "lastMessageDate": 1795031734383,
           "type": "TYPE_PHONE"
         },
         {
@@ -56387,14 +56381,6 @@
           "autoEmail": 2
         },
         {
-          "date": "2026-08-06",
-          "calls": 0,
-          "manualSms": 0,
-          "autoSms": 0,
-          "manualEmail": 0,
-          "autoEmail": 2
-        },
-        {
           "date": "2026-08-12",
           "calls": 2,
           "manualSms": 4,
@@ -56745,6 +56731,14 @@
           "autoSms": 0,
           "manualEmail": 4,
           "autoEmail": 4
+        },
+        {
+          "date": "2026-11-20",
+          "calls": 0,
+          "manualSms": 0,
+          "autoSms": 0,
+          "manualEmail": 0,
+          "autoEmail": 2
         }
       ],
       "opportunities": [
@@ -56780,7 +56774,7 @@
               "contactName": "Samuel Akinwande",
               "companyName": null,
               "email": "akinwandesammy02@gmail.com",
-              "phone": "+2349071678625",
+              "phone": "+108163236405",
               "tags": [
                 "ggtc | gogo launch",
                 "gogetem affiliate",
@@ -56796,7 +56790,8 @@
                 "blocker quiz",
                 "assigned to ferny",
                 "circle_disqualified",
-                "2027-checklist-submitted"
+                "2027-checklist-submitted",
+                "ceo call purchased"
               ],
               "attributed": true
             }
@@ -56806,7 +56801,7 @@
             "name": "Samuel Akinwande",
             "companyName": null,
             "email": "akinwandesammy02@gmail.com",
-            "phone": "+2349071678625",
+            "phone": "+108163236405",
             "tags": [
               "ggtc | gogo launch",
               "gogetem affiliate",
@@ -56822,7 +56817,8 @@
               "blocker quiz",
               "assigned to ferny",
               "circle_disqualified",
-              "2027-checklist-submitted"
+              "2027-checklist-submitted",
+              "ceo call purchased"
             ],
             "score": []
           },
@@ -81828,7 +81824,7 @@
       "conversationsAll": [
         {
           "id": "sLmWnRXhvhXvU0LlmY20",
-          "lastMessageDate": 1795122174590,
+          "lastMessageDate": 1795203067103,
           "type": "TYPE_PHONE"
         },
         {
@@ -82328,7 +82324,7 @@
         },
         {
           "id": "sLmWnRXhvhXvU0LlmY20",
-          "lastMessageDate": 1795122174590,
+          "lastMessageDate": 1795203067103,
           "type": "TYPE_PHONE"
         },
         {
