@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-11-27T13:41:42.742Z",
+  "syncedAt": "2026-11-27T22:32:55.980Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 184,
       "talkTimeMinutes": 173,
-      "manualSms": 362,
-      "autoSms": 310,
+      "manualSms": 370,
+      "autoSms": 324,
       "manualEmail": 100,
-      "autoEmail": 3024,
+      "autoEmail": 3028,
       "byDay": [
         {
           "date": "2024-02-28",
@@ -760,7 +760,7 @@
           "manualSms": 0,
           "autoSms": 4,
           "manualEmail": 0,
-          "autoEmail": 32
+          "autoEmail": 28
         },
         {
           "date": "2026-07-21",
@@ -1104,7 +1104,7 @@
           "manualSms": 2,
           "autoSms": 24,
           "manualEmail": 0,
-          "autoEmail": 68
+          "autoEmail": 66
         },
         {
           "date": "2026-09-22",
@@ -1256,7 +1256,7 @@
           "manualSms": 4,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 26
+          "autoEmail": 24
         },
         {
           "date": "2026-10-16",
@@ -1264,7 +1264,7 @@
           "manualSms": 2,
           "autoSms": 2,
           "manualEmail": 0,
-          "autoEmail": 26
+          "autoEmail": 24
         },
         {
           "date": "2026-10-18",
@@ -1541,10 +1541,10 @@
         {
           "date": "2026-11-27",
           "calls": 0,
-          "manualSms": 4,
-          "autoSms": 0,
+          "manualSms": 12,
+          "autoSms": 14,
           "manualEmail": 4,
-          "autoEmail": 0
+          "autoEmail": 14
         }
       ],
       "opportunities": [
@@ -1755,7 +1755,7 @@
               "contactName": "Samuel Akinwande",
               "companyName": null,
               "email": "tech@gogosrealestate.com",
-              "phone": "+109071678625",
+              "phone": "+108163236405",
               "tags": [
                 "keyword:social",
                 "audit call submitted",
@@ -1786,7 +1786,7 @@
             "name": "Samuel Akinwande",
             "companyName": null,
             "email": "tech@gogosrealestate.com",
-            "phone": "+109071678625",
+            "phone": "+108163236405",
             "tags": [
               "keyword:social",
               "audit call submitted",
@@ -40361,7 +40361,7 @@
               "fullName": "Charmaynd Dickerson",
               "contactName": "Charmaynd Dickerson",
               "companyName": null,
-              "email": "helll@charmaynedeshon.com",
+              "email": "hello@charmaynedeshon.com",
               "phone": "+12105408258",
               "tags": [
                 "smc",
@@ -40381,7 +40381,7 @@
             "id": "bwMuMHWzZUG18YVpxKM9",
             "name": "Charmaynd Dickerson",
             "companyName": null,
-            "email": "helll@charmaynedeshon.com",
+            "email": "hello@charmaynedeshon.com",
             "phone": "+12105408258",
             "tags": [
               "smc",
@@ -55292,6 +55292,46 @@
       ],
       "conversationsAll": [
         {
+          "id": "uvW4XLUWCvcsn0WP9l4c",
+          "lastMessageDate": 1795807095624,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "KozEW9zny8do5lD7DnHU",
+          "lastMessageDate": 1795802740030,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "Pkq82uO7uYaDXScNFwQg",
+          "lastMessageDate": 1795800870642,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "T6wQUs9h0OIv8WKiyj3I",
+          "lastMessageDate": 1795800423547,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "XX0p8GkPXiPUnlLSFgBC",
+          "lastMessageDate": 1795799304636,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "qDKbcRwB2fZTY7P9hQNo",
+          "lastMessageDate": 1795799304501,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "igFsirsUqRFuYQSTVAJX",
+          "lastMessageDate": 1795799304496,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "KHRW5tErGPbvBL8tDZwv",
+          "lastMessageDate": 1795795236847,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "MVln42pokSmVr0TBNj24",
           "lastMessageDate": 1795751724261,
           "type": "TYPE_PHONE"
@@ -55302,33 +55342,13 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "qDKbcRwB2fZTY7P9hQNo",
-          "lastMessageDate": 1795727042831,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "igFsirsUqRFuYQSTVAJX",
-          "lastMessageDate": 1795727034287,
-          "type": "TYPE_PHONE"
-        },
-        {
           "id": "HPKiaE67G3sPOvoqxO9D",
           "lastMessageDate": 1795702505034,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "uvW4XLUWCvcsn0WP9l4c",
-          "lastMessageDate": 1795648369366,
-          "type": "TYPE_PHONE"
-        },
-        {
           "id": "qTAMsHOZ9fYSRo4Jw5xt",
           "lastMessageDate": 1795640215823,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "XX0p8GkPXiPUnlLSFgBC",
-          "lastMessageDate": 1795618189452,
           "type": "TYPE_PHONE"
         },
         {
@@ -55349,11 +55369,6 @@
         {
           "id": "Gd4TUBn6VoUw324nGQ2p",
           "lastMessageDate": 1795551389164,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "KHRW5tErGPbvBL8tDZwv",
-          "lastMessageDate": 1795551297171,
           "type": "TYPE_PHONE"
         },
         {
@@ -55384,16 +55399,6 @@
         {
           "id": "6UZ9c8jkpRLzP3lRbusZ",
           "lastMessageDate": 1795551046940,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "Pkq82uO7uYaDXScNFwQg",
-          "lastMessageDate": 1795542773362,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "T6wQUs9h0OIv8WKiyj3I",
-          "lastMessageDate": 1795541394517,
           "type": "TYPE_PHONE"
         },
         {
@@ -55639,11 +55644,6 @@
         {
           "id": "aLzK5MYyjaQrzjNkzCCm",
           "lastMessageDate": 1793294298662,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "KozEW9zny8do5lD7DnHU",
-          "lastMessageDate": 1793293704912,
           "type": "TYPE_PHONE"
         },
         {
@@ -55792,6 +55792,46 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "uvW4XLUWCvcsn0WP9l4c",
+          "lastMessageDate": 1795807095624,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "KozEW9zny8do5lD7DnHU",
+          "lastMessageDate": 1795802740030,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "Pkq82uO7uYaDXScNFwQg",
+          "lastMessageDate": 1795800870642,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "T6wQUs9h0OIv8WKiyj3I",
+          "lastMessageDate": 1795800423547,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "XX0p8GkPXiPUnlLSFgBC",
+          "lastMessageDate": 1795799304636,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "qDKbcRwB2fZTY7P9hQNo",
+          "lastMessageDate": 1795799304501,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "igFsirsUqRFuYQSTVAJX",
+          "lastMessageDate": 1795799304496,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "KHRW5tErGPbvBL8tDZwv",
+          "lastMessageDate": 1795795236847,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "MVln42pokSmVr0TBNj24",
           "lastMessageDate": 1795751724261,
           "type": "TYPE_PHONE"
@@ -55802,33 +55842,13 @@
           "type": "TYPE_PHONE"
         },
         {
-          "id": "qDKbcRwB2fZTY7P9hQNo",
-          "lastMessageDate": 1795727042831,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "igFsirsUqRFuYQSTVAJX",
-          "lastMessageDate": 1795727034287,
-          "type": "TYPE_PHONE"
-        },
-        {
           "id": "HPKiaE67G3sPOvoqxO9D",
           "lastMessageDate": 1795702505034,
           "type": "TYPE_PHONE"
         },
         {
-          "id": "uvW4XLUWCvcsn0WP9l4c",
-          "lastMessageDate": 1795648369366,
-          "type": "TYPE_PHONE"
-        },
-        {
           "id": "qTAMsHOZ9fYSRo4Jw5xt",
           "lastMessageDate": 1795640215823,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "XX0p8GkPXiPUnlLSFgBC",
-          "lastMessageDate": 1795618189452,
           "type": "TYPE_PHONE"
         },
         {
@@ -55849,11 +55869,6 @@
         {
           "id": "Gd4TUBn6VoUw324nGQ2p",
           "lastMessageDate": 1795551389164,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "KHRW5tErGPbvBL8tDZwv",
-          "lastMessageDate": 1795551297171,
           "type": "TYPE_PHONE"
         },
         {
@@ -55884,16 +55899,6 @@
         {
           "id": "6UZ9c8jkpRLzP3lRbusZ",
           "lastMessageDate": 1795551046940,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "Pkq82uO7uYaDXScNFwQg",
-          "lastMessageDate": 1795542773362,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "T6wQUs9h0OIv8WKiyj3I",
-          "lastMessageDate": 1795541394517,
           "type": "TYPE_PHONE"
         },
         {
@@ -56139,11 +56144,6 @@
         {
           "id": "aLzK5MYyjaQrzjNkzCCm",
           "lastMessageDate": 1793294298662,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "KozEW9zny8do5lD7DnHU",
-          "lastMessageDate": 1793293704912,
           "type": "TYPE_PHONE"
         },
         {
@@ -58592,8 +58592,8 @@
               "primary": true,
               "objectKey": "contact",
               "recordId": "B0XeAcfFZNJsO1QnyBUF",
-              "fullName": "Buffy Longoria",
-              "contactName": "Buffy Longoria",
+              "fullName": "Longoria Longoria",
+              "contactName": "Longoria Longoria",
               "companyName": null,
               "email": "buffy_longoria@yahoo.com",
               "phone": "+13615481498",
@@ -58601,14 +58601,16 @@
                 "stimulus package",
                 "new lead",
                 "blocker quiz",
-                "assigned to natalia"
+                "assigned to natalia",
+                "quiz-started",
+                "2027-checklist-submitted"
               ],
               "attributed": true
             }
           ],
           "contact": {
             "id": "B0XeAcfFZNJsO1QnyBUF",
-            "name": "Buffy Longoria",
+            "name": "Longoria Longoria",
             "companyName": null,
             "email": "buffy_longoria@yahoo.com",
             "phone": "+13615481498",
@@ -58616,7 +58618,9 @@
               "stimulus package",
               "new lead",
               "blocker quiz",
-              "assigned to natalia"
+              "assigned to natalia",
+              "quiz-started",
+              "2027-checklist-submitted"
             ],
             "score": []
           },
@@ -82007,7 +82011,12 @@
       "conversationsAll": [
         {
           "id": "sLmWnRXhvhXvU0LlmY20",
-          "lastMessageDate": 1795727019980,
+          "lastMessageDate": 1795795251992,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "HS9GFcdqfEyV4myBBEcW",
+          "lastMessageDate": 1795795231415,
           "type": "TYPE_PHONE"
         },
         {
@@ -82018,11 +82027,6 @@
         {
           "id": "SKrS5R4VQtp86Jlp9KnF",
           "lastMessageDate": 1795551051176,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "HS9GFcdqfEyV4myBBEcW",
-          "lastMessageDate": 1795550462268,
           "type": "TYPE_PHONE"
         },
         {
@@ -82507,7 +82511,12 @@
         },
         {
           "id": "sLmWnRXhvhXvU0LlmY20",
-          "lastMessageDate": 1795727019980,
+          "lastMessageDate": 1795795251992,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "HS9GFcdqfEyV4myBBEcW",
+          "lastMessageDate": 1795795231415,
           "type": "TYPE_PHONE"
         },
         {
@@ -82518,11 +82527,6 @@
         {
           "id": "SKrS5R4VQtp86Jlp9KnF",
           "lastMessageDate": 1795551051176,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "HS9GFcdqfEyV4myBBEcW",
-          "lastMessageDate": 1795550462268,
           "type": "TYPE_PHONE"
         },
         {
