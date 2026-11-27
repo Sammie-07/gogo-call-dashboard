@@ -1,13 +1,13 @@
 {
-  "syncedAt": "2026-11-26T21:23:30.022Z",
+  "syncedAt": "2026-11-27T03:59:37.733Z",
   "windowDays": 90,
   "callers": {
     "C7PplofCN88pv8MTTiZT": {
       "calls": 184,
       "talkTimeMinutes": 173,
-      "manualSms": 358,
+      "manualSms": 362,
       "autoSms": 310,
-      "manualEmail": 96,
+      "manualEmail": 100,
       "autoEmail": 3024,
       "byDay": [
         {
@@ -1537,6 +1537,14 @@
           "autoSms": 0,
           "manualEmail": 0,
           "autoEmail": 10
+        },
+        {
+          "date": "2026-11-27",
+          "calls": 0,
+          "manualSms": 4,
+          "autoSms": 0,
+          "manualEmail": 4,
+          "autoEmail": 0
         }
       ],
       "opportunities": [
@@ -8568,7 +8576,8 @@
                 "blocker quiz",
                 "goget'em yearly sub",
                 "gogetem affiliate",
-                "goget'em member; new"
+                "goget'em member; new",
+                "ggtc onboarding call scheduled"
               ],
               "attributed": true
             }
@@ -8587,7 +8596,8 @@
               "blocker quiz",
               "goget'em yearly sub",
               "gogetem affiliate",
-              "goget'em member; new"
+              "goget'em member; new",
+              "ggtc onboarding call scheduled"
             ],
             "score": []
           },
@@ -40348,10 +40358,10 @@
               "primary": true,
               "objectKey": "contact",
               "recordId": "bwMuMHWzZUG18YVpxKM9",
-              "fullName": "Charmayne Dickerson",
-              "contactName": "Charmayne Dickerson",
+              "fullName": "Charmaynd Dickerson",
+              "contactName": "Charmaynd Dickerson",
               "companyName": null,
-              "email": "hello@charmaynedeshon.com",
+              "email": "helll@charmaynedeshon.com",
               "phone": "+12105408258",
               "tags": [
                 "smc",
@@ -40361,16 +40371,17 @@
                 "niche-finder",
                 "quiz-started",
                 "gogetem affiliate",
-                "goget'em member; new"
+                "goget'em member; new",
+                "ggtc onboarding call scheduled"
               ],
               "attributed": true
             }
           ],
           "contact": {
             "id": "bwMuMHWzZUG18YVpxKM9",
-            "name": "Charmayne Dickerson",
+            "name": "Charmaynd Dickerson",
             "companyName": null,
-            "email": "hello@charmaynedeshon.com",
+            "email": "helll@charmaynedeshon.com",
             "phone": "+12105408258",
             "tags": [
               "smc",
@@ -40380,7 +40391,8 @@
               "niche-finder",
               "quiz-started",
               "gogetem affiliate",
-              "goget'em member; new"
+              "goget'em member; new",
+              "ggtc onboarding call scheduled"
             ],
             "score": []
           },
@@ -55183,6 +55195,72 @@
           "statusId": "noajVfGIH8TGrjfQ6B3m",
           "state": "active",
           "assignedUserId": "C7PplofCN88pv8MTTiZT",
+          "address": "https://zoom.us/j/98827914664",
+          "calendarId": "8kLbo3OukoeNXebq8B4b",
+          "contactId": "bwMuMHWzZUG18YVpxKM9",
+          "dateAdded": "2026-11-27T03:55:21.000Z",
+          "dateUpdated": "2026-11-27T03:55:21.000Z",
+          "endTime": "2026-12-03T15:00:00-05:00",
+          "id": "mp3XhtUeiAuTgJcZ2bGh",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "startTime": "2026-12-03T14:00:00-05:00",
+          "title": "GGTC Onboarding Call - Charmaynd Dickerson",
+          "assignedResources": [],
+          "isRecurring": false,
+          "createdBy": {
+            "source": "booking_widget",
+            "userId": null
+          },
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Charmaynd",
+              "lastName": "Dickerson",
+              "email": "helll@charmaynedeshon.com",
+              "phone": "+12105408258"
+            }
+          },
+          "deleted": false
+        },
+        {
+          "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
+          "statusId": "noajVfGIH8TGrjfQ6B3m",
+          "state": "active",
+          "assignedUserId": "C7PplofCN88pv8MTTiZT",
+          "address": "https://zoom.us/j/98827914664",
+          "calendarId": "8kLbo3OukoeNXebq8B4b",
+          "contactId": "10J5xA22RORPfEtILu4f",
+          "dateAdded": "2026-11-27T01:22:22.000Z",
+          "dateUpdated": "2026-11-27T01:22:22.000Z",
+          "endTime": "2026-12-03T15:00:00-05:00",
+          "id": "rZ4mcfxEr4xALNqrMGzG",
+          "locationId": "QlkIIX2Bzqdl4Tvxh1Wy",
+          "startTime": "2026-12-03T14:00:00-05:00",
+          "title": "GGTC Onboarding Call - Mary Harmon Young",
+          "assignedResources": [],
+          "isRecurring": false,
+          "createdBy": {
+            "source": "booking_widget",
+            "userId": null
+          },
+          "appointmentMeta": {
+            "slotType": "default",
+            "defaultFormDetails": {
+              "firstName": "Mary Harmon",
+              "lastName": "Young",
+              "email": "info@maryharmon.com",
+              "phone": "+12058862792"
+            }
+          },
+          "deleted": false
+        },
+        {
+          "appointmentStatus": "confirmed",
+          "appoinmentStatus": "confirmed",
+          "statusId": "noajVfGIH8TGrjfQ6B3m",
+          "state": "active",
+          "assignedUserId": "C7PplofCN88pv8MTTiZT",
           "address": "https://zoom.us/j/6684356793",
           "calendarId": "vEq9SEudnxMCXs4c7bJk",
           "contactId": "nHwap2JR4P6YeW7KKvs0",
@@ -55214,6 +55292,16 @@
       ],
       "conversationsAll": [
         {
+          "id": "MVln42pokSmVr0TBNj24",
+          "lastMessageDate": 1795751724261,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "xJBmuq6cAoiW3j2IZgld",
+          "lastMessageDate": 1795742545824,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "qDKbcRwB2fZTY7P9hQNo",
           "lastMessageDate": 1795727042831,
           "type": "TYPE_PHONE"
@@ -55221,16 +55309,6 @@
         {
           "id": "igFsirsUqRFuYQSTVAJX",
           "lastMessageDate": 1795727034287,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "xJBmuq6cAoiW3j2IZgld",
-          "lastMessageDate": 1795727022490,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "MVln42pokSmVr0TBNj24",
-          "lastMessageDate": 1795726992242,
           "type": "TYPE_PHONE"
         },
         {
@@ -55714,6 +55792,16 @@
           "type": "TYPE_PHONE"
         },
         {
+          "id": "MVln42pokSmVr0TBNj24",
+          "lastMessageDate": 1795751724261,
+          "type": "TYPE_PHONE"
+        },
+        {
+          "id": "xJBmuq6cAoiW3j2IZgld",
+          "lastMessageDate": 1795742545824,
+          "type": "TYPE_PHONE"
+        },
+        {
           "id": "qDKbcRwB2fZTY7P9hQNo",
           "lastMessageDate": 1795727042831,
           "type": "TYPE_PHONE"
@@ -55721,16 +55809,6 @@
         {
           "id": "igFsirsUqRFuYQSTVAJX",
           "lastMessageDate": 1795727034287,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "xJBmuq6cAoiW3j2IZgld",
-          "lastMessageDate": 1795727022490,
-          "type": "TYPE_PHONE"
-        },
-        {
-          "id": "MVln42pokSmVr0TBNj24",
-          "lastMessageDate": 1795726992242,
           "type": "TYPE_PHONE"
         },
         {
